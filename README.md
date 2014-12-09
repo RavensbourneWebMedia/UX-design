@@ -1,5 +1,37 @@
 # Designing the UX
 
+This unit introduces you to the methods and tools used to effectively address the needs and circumstances of Web users, to design and produce Web interfaces that are comfortable and even joyful to use.
+
+This includes:
+
+* qualitative and quantitative user research 
+* competitors analysis
+* User eXperience (UX) design principles and patterns
+* user personas, user stories and user journeys
+* interface design: paper-prototyping and wireframing
+* mobile-first web design
+* rapid prototyping tools
+* search engine optimisation
+* user-testing: face2face, A/B testing and analytics
+* motivational copy-writing for stickiness
+
+## Brief
+
+**Design the UX and build the prototype of a mobile-first Web product**.
+
+This can be a **new product**, or the **re-design** of an existing product. 
+
+The scope of your project will be evaluated in class, to make sure it is appropriate and realistic.
+
+This project is about **how your Web product works and what is says**, what people (users) do with it, not just about how it looks. 
+
+This unit is **not** about honing your coding skills, so you can code your prototype using HTML+CSS+JS, but there are many tools that will get you to that end-result without touching code (or not too much of it).
+
+- [ ] What is a Web product?
+- [ ] What is mobile-first?
+- [ ] What is UX?
+- [ ] What is a prototype? How do you build one? Doesn’t have to be coded.. 
+
 
 ## Week 1
 
@@ -68,6 +100,7 @@ Wireframe at least 5 key screens/states of your product
 
 * [GoodUI](http://goodui.org/)
 * Let's not start from the *homepage*
+* [ ] Test [Moqups](http://moqups.com)
 
 ## Week 6
 
@@ -144,7 +177,8 @@ Prototype 2 screens of your product using your tool of choice.
 
 ##### Tuesday 28th April 2015
 
-* Prototyping: basic structure and interactions	
+* Prototyping: basic structure and interactions
+
 ##### Assignment
 
 Conduct a face2face user-test of your prototype using [Silverback](http://silverbackapp.com/)
