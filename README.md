@@ -5,7 +5,7 @@ This unit introduces you to the methods and tools used to effectively address th
 This includes:
 
 * qualitative and quantitative user research 
-* competitors analysis
+* competitor analysis
 * User eXperience (UX) design principles and patterns
 * user personas, user stories and user journeys
 * interface design: paper-prototyping and wireframing
@@ -25,7 +25,7 @@ The scope of your project will be evaluated in class, to make sure it is appropr
 
 This project is about **how your Web product works and what is says**, what people (users) do with it, not just about how it looks. 
 
-This unit is **not** about honing your coding skills, so you can code your prototype using HTML+CSS+JS, but there are many tools that will get you to that end-result without touching code (or not too much of it).
+This unit is **not** about honing your coding skills, so whilst you are encouraged to code your prototype using HTML+CSS+JS, there are many tools that will get you to that end-result without touching code (or not too much of it).
 
 - [ ] What is a Web product?
 - [ ] What is mobile-first?
