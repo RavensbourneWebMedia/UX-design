@@ -3,6 +3,8 @@
 
 ## Week 1
 
+##### Tuesday 6th January 2015
+
 * Overview of the unit and project brief. 
 * Introduction to User eXperience.
 * What is a Web product?
@@ -13,10 +15,12 @@ Come up with 3 product ideas and write about them.
 
 ##### Notes
 
-* [Interfaces in need](https://medium.com/@gbks/interfaces-in-need-fa21105102c6)? 
+* [ ] [Interfaces in need](https://medium.com/@gbks/interfaces-in-need-fa21105102c6)? 
 * each idea should be at least 65 words 
 
 ## Week 2	
+
+##### Tuesday 13th January 2015
 
 * Discuss and peer-assess product ideas.
 * Analyse competitors.
@@ -28,6 +32,8 @@ Imagine your product is a person, the character in a short play. Write the scrip
 
 ## Week 3	
 
+##### Tuesday 20th January 2015
+
 * Qualitative and quantitative user research.
 * Interviewing users (write and test a script)
 * Gathering data (prepare a questionnaire)	
@@ -38,6 +44,8 @@ Conduct an interview with at least 2 users of your product. Record your findings
 
 ## Week 4	
 
+##### Tuesday 27th January 2015
+
 * User personas: clustering user needs and goals into archetype users. 
 * Create two personas for your Web product.
 
@@ -46,6 +54,8 @@ Conduct an interview with at least 2 users of your product. Record your findings
 Create the profile for another persona.	
 
 ## Week 5	
+
+##### Tuesday 3rd February 2015
 
 * Interface design patterns.
 * Paper-prototyping and wireframing: sketch many interfaces on paper, trying out different solutions.
@@ -61,6 +71,8 @@ Wireframe at least 5 key screens/states of your product
 
 ## Week 6
 
+##### Tuesday 17th February 2015
+
 * User journeys	
 
 ##### Assignment
@@ -68,6 +80,8 @@ Wireframe at least 5 key screens/states of your product
 Describe another 2 user journeys (success and failure scenarios)
 
 ## Week 7
+
+##### Tuesday 24th February 2015
 
 * User-testing: face2face and remote	
 	
@@ -78,12 +92,16 @@ Conduct a face2face user-test of your wireframes using [Silverback](http://silve
 
 ## Week 8	
 
+##### Tuesday 3rd March 2015
+
 * Tutorials + prepping the presentation	
 
 ##### Assignment
 
 Get your presentation ready for the Formative assessment	
 ## Week 9
+
+##### Tuesday 10th March 2015
 
 * Formative Assessment	
 	
@@ -92,6 +110,8 @@ Get your presentation ready for the Formative assessment
 Note the feedback your received and draft a plan of action 
 
 ## Week 10	
+
+##### Tuesday 14th April 2015
 
 * Evaluating feedback and iterating design.
 * From wireframes to user stories: describe and break down the basic units of functionality of your product.	
@@ -105,7 +125,9 @@ Continue writing user stories for your product
 * Should end up with some 20-30 user stories
 * Provide a form for that (or is there an app? JIRA or similar?)
 
-## Week 11	
+## Week 11
+
+##### Tuesday 21st April 2015	
 
 * Prototyping: answering specific questions (design, usability, technical).
 * Introduction to prototyping tools.	
@@ -120,6 +142,8 @@ Prototype 2 screens of your product using your tool of choice.
 
 ## Week 12	
 
+##### Tuesday 28th April 2015
+
 * Prototyping: basic structure and interactions	
 ##### Assignment
 
@@ -130,6 +154,8 @@ Conduct a face2face user-test of your prototype using [Silverback](http://silver
 
 ## Week 13	
 
+##### Tuesday 5th May 2015
+
 * User-testing: A/B testing and analytics	
 
 ##### Assignment
@@ -139,7 +165,9 @@ Plan and implement an A/B test for one of your screens
 
 - [ ] Need to find a good service for A/B testing. 
 
-## Week 14	
+## Week 14
+
+##### Tuesday 12th May 2015	
 
 * Copywriting and Search Engine Optimisation	
 
@@ -154,6 +182,8 @@ Exercise in style: pick one screen of your product and write 3 different version
 
 ## Week 15	
 
+##### Tuesday 19th May 2015
+
 * Prototyping: style, content choreography, animations
 
 ##### Assignment
@@ -161,6 +191,8 @@ Exercise in style: pick one screen of your product and write 3 different version
 Continue working on your product prototype	
 
 ## Week 16	
+
+##### Tuesday 26th May 2015
 
 Prototyping & tutorials	
 	
@@ -170,6 +202,8 @@ Conduct a face2face user-test of your prototype using [Silverback](http://silver
 
 ## Week 17	
 
+##### Tuesday 2nd June 2015
+
 Tutorials + prepping the presentation	
 
 ##### Assignment
@@ -177,6 +211,8 @@ Tutorials + prepping the presentation
 Get your prototype and presentation ready for the Summative assessment
 
 ## Week 18	
+
+##### Tuesday 9th June 2015
 
 Summative Assessment	
 
