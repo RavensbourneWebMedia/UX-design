@@ -30,6 +30,7 @@ This unit is **not** about honing your coding skills, so whilst you are encourag
 - [ ] What is a Web product?
 - [ ] What is mobile-first?
 - [ ] What is UX?
+- [ ] [What is *lean* UX?](http://ux.stackexchange.com/questions/38845/what-is-lean-ux-and-where-can-i-learn-more-about-it)
 - [ ] What is a prototype? How do you build one? Doesn’t have to be coded.. 
 
 
@@ -49,6 +50,8 @@ Come up with 3 product ideas and write about them.
 
 * [ ] [Interfaces in need](https://medium.com/@gbks/interfaces-in-need-fa21105102c6)? 
 * each idea should be at least 65 words 
+* [ ] [Effectively Planning UX Design Projects](http://www.smashingmagazine.com/2013/01/24/effectively-planning-ux-design-projects/)
+* [ ] [A guide to unsolicited redesigns](http://www.welcomebrand.co.uk/thoughts/the-designers-guide-to-unsolicited-redesigns/)
 
 ## Week 2	
 
@@ -85,6 +88,10 @@ Conduct an interview with at least 2 users of your product. Record your findings
 
 Create the profile for another persona.	
 
+##### Notes
+
+- [ ] [How to build personas](http://www.levidepoches.fr/contagiousideas/2014/05/guideline-for-strategic-planners-how-to-build-personas-.html)
+
 ## Week 5	
 
 ##### Tuesday 3rd February 2015
@@ -101,6 +108,10 @@ Wireframe at least 5 key screens/states of your product
 * [GoodUI](http://goodui.org/)
 * Let's not start from the *homepage*
 * [ ] Test [Moqups](http://moqups.com)
+* [ ] [Dark patterns](http://darkpatterns.org/)
+* [ ] [Patterntap](http://patterntap.com/)
+* [ ] [InVision prototyping app](http://www.invisionapp.com/)
+* [ ] [Make it like the PSD](http://dangovan.com/make-it-like-the-psd/)
 
 ## Week 6
 
@@ -112,6 +123,11 @@ Wireframe at least 5 key screens/states of your product
 
 Describe another 2 user journeys (success and failure scenarios)
 
+##### Notes
+
+- [ ] [user journey maps](http://www.elezea.com/2013/05/one-ux-deliverable)
+- [ ] [User Onboarding](http://www.useronboard.com/) is the process of increasing the likelihood that new users become successful when adopting your product. Learn some lessons from how popular web apps do it!
+
 ## Week 7
 
 ##### Tuesday 24th February 2015
@@ -121,6 +137,10 @@ Describe another 2 user journeys (success and failure scenarios)
 ##### Assignment
 
 Conduct a face2face user-test of your wireframes using [Silverback](http://silverbackapp.com/)
+
+##### Notes
+
+- [ ] [UsabilityHub tools](https://usabilityhub.com/)
 
 
 ## Week 8	
@@ -157,6 +177,7 @@ Continue writing user stories for your product
 
 * Should end up with some 20-30 user stories
 * Provide a form for that (or is there an app? JIRA or similar?)
+* [ ] [How to Tell the User’s Story](https://www.newfangled.com/how-to-tell-the-users-story/)
 
 ## Week 11
 
