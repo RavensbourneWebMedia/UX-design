@@ -274,3 +274,9 @@ Summative Assessment
 ##### Assignment
 
 Fill in the unit feedback form!
+
+- [ ] http://data.worldbank.org/news/apps-for-development
+- [ ] http://wiki.crisiscommons.eu/wiki/Crisis_Camp_London
+- [ ] http://opendataday.org
+- [ ] Random Hacks of Kindness
+- [ ] Research other competitions & briefs
