@@ -45,7 +45,7 @@
 
 1. Start by reading [Interfaces in need](https://medium.com/@gbks/interfaces-in-need-fa21105102c6) and [A guide to unsolicited redesigns](http://www.welcomebrand.co.uk/thoughts/the-designers-guide-to-unsolicited-redesigns/)
 
-* **Come up with (at least) 3 product ideas** and jot them down in [this collaborative Google Doc](https://docs.google.com/document/d/1uvH4DzJyyMGLhlRfwow58k96xDwcw6ZX--RoUhqB928/edit?usp=sharing) (start today, refine by next week)
+2. **Come up with (at least) 3 product ideas** and jot them down in [this collaborative Google Doc](https://docs.google.com/document/d/1uvH4DzJyyMGLhlRfwow58k96xDwcw6ZX--RoUhqB928/edit?usp=sharing) (start today, refine by next week)
 
 	* Jot down as many ideas as possible 
 	* There are no *bad* ideas 
@@ -54,11 +54,11 @@
 	* Avoid multi-tasking (can you put your phone away for say 30 minutes?)
 
 
-* Form **pairs** and **discuss** your ideas with your partner.
+3. Form **pairs** and **discuss** your ideas with your partner.
 
 	Some questions that may help each idea's scrutiny.
 
-	1. **Who** is this product for? 
+	* **Who** is this product for? 
 	* Are **you** a (potential) user of this product? If yes, what's your experience of the product? What do you find **frustrating** about it?
 	* What do you both think could be **improved**? 
 	* Is there anything about this product you **disagree** on?
@@ -69,7 +69,7 @@
 	* Relentless questioning: **why**? Whatever your partner tells you about their idea, ask `why?` 
 	
 
-* **Present** your *partner*'s idea (eg: Simeron presents Liam's idea)
+4. **Present** your *partner*'s idea (eg: Simeron presents Liam's idea)
 
 	* You have about 2 minutes each
 	* As the *product owner* you can chip in while your *partner* is presenting
