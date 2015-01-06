@@ -55,6 +55,13 @@ If you want to have **good ideas** you must [have **many ideas**](https://medium
 
 **Most** of them will be **wrong**, and what you have to learn is which ones to throw away. This is why we're asking you to come up with at least 3, so that one should be half-decent :)
 
+* Jot down as many ideas as possible 
+* There are no *bad* ideas 
+* Put stray ideas to one side 
+* Don’t stay too long on one idea
+* Avoid multi-tasking (can you put your phone away for say 30 minutes?)
+
+
 
 # Assignment for next week
 
