@@ -6,16 +6,16 @@ This unit introduces you to the methods and tools used to effectively address th
 
 This includes:
 
-* qualitative and quantitative user research 
+* qualitative and quantitative **user research** 
 * competitor analysis
-* User eXperience (UX) design principles and patterns
-* user personas, user stories and user journeys
-* interface design: paper-prototyping and wireframing
+* **User eXperience** (UX) design principles and patterns
+* user **personas**, user **stories** and user **journeys**
+* **interface design**: **paper-prototyping** and **wireframing**
 * mobile-first web design
-* rapid prototyping tools
-* search engine optimisation
-* user-testing: face2face, A/B testing and analytics
-* motivational copy-writing for stickiness
+* **rapid prototyping** tools
+* **SEO**: search engine optimisation
+* **user-testing**: face2face, A/B testing and analytics
+* motivational **copy-writing** for stickiness
 
 # Brief
 
@@ -28,12 +28,6 @@ The scope of your project will be evaluated in class, to make sure it is appropr
 This project is about **how your Web product works and what is says**, what people (users) do with it, not just about how it looks. 
 
 This unit is **not** about honing your coding skills, so whilst you are encouraged to code your prototype using HTML+CSS+JS, there are many tools that will get you to that end-result without touching code (or not too much of it).
-
-- [ ] What is a Web product?
-- [ ] What is mobile-first?
-- [ ] What is UX?
-- [ ] [What is *lean* UX?](http://ux.stackexchange.com/questions/38845/what-is-lean-ux-and-where-can-i-learn-more-about-it)
-- [ ] What is a prototype? How do you build one? Doesn’t have to be coded.. 
 
 
 # Plan
