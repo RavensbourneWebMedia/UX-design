@@ -7,34 +7,72 @@ This unit introduces you to the methods and tools used to effectively address th
 This includes:
 
 * qualitative and quantitative **user research** 
-* competitor analysis
+* **competitor analysis**
 * **User eXperience** (UX) design principles and patterns
 * user **personas**, user **stories** and user **journeys**
 * **interface design**: **paper-prototyping** and **wireframing**
-* mobile-first web design
 * **rapid prototyping** tools
 * **SEO**: search engine optimisation
 * **user-testing**: face2face, A/B testing and analytics
 * motivational **copy-writing** for stickiness
 
+### What this unit is NOT
+
+1. This unit is **not about honing your coding skills**.   
+
+	Whilst you are welcome to **prototype** your ideas using HTML+CSS+JS, there are many tools that will get you to similar end-results without touching code (or not too much of it).
+
+* This unit is **not about Photoshop wizardry**.   
+
+	You will be introduced to several tools that enable you to **wireframe** (design user interfaces) quickly and effectively.
+
+* In this unit **[Lorem ipsum](http://en.wikipedia.org/wiki/Lorem_ipsum) is banned**. 
+
+	If a Web product aims to **deliver valuable content and facilitate meaningful interactions**, we should be designing **content-first** for the best possible UX. 
+	
+	Lorem Ipsum is gibberish that conveniently fills the available space like an expanding gas. It is inert, meaningless and lacks context, revealing nothing about the relationship between your design and your content.   
+  
+	Using Lorem Ipsum is a missed opportunity to do good UX design.
+
+
 # Brief
 
-**Design the UX and build the prototype of a mobile-first Web product**.
+Design the **UX** and build the **prototype** of a **social network** for `{your choice of users}`.
 
-This can be a **new product**, or the **re-design** of an existing product. 
+This can be a **new** social network, or the **re-design** of an existing one.
 
-The scope of your project will be evaluated in class, to make sure it is appropriate and realistic.
+The more specific your **user target**, the more focused your UX design will be.
 
-This project is about **how your Web product works and what is says**, what people (users) do with it, not just about how it looks. 
+Examples of specific (good) user targets:
 
-This unit is **not** about honing your coding skills, so whilst you are encouraged to code your prototype using HTML+CSS+JS, there are many tools that will get you to that end-result without touching code (or not too much of it).
+* a social network for `dog owners`
+* a social network for `professional carers`
+* a social network for `over-60 retired mothers`
+
+Examples of broad (bad) user targets:
+
+* a social network for `everyone`
+* a social network for `students`
+* a social network for `sports fans`
+ 
+## Context
+
+* Web-*sites* are turning into Web-*apps*: one does not simply *read* an app.
+* The Web is being rebuilt around **people**, aka *the users* (think comments, recommendations, wishlists, personalised feeds..)
+* **Social networks** are the most popular Web-apps for people to connect and interact with each other online
+* A social Web-app is a gamble on **content** (will people **produce** content for your app?)
+* The people use the **interfaces** (that you design) to do this
+* You control the *user interface*, the *[blank slate](http://ui-patterns.com/patterns/BlankSlate)* for new users, and the *content definition* (it's called *tweet*, not *share*, *post*, *update* etc.)
+* Interfaces influence **behaviour**, and words influence **relationships** (*friends*, *partners*, *buddies*, *colleagues* etc.)
+* The words you put on something, be it an **action** or a relationship, define your app.
+* [Copywriting is Interface Design](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php)
 
 
 # Plan
 
 Session	| Date			| In class				| Assignment
 -------	| -------------	| --------------------	| ------------------------------
-[1](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Product ideas
+[1](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
 [2](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-02.md)		| Tue Jan 13th 	| Competitor analysis  | Play-acting Web products
 [3](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-03.md)		| Thu Jan 15th 	| User research | User interview
 [4](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-04.md)		| Tue Jan 27th 	| User personas | User personas
