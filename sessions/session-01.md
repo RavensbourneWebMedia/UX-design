@@ -4,7 +4,7 @@
 
 1. Unit intro: [plan](https://github.com/RavensbourneWebMedia/WEB14204#plan), key dates, [brief](https://github.com/RavensbourneWebMedia/WEB14204#brief) and [assessment criteria](https://github.com/RavensbourneWebMedia/WEB14204#assessment-criteria) 
 * What is User eXperience?
-* Come up with (at least) 3 product ideas and write about them.
+* Come up with (at least) 3 product ideas and write about them
 
 
 # What is UX?
