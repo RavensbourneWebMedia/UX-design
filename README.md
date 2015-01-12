@@ -149,14 +149,26 @@ Refer to the general **[Web Media blog assessment criteria](https://github.com/R
 
 Upon completion of this unit you will (hopefully) be able to: 
 
-- [ ] TODO
+* Understand the difference between qualitative and quantitative **user research**, and be familiar with a few techniques to perform both types of research.
+ 
+* Research and analyse **competitor services** to gain inspiration and insight from them.
+
+* Identify and use **design patterns** effectively in your projects.
+
+* Produce user **personas**, user **stories** and user **journeys** to communicate and validate your design decisions.
+
+* Understand the importance of motivational **copy-writing** in interface design, and write interface copy that is appropriate for your audience and their task(s) at hand.
+
+* Use **paper-prototyping** and **wireframing** techniques to visualise your interface design ideas and explore alternative solutions.
+
+* Use **rapid prototyping** tools to quickly test solutions to specific UX problems.
+
+* Understand the differences between various **user-testing** methods (face2face, A/B testing and analytics) and practice them at a basic level
+ 
+* Understand how to improve the findability of a product online, using basic **SEO** (search engine optimisation) techniques and tools.
 
 * **Document** your design and development process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
 
 * **Communicate** your ideas both technically and in an engaging way.
 
 * **Back-up** your project files using the Git version-control system (through GitHub).
-
-
-
-
