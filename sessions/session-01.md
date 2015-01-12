@@ -1,4 +1,4 @@
-# Week 1
+# Session 1
 
 ## Today, Tuesday 6th January 2015
 

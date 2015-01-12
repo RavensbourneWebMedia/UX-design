@@ -140,7 +140,7 @@ Whilst the social network personification characters may be rather surreal, biza
 Think about a specific situation, a *task* that your user character needs to get done.
 
 
-# Assignment for next session
+# Assignment for the next session
 
 Imagine your product is a person, the character in a short play. Write the script for it.
 
