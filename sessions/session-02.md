@@ -58,6 +58,8 @@ What kind of relationships (aka *ties*) can users (aka *nodes*) establish in the
 
 What are the steps to connect (and disconnect)? What are these actions called (see *content definition* below)?
 
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/social-network-graph.png)
+
 #### Reciprocity
 
 How do people *reciprocate* the relationships they establish on these networks? For example on Facebook you have to reciprocate (ie "I am your friend and you are my friend"), on Twitter you don't ("You follow me, but I don't follow you")
@@ -69,6 +71,10 @@ To what extent do people form ties with similar versus dissimilar others? Simila
 ### Content(s)
 
 What kind of content(s) are users producing, sharing and consuming on these networks?
+
+What kind of comments do people post on these networks? As a designer, how can you *scaffold* users interactions aroud content.
+
+Why are many comments on YouTube so moronic? Why do you think people let loose so much on that social network? [Watch this video](https://www.youtube.com/watch?v=gx-WBaSNrTQ). It's funny.
 
 ### Currency
 
