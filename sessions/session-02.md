@@ -153,3 +153,7 @@ Imagine your product is a person, the character in a short play. Write the scrip
 This can be a spin-off of the story you came up with in class, or a completely new story.
 
 Write it in MarkDown, then push it to your fork of this project on GitHub (inside the `students > {yourName}` folder).
+
+### From last week
+
+Also, if you haven't done / published the post from last week yet (the one about [your learning goals for this unit](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)), please push it to your fork of this project on GitHub (inside the `students > {yourName}` folder). Ideally as a MD file, because we don't like MS Word :)
