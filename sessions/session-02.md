@@ -33,19 +33,27 @@ Pick 3 social networks and analyse them, using the template below.
 
 Write it in *MarkDown*, then push it to your fork of this project on GitHub (inside the `students > {yourName}` folder).
 
+### What networks should I pick?
+
+*You could start with social networks that you're familiar with and use regularly.* 
+
+*It may be a good idea to analyse social networks that are **competitors** to what you'll end up designing (competitors because of similar audience, similar content, similar actions etc.).*
+
+*You can also consider quirky ones like [Ello](https://ello.co/), [Diaspora](https://joindiaspora.com/) and [Ravelry](http://www.ravelry.com/about), or services that have a heavy social networking element like [AirBnB](https://www.airbnb.co.uk).*
+
 ## Social networks analysis template
 
-### Competitor 1
+### Social network 1
 
-eg: [InstaBook](http://instabook.com)
+eg: [InstaBook](http://instabook.com), a social network for people sharing what they're currently reading?
 
-### Competitor 2
+### Social network 2
 
-eg: [BorrowMyCamel](http://borrowmycamel.com)
+eg: [BorrowMyDinosaur](http://borrowmydinosaur.com), where people can lend their pet dinosaur to other members?
 
-### Competitor 3
+### Social network 3
 
-eg: [myFace](http://myface.com)
+eg: [myFace](http://myface.com), where people post selfies every morning?
 
 
 ### Audience(s)
