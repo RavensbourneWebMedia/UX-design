@@ -153,14 +153,17 @@ Whilst the social network personification characters may be rather surreal, biza
 
 Think about a specific situation, a *task* that your user character needs to get done.
 
-
 # Assignment for the next session
 
-Imagine your product is a person, the character in a short play. Write the script for it.
+Imagine your social network of choice is a person, the character in a short play (2-3 minutes). Write the script for it.
 
 This can be a spin-off of the story you came up with in class, or a completely new story.
 
 Write it in MarkDown, then push it to your fork of this project on GitHub (inside the `students > {yourName}` folder).
+
+You [can take a look at what last year's students came up with](https://www.dropbox.com/sh/74gwwgn735e3wyh/AADV7X2pAXL7Ns2bRpXk0QWXa?dl=0#/) (bear in mind that their project brief was different, yours is specifically about social networks)
+
+Next session we'll pick a few scripts and act them out!
 
 ### From last week
 
