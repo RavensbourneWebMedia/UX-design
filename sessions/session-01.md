@@ -1,6 +1,6 @@
 # Session 1
 
-## Today, Tuesday 6th January 2015
+### Today, Tuesday 6th January 2015
 
 1. Unit intro: [plan](https://github.com/RavensbourneWebMedia/WEB14204#plan), key dates, [brief](https://github.com/RavensbourneWebMedia/WEB14204#brief) and [assessment criteria](https://github.com/RavensbourneWebMedia/WEB14204#assessment-criteria) 
 * What is User eXperience?

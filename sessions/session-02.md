@@ -1,6 +1,6 @@
 # Session 2	
 
-## Today, Tuesday 13th January 2015
+### Today, Tuesday 13th January 2015
 
 1. Review learning goals
 * Analyse competitors

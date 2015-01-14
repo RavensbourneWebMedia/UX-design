@@ -1,6 +1,6 @@
 # Session 3	
 
-## Today, Thursday 15th January 2015
+### Today, Thursday 15th January 2015
 
 1. Play-acting social networks (from previous session)
 * Qualitative and quantitative user research
@@ -10,7 +10,7 @@
 
 # User research
 
-## Why do we need to do research?
+### Why do we need to do research?
 
 Discuss:
 
@@ -23,7 +23,7 @@ Discuss:
 
 ## What is UX research?
 
-Research boils down to spending (a lot of) time talking to people (aka *the users*) to find out:
+It boils down to spending (a lot of) time talking to people (aka *the users*) to find out:
 
 * *What* are they currently doing?
 * *How* are they doing something?
