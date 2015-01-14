@@ -37,7 +37,7 @@ This includes:
 
 # Brief
 
-Design the **UX** and build the **prototype** of a **social network** for `{your choice of users}`.
+Design the **UX** and build the **prototype** of a Web-based **social network** for `{your choice of users}`.
 
 This can be a **new** social network, or the **re-design** of an existing one.
 
@@ -140,7 +140,8 @@ The blog should have at least 12 posts.
 
 Topics from each week:
 
-1. [ ] TODO
+1. [What are my learning goals?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
+2. More to come..
 
 Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
 
