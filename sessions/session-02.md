@@ -6,6 +6,8 @@
 * Analyse competitors
 * Group exercise: play-acting Web products	
 
+
+
 # Learning goals review
 
 1. Form **groups** of 3 people.
@@ -23,6 +25,7 @@
 3. **Present** each other's learning goals to the rest of the class.
 
 4. Let's take a look at the [general learning goals](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/README.md#learning-goals) for this unit.
+
 
 
 # Competitor analysis 
@@ -134,28 +137,28 @@ How do your chosen social networks deal with blank slates? How do they set the t
 
 
 
-
 # Play time!
 
 What's a social network's **personality**?
 
 1. Team up with one or two other people
-2. Imagine your social network of choice is a person, the **character** in a short **play** (2-3 minutes).
+2. Imagine a social network as a person, the **character** in a short **play** (2-3 minutes).
 3. Choose one of the following scenarios (or invent one of your own!)
 
 	* a dialogue between the personification of a social network and its user(s)
 	* a dialogue between two users, mediated by the social network
 	* a dialogue between two or more social networks. You can take inspiration from [this ads campaign](http://www.youtube.com/watch?v=D0IEwkJ_-cc&list=PL8LyrHIAQqsely-o1aiJ6bakNtkV5t_zT)
 	
-4. Jot down your script in [this Google Doco](https://docs.google.com/document/d/1JUlogNpOp9q2N-NADW17y94h-4F0cpzWKh29opA30cw/edit?usp=sharing)	
-
+4. You can use [this Google Doco](https://docs.google.com/document/d/1JUlogNpOp9q2N-NADW17y94h-4F0cpzWKh29opA30cw/edit?usp=sharing) to jot down your script	
 Whilst the social network personification characters may be rather surreal, bizarre or allegorical, it's useful to base your user characters on **real people**, people that you know personally (but not yourself).
 
 Think about a specific situation, a *task* that your user character needs to get done.
 
+
+
 # Assignment for the next session
 
-Imagine your social network of choice is a person, the character in a short play (2-3 minutes). Write the script for it.
+Imagine a social network of as a person, the character in a short play (2-3 minutes). Write the script for it.
 
 This can be a spin-off of the story you came up with in class, or a completely new story.
 
