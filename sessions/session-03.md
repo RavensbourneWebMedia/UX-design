@@ -119,11 +119,15 @@ Write your plan and findings in MarkDown, then push it to your fork of this proj
 
 **What do you want to find out?**
 
-Pair with a classmate and jot down a few questions.
+Pair with a classmate and **jot down** a few questions. These questions will become the **script** for your interviews.
 
-- [ ] Topic of your choice, or the same topic for everyone?
+If you have an idea / concept then it's better if you centre your interview questions around that.
 
-Examples:
+Otherwise, you can interview people about their use of social networks (in general).
+
+Finally, if you're stuck, here's a topic you can practice with: imagine you're designing a social app that helps groups of people organise their time out. 
+
+Question examples:
 
 * How did you first learn about `insert your topic`?
 * How were you motivated to become involved in `insert your topic`?
