@@ -14,10 +14,9 @@
 
 Discuss:
 
-* *Assumptions* vs *evidence*
-* [*Mental models*](http://www.nngroup.com/articles/mental-models)
-* *Usability* vs *usefulness*
-* **Who** are we designing for?
+* **Who** are we designing for? [*Mental models*](http://www.nngroup.com/articles/mental-models)
+* How do we take **design decisions**? *Assumptions* vs *evidence*
+* What do we **test**? *Usability* vs *usefulness*
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/dilbert-easy-to-use.png)
 
@@ -25,12 +24,12 @@ Discuss:
 
 It boils down to spending (a lot of) time talking to people (aka *the users*) to find out:
 
-* *What* are they currently doing?
-* *How* are they doing something?
-* What *problems* and *challenges* do they face?
-* What do they *want*?
-* What do they *think* they want?
-* What do *we* think they want?
+* **What** are they currently doing?
+* **How** are they doing something?
+* What **problems** and **challenges** do they face?
+* What do they **want**?
+* What do they **think** they want?
+* What do **we** think they want?
 
 We use user research **insight** to inform design and improve development.
 
@@ -69,9 +68,7 @@ Observe and **measure**.
 
 Useful to answer **what** and **how** (how much, how often..) types of questions.
 
-How many people do you have? Is it a representative sample of your user base?
-
-How large should your *dataset* be to make sense?
+**Surveys** and **analytics** are (mostly) quantitative methods.
 
 ### Qualitative
 
@@ -79,9 +76,11 @@ How large should your *dataset* be to make sense?
 
 *From [Bill Selman, User Research Lead at Mozilla](http://blog.mozilla.org/ux/2014/10/why-do-we-conduct-qualitative-user-research/)*
 
-Qualitative research provides methodologies for getting outside of our *homophilic bubble*.
+Qualitative research is useful to get out of our *homophilic bubble(s)*.
 
 Useful to answer **why** type of questions.
+
+**Interviews** are (mostly) qualitative methods.
 
 
 
@@ -105,34 +104,34 @@ Write your plan and findings in MarkDown, then push it to your fork of this proj
 9. Be ready to **be challenged** and improvise.
 10. Avoid **leading questions**. Try not to bias your interviewees.
 
-	bad > *How much do you love using FB?*
+	bad > `How much do you love using FB?`
 	
-	good > *Tell me about your most **recent** FB experience*
+	good > `Tell me about your most recent FB experience` (more concrete & memorable)
 	
 11. Avoid **closed questions**.
 
-	bad > *Do you order A, B or C?*
+	bad > `Do you order A, B or C?`
 	
-	good > ***How** do you choose food when going out?*	
+	good > `How do you choose food when going out?`	
 	
 ## Plan
 
-**What do you want to find out?**
+**What do you want to find out from your interviewees?**
 
 Pair with a classmate and **jot down** a few questions. These questions will become the **script** for your interviews.
 
 If you have an idea / concept then it's better if you centre your interview questions around that.
 
-Otherwise, you can interview people about their use of social networks (in general).
+Otherwise, you can interview people about their use of social networks in general.
 
-Finally, if you're stuck, here's a topic you can practice with: imagine you're designing a social app that helps groups of people organise their time out. 
+Finally, if you're stuck, here's an interview topic you can practice with: `imagine you're designing a social app that helps groups of people organise their time out`. 
 
 Question examples:
 
 * How did you first learn about `insert your topic`?
 * How were you motivated to become involved in `insert your topic`?
 * Tell me more about that experience. What do you remember most about it?
-* (if the user has started telling you about a relevant experience) What did you enjoy most?What didn't you enjoy about it?
+* (if the user has started telling you about a relevant experience) What did you enjoy most? What didn't you enjoy about it?
 * What kinds of problems do you or your community commonly see in your experience? Have you thought about how you would solve it?
 
 ## Test	
@@ -141,7 +140,14 @@ Interview each others, in pairs.
 
 One person conducts the interview, the other takes notes. Swap roles as you please.
 	
+After the interviews, consider:	
 	
+* What were the most successful questions? Why did they work?
+* How could you rephrase the less successful ones to get better answers?
+* Have you thought of follow-up questions?	
+
+Armed with a revised script, go and interview another pair of people.
+
 	
 # Assignment for the next session
 
