@@ -4,6 +4,10 @@ A bit too early to ask people to come up with project ideas.
 
 Students suggested we show tools of the trade and inspirations (good and bad projects from previous years) in the first session, and then task everyone to come up with ideas for the next session.
 
+A general [introduction to UX by looking at toilets](http://www.slideshare.net/ChrisHow/ux-bar-campbrighton2013)?
+
+Some [inspirational quotes from VIPz](https://userbrain.net/blog/design-the-user)?
+
 
 ## Session 2
 
