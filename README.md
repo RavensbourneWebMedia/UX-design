@@ -75,7 +75,7 @@ Session	| Date			| In class				| Assignment
 [1](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
 [2](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-02.md)		| Tue Jan 13th 	| Competitor analysis  | Play-acting Web products
 [3](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-03.md)		| Thu Jan 15th 	| User research | User interview
-[4](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-04.md)		| Tue Jan 27th 	| User personas | User personas
+[4](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-04.md)		| Tue Jan 20th 	| User personas | User personas
 [5](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-05.md)		| Tue Feb 3rd 	| Interface design  | Wireframing
 [6](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-06.md)		| Tue Feb 17th 	| User journeys	 | User journeys
 [7](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-07.md)		| Tue Feb 24th 	| User-testing  | User-testing
