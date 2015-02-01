@@ -10,7 +10,9 @@
 
 # Social networks analysis
 
-[From session 2](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-02.md#competitor-analysis)
+See [session 2](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-02.md#competitor-analysis)
+
+<!-- We had to re-jig things around because of timetable changes-->
 
 
 
