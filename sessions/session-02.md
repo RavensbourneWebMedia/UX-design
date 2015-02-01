@@ -44,6 +44,23 @@ It may be a good idea to analyse social networks that are **competitors** to wha
 
 You can also consider quirky ones like [Ello](https://ello.co/), [Diaspora](https://joindiaspora.com/) and [Ravelry](http://www.ravelry.com/about), or services that have a heavy social networking element like [AirBnB](https://www.airbnb.co.uk).
 
+#### Social networks (ish) that other students analysed
+
+* [YikYak](http://www.yikyakapp.com/features/)
+* [Ask FM](http://ask.fm/)
+* [SoundCloud](https://soundcloud.com/)
+* [TasteBuds](http://tastebuds.fm/)
+* [ReverbNation](http://www.reverbnation.com/)
+* [TheMakeupSocial](http://www.themakeupsocial.com/)
+* [SheSaidBeau'y](https://www.shesaidbeauty.com/)
+* [WeHeartIt](http://weheartit.com/)
+* [Blogilates](http://www.blogilates.com/)
+* [Fitocracy](https://www.fitocracy.com/)
+* [SparkPeople](http://www.sparkpeople.com/)
+* [PhotoshopPhriday](http://www.somethingawful.com/photoshop-phriday)
+* [Grindr](http://grindr.com/)
+* [Brenda](http://www.benderapp.com/brenda.html)
+
 ## Social networks analysis template
 
 ### Social network 1
