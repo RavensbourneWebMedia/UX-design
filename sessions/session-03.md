@@ -14,9 +14,17 @@
 
 Discuss:
 
-* **Who** are we designing for? [*Mental models*](http://www.nngroup.com/articles/mental-models)
-* How do we take **design decisions**? *Assumptions* vs *evidence*
-* What do we **test**? *Usability* vs *usefulness*
+* **Who** are we designing for? 
+
+	[*Mental models*](http://www.nngroup.com/articles/mental-models), that is what the user *believes* about a system: how the system works, how it will interact with them (e.g. your mental models of your body, a car, a computer, the education system).
+
+* How do we take **design decisions**? 
+
+	*Assumptions* vs *evidence*
+
+* What do we **test**? 
+
+	*Usability* vs *usefulness*
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/dilbert-easy-to-use.png)
 
@@ -57,12 +65,12 @@ Product 				| Analytics <br>Usability testing
 
 
 
-## Qua?
+<!--## Qua?-->
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/qualitative-quantitative.png)
 <!--![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/qualitative+quantitative.png)-->
 
-### Quantitative
+### Quantitative research
 
 Observe and **measure**.
 
@@ -70,7 +78,7 @@ Useful to answer **what** and **how** (how much, how often..) types of questions
 
 **Surveys** and **analytics** are (mostly) quantitative methods.
 
-### Qualitative
+### Qualitative research
 
 > Questions, answers, insights and explanations are limited by a researcher’s understanding of users’ behaviours. The only way to increase that understanding is by actually interacting with and investigating behaviours, beliefs, and assumptions outside of our own behaviours, beliefs, and assumptions. 
 
@@ -100,19 +108,21 @@ Write your plan and findings in MarkDown, then push it to your fork of this proj
 4. Go to **their place**, in a space where they're comfortable, best if the space where they use the product(s) you want to test / talk about. Let them show you around.
 5. Easier if you interview **pairs** of users: they'll be less anxious.
 6. **Listen**. Don't talk about yourself.
-8. Be comfortable with **silence**: give people time and space to answer your question.
-9. Be ready to **be challenged** and improvise.
-10. Avoid **leading questions**. Try not to bias your interviewees.
+7. Be comfortable with **silence**: give people time and space to answer your question.
+8. Be ready to **be challenged** and improvise.
+9. Avoid **leading questions**. Try not to bias your interviewees.
 
 	bad > `How much do you love using FB?`
 	
 	good > `Tell me about your most recent FB experience` (more concrete & memorable)
 	
-11. Avoid **closed questions**.
+10. Avoid **closed questions**.
 
 	bad > `Do you order A, B or C?`
 	
-	good > `How do you choose food when going out?`	
+	good > `How do you choose food when going out?`
+	
+11. Try **casual requests** instead of questions. For instance, instead of asking `How do you store your photos?` consider asking them to show you how they store photos.		
 	
 ## Plan
 
