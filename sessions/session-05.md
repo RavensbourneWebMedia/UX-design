@@ -33,39 +33,83 @@ See [session 4](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/ses
 
 It is a formal way of documenting a solution to a common design problem. The idea started in architecture in the late 70s, and has since been extended to software engineering, interaction design, and various other fields.
 
+* problem
+* example(s)
+* solution(s)
+* rationale
+
 ### Webdesign patterns
 
-Webdesign patterns are a way to describe solutions to common problems and challenges in a Web-specific context. They document interaction models and layout structures that make it easier for users to understand an interface and accomplish their tasks.
+Webdesign patterns are a way to describe solutions to common problems and challenges in a Web-specific context. 
+
+They document interaction models and layout structures that make it easier for users to understand an interface and accomplish their tasks. Remember [mental models](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-03.md#why-do-we-need-to-do-research)?
+
+Lots of interface patterns on [UI Patterns](http://ui-patterns.com/)
 
 Let's look at some patterns from [GoodUI](http://goodui.org)
 
-- [ ] PDF?
+[![](http://goodui.org/images/idea003.png)](http://goodui.org/#3)
+
+[![](http://goodui.org/images/idea004.png)](http://goodui.org/#4)
+
+[![](http://goodui.org/images/idea005.png)](http://goodui.org/#5)
+
+[![](http://goodui.org/images/idea007.png)](http://goodui.org/#7)
+
+[![](http://goodui.org/images/idea008.png)](http://goodui.org/#8)
+
+[![](http://goodui.org/images/idea009.png)](http://goodui.org/#9)
+
+[![](http://goodui.org/images/idea013.png)](http://goodui.org/#13)
+
+[![](http://goodui.org/images/idea014.png)](http://goodui.org/#14)
+
+[![](http://goodui.org/images/idea018.png)](http://goodui.org/#18)
+
+[![](http://goodui.org/images/idea019.png)](http://goodui.org/#19)
+
+[![](http://goodui.org/images/idea022.png)](http://goodui.org/#22)
+
+[![](http://goodui.org/images/idea023.png)](http://goodui.org/#23)
+
+[![](http://goodui.org/images/idea025.png)](http://goodui.org/#25)
+
+[![](http://goodui.org/images/idea030.png)](http://goodui.org/#30)
+
+[![](http://goodui.org/images/idea033.png)](http://goodui.org/#33)
+
+[![](http://goodui.org/images/idea035.png)](http://goodui.org/#35)
+
+[![](http://goodui.org/images/idea036.png)](http://goodui.org/#36)
+
+[![](http://goodui.org/images/idea037.png)](http://goodui.org/#37)
+
+[![](http://goodui.org/images/idea041.png)](http://goodui.org/#41) a dark pattern?
+
+[![](http://goodui.org/images/idea044.png)](http://goodui.org/#44)
+
+[![](http://goodui.org/images/idea047.png)](http://goodui.org/#47)
+
+[![](http://goodui.org/images/idea048.png)](http://goodui.org/#48)
+
+[![](http://goodui.org/images/idea052.png)](http://goodui.org/#52)
+
+[![](http://goodui.org/images/idea053.png)](http://goodui.org/#53)
+
+[![](http://goodui.org/images/idea058.png)](http://goodui.org/#58)
+
+
+<!--- [ ] PDF? couldn't find it-->
 
 Also, check out animated examples of webdesign patterns at [UseYourInterface](http://useyourinterface.com)
 
 ## Your turn
 
-Now think of the website you're (re)designing and list a few patterns that you consider using in your project. 
-
-Go to http://goodui.org and pick at least two patterns that you want to use in your design. Explain why the chosen patterns are relevant
-
-
-Good and bad
-
-[GoodUI](http://goodui.org/)
-
-[Dark patterns](http://darkpatterns.org/)
-
-[Patterntap](http://patterntap.com/)
+Go to [goodui.org](http://goodui.org) and pick at least two patterns that you want to use in your design. Explain why the chosen patterns are relevant to your project. 
 
 
 
 # Wireframing
-
-- [ ] Test [Moqups](http://moqups.com)
-
-- [ ] [InVision prototyping app](http://www.invisionapp.com)
-
 
 Is *this* a wireframe?
 
@@ -85,9 +129,9 @@ They're not about style. When wireframing, don't worry about colours, graphics a
 
 When wireframing you should ask yourself:
 
-* What content is going to be on this page?
-* How is the content organised on this page?
-* Which content is most important on this page?
+* What content is going to be on this page/screen?
+* How is the content organised on this page/screen?
+* Which content is most important on this page/screen?
 * Where users will go from this page?
 * Where is this page on the site?
 * How will users move around the site (navigation)?
@@ -152,7 +196,7 @@ Or..
 
 #### Digital wireframes
 
-Use [Moqups](http://moqups.com) or [InVision](http://www.invisionapp.com)
+Use [Moqups](http://moqups.com) and then upload screens to [InVision](http://www.invisionapp.com) to make them clickable.
 
 
 ### 2. Read and comment this article
