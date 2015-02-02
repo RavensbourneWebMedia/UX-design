@@ -47,7 +47,7 @@ Also, check out animated examples of webdesign patterns at [UseYourInterface](ht
 
 Now think of the website you're (re)designing and list a few patterns that you consider using in your project. 
 
-
+Go to http://goodui.org and pick at least two patterns that you want to use in your design. Explain why the chosen patterns are relevant
 
 
 Good and bad
@@ -155,8 +155,13 @@ Or..
 Use [Moqups](http://moqups.com) or [InVision](http://www.invisionapp.com)
 
 
-### 2. Read and comment
+### 2. Read and comment this article
 
-This article: [Make it like the PSD](http://dangovan.com/make-it-like-the-psd)
+[Make it like the PSD](http://dangovan.com/make-it-like-the-psd)
 
-- [ ] Key questions?
+Key questions that may guide your blog post (in no particular order):
+
+* What are the disadvantages of presenting Photoshop documents, as opposed to other ways of communicating a design (according to the author)?
+* If PSDs are so bad, why do so many people use them as *project deliverables*?
+* What alternatives does the author propose to the *Photoshop-driven design process*?
+* How do you feel about the *Photoshop-driven design process*? 
