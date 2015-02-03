@@ -74,7 +74,7 @@ In order to answer such questions usefully and help you make effective design de
 
 `-` Don't make your personas entirely **fictional**. Your product is going to be used by real people, not fairytale characters that unquestioningly adopt it and happily use it ever after.
 
-`-` Don't make your personas perfectly match the ***ideal** user* of what you're designing. I call these ***delusional** personas*. Personas should challenge your design decisions, not simply mirror them.
+`-` Don't make your personas perfectly match the *ideal user* of what you're designing. I call these *delusional personas*. Personas should challenge your design decisions, not simply mirror them.
 
 `-` Don't create user personas in your *own image*. It's easy (and tempting) to create personas who are in their early 20s, living in London and studying design or working in a creative agency in Shoreditch.. but there's life beyond our **homophilic bubbles**.
 
