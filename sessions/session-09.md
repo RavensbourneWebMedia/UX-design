@@ -1,9 +1,18 @@
-## Session 9
+# Session 9
 
-##### Tuesday 10th March 2015
+## Today, Tuesday 10th March 2015
 
-* Formative Assessment	
-	
-##### Assignment
+1. Formative Assessment	
+
+# Checklist for presentations
+
+* Competitor analysis (3 social networks you analysed)
+* User research	 (interviews)
+* User personas	
+* Wireframes (different stages: paper sketches for alternative solutions, digital wireframes)
+* User journeys (clickable wireframes)
+
+
+# Assignment
 
 Note the feedback your received and draft a plan of action 
