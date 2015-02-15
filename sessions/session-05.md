@@ -119,19 +119,26 @@ Is *this* a wireframe?
 
 ![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/not-a-wireframe-example.jpg)
 
-Wireframes are about communicating your ideas.
+Just like a map is an abstraction of a place that helps us describe its location and geography, **wireframes are abstractions** of the **structure** of an interactive system and the **relationships** between its components.
 
-They are about **content**, **context** and **interaction**. Use real content, not *lorem ipsum*. 
+* Wireframes are about **communicating your ideas**.
 
-They're not about style. When wireframing, don't worry about colours, graphics and typography. 
+* They are about **content**, **context** and **interaction**. 
+
+	Use real content, not *lorem ipsum*. 
+
+* They're NOT about style. 
+
+	When wireframing, don't worry about colours, graphics and typography. 
 
 ### Leading questions
 
-When wireframing you should ask yourself:
+When wireframing, ask yourself:
 
-* What content is going to be on this page/screen?
-* How is the content organised on this page/screen?
-* Which content is most important on this page/screen?
+* What content should be on this page?
+* Which content is most important on this page?
+* How is this content organised on this page?
+
 * Where users will go from this page?
 * Where is this page on the site?
 * How will users move around the site (navigation)?
@@ -203,7 +210,7 @@ Use [Moqups](http://moqups.com) or [WireframeCC](https://wireframe.cc) and then 
 
 [Make it like the PSD](http://dangovan.com/make-it-like-the-psd)
 
-Key questions that may guide your blog post (in no particular order):
+Some questions that may guide your blog post (in no particular order):
 
 * What are the disadvantages of presenting Photoshop documents, as opposed to other ways of communicating a design (according to the author)?
 * If PSDs are so bad, why do so many people use them as *project deliverables*?
