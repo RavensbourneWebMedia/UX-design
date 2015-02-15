@@ -126,7 +126,18 @@ Two options:
 
 2. Describe another 2 user journeys (success and failure scenarios)
 
-2. Watch [The Internet's Own Boy](http://www.bbc.co.uk/iplayer/episode/b051wkry/storyville-20142015-11-the-internets-own-boy), a documentary which explores the life of Aaron Swartz, an activist for social justice and political organising on the internet, and the circumstances that led to his early death.
+### 2. Blog about this film
+
+Watch [The Internet's Own Boy](http://www.bbc.co.uk/iplayer/episode/b051wkry/storyville-20142015-11-the-internets-own-boy), a film about Aaron Swartz: wiz-kid, co-founder of Reddit and activist for social justice and freedom of information. 
+
+Heads up! This will be available on BBC iPlayer until the **4th of March 2015**, so you better watch it before then.
+
+Questions that may guide your blog post (in no particular order):
+
+* How do you feel about freedom of information?
+* What do you think constitutes *digital theft*?
+* How do you feel about [Net Neutrality](http://www.vox.com/cards/network-neutrality/whats-network-neutrality)?
+* If you had magical powers, would you use them for good or to make you mountains of cash?
 
 
 
