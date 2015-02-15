@@ -126,18 +126,56 @@ Have you created **storyboards** before?
 It helps us (designers, developers, clients..) visualise what is going to happen when things start moving.
 
 
-* touchpoints
-* emotions
-* takeaways
+- [ ] touchpoints
+- [ ] emotions
+- [ ] takeaways
 
 
-http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/
+From [Stop Designing Pages And Start Designing Flows](http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows)
 
-https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows
+> Not all website visitors are created equal. Users come from different sources, with varying levels of knowledge and engagement, and with different goals.
 
-http://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction/
+From [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
 
-http://uxmag.com/articles/storyboarding-in-the-software-design-process
+> Customers don’t land on screens from out of nowhere. Specific sequences of actions lead customers through your app as they try to accomplish their tasks.
+
+> Each moment in a flow is like a coin with two sides.
+
+> The screen is showing something on one side, and the user is reacting on the other side. My flow diagrams illustrate this two-sided nature with a bar. Above the bar is what the user sees. Below the bar is what they do. An arrow connects the user’s action to a new screen with yet another action.
+
+![](http://s3.amazonaws.com/37assets/svn/324-todo-flow.png)
+
+![](http://s3.amazonaws.com/37assets/svn/326-rsvp-flow.png)
+
+From [Storyboarding & UX](http://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction)
+
+> **Stories** are the most powerful delivery tool for information, more powerful and enduring than any other art form
+
+![](http://johnnyholland.org/wp-content/uploads/storyboarding-freytags-pyramid.jpg)
+
+> Storyboarding has always been the **low-fidelity prototype of film**, bringing together the elements of script, plot, scene, and characters.
+
+> There are a few specific uses for storyboarding for UX to explore in detail: 
+	
+1. helping us to think
+2. helping others to communicate to us
+3. helping us to communicate to others
+
+![](http://johnnyholland.org/wp-content/uploads/storyboarding-sketch.jpg)
+
+[Storyboarding & UX – part 2: creating your own](http://johnnyholland.org/2011/10/storyboarding-ux-part-2-creating-your-own/)
+
+
+From [Storyboarding in the Software Design Process](http://uxmag.com/articles/storyboarding-in-the-software-design-process)
+
+> In their book, Storytelling for User Experience, Whitney Quesenbery and Kevin Brooks offer these benefits of using stories in software design:
+
+They help us gather and share information about users, tasks, and goals.
+They put a human face on analytic data.
+They can spark new design concepts and encourage collaboration and innovation.
+They are a way to share ideas and create a sense of shared history and purpose.
+They help us understand the world by giving us insight into people who are not just like us.
+They can even persuade others of the value of our contribution.
 
 http://www.adaptivepath.com/ideas/the-anatomy-of-an-experience-map/
 
@@ -153,6 +191,12 @@ From [user journey maps](http://www.elezea.com/2013/05/one-ux-deliverable)
 * Questions that our target Personas are likely to ask in each phase of the journey, to focus the type of content we serve on each page. In an e-commerce context, these are questions like, “Can I trust this retailer?” or “When will my stuff arrive?”
 * Takeaways and key principles to summarise the above sections (which primarily act as problem definitions/requirements) and document how that translates into the design decisions and solutions we need to keep in mind throughout the design process.
 * Content plan that maps each phase of the journey with the questions our Personas will ask during that phase, and what it means for the specific content that needs to go on each page. We get very specific here — nothing gets on the page unless it’s in the content plan. And if we can’t identify a Persona that would find the content useful, it just doesn’t go on the list.
+
+
+
+# Your turn!
+
+So what do we storyboard? Not just the hero (your app) scenario. 
 
 
 
