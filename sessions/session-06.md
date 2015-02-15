@@ -111,6 +111,51 @@ Drafting and redrafting, making improvements after improvements, is a vital part
 
 
 
+# User journeys
+
+### Set personas in motion
+
+So by now you should have a couple (or more) **personas** and some **wireframes**.
+
+The next step is to make them collide and see what happens.
+
+Have you created **storyboards** before?
+
+<!--Just like a storyboard is a draft visualisation of a film, a--> A user journey is to an app / website (or generally software) what a storyboard is to a film. 
+
+It helps us (designers, developers, clients..) visualise what is going to happen when things start moving.
+
+
+* touchpoints
+* emotions
+* takeaways
+
+
+http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/
+
+https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows
+
+http://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction/
+
+http://uxmag.com/articles/storyboarding-in-the-software-design-process
+
+http://www.adaptivepath.com/ideas/the-anatomy-of-an-experience-map/
+
+http://www.ux-lady.com/experience-maps-user-journey-and-more-exp-map-layout/
+
+http://sixrevisions.com/user-experience-ux/customer-journey-maps/
+
+
+From [user journey maps](http://www.elezea.com/2013/05/one-ux-deliverable)
+
+> * Unique selling points to keep us focused on what the site needs to communicate at all times. This comes straight from the Persona needs and goals.
+* Journey stages and model to remind us how the product fit into people’s lives, and what the primary calls to action need to be throughout the site.
+* Questions that our target Personas are likely to ask in each phase of the journey, to focus the type of content we serve on each page. In an e-commerce context, these are questions like, “Can I trust this retailer?” or “When will my stuff arrive?”
+* Takeaways and key principles to summarise the above sections (which primarily act as problem definitions/requirements) and document how that translates into the design decisions and solutions we need to keep in mind throughout the design process.
+* Content plan that maps each phase of the journey with the questions our Personas will ask during that phase, and what it means for the specific content that needs to go on each page. We get very specific here — nothing gets on the page unless it’s in the content plan. And if we can’t identify a Persona that would find the content useful, it just doesn’t go on the list.
+
+
+
 # Assignments
 
 ### 1. Redraft your wireframes
@@ -124,9 +169,12 @@ Two options:
 2. If you want to be cool, you can start translating your wireframes into an **HTML + CSS** prototype using a framework like [Skeleton](http://getskeleton.com), [Bootstrap](http://getbootstrap.com) or [Foundation](http://foundation.zurb.com/prototyping.html)
 
 
-2. Describe another 2 user journeys (success and failure scenarios)
+### 2. Describe another 2 user journeys 
 
-### 2. Blog about this film
+Success and failure scenarios
+
+
+### 3. Blog about this film
 
 Watch [The Internet's Own Boy](http://www.bbc.co.uk/iplayer/episode/b051wkry/storyville-20142015-11-the-internets-own-boy), a film about Aaron Swartz: wiz-kid, co-founder of Reddit and activist for social justice and freedom of information. 
 
@@ -144,6 +192,5 @@ Questions that may guide your blog post (in no particular order):
 
 ##### TODO
 
-- [ ] [user journey maps](http://www.elezea.com/2013/05/one-ux-deliverable)
+
 - [ ] [User Onboarding](http://www.useronboard.com/) is the process of increasing the likelihood that new users become successful when adopting your product. Learn some lessons from how popular web apps do it!
-- Documentary's questionnaire
