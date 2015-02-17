@@ -138,7 +138,7 @@ It helps us (designers, developers, clients..) visualise and communicate what is
 
 > **Stories** are the most powerful delivery tool for information, more powerful and enduring than any other art form.
 
-> From [Storyboarding & UX part 1](http://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction)
+> From [Storyboarding & UX](http://johnnyholland.org/2011/10/storyboarding-ux-part-1-an-introduction)
 
 ![](http://johnnyholland.org/wp-content/uploads/storyboarding-freytags-pyramid.jpg)
 
@@ -146,7 +146,7 @@ It helps us (designers, developers, clients..) visualise and communicate what is
 
 ### Storyboarding
 
-> Storyboarding has always been the **low-fidelity prototype of film**, bringing together the elements of script, plot, scene, and characters.
+> Storyboarding has always been the **low-fidelity prototype of film [and animation]**, bringing together the elements of script, plot, scene, and characters.
 
 UX storyboarding, aka **user journeys** is useful to: 
 	
@@ -161,15 +161,15 @@ UX storyboarding, aka **user journeys** is useful to:
 
 > When thinking about storyboarding, most people get stuck on their (perceived) **inability to draw**. 
  
-> From [Storyboarding & UX – part 2: creating your own](http://johnnyholland.org/2011/10/storyboarding-ux-part-2-creating-your-own)
+> From [Storyboarding & UX](http://johnnyholland.org/2011/10/storyboarding-ux-part-2-creating-your-own)
 
 #### What's the point?
 
 > What is far more important *[than your in/ability to draw]* is working out the **point** you wish to make with your storyboard.
 
-> From [Storyboarding & UX – part 2: creating your own](http://johnnyholland.org/2011/10/storyboarding-ux-part-2-creating-your-own)
+> From [Storyboarding & UX](http://johnnyholland.org/2011/10/storyboarding-ux-part-2-creating-your-own)
 
-What is your UX storyboard about?
+**What is your UX storyboard about?**
 
 
 
@@ -177,9 +177,9 @@ What is your UX storyboard about?
 
 So what do we storyboard? 
 
-Not just a *fairytale* scenario: your persona as the hero and your product as the magical object. 
+Not just a *fairytale* scenario: your persona as the *hero* and your product as the *magical object*. 
 
-Pick one of these three scenarios:
+Pick one of these three **themes**:
 
 1. An existing UX **problem** to be solved
 * An impact on UX caused by an existing **situation**, or if something isn’t fixed
@@ -188,13 +188,13 @@ Pick one of these three scenarios:
 Think about 
 
 * **Triggers** What happened to start your story in the first place?
-* What are the **goal** your character wants to achieve?
-* What is the **final outcome**? is. Should it show a clear benefit of a solution? Or an existing problem?
+* What is the **goal** your character wants to achieve?
+* What is the **final outcome**? Should it show a clear benefit of a solution? Or bring to surface an existing / new problem?
 
 
 ### Ingredients
 
-* Your **persona(s)**, aka your story's *character(s)*
+* Your **persona(s)** aka your story's *character(s)*
 
 	Their behaviours, appearance and expectations, as well as any decisions they make along the way, are very important.
 
@@ -202,18 +202,18 @@ Think about
 
 	Your **wireframes** illustrate how your product behaves.
 	
-* **Script**, the character’s internal train of thought, as well as what they say and what others around them say. 
+* A **script** to describe the character’s **internal train of thought**, as well as what they say and what others around them say. 
 
 	Revealing what is going on in your character’s mind is integral to a successful illustration of their experience in the storyboard.	
-* **Scenario** which your character finds herself in. 
+* The **scene** which your character finds herself in. 
 
 	It could be a single place, or switch across several environments and channels, or even just within a single website / app.
 	
-* **Plot** 
- 
- 	The narrative that unfolds in your storyboard should focus on a goal for the character, and the key moments involved in achieving – or not achieving – that goal. 
+* A **plot**, that is the narrative that unfolds in your storyboard. 
+
+	It should focus on a **goal** for the character, and the **key moments** involved in achieving (or not) that goal. 
  	
- 	It should start with a specific trigger and end with either the benefit of the solution, or a problem that the character is left with. 
+ 	It should start with a specific **trigger** and end with either the **benefit** of the solution, or a **problem** that the character is left with. 
  	
 
 ### Method
@@ -231,7 +231,7 @@ Think about
 	![](http://johnnyholland.org/wp-content/uploads/storyboarding-2-03.jpg)
 	
 	
-### Method 2 (alternative)
+### Method 2 (iconoclast alternative)
 	
 > People don’t land on screens from out of nowhere. Specific sequences of actions lead users through your app as they try to accomplish their tasks.
 
@@ -266,9 +266,9 @@ Two options:
 2. If you want to be cool, you can start translating your wireframes into an **HTML + CSS** prototype using a framework like [Skeleton](http://getskeleton.com), [Bootstrap](http://getbootstrap.com) or [Foundation](http://foundation.zurb.com/prototyping.html)
 
 
-### 2. Sotryboard another user journey
+### 2. Storyboard another user journey
 
-Pick from the scenarios above, one that you haven't storyboarded yet.
+Pick from the [three *themes* above](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-06.md#your-turn), one that you haven't storyboarded yet.
 
 
 ### 3. Blog about this film
