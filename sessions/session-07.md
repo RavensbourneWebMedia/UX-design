@@ -1,13 +1,18 @@
-## Session 7
+# Session 7
 
-##### Tuesday 24th February 2015
+### Today, Tuesday 24th February 2015
 
-* User-testing: face2face and remote	
+1. User-testing: face2face and remote	
+* Guest lecturer: Amy Jackson-Bruce	
 	
-##### Assignment
+	
+	
+# Assignment
 
 Conduct a face2face user-test of your wireframes using [Silverback](http://silverbackapp.com/)
 
-##### Notes
+
+
+## TODO
 
 - [ ] [UsabilityHub tools](https://usabilityhub.com/)

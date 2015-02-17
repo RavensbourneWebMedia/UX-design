@@ -1,9 +1,18 @@
-## Session 8	
+# Session 8	
 
-##### Tuesday 3rd March 2015
+## Today, Tuesday 3rd March 2015
 
-* Tutorials + prepping the presentation	
+1. Tutorials (Matteo and Amy Jackson-Bruce)
+* Prepping the presentation	
 
-##### Assignment
+
+
+# Tutorials
+
+- [ ] Google Doc
+
+
+
+# Assignment
 
 Get your presentation ready for the Formative assessment
