@@ -55,7 +55,9 @@ Ideally you'd pick someone who's **representative** of your target audience, but
 
 ### Remote vs face2face
 
-* Face2face testing is held with the user in person. 
+* In **remote testing** respondents are always contacted remotely, usually via the Web.
+
+* **Face2face testing** is held with the user in person. 
 
 	Ideally you would have a *facilitator* conduct the test while you observe and take notes. 
 
@@ -68,9 +70,6 @@ Ideally you'd pick someone who's **representative** of your target audience, but
 	You can use [Silverback](http://silverbackapp.com) to video-record your sessions on any device with a front-facing camera. The result is a video that shows you both the screen people are interacting with, and they're faces while they're testing (and their voices too).
 
 	[Download Silverback](http://silverback.s3.amazonaws.com/silverback2.zip)
-
-* In remote testing respondents are always contacted remotely, usually via the Web.
-
 
 Most types of testing can be done both remotely and face2face.
 
@@ -91,15 +90,55 @@ Let's start with some quick and dirty remote testing.
 
 4. Your mission is to get at least 20 tests by the end of today. Can you do that?
 
+
+# Face2face
+
+Let's watch and discuss these user-testing videos, from a former student
+
+[![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/silverback-user-testing-sample.png)](https://drive.google.com/file/d/0B01q99xxaTw_Mk5Ua3pyOVJzSFU/view?usp=sharing)
+
+Can you spot a few issues in the way the *facilitator* conducted the test?
+
+<!-- 
+
+	* Explained testers what the app is about, instead of asking them
+	* Think out loud if you can
+	* What is the point of this test?
+	* Facebook tab open before you show the actual thing
+
+ -->
 	
 # Assignments
 
-1. Blog about the results of your remote testing
+### 1. Blog about the results of your remote testing
 
-2. Conduct a face2face user-test of your wireframes using [Silverback](http://silverbackapp.com/)
+### 2. Conduct a face2face user-test of your wireframes
 
+You will be the *facilitator* and your main job is to make your testers not feel stupid:
+
+* state clearly that you're testing the the app, not them
+* reassure them it's not their fault if what they do has an unexpected result
+* encourage them to **think out loud**
+* **no hints**, instead encourage them to think what they'd do if you weren't there
+* be kind and **patient** 
+* **don't take it personally** if they don't get what you think it's obvious, but try and understand why
+* ask **specific questions**
+* no orders, but rather give some choice to your testers (eg: *What would you click first?*)
+
+1. Prepare a loose script for your user-testing session. You can take inspiration from this [sample script](https://hackpad.com/Sample-usertesting-script-UTHN25ekYIQ)
+
+2. Download and install [Silverback](http://silverbackapp.com)
+
+3. Find at least 2 people to test your wireframes with. 
+
+	They should not be your mum / dad / sibling / boyfriend / girlfriend. 
+
+	The most interesting and useful insights come from people that are unbiased and not connected to you personally, so try and find someone outside of your *comfort zone*.
+
+	You may offer them a **small reward** for giving you their time. Buy them a coffee, or a little present.
 
 
 ## TODO
 
 - [ ] pictures of guinea pigs :)
+- [ ] "learn more" links to test types
