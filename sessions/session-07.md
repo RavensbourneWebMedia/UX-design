@@ -7,17 +7,18 @@
 	
 # A reminder
 	
-This is a [checklist](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-09.md#checklist-for-presentations) of what we want you to present during your formative assessment (in 2 weeks' time).
+[Here is a checklist](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-09.md#checklist-for-presentations) of what we want you to present during your formative assessment in 2 weeks.
 
 
 # User-testing
 
 ### Why?
 
-* Because we can't base a design on assumptions only, we need some evidence
-* Because when we work on something (anything) we gradually lose a fresh, unbiased view of it
-* Because people may have different mental models from ours
-* Because we need to spot and correct problems as early as possible.
+* Because we can't design on **assumptions** only, we need some **evidence**
+* Because when we work on something (anything) we gradually lose a fresh, **unbiased view** of it
+* Because people may have different **mental models** than ours
+* Because we need to spot and correct **problems** as early as possible
+* [ ] more to come..
 
 ### When?
 
@@ -101,3 +102,4 @@ Let's start with some quick and dirty remote testing.
 
 ## TODO
 
+- [ ] pictures of guinea pigs :)
