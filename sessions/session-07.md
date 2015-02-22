@@ -93,7 +93,7 @@ Let's start with some quick and dirty remote testing.
 
 # Face2face
 
-Let's watch and discuss these user-testing videos, from a former student
+Let's watch and discuss this user-testing video, from a former student
 
 [![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/silverback-user-testing-sample.png)](https://drive.google.com/file/d/0B01q99xxaTw_Mk5Ua3pyOVJzSFU/view?usp=sharing)
 
