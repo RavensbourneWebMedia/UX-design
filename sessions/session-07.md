@@ -114,7 +114,19 @@ Can you spot a few issues in the way the *facilitator* conducted the test?
 	
 # Assignments
 
-### 1. Blog about the results of your remote testing
+### 1. Blog about the results of your [remote testing](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-07.md#warm-up-exercise)
+
+You should aim to collect at least 20 results for your tests. 
+
+The more data you gather the more insight for your project.
+
+Questions to lead your blogging:
+
+* What aspects of your design did you test?
+* What type(s) of test did you go for (5second, nav flow, preference..)?
+* What questions did you ask in your test(s) and how do you think they influenced the way people took the test(s)?
+* How did you recruit people to test?
+* What results did you get back? Anything useful or surprising?
 
 ### 2. Conduct a face2face user-test of your wireframes
 
