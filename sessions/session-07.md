@@ -18,7 +18,8 @@
 * Because when we work on something (anything) we gradually lose a fresh, **unbiased view** of it
 * Because people may have different **mental models** than ours
 * Because we need to spot and correct **problems** as early as possible
-* [ ] more to come..
+* Because loads of **usable** features may not be **useful** (your client priorities may not be users' priorities)
+* Because the way you call things may not be the way users refer to them (test your *copy*.. if you know what [copy](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php) means in the context of interface design)
 
 ### When?
 
@@ -39,6 +40,8 @@ User-testing is **iterative**, you should do small tests as often as possible, n
 ### Who?
 
 Ideally you'd pick someone who's **representative** of your target audience, but following the principle that *some testing is way better than no testing* you can pick anyone really: friends, relatives and colleagues.
+
+[![](http://graphicashen.com/wp-content/uploads/2014/06/Booboo-the-guinea-pig.jpg)](http://www.phrases.org.uk/meanings/guinea-pig.html)
 
 
 ## Types of user-testing
@@ -105,7 +108,8 @@ Can you spot a few issues in the way the *facilitator* conducted the test?
 	* Think out loud if you can
 	* What is the point of this test?
 	* Facebook tab open before you show the actual thing
-
+	* If there's something important in the bottom-right corner of your screen, it would be better if it wasn't hidden in the final video
+	
  -->
 	
 # Assignments
@@ -140,5 +144,4 @@ You will be the *facilitator* and your main job is to make your testers not feel
 
 ## TODO
 
-- [ ] pictures of guinea pigs :)
 - [ ] "learn more" links to test types
