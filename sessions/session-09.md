@@ -2,7 +2,7 @@
 
 ### Today, Tuesday 10th March 2015
 
-1. Formative Assessment	
+Formative Assessment presentations	
 
 # Checklist for presentations
 
@@ -24,4 +24,6 @@
 
 # Assignment
 
-Note the feedback your received and draft a plan of action 
+1. Note the feedback your received and draft a plan of action 
+
+2. Read and blog about [*The time is ripe for niche social networks*](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks). You can hear the author talking in [this podcast](http://monocle.com/radio/shows/the-entrepreneurs/173) also.
