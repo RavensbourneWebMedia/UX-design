@@ -142,7 +142,7 @@
 		}
 	}
 
-/* GRABBING CURSOR */
+/* CURSORS */
 
 li:hover
 {
@@ -154,4 +154,9 @@ li:active
 {
 	cursor: -webkit-grabbing; 
 	cursor: -moz-grabbing;	
+}
+
+h3
+{
+	cursor: text;
 }

@@ -32,7 +32,7 @@ function studentTemplate(student)
 {
 	var html = '<li>'
 	html += '<img src="http://learn.rave.ac.uk/moodle/pluginfile.php/' + student.imageId + '/user/icon/ravebootstrap/f3">'
-	html += '<h3>' + student.name + '</h3>'
+	html += '<h3 contenteditable>' + student.name + '</h3>'
 	html += '<a class="button remove">Not here?</a>'
 	html += '</li>'
 	return html
