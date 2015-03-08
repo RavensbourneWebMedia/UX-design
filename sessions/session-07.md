@@ -145,6 +145,10 @@ You will be the *facilitator* and your main job is to make your testers not feel
 
 2. Download and install [Silverback](http://silverbackapp.com)
 
+	If it doesn't work, you can use PhotoBooth and QuickTime for screen recording.
+
+	Windows users, I'm sorry but you're on your own :)
+
 3. Find at least 2 people to test your wireframes with. 
 
 	They should not be your mum / dad / sibling / boyfriend / girlfriend. 
