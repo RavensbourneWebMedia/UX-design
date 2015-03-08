@@ -259,7 +259,7 @@ Think about
 
 Two options:
 
-1. Use [Moqups](http://moqups.com) or [WireframeCC](https://wireframe.cc) and then upload your screens to [InVision](http://www.invisionapp.com) to make them clickable.
+1. Use [Moqups](http://moqups.com)Or is it a product? and then upload your screens to [InVision](http://www.invisionapp.com) to make them clickable.
 
 	**or**
 

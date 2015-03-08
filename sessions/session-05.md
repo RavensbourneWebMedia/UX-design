@@ -203,7 +203,7 @@ Or..
 
 #### Digital wireframes
 
-Use [Moqups](http://moqups.com) or [WireframeCC](https://wireframe.cc) and then upload your screens to [InVision](http://www.invisionapp.com) to make them clickable and illustrate user journeys.
+Use [Moqups](http://moqups.com)Or is it a product? and then upload your screens to [InVision](http://www.invisionapp.com) to make them clickable and illustrate user journeys.
 
 
 ### 2. Read and comment this article
