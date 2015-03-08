@@ -1,0 +1,50 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Random students list</title>
+        <meta name="description" content="Nobody wants to present first...">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <!-- <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.0/animate.min.css"> -->
+        <link rel="stylesheet" href="css/style.css">
+
+
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+        
+
+        <ul id="students"></ul>
+        
+
+        <script src="js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="js/vendor/jquery-ui.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        <script src="data/students.js"></script>
+        <script>
+
+            $(document).ready(function()
+            {
+                listStudents(students)
+                
+                $("#students").sortable()
+
+                $('.remove.button').click(function(event)
+                {
+                    var $button = $(event.target),
+                        $li = $button.parent()
+
+                    $li.remove()
+                })
+            })
+
+        </script>
+
+    </body>
+</html>
