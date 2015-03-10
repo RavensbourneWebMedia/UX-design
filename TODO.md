@@ -17,6 +17,7 @@
 - [ ] [User research from GOV.uk](https://www.gov.uk/service-manual/user-centred-design/user-research)
 - [ ] [An ethnographic research exercise](http://robots.thoughtbot.com/ethnographic-research-exercise)
 - [ ] [Ethnography primer](http://www.aiga.org/ethnography-primer/)
+- [ ] [CogLode](http://coglode.com) a collection of psychology / "behavioural economics" research about how people use products, shop or generally behave, "distilled" in a way that could help you "make better products"
 
 ## Personas
 
@@ -47,21 +48,23 @@
 
 ## Tools
 
-- [ ] [Invision](http://www.invisionapp.com/)
+- [x] [Invision](http://www.invisionapp.com/)
 - [ ] [A breakdown of prototyping tools](http://stephenmeszaros.com/posts/prototyping-tools.html)
 - [ ] [Coding lessons for UX designers](http://livetyping.capcloud.com)
 - [ ] [Ionic HTML5 app framework](http://ionicframework.com)
+- [ ] [Balsamiq](https://balsamiq.com/download/) or some better wireframing tool, possibly free?
 
 ## Testing 
 
 - [ ] [UX Key Performance Indicators](http://designmodo.com/ux-kpi)
 - [ ] [Do's and Don'ts of UX testing](http://blog.oboxthemes.com/the-dos-and-donts-of-user-experience-testing/)
+- [ ] [10 things I learned from usability testing](https://blog.kissmetrics.com/100-usability-tests)
 
 ## Case studies
 
 - [ ] [Guardian redesign](http://www.designweek.co.uk/analysis/how-the-guardian-is-rethinking-its-digital-design-language/3038526.article)
 - [ ] [FishBrain](http://www.fishbrain.com), a social network for fishing hobbists. [Monocle interviewed the founder](http://monocle.com/radio/shows/the-entrepreneurs/173)
-- [ ] [The time is ripe for niche social networks](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks)
+- [X] [The time is ripe for niche social networks](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks)
 - [ ] [AirSnb](http://www.airsnb.com)
 
 
@@ -81,3 +84,4 @@
 * https://medium.com/@pasql/transitional-interfaces-926eb80d64e3
 * http://articles.morganallanknutson.com/were-designers
 * [Interfaces in need](https://medium.com/@gbks/interfaces-in-need-fa21105102c6)
+* [History of UX](http://blog.invisionapp.com/a-brief-history-of-user-experience)
