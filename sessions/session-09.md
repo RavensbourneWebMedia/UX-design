@@ -22,8 +22,14 @@ Formative Assessment presentations
 
 
 
-# Assignment
+# [Feedback matrix](http://bit.ly/WEB14204formative)
 
-1. Note the feedback your received and draft a plan of action 
+This is the spreadsheet where we all give each other feedback.
+
+
+
+# Assignments
+
+1. Note the feedback your received (see matrix above) and draft a plan of action for next term (push it to your fork of this project on GitHub). 
 
 2. Read and blog about [*The time is ripe for niche social networks*](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks). You can hear the author talking in [this podcast](http://monocle.com/radio/shows/the-entrepreneurs/173) also.
