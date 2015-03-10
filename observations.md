@@ -45,3 +45,28 @@ Ask them to pay attention to the questions that they're asked when taking other 
 > What do you want to test?
 
 Remember that when tested, people want to *win* or *get it right*, so make sure you're not asking **leading questions** that may give away what type of response you're expecting.
+
+## Session 9
+
+### Presentations
+
+* Diagram to show where your product positions itself in relation to competitors
+* I want to see the very first version of your sketches / wireframes (even if it's on toilet paper)
+
+### Enhacements
+
+* User personas are a bit disconnected from the other steps of the design process
+* You should test your competitors, try to figure out why they went for certain features, really immerse yourself in their service and steal their ideas
+
+### Ideas
+
+* Quick *what-if* exercise with *variables* eg: a social network for {football fanatics} to {make friends} and {find soulmates}, calling each other {buddies} (take a look at that Twitter bot that posts game ideas..)
+
+### Next term
+
+* Develop the blank slate and onboarding process
+* Keep presentations within time slots (which means, rehearse and time yourself)
+* Community ranking / reputation
+* Content strategy: UGC, editorial control, brands and advertising, spam
+* Search and search results
+* How to deal with trolls? Self-censoring community, reactive moderation, reporting, downvoting etc
