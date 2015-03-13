@@ -76,6 +76,7 @@
 - [ ] [Open Data day](http://opendataday.org)
 - [ ] Random Hacks of Kindness
 - [ ] The *ethics* (how it works, and why) and *aesthetics* (how it looks, and why) of interactive products
+- [ ] [Your brain on stories](http://www.blog.theteamw.com/2014/11/04/your-brain-on-stories)
 
 
 # TO READ

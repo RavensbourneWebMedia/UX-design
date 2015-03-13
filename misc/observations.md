@@ -48,15 +48,16 @@ Remember that when tested, people want to *win* or *get it right*, so make sure 
 
 ## Session 9
 
-### Presentations
+### Good stuff
 
-* Diagram to show where your product positions itself in relation to competitors
-* I want to see the very first version of your sketches / wireframes (even if it's on toilet paper)
+* The most interesting conversations happen when there's real content (eg: tagging only one game or several games)
 
 ### Enhacements
 
+* Diagram to show where your product positions itself in relation to competitors
 * User personas are a bit disconnected from the other steps of the design process
-* You should test your competitors, try to figure out why they went for certain features, really immerse yourself in their service and steal their ideas
+* I want to see the very first version of your sketches / wireframes (even if it's on toilet paper)
+* You should test your competitors (Margot did it), try to figure out why they went for certain features, really immerse yourself in their service and steal their ideas
 
 ### Ideas
 
@@ -70,3 +71,4 @@ Remember that when tested, people want to *win* or *get it right*, so make sure 
 * Content strategy: UGC, editorial control, brands and advertising, spam
 * Search and search results
 * How to deal with trolls? Self-censoring community, reactive moderation, reporting, downvoting etc
+* I forgot my password, again. How do you deal with this problem, without embarrassing people?
