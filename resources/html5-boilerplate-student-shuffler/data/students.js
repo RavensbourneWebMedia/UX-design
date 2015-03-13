@@ -1,9 +1,17 @@
+// this is a JavaScript array (that is, an indexed list)
+// in JS, we use square brackets for arrays [ ]
 var students = 
 [
+	// it contains JavaScript data objects
+	// in JS, we use curly brackets for objects { }
+	// each object in this array represents a student
 	{
+		// for each student we get their name, surname and imageId
 		name: 'Harry',
 		surname: 'Foster',
 		imageId: '87496'
+		// imageId is used to pull images from Ravensbourne's Moodle
+		// more on that in js/main.js
 	},
 	{
 		name: 'Callum',
