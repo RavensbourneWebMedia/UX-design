@@ -104,7 +104,7 @@ Your final mark will be based on:
 
 ### Components
 
-1. **Research** identifying problem and opportunities through *competitor analysis*, examining audiences through *user interviews* and interpreting your research data through *user personas* 
+1. **Research** identifying problems and opportunities through *competitor analysis*, examining audiences through *user interviews* and interpreting your research data through *user personas* 
 * **Experimentation** exploring ideas through *wireframes* and *user journeys*, from paper to digital
 * **Iteration** *prototyping* and *user-testing* your concepts, learning from mistakes
 * **Communication** presenting both your project's output and process  
@@ -126,36 +126,30 @@ Your final mark will be based on:
 #### D
 
 * **Research** you dipped your toes into competitor analysis, user interviews and user personas but they are disconnected 
-* **Experimentation** you wireframed only a handful of screens using real(istic) content; your user journeys are based on research evidence but shallow 
-* **Iteration** you prototyped and user-tested one concept, however you haven't taken feedback from user-testing into your design process (one iteration only)
-* **Communication** your presentation(s) were clear or complete
+* **Experimentation** you wireframed a handful of screens using real(istic) content; your user journeys are based on research evidence but shallow (happy ending, no explanations) 
+* **Iteration** you prototyped and user-tested one concept, however you haven't addressed the road bumps your users encountered (one iteration only)
+* **Communication** your presentation(s) were complete
 
 #### C
 
 * **Research** whilst your competitor analysis, user interviews and user personas are decent, they could integrate better into your process 
-* **Experimentation** you wireframed key screens using real(istic) content; your user journeys are based on research evidence and explore a couple of scenarios 
-* **Iteration** you prototyped and user-tested a couple of  concepts, tested them with several users and folded their feedback into your design process (two iterations)
+* **Experimentation** you wireframed key screens using real(istic) content; your user journeys are based on research evidence and explore a few scenarios 
+* **Iteration** you prototyped and user-tested a few concepts, tested them with several users and folded their feedback into your design process (at least two iterations)
 * **Communication** your presentation(s) were clear and complete
 
 #### B
 
-* **Research** whilst your competitor analysis and user interviews are broad, they could be better documented; your user personas are good but a little wishful 
-* **Experimentation** you wireframed key screens using real(istic) content, explaining how your design decisions are to research evidence; your user journeys are based on research evidence and explore several scenarios in depth
-* **Iteration** you prototyped and user-tested several  concepts, tested them with users and folded their feedback into your design process (more than two iterations)
+* **Research** whilst your competitor analysis and user interviews are broad and integrated, they could be better documented; your user personas are good and varied (we don't need 7 photocopies of of young professionals with disposable income and thirst for technology) 
+* **Experimentation** you wireframed key screens using real(istic) content, and your user journeys explore several scenarios in depth; you explained how your design decisions are linked to research evidence
+* **Iteration** you prototyped and user-tested several  concepts, tested them with users and folded their feedback into your design process; more than two iterations
 * **Communication** your presentation(s) were clear, complete and engaging
 
 #### A
 
-* **Research** your competitor analysis is thorough, your user interviews insightful and well documented, your user personas summarise your findings and provide the foundations for your design
-* **Experimentation** you wireframed key screens using real(istic) content, experimenting with UI design patterns and explaining how your design decisions are to research evidence; your user journeys are based on research evidence, highlight pain points and offer branching solutions
+* **Research** your competitor analysis is thorough, your user interviews insightful and well documented, your user personas go deeper and are varied. Your research provides a solid foundation for your design
+* **Experimentation** you wireframed key screens using real(istic) content, experimenting with UI design patterns and explaining how your design decisions are linked to research evidence; your user journeys are based on research evidence, highlight pain points and offer branching solutions
 * **Iteration** you prototyped and user-tested various  concepts, testing them both on a high level and refining the details (eg A/B testing); more than two iterations
 * **Communication** your presentation(s) were clear, complete, engaging and original
-
-design patterns
-
-Document
-
-Understand the importance of motivational **copy-writing** in interface design, and write interface copy that is appropriate for your audience and their task(s) at hand.
 
 
 ## Blog
