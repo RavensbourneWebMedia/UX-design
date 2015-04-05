@@ -12,7 +12,6 @@ This includes:
 * user **personas**, user **stories** and user **journeys**
 * **interface design**: **paper-prototyping** and **wireframing**
 * **rapid prototyping** tools
-* **SEO**: search engine optimisation
 * **user-testing**: face2face, A/B testing and analytics
 * motivational **copy-writing** for stickiness
 
@@ -58,7 +57,7 @@ Examples of broad (bad) user targets:
 ## Context
 
 * Web-*sites* are turning into Web-*apps*: one does not simply *read* an app.
-* The Web is being rebuilt around **people**, aka *the users* (think comments, recommendations, wishlists, personalised feeds..)
+* The Web is being rebuilt around **people**, aka *the users* (think comments, recommendations, wish lists, personalised feeds..)
 * **Social networks** are the most popular Web-apps for people to connect and interact with each other online
 * A social Web-app is a gamble on **content** (will people **produce** content for your app?)
 * The people use the **interfaces** (that you design) to do this
@@ -105,33 +104,58 @@ Your final mark will be based on:
 
 ### Components
 
-- [ ] TODO
+1. **Research** identifying problem and opportunities through *competitor analysis*, examining audiences through *user interviews* and interpreting your research data through *user personas* 
+* **Experimentation** exploring ideas through *wireframes* and *user journeys*, from paper to digital
+* **Iteration** *prototyping* and *user-testing* your concepts, learning from mistakes
+* **Communication** presenting both your project's output and process  
+
 
 ### Grades
 
 #### F
 
-[M.I.A.](http://en.wikipedia.org/wiki/Missing_in_action) The student failed to deliver the assignment. 
+[M.I.A.](http://en.wikipedia.org/wiki/Missing_in_action) We saw you around but you failed to show evidence of your work. 
 
 #### E
 
-- [ ] TODO
+* **Research** either your competitor analysis, user interviews or user personas are missing, or they are disconnected and disorganised 
+* **Experimentation** you wireframed only a handful of screens using filler content (*Lorem ipsum*, no images); your user journeys are superficial and/or delusional (wishful, not based on research evidence) 
+* **Iteration** your prototypes are hard to test and therefore your user-testing didn't provide useful insight; your process was erratic
+* **Communication** your presentation(s) lacked clarity and completeness
 
 #### D
 
-- [ ] TODO
+* **Research** you dipped your toes into competitor analysis, user interviews and user personas but they are disconnected 
+* **Experimentation** you wireframed only a handful of screens using real(istic) content; your user journeys are based on research evidence but shallow 
+* **Iteration** you prototyped and user-tested one concept, however you haven't taken feedback from user-testing into your design process (one iteration only)
+* **Communication** your presentation(s) were clear or complete
 
 #### C
 
-- [ ] TODO
+* **Research** whilst your competitor analysis, user interviews and user personas are decent, they could integrate better into your process 
+* **Experimentation** you wireframed key screens using real(istic) content; your user journeys are based on research evidence and explore a couple of scenarios 
+* **Iteration** you prototyped and user-tested a couple of  concepts, tested them with several users and folded their feedback into your design process (two iterations)
+* **Communication** your presentation(s) were clear and complete
 
 #### B
 
-- [ ] TODO
+* **Research** whilst your competitor analysis and user interviews are broad, they could be better documented; your user personas are good but a little wishful 
+* **Experimentation** you wireframed key screens using real(istic) content, explaining how your design decisions are to research evidence; your user journeys are based on research evidence and explore several scenarios in depth
+* **Iteration** you prototyped and user-tested several  concepts, tested them with users and folded their feedback into your design process (more than two iterations)
+* **Communication** your presentation(s) were clear, complete and engaging
 
 #### A
 
-- [ ] TODO
+* **Research** your competitor analysis is thorough, your user interviews insightful and well documented, your user personas summarise your findings and provide the foundations for your design
+* **Experimentation** you wireframed key screens using real(istic) content, experimenting with UI design patterns and explaining how your design decisions are to research evidence; your user journeys are based on research evidence, highlight pain points and offer branching solutions
+* **Iteration** you prototyped and user-tested various  concepts, testing them both on a high level and refining the details (eg A/B testing); more than two iterations
+* **Communication** your presentation(s) were clear, complete, engaging and original
+
+design patterns
+
+Document
+
+Understand the importance of motivational **copy-writing** in interface design, and write interface copy that is appropriate for your audience and their task(s) at hand.
 
 
 ## Blog
@@ -150,7 +174,7 @@ Refer to the general **[Web Media blog assessment criteria](https://github.com/R
 
 Upon completion of this unit you will (hopefully) be able to: 
 
-* Understand the difference between qualitative and quantitative **user research**, and be familiar with a few techniques to perform both types of research.
+* Understand the difference between qualitative and quantitative **user research** and be familiar with a few techniques to perform both types of research.
  
 * Research and analyse **competitor services** to gain inspiration and insight from them.
 
@@ -165,8 +189,6 @@ Upon completion of this unit you will (hopefully) be able to:
 * Use **rapid prototyping** tools to quickly test solutions to specific UX problems.
 
 * Understand the differences between various **user-testing** methods (face2face, A/B testing and analytics) and practice them at a basic level
- 
-* Understand how to improve the findability of a product online, using basic **SEO** (search engine optimisation) techniques and tools.
 
 * **Document** your design and development process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
 
