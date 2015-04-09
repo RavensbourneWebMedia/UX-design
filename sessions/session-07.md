@@ -157,7 +157,9 @@ You will be the *facilitator* and your main job is to make your testers not feel
 
 	You may offer them a **small reward** for giving you their time. Buy them a coffee, or a little present.
 
-
+<!-- 
 ## Matteo's TODO
 
 - [ ] "learn more" links to test types
+
+ -->
