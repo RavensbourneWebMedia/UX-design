@@ -9,7 +9,7 @@
 
 # Tutorials
 
-- [ ] Google Doc
+On [this Google document](https://docs.google.com/document/d/1WM1gwX8m2xBOiczmXlvO7SOqHNihj_mpWEbMooDDVqk/edit?usp=sharing)
 
 
 
