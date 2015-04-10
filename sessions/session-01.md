@@ -91,3 +91,69 @@ If you want to have **good ideas** you must [have **many ideas**](https://medium
 Remember to use the category **WEB14204** for all your blog posts for this unit!
 
 * Blog post: [what are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
+
+
+<!-- 
+
+UX quiz, from http://courses.theteamw.com/an-introduction-to-the-user-experience/5699
+
+Most of the time people don't like to think a lot, so you should design your user experience to encourage people to think more. [ true / false ]
+
+Both the goals of the user and the goals of the organization that is developing the experience you are working on are important to take into consideration in your design. [ true / false ]
+
+Meeting a technology project's time and budget constraints is one of the Principles of User Experience.
+
+Designing for the users' context of use is part of the Principles of User Experience.  
+UCD stands for "user-centered" design
+
+If you build in user testing in your process then you don't need to do up-front user research.
+
+It's OK to hand-off a UX design to the programming team without collaborating IF you've done lots of user testing beforehand and you have a strong design document to give them.
+
+Most people agree that part of the UX role includes User Research.
+
+Most people agree that part of the UX role includes getting user feedback through user testing.
+
+Most people agree that part of the UX role is to do design.
+
+Most people agree that part of the UX role is Visual Design.
+
+Most people agree that part of the UX role is creating content.
+
+According to Susan Weinschenk, it's important for UX professionals to use the latest trends in their designs.
+
+True
+ False
+Question 2:
+True or False?:
+
+According to Susan Weinschenk, it's important for UX professionals to understand human psychology. 
+
+ True
+False
+Question 3:
+True or False?:
+
+According to Susan Weinschenk, it's important for UX professionals to be able to write "code" for their prototypes.
+
+True
+ False
+Question 4:
+True or False?:
+
+According to Susan Weinschenk, it's important for UX professionals to know the principles of engagement.
+
+ True
+False
+Question 5:
+True or False?:
+
+According to Susan Weinschenk, it's important for UX professionals to know how to create a conceptual model.
+
+ True
+False
+
+
+
+ -->
+
