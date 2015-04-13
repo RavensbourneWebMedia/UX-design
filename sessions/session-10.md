@@ -1,16 +1,239 @@
-## Session 10	
+# Session 10	
 
-##### Tuesday 14th April 2015
+### Today, Tuesday 14th April 2015
 
-* Evaluating feedback and iterating design.
-* From wireframes to user stories: describe and break down the basic units of functionality of your product.	
+1. Content strategy
+* Copywriting
+* Exercises in style
 
-##### Assignment
+# Content first
 
-Continue writing user stories for your product	
+When it comes to *content* you may hear designers (including myself) saying things like
 
-##### Notes
+> ...the client can do it
 
-* Should end up with some 20-30 user stories
-* Provide a form for that (or is there an app? JIRA or similar?)
-* [ ] [How to Tell the User’s Story](https://www.newfangled.com/how-to-tell-the-users-story/)
+or 
+
+> ...the users will generate it
+
+And yet, people (most people) come to our websites/apps **hungry for content**.
+
+They want to find information and do something with it: **usable, useful content**.
+
+They don't care about our *parallax scrolling*, *animated SVG* or whatever is trendy among us. <!--Not as much as we (the designers) do.--> This is not to say that we should bin all the subtle details that can make a UX delightful, but rather that we should talk about the elephant in the room: *content*.
+
+![](http://alistapart.com/d/_made/d/ALA274_consthalvorsen_300_960_576_81.jpg)
+
+> Who's talking about the time-intensive, complicated, messy content development process? 
+> Who's overseeing the care and feeding of content once it's out there, clogging up the tubes and dragging down our search engines?
+
+..says [Kristina Halvorson](http://alistapart.com/article/thedisciplineofcontentstrategy)
+
+### What is content strategy?
+
+An umbrella term for a set of practices (methods, workflows) that can help you answer these questions:
+
+* What are our users coming to see, what do they want to hear? *Content purpose*
+* How can content bridge the space between user needs and business goals?
+* What is our current content? *Content audit*
+* How is it organised? *Content attributes, gap analysis*
+* Who is creating our content? <!--editorial or *UGC*?-->
+* Who is in charge of managing the content we (or our users) produce? *Content governance*
+* How often are we publishing content? *Content workflow*
+* What kind of *language* and *tone of voice* do we use to engage our audience(s)?
+
+You can learn more about content strategy in [The complete beginner's guide to content strategy](http://www.uxbooth.com/articles/complete-beginners-guide-to-content-strategy/)
+
+### Is content like kebab?
+
+[![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/kebab.jpg)](https://www.flickr.com/photos/einalem/150690876/ "Best kebab in Cyprus")
+
+Adapted from [Content is kebab](https://medium.com/@damianogui/content-is-kebab-638b1b1d261b) by [this guy](https://twitter.com/damianogui).
+
+Beware, this is going to be metaphorical and you may get dizzy. 
+
+Three assumptions to discuss. 
+
+#### 1. There is no such thing as good or bad kebab
+
+[![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/kebab-best.jpg)](https://www.flickr.com/photos/toddmecklem/5876661561 "The worst use of parentheses (London)")
+
+> The true goodness of a kebab is directly proportional to how **hungry** you are.
+
+Agree or disagree?
+
+Outside of metaphor, what does the kebab stand for, in UX design terms? <!--The **content** or the **interface**? -->
+
+> An **interface** is not intrinsically good or bad, but it all depends on how **quickly** the user wants to achieve her **goal**.
+
+Agree or disagree?
+
+> Think about the kebab again: it could be that you're extremely hungry, and that the kebab in question is also extremely good, intrinsically. Sadly, the kebab maker didn't give you enough **wrapping**. So you end up dirtying your hands, or worse your clothes, with all the yoghurt and spicy sauces.
+
+How does the *wrapping* impact the user experience?
+
+#### 2. The wrapping matters
+
+[![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/kebab-wrap.jpg)](https://www.flickr.com/photos/avlxyz/3014257435/ "Mixed Lamb and Chicken Souvlaki - Stalactites")
+
+Agree or disagree?
+
+> The wrapping is the **interface**. [...] The interface is not the content. The kebab is.
+
+What's the job of an interface then?
+
+> Sometimes I order a kebab without sauce, but because I want to avoid dirtying myself.
+
+What is the sauce, outside of metaphor? 
+
+Can you think of examples of Web content (text, video, audio etc.) that you may decide to experience *without the sauce*? 
+
+#### 3. The less sauce, the better interface
+
+![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/kebab-sauces.jpg)
+
+Agree or disagree?
+
+> You need to find a balance. Otherwise you're just selling me an empty wrapper, or you're just randomly throwing content at me.
+
+So how do we find **balance**?
+
+And **what is our role** as designers in all this? 
+
+Should designers be able to copywrite?
+
+
+
+# Copywriting is interface design
+
+As [they say](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php)
+
+> Do you label a button *Submit* or *Save* or *Update* or *New* or *Create*? That's copywriting.
+
+> Icons with names, form fields with examples, buttons with labels, step by step instructions in a process, a clear explanation of your refund policy. These are all interface design.
+
+<!--You can't base your design decisions on the *final content*. -->
+
+If you don't have suitable content to hand, simply write your own **proto-content**. You're not aiming for perfection. You're aiming for **insights and validation**.
+
+Even bad copywriting can be useful to trigger a conversation and call for good content. See the [McDonald's theory](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d).
+
+### How do you write an interface then?
+
+![](http://insideintercom.io/wp-content/uploads/2012/04/WritingInterface-740.jpg)
+
+[Des Traynor](http://blog.intercom.io/writing-an-interface) came up with this handy set of questions.
+
+#### Microcopy framework
+
+1.	**Who is it for?** 
+
+	Any user, new vs. returning, admin vs. regular, free vs. premium? New users benefit from more precise instruction. Telling a new sign up to change their notifications “in preferences” isn't clear; most likely they don't know where preferences is or what icon represents it.
+
+2.	**When they do see this message?** 
+
+	Does this appear as a reaction to a user action, or is it something that is processed behind the scenes (e.g. charging a credit card). Does it appear immediately? Does the user expect it? 
+
+3.	**What do they need to know?** Self explanatory.
+
+4.	**What must they do now**, if anything? 
+
+	Often messages have a next step attached; something you'd like the user to do or decide. This should be the logical conclusion of the message.
+
+5.	**How is this communicated?** 
+
+	On screen, pop-up, by email, app notification, SMS? Everything that's good for something is bad for something else.
+
+6.	**What are they feeling?** 
+
+	In relation to the action they're performing. Surprise and delight (something unexpected happened), or pride and joy (they just completed a purchase), frustration and stress (their payment hasn't been accepted), uncertainty (will I receive my package in time?), annoyance (why do I have to give you my email address?).
+
+7.	**What tone does it speak in?** 
+
+	Casual & friendly, or cute and fun, or business English, formal vs. informal, clear vs. clever, etc. This is driven by the brand and depends on user's (likely) feelings. OKCupid can be flirty, and Mailchimp can be fun. A investment website should probably be neither. Productivity apps are best kept clear and precise. The tone of your app is an easy way to stand out, just be sure to stand out for the right reasons.
+
+All together now..
+
+
+Message for		| ...
+-------------	| -------
+to tell them 	| 
+so they 			| 
+Displayed via	| 
+when 					| 
+Tone 					| 
+
+#### Examples 
+
+Message for		| purchasing customers
+-------------	| -------
+to tell them 	| their order is enroute 
+so they 			| know what's up and feel happy 
+Displayed via	| email 
+when 					| immediately upon order
+Tone 					| fun, make them laugh
+
+Can you think of a few ways to write this message?
+
+Message for		| new members of your social network
+-------------	| -------
+to tell them 	| about a new feature (import Facebook contacts)
+so they 			| can find and connect to existing FB friends
+Displayed via	| in-app alert (pop-up) 
+when 					| after they logged in
+Tone 					| informal, clear (not clever)
+
+Can you think of a few ways to write this message?
+
+### Your turn
+
+1. Create a new MarkDown document.  
+* **Warm up** 
+ 
+	Copy-paste the two examples above. For each example, write at least 3 messages that address the situation described.
+* **Get real**
+ 
+	Choose at least 3 scenarios in your project that could do with some micro-copywriting. Pick labels or messages that aren’t coming to you easily. You probably have stumbled across something tricky whilst making your prototype.
+	
+	For each scenario, fill in the table (you can copy-paste the blank table above) and then write at least 3 options.
+
+
+# Exercises in style
+
+[![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/queneau.jpg)](http://en.wikipedia.org/wiki/Raymond_Queneau)
+
+A bit about Raymond: he liked to play with language(s), as a translator and as a writer. Founded [Oulipo](http://en.wikipedia.org/wiki/Oulipo) (Ouvroir de littérature potentielle, *workshop of potential literature*).
+
+> One of Queneau's most influential works is [Exercises in Style](http://en.wikipedia.org/wiki/Exercises_in_Style), which tells the simple story of a man's seeing the same stranger twice in one day. It tells that short story in **99 different ways**, demonstrating the tremendous variety of styles in which storytelling can take place.
+ 
+There's also a comic *remix* of his exercises, which you can find [here](http://www.exercisesinstyle.com/exercises).
+
+### Your turn
+
+#### 1. De-face your competitor (warm up)
+
+1. Pick one of your competitors, choose a page from their site.
+* Save that page to your computer (`Save as Webpage, Complete`), because you're going to change its copy.
+* Taking inspiration from Queneau's *Exercises in Style*, re-write that page in at least 2 different ways. 
+
+	Focus on microcopy (labels of buttons and links, calls to action, headlines and sub-headlines, etc.). For each element consider several options, from the most standard and obvious to the most uncommon or extravagant. You can also pick a metaphor and dress the interface up with it (using nouns, verbs and cultural references which belong to that context).
+* Compare and discuss the results with the class.
+	
+
+#### 2. Hack your design
+
+Taking inspiration from Queneau's *Exercises in Style*, pick one screen of your social network and write 3 different versions of its interface copy.
+
+
+
+
+
+# Assignment
+
+1. Test your 3 different versions with 2 people face2face, and on UsabilityHub. Prepare a report (MarkDown to GitHub) on your findings: *what happened and why*?
+
+2. [ ] Itamar's brief
+
+
+<!--- [ ] Joining the dots: interviews > personas > wireframes > user stories-->
+- [ ] [Niche social networks](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks)? 
