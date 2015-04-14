@@ -20,7 +20,7 @@ And yet, people (most people) come to our websites/apps **hungry for content**.
 
 They want to find information and do something with it: **usable, useful content**.
 
-They don't care about our *parallax scrolling*, *animated SVG* or whatever is trendy among us. <!--Not as much as we (the designers) do.--> This is not to say that we should bin all the subtle details that can make a UX delightful, but rather that we should talk about the elephant in the room: *content*.
+They don't care about our *parallax scrolling*, *animated SVG* or whatever is trendy among us. This is not to say that we should bin all the subtle details that can make a UX delightful, but rather that we should talk about the elephant in the room: *content*.
 
 ![](http://alistapart.com/d/_made/d/ALA274_consthalvorsen_300_960_576_81.jpg)
 
@@ -37,7 +37,7 @@ An umbrella term for a set of practices (methods, workflows) that can help you a
 * How can content bridge the space between user needs and business goals?
 * What is our current content? *Content audit*
 * How is it organised? *Content attributes, gap analysis*
-* Who is creating our content? <!--editorial or *UGC*?-->
+* Who is creating our content?
 * Who is in charge of managing the content we (or our users) produce? *Content governance*
 * How often are we publishing content? *Content workflow*
 * What kind of *language* and *tone of voice* do we use to engage our audience(s)?
@@ -62,7 +62,9 @@ Three assumptions to discuss.
 
 Agree or disagree?
 
-Outside of metaphor, what does the kebab stand for, in UX design terms? <!--The **content** or the **interface**? -->
+Outside of metaphor, what does the kebab stand for, in UX design terms? 
+
+<!-- The **content** or the **interface**? -->
 
 > An **interface** is not intrinsically good or bad, but it all depends on how **quickly** the user wants to achieve her **goal**.
 
@@ -82,7 +84,7 @@ Agree or disagree?
 
 What's the job of an interface then?
 
-> Sometimes I order a kebab without sauce, but because I want to avoid dirtying myself.
+> Sometimes I order a kebab without sauce, because I want to avoid dirtying myself.
 
 What is the sauce, outside of metaphor? 
 
@@ -114,7 +116,7 @@ As [they say](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_De
 
 <!--You can't base your design decisions on the *final content*. -->
 
-If you don't have suitable content to hand, simply write your own **proto-content**. You're not aiming for perfection. You're aiming for **insights and validation**.
+If you don't have suitable content to hand, simply write your own **proto-content** (not *Lorem Ipsum*). You're not aiming for perfection. You're aiming for **insights** that will inform your design.
 
 Even bad copywriting can be useful to trigger a conversation and call for good content. See the [McDonald's theory](https://medium.com/@ienjoy/mcdonalds-theory-9216e1c9da7d).
 
@@ -128,29 +130,29 @@ Even bad copywriting can be useful to trigger a conversation and call for good c
 
 1.	**Who is it for?** 
 
-	Any user, new vs. returning, admin vs. regular, free vs. premium? New users benefit from more precise instruction. Telling a new sign up to change their notifications “in preferences” isn't clear; most likely they don't know where preferences is or what icon represents it.
+	> Any user, new vs. returning, admin vs. regular, free vs. premium? New users benefit from more precise instruction. Telling a new sign up to change their notifications "in preferences" isn't clear; most likely they don't know where preferences is or what icon represents it.
 
-2.	**When they do see this message?** 
+2.	**When do they see this message?** 
 
-	Does this appear as a reaction to a user action, or is it something that is processed behind the scenes (e.g. charging a credit card). Does it appear immediately? Does the user expect it? 
+	> Does this appear as a reaction to a user action, or is it something that is processed behind the scenes (e.g. charging a credit card). Does it appear immediately? Does the user expect it? 
 
 3.	**What do they need to know?** Self explanatory.
 
 4.	**What must they do now**, if anything? 
 
-	Often messages have a next step attached; something you'd like the user to do or decide. This should be the logical conclusion of the message.
+	> Often messages have a next step attached; something you'd like the user to do or decide. This should be the logical conclusion of the message.
 
 5.	**How is this communicated?** 
 
-	On screen, pop-up, by email, app notification, SMS? Everything that's good for something is bad for something else.
+	> On screen, pop-up, by email, app notification, SMS? Everything that's good for something is bad for something else.
 
 6.	**What are they feeling?** 
 
-	In relation to the action they're performing. Surprise and delight (something unexpected happened), or pride and joy (they just completed a purchase), frustration and stress (their payment hasn't been accepted), uncertainty (will I receive my package in time?), annoyance (why do I have to give you my email address?).
+	> In relation to the action they're performing. Surprise and delight (something unexpected happened), or pride and joy (they just completed a purchase), frustration and stress (their payment hasn't been accepted), uncertainty (will I receive my package in time?), annoyance (why do I have to give you my email address?).
 
 7.	**What tone does it speak in?** 
 
-	Casual & friendly, or cute and fun, or business English, formal vs. informal, clear vs. clever, etc. This is driven by the brand and depends on user's (likely) feelings. OKCupid can be flirty, and Mailchimp can be fun. A investment website should probably be neither. Productivity apps are best kept clear and precise. The tone of your app is an easy way to stand out, just be sure to stand out for the right reasons.
+	> Casual and friendly, or cute and fun, or business English, formal vs. informal, clear vs. clever, etc. This is driven by the brand and depends on user's (likely) feelings. OKCupid can be flirty, and Mailchimp can be fun. A investment website should probably be neither. Productivity apps are best kept clear and precise. The tone of your app is an easy way to stand out, just be sure to stand out for the right reasons.
 
 All together now..
 
@@ -187,7 +189,7 @@ Can you think of a few ways to write this message?
 
 ### Your turn
 
-1. Create a new MarkDown document.  
+1. Create a new MarkDown document in your folder inside this *repo*.  
 * **Warm up** 
  
 	Copy-paste the two examples above. For each example, write at least 3 messages that address the situation described.
@@ -202,38 +204,69 @@ Can you think of a few ways to write this message?
 
 [![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/queneau.jpg)](http://en.wikipedia.org/wiki/Raymond_Queneau)
 
-A bit about Raymond: he liked to play with language(s), as a translator and as a writer. Founded [Oulipo](http://en.wikipedia.org/wiki/Oulipo) (Ouvroir de littérature potentielle, *workshop of potential literature*).
+A bit about Raymond: he liked to play with language(s), as a translator and as a writer. Founded [Oulipo](http://en.wikipedia.org/wiki/Oulipo) (Ouvroir de littérature potentielle = *workshop of potential literature*, where people explored the possibilities of natural language by mashing it up with maths, rules from games etc.).
 
-> One of Queneau's most influential works is [Exercises in Style](http://en.wikipedia.org/wiki/Exercises_in_Style), which tells the simple story of a man's seeing the same stranger twice in one day. It tells that short story in **99 different ways**, demonstrating the tremendous variety of styles in which storytelling can take place.
- 
+One of Queneau's most influential works is [Exercises in Style](http://en.wikipedia.org/wiki/Exercises_in_Style), which tells the **same short story in 99 different ways**, demonstrating the tremendous variety of styles in which storytelling can take place.
+
+It's a journey through different types of 
+
+* speech
+* written prose
+* poetry styles
+* character sketches
+* grammatical forms
+* rhetorical forms
+* jargons
+* permutations
+* weirdness
+
 There's also a comic *remix* of his exercises, which you can find [here](http://www.exercisesinstyle.com/exercises).
 
 ### Your turn
 
+Queneau's *Exercises in Style* goes beyond storytelling. It is an exploration of **communication patterns**. 
+
+Let's see if we can apply his method to **explore communication patterns in interface design**: how many ways of communicating the same small event can you think of?
+
 #### 1. De-face your competitor (warm up)
 
 1. Pick one of your competitors, choose a page from their site.
-* Save that page to your computer (`Save as Webpage, Complete`), because you're going to change its copy.
-* Taking inspiration from Queneau's *Exercises in Style*, re-write that page in at least 2 different ways. 
 
-	Focus on microcopy (labels of buttons and links, calls to action, headlines and sub-headlines, etc.). For each element consider several options, from the most standard and obvious to the most uncommon or extravagant. You can also pick a metaphor and dress the interface up with it (using nouns, verbs and cultural references which belong to that context).
-* Compare and discuss the results with the class.
+2. Save that page to your computer (`Save as Webpage, Complete`), because you're going to change its copy.
+
+3. Taking inspiration from Queneau's *Exercises in Style*, re-write that page in at least 2 different ways. 
+
+	Focus on microcopy (labels of buttons and links, calls to action, headlines and sub-headlines, etc). 
 	
+	For each element consider several options, from the most standard and obvious to the most uncommon or extravagant. 
+	
+	You can also pick a metaphor and dress the interface up with it (using nouns, verbs and cultural references which belong to that context).
+
+4. Compare and discuss the results with the class.
+ 
+5. Back your work up on GitHub.
+
 
 #### 2. Hack your design
 
-Taking inspiration from Queneau's *Exercises in Style*, pick one screen of your social network and write 3 different versions of its interface copy.
+Taking inspiration from Queneau's *Exercises in Style*, pick one screen of your social network and write 3 different variations of its interface copy.
+
+Make sure you save every variation, as you'll need it as user-testing material.
 
 
 
+# Assignments
 
+1. **Test** your 3 *Exercises in Style* variations with 2 people face-to-face, AND on [UsabilityHub](https://usabilityhub.com). Blog about your findings: *what happened and why* (use MarkDown and save to GitHub)?
 
-# Assignment
+2. In preparation for next week's guest lecture, write a **brief description** (max 2 paragraphs) of your social network concept, including the following information:
 
-1. Test your 3 different versions with 2 people face2face, and on UsabilityHub. Prepare a report (MarkDown to GitHub) on your findings: *what happened and why*?
+	* Who is it for?
+	* How does it work?
+	* What is unique about it?
+	* Where are you currently in the design process?
 
-2. [ ] Itamar's brief
 
 
 <!--- [ ] Joining the dots: interviews > personas > wireframes > user stories-->
-- [ ] [Niche social networks](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks)? 
+<!--- [ ] [Niche social networks](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks)? -->
