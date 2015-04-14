@@ -3,7 +3,7 @@
 ### Today, Tuesday 14th April 2015
 
 1. Content strategy
-* Copywriting
+* Copywriting (not copyright)
 * Exercises in style
 
 # Content first
@@ -114,7 +114,7 @@ As [they say](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_De
 
 > Icons with names, form fields with examples, buttons with labels, step by step instructions in a process, a clear explanation of your refund policy. These are all interface design.
 
-<!--You can't base your design decisions on the *final content*. -->
+By the way, [*copywriting*](http://dictionary.reference.com/browse/copywriting) is not the same as [*copyright*](http://dictionary.reference.com/browse/copyright).
 
 If you don't have suitable content to hand, simply write your own **proto-content** (not *Lorem Ipsum*). You're not aiming for perfection. You're aiming for **insights** that will inform your design.
 
