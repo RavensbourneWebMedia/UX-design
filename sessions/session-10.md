@@ -237,7 +237,7 @@ It's a journey through different types of
 * permutations
 * weirdness
 
-There's also a comic *remix* of Queneau's method.
+There's also a comic *remix* of Queneau's *Exercises*, by [Matt Madden](http://www.exercisesinstyle.com/about/mattmadden).
 
 ![](http://www.exercisesinstyle.com/images/exercises/16-welcometo.gif)
 
