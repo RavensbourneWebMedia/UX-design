@@ -237,7 +237,31 @@ It's a journey through different types of
 * permutations
 * weirdness
 
-There's also a comic *remix* of his exercises, which you can find [here](http://www.exercisesinstyle.com/exercises).
+There's also a comic *remix* of Queneau's method.
+
+![](http://www.exercisesinstyle.com/images/exercises/16-welcometo.gif)
+
+![](http://www.exercisesinstyle.com/images/exercises/01-template.gif)
+
+![](http://www.exercisesinstyle.com/images/exercises/02-monologue.gif)
+
+![](http://www.exercisesinstyle.com/images/exercises/04-subjective.gif)
+
+![](http://www.exercisesinstyle.com/images/exercises/03-upstairs.gif)
+
+![](http://www.exercisesinstyle.com/images/exercises/19-onepanel.gif)
+
+![](http://www.exercisesinstyle.com/images/exercises/20-thirtypanels.gif)
+
+![](http://www.exercisesinstyle.com/images/exercise/95-humor.gif)
+
+![](http://www.exercisesinstyle.com/images/exercise/superhero.gif)
+
+![](http://www.exercisesinstyle.com/images/exercise/85-difftext.gif)
+
+![](http://www.exercisesinstyle.com/images/exercises/10-howto.gif)
+
+You can find the rest of the *Exercises in Style* comic [here](http://www.exercisesinstyle.com/exercises).
 
 ### Your turn
 
