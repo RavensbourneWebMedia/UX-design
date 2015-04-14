@@ -165,7 +165,7 @@ Displayed via	|
 when 					| 
 Tone 					| 
 
-#### Examples 
+#### Example 1 
 
 Message for		| purchasing customers
 -------------	| -------
@@ -175,7 +175,20 @@ Displayed via	| email
 when 					| immediately upon order
 Tone 					| fun, make them laugh
 
-Can you think of a few ways to write this message?
+Can you think of better ways to write this email?
+______
+Subject: Your order with ShopName
+
+Dear X,
+
+Thank **you** for your order!
+
+*Bla bla..*
+
+Check out more stuff [here](http://example.com)
+_____
+
+#### Example 2 
 
 Message for		| new members of your social network
 -------------	| -------
@@ -185,7 +198,11 @@ Displayed via	| in-app alert (pop-up)
 when 					| after they logged in
 Tone 					| informal, clear (not clever)
 
-Can you think of a few ways to write this message?
+Can you think of better ways to write this pop-up?
+______
+Feeling a bit lonely here? [Import your Facebook friends](http://example.com)!
+_____
+
 
 ### Your turn
 
