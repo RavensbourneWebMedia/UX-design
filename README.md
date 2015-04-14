@@ -80,12 +80,12 @@ Session	| Date			| In class				| Assignment
 [7](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-07.md)		| Tue Feb 24th 	| User-testing  | User-testing
 [8](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-08.md)		| Tue Mar 3rd 	| Tutorials  | Prepping presentation
 [9](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-09.md)		| **Tue Mar 10th** 	| Formative Assessment  | Plan of action
-[10](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-10.md)		| Tue Apr 14th 	| User stories  | User stories
-[11](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-11.md)		| Tue Apr 21st 	| Prototyping  | Prototyping
-[12](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-12.md)		| Tue Apr 28th 	| Prototyping  | User-testing
-[13](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-13.md)		| Tue May 5th 	| A/B testing  | A/B testing
-[14](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-14.md)		| Tue May 12th 	| Copywriting and SEO  | Exercise in style
-[15](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-15.md)		| Tue May 19th 	| Content choreography  | Prototyping
+[10](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-10.md)		| Tue Apr 14th 	| Copywriting<br>Exercises in style  | User-testing<br>Elevator's pitch
+[11](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-11.md)		| Tue Apr 21st 	| Guest: Michael Mentessi <br>Communities  | Community planning<br>Interviewing humans
+[12](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-12.md)		| Tue Apr 28th 	| Guest: Itamar Ferrer<br>In-depth interviews  | User-testing: recruiting guinea pigs
+[13](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-13.md)		| Tue May 5th 	| User stories<br>Rapid prototyping | 
+[14](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-14.md)		| Tue May 12th 	| Prototypes critique<br>Behavioural design  | Responsive prototypes
+[15](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-15.md)		| Tue May 19th 	| User-testing  | User-testing
 [16](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-16.md)		| Tue May 26th 	| Prototyping & tutorials  | User-testing
 [17](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-17.md)		| Tue Jun 2nd 	| Tutorials  | Prepping presentation
 [18](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-18.md)		| **Tue Jun 9th** 	| Summative Assessment  | Feedback form 
