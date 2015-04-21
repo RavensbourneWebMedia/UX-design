@@ -1,6 +1,6 @@
 # Designing the UX
 
-## [bit.ly/WEB14204](http://bit.ly/WEB14204)
+<!-- ## [bit.ly/WEB14204](http://bit.ly/WEB14204) -->
 
 This unit introduces you to the methods and tools used to effectively address the needs and circumstances of Web users, to design and produce Web interfaces that are comfortable and even joyful to use.
 
@@ -71,32 +71,32 @@ Examples of broad (bad) user targets:
 
 Session	| Date			| In class				| Assignment
 -------	| -------------	| --------------------	| ------------------------------
-[1](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
-[2](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-02.md)		| Tue Jan 13th 	| Competitor analysis  | Play-acting Web products
-[3](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-03.md)		| Thu Jan 15th 	| User research | User interview
-[4](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-04.md)		| Tue Jan 20th 	| User personas | User personas
-[5](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-05.md)		| Tue Feb 3rd 	| Interface design  | Wireframing
-[6](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-06.md)		| Tue Feb 17th 	| User journeys	 | User journeys
-[7](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-07.md)		| Tue Feb 24th 	| User-testing  | User-testing
-[8](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-08.md)		| Tue Mar 3rd 	| Tutorials  | Prepping presentation
-[9](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-09.md)		| **Tue Mar 10th** 	| Formative Assessment  | Plan of action
-[10](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-10.md)		| Tue Apr 14th 	| Copywriting<br>Exercises in style  | User-testing<br>Elevator's pitch
-[11](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-11.md)		| Tue Apr 21st 	| Guest: Michael Mentessi <br>Communities  | Community planning<br>Interviewing humans
-[12](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-12.md)		| Tue Apr 28th 	| Guest: Itamar Ferrer<br>In-depth interviews  | User-testing: recruiting guinea pigs
-[13](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-13.md)		| Tue May 5th 	| User stories<br>Rapid prototyping | 
-[14](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-14.md)		| Tue May 12th 	| Prototypes critique<br>Behavioural design  | Responsive prototypes
-[15](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-15.md)		| Tue May 19th 	| User-testing  | User-testing
-[16](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-16.md)		| Tue May 26th 	| Prototyping & tutorials  | User-testing
-[17](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-17.md)		| Tue Jun 2nd 	| Tutorials  | Prepping presentation
-[18](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-18.md)		| **Tue Jun 9th** 	| Summative Assessment  | Feedback form 
+[1](session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
+[2](session-02.md)		| Tue Jan 13th 	| Competitor analysis  | Play-acting Web products
+[3](session-03.md)		| Thu Jan 15th 	| User research | User interview
+[4](session-04.md)		| Tue Jan 20th 	| User personas | User personas
+[5](session-05.md)		| Tue Feb 3rd 	| Interface design  | Wireframing
+[6](session-06.md)		| Tue Feb 17th 	| User journeys	 | User journeys
+[7](session-07.md)		| Tue Feb 24th 	| User-testing  | User-testing
+[8](session-08.md)		| Tue Mar 3rd 	| Tutorials  | Prepping presentation
+[9](session-09.md)		| **Tue Mar 10th** 	| Formative Assessment  | Plan of action
+[10](session-10.md)		| Tue Apr 14th 	| Copywriting<br>Exercises in style  | User-testing<br>Elevator's pitch
+[11](session-11.md)		| Tue Apr 21st 	| Guest: Michael Mentessi <br>Communities  | Community planning<br>Interviewing humans
+[12](session-12.md)		| Tue Apr 28th 	| Guest: Itamar Ferrer<br>In-depth interviews  | User-testing: recruiting guinea pigs
+[13](session-13.md)		| Tue May 5th 	| User stories<br>Rapid prototyping | 
+[14](session-14.md)		| Tue May 12th 	| Prototypes critique<br>Behavioural design  | Responsive prototypes
+[15](session-15.md)		| Tue May 19th 	| User-testing  | User-testing
+[16](session-16.md)		| Tue May 26th 	| Prototyping & tutorials  | User-testing
+[17](session-17.md)		| Tue Jun 2nd 	| Tutorials  | Prepping presentation
+[18](session-18.md)		| **Thu Jun 4th** 	| Summative Assessment  | Feedback form 
 
 
 # Assessment criteria
 
 Your final mark will be based on:
 
-* [75% project](https://github.com/RavensbourneWebMedia/WEB14204#project)
-* [25% blog](https://github.com/RavensbourneWebMedia/WEB14204#blog)
+* [75% project][#project]
+* [25% blog][#blog]
 
 
 ## Project
