@@ -273,7 +273,7 @@ Let's see if we can apply his method to **explore communication patterns in inte
 
 1. Pick one of your competitors, choose a page from their site.
 
-2. Save that page to your computer (`Save as Webpage, Complete`), because you're going to change its copy.
+2. Save that page to your computer (`Save as Webpage, Complete`), because you're going to change its copy (you may want to take out all the `<script ...></script>` parts, as they could interfere with your edits).
 
 3. Taking inspiration from Queneau's *Exercises in Style*, re-write that page in at least 2 different ways. 
 
@@ -311,3 +311,10 @@ Make sure you save every variation, as you'll need it as user-testing material.
 
 <!--- [ ] Joining the dots: interviews > personas > wireframes > user stories-->
 <!--- [ ] [Niche social networks](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks)? -->
+
+
+<!--
+
+make email message with <select> dropdowns (tomorrow, 20 April, Mon 20 Apr) etc
+
+-->
