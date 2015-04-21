@@ -65,10 +65,28 @@ Remember that when tested, people want to *win* or *get it right*, so make sure 
 
 ### Next term
 
-* Develop the blank slate and onboarding process
+* Develop the blank slate and *onboarding* process
 * Keep presentations within time slots (which means, rehearse and time yourself)
 * Community ranking / reputation
 * Content strategy: UGC, editorial control, brands and advertising, spam
 * Search and search results
-* How to deal with trolls? Self-censoring community, reactive moderation, reporting, downvoting etc
+* How to deal with trolls? Self-censoring community, reactive moderation, reporting, down-voting etc
 * I forgot my password, again. How do you deal with this problem, without embarrassing people?
+
+## Session 10
+
+*Content is kebab* went really well: engaging and fun metaphor, sparked a lot of conversation because statements were provoking.
+
+Need to engage some students more. Ask them questions directly:
+`What do you think?`
+`Do you agree with what s/he just said?`
+`In summary, {...}, does it make sense?`
+
+*Exercises in Style*: people found the idea weird and funny, however it felt a bit unstructured and they drifted away (already when choosing competitors). Some ideas:
+
+* make them pick one metaphor and re-dress an interface with that metaphor (remember the Lego workshop?), eg: military context
+* make them pick one type of prose, eg: formal language, or report-speech, surprises!
+* make them work in pairs
+* make them work on the same site and then present (competition)
+* give them a strict time frame and don't allow them to get distracted
+
