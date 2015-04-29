@@ -52,6 +52,7 @@ We could use Trello for this, amirite? players > lists, actions > cards.. what a
 ## Process
 
 - [ ] [UX recipe](http://uxrecipe.github.io/)
+- [ ] [UX checklist](https://uxchecklist.github.io/)
 
 ## Wireframes
 
@@ -80,6 +81,10 @@ Group discussion on which pages / screens to wireframe?
 - [ ] [Ionic HTML5 app framework](http://ionicframework.com)
 - [ ] [Balsamiq](https://balsamiq.com/download/) or some better wireframing tool, possibly free? Moqups
 - [x] [Frontify](https://frontify.com)
+
+## Resources
+
+- [ ] [PatternTap](http://zurb.com/patterntap)
 
 ## Testing 
 
