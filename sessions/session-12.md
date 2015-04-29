@@ -2,7 +2,7 @@
 
 ### Today, Tuesday 28th April 2015
 
-* Guest lecture: Itamar Ferrer from Engine
+* Guest lecture: [Itamar Ferrer](http://www.ifita.com) from [Engine](http://www.enginegroup.com)
 * [What is service design?](#what-is-service-design)
 * [Customer research](#customer-research)
 * [Issue mapping](#issue-mapping)
@@ -274,7 +274,7 @@ Based on the conclusions of your issue map (see above), start recruiting people 
 
 Find people that are potential users of your social network, and possibly not your mum / dad / brother / sister / boyfriend / girlfriend.
 
-More on interviewing [here](session-03.md#good-practices-for-user-research) and [here](https://medium.com/research-things/interviewing-humans-fa198f809c40)
+More on interviewing [here](session-03.md#good-practices-for-user-research) and [here](https://medium.com/research-things/interviewing-humans-fa198f809c40).
 
 Your interview / user-testing must be scheduled **before the 19th of May**. Don't leave it till last minute.
 
