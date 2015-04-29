@@ -90,3 +90,12 @@ Need to engage some students more. Ask them questions directly:
 * make them work on the same site and then present (competition)
 * give them a strict time frame and don't allow them to get distracted
 
+
+## Session 12
+
+> Put your laptops away :)
+
+Ask about their projects and then keep referring to them as examples for concepts introduced.
+
+Students said it would have been even more useful to have this session in the first half of the project.
+
