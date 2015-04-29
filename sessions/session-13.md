@@ -1,13 +1,26 @@
-## Session 13	
+# Session 13	
 
-##### Tuesday 5th May 2015
+### Today, Tuesday 5th May 2015
 
 * User-testing: A/B testing and analytics	
+### WORKSHOP: User stories
 
-##### Assignment
+Useful to describe and break down the basic units of functionality of your product.
 
-Plan and implement an A/B test for one of your screens
+More on [user stories](http://www.usabilitycounts.com/2013/10/11/why-i-love-user-stories) and [acceptance criteria](http://www.agilelearninglabs.com/2013/04/user-story-splitting-three/)
 
-##### Notes
+### Rapid prototyping
 
-- [ ] Need to find a good service for A/B testing. 
+Answering **specific questions** (design, usability, technical).
+
+### WORKSHOP: Invision
+
+Using [Invision](http://blog.invisionapp.com/6-ways-to-save-time-in-rapid-prototyping), let’s start prototyping two user flows:
+
+* onboarding process
+
+* a problematic scenario (of your choice)
+
+### Homework
+
+1. Blog: [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil) 
