@@ -1,14 +1,18 @@
 # Session 11
 
 ### Today, Tuesday 21st April 2015	
-1. Communities
-2. Community planning
+* Special guest: [Michael Mentessi](http://twitter.com/michaelmentessi) 
+* [Communities](#communities)
+* [What is a community manager?](#what-is-a-community manager)
+* [My communities](#my-communities)
+* [Community planning](#community-planning-exercise)
+* [Crafting emails](#engagement-exercise) 
 
-Joint session with Level 1 students 
+This is a joint session with Level 1 students 
+
+Your [homework](#assignments)!
 
 # Communities
-
-Special guest: [Michael Mentessi](http://twitter.com/michaelmentessi)
 
 Watch [Community (the TV series)](http://en.wikipedia.org/wiki/Community_%28TV_series%29)
 
@@ -263,7 +267,7 @@ Write a short introduction email to a new member of your community.
 > Thank you for you precipitation
 
 
-# Assignments for the next session
+# Assignments
 
 1. Finish writing the email from the [exercise](#engagement-exercise) above (MarkDown to GitHub).
  
