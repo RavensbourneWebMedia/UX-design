@@ -1,20 +1,39 @@
+# TO READ AND BLOG
+
+- [ ] [Making things people want](https://blog.intercom.io/making-things-people-want/)
+* [The unexotic underclass](http://miter.mit.edu/the-unexotic-underclass) (first term)
+* [Transitional interfaces](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3) (second term)
+* [We're designers](http://articles.morganallanknutson.com/were-designers) (bah)
+* [Interfaces in need](https://medium.com/@gbks/interfaces-in-need-fa21105102c6) (first term)
+* [History of UX](http://blog.invisionapp.com/a-brief-history-of-user-experience)(first term)
+- [ ] [On walkthroughs](http://www.dtelepathy.com/blog/design/ux-flows-how-when-to-design-app-walkthrough) (second term)
+- [ ] [More on walkthroughs](http://blog.maxrudberg.com/post/38958984259/if-you-see-a-ui-walkthrough-they-blew-it) (second term)
+- [ ] [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil/) (second term)
+- [ ] [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40) before Itamar's session
+- [ ] [Less is more](http://blog.intercom.io/invisible-design)
+- [ ] [The best interface is no interface](http://genius.com/Golden-krishna-the-best-interface-is-no-interface-excerpt-chap-14-annotated)
+
+
+
+
 # TODO
 
-## Planning / lean
+
+### Planning / lean
 
 - [ ] [Effectively Planning UX Design Projects](http://www.smashingmagazine.com/2013/01/24/effectively-planning-ux-design-projects/)
 - [ ] [What is *lean* UX?](http://ux.stackexchange.com/questions/38845/what-is-lean-ux-and-where-can-i-learn-more-about-it)
 - [ ] [What is Lean UX by Mozilla](http://blog.mozilla.org/ux/2014/06/3623/)
 - [ ] [How to choose the right UX metrics for your product](http://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product)
 
-## Onboarding 
+### Onboarding 
 
 - [ ] http://www.growhack.com/2013/08/20/the-best-in-user-onboarding/
 - [x] [Good examples of slightly confusing user onboarding (Instagram)](http://www.useronboard.com/how-instagram-onboards-new-users/) and [SnapChat](http://www.useronboard.com/how-snapchat-onboards-new-users/)
 - [ ] [Design a successful walkthrough](http://www.webdesignerdepot.com/2014/07/how-to-design-a-successful-web-app-walkthrough/)
 
 
-## Research
+### Research
 
 - [ ] [User research from GOV.uk](https://www.gov.uk/service-manual/user-centred-design/user-research)
 - [ ] [An ethnographic research exercise](http://robots.thoughtbot.com/ethnographic-research-exercise)
@@ -23,13 +42,13 @@
 - [ ] Mintel (we have an account from Ravensbourne)
 - [ ] [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40)
 
-## Personas
+### Personas
 
 - [ ] [HTML Template](http://blankdots.com/open/personas)
 
-## User stories
+### User stories
 
-- [ ] [Spliting user stories](http://www.agilelearninglabs.com/2013/05/new-quick-reference-guide-for-splitting-user-stories)
+- [ ] [Splitting user stories](http://www.agilelearninglabs.com/2013/05/new-quick-reference-guide-for-splitting-user-stories)
 - [ ] [Examples and counter-examples](http://blogs.collab.net/agile/user-story-examples-and-counterexamples)
 - [ ] [More examples from Wikipedia](http://en.wikipedia.org/wiki/User_story#Examples)
 - [ ] [How to Tell the User’s Story](https://www.newfangled.com/how-to-tell-the-users-story/)
@@ -45,36 +64,36 @@ A less contrived method could be
 
 We could use Trello for this, amirite? players > lists, actions > cards.. what about chains? what about "duplicate" actions?
 
-## User journeys
+### User journeys
 
 - [x] [user journey maps](http://www.elezea.com/2013/05/one-ux-deliverable)
 
-## Process
+### Process
 
 - [ ] [UX recipe](http://uxrecipe.github.io/)
 - [ ] [UX checklist](https://uxchecklist.github.io/)
 
-## Wireframes
+### Wireframes
 
 Group discussion on which pages / screens to wireframe?
 - [ ] [**Wireframing for web apps**](http://blog.intercom.io/wireframing-for-web-apps)
 
-## UI
+### UI
 
 - [ ] [Use Your Interface](http://useyourinterface.com/)
 - [ ] https://medium.com/@pasql/transitional-interfaces-926eb80d64e3
 
-## Designing for mobile
+### Designing for mobile
 
 - [ ] https://hackdesign.org/lessons/22
 
-## Content and writing
+### Content and writing
 
 - [ ] [Designing Content First for a Better UX](https://blog.gathercontent.com/designing-content-first-for-a-better-ux)
 - [ ] [Writing well for the web by GOV.UK](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
 - [x] [Copywriting is interface design](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php)
 
-## Tools
+### Tools
 
 - [x] [Invision](http://www.invisionapp.com/)
 - [ ] [A breakdown of prototyping tools](http://stephenmeszaros.com/posts/prototyping-tools.html)
@@ -82,18 +101,19 @@ Group discussion on which pages / screens to wireframe?
 - [ ] [Balsamiq](https://balsamiq.com/download/) or some better wireframing tool, possibly free? Moqups
 - [x] [Frontify](https://frontify.com)
 
-## Resources
+### Resources
 
 - [ ] [PatternTap](http://zurb.com/patterntap)
+- [ ] [Remotely possible](http://www.usertesting.com/resources/remotely-possible) free webinars
 
-## Testing 
+### Testing 
 
 - [ ] [UX Key Performance Indicators](http://designmodo.com/ux-kpi)
 - [ ] [Do's and Don'ts of UX testing](http://blog.oboxthemes.com/the-dos-and-donts-of-user-experience-testing/)
 - [ ] [10 things I learned from usability testing](https://blog.kissmetrics.com/100-usability-tests)
 - [ ] http://www.usefulusability.com
 
-## Case studies
+### Case studies
 
 - [ ] [Guardian redesign](http://www.designweek.co.uk/analysis/how-the-guardian-is-rethinking-its-digital-design-language/3038526.article)
 - [ ] [FishBrain](http://www.fishbrain.com), a social network for fishing hobbists. [Monocle interviewed the founder](http://monocle.com/radio/shows/the-entrepreneurs/173)
@@ -101,7 +121,7 @@ Group discussion on which pages / screens to wireframe?
 - [ ] [AirSnb](http://www.airsnb.com)
 
 
-## Misc
+### Misc
 - [ ] Look at the psychology stuff (Dan Lockton)
 - [ ] Research other competitions & briefs for people that are stuck for ideas
 - [ ] [Apps for development](http://data.worldbank.org/news/apps-for-development)
@@ -112,21 +132,6 @@ Group discussion on which pages / screens to wireframe?
 - [ ] [Your brain on stories](http://www.blog.theteamw.com/2014/11/04/your-brain-on-stories)
 - [ ] http://commonsinabox.org
 - [ ] [DoGo mapping](http://uxmag.com/articles/adapting-information-architecture-for-lean-and-agile-environments-with-dogo-mapping)
-
-
-# TO READ
-
-* [The unexotic underclass](http://miter.mit.edu/the-unexotic-underclass) (first term)
-* [Transitional interfaces](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3) (second term)
-* [We're designers](http://articles.morganallanknutson.com/were-designers) (bah)
-* [Interfaces in need](https://medium.com/@gbks/interfaces-in-need-fa21105102c6) (first term)
-* [History of UX](http://blog.invisionapp.com/a-brief-history-of-user-experience)(first term)
-- [ ] [On walkthroughs](http://www.dtelepathy.com/blog/design/ux-flows-how-when-to-design-app-walkthrough) (second term)
-- [ ] [More on walkthroughs](http://blog.maxrudberg.com/post/38958984259/if-you-see-a-ui-walkthrough-they-blew-it) (second term)
-- [ ] [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil/) (second term)
-- [ ] [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40) before Itamar's session
-- [ ] [Less is more](http://blog.intercom.io/invisible-design)
-- [ ] [The best interface is no interface](http://genius.com/Golden-krishna-the-best-interface-is-no-interface-excerpt-chap-14-annotated)
 
 
 # Term 3
