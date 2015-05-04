@@ -24,35 +24,40 @@ The Design Council visualises them as a [*double diamond*](#http://www.designcou
 
 [![](assets/design-double-diamond.png)](http://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)
 
-Where are you now?
+### Where are you now?
 
 <!-- At the start of the Develop phase -->
 
-- [x] Discover
+- [x] **Discover**
 	
+	* Competitor analysis	
 	* User research
-	* Competitor analysis
 	
-- [x] Define
+- [x] **Define**
 	
-	* Personas
+	* User personas
 	* Wireframes
 	* User journeys
+	* Design principles
 	
-- [ ] Develop
+- [ ] **Develop**
 	
+	* Content strategy
+	* Community planning
 	* User stories
 	* Prototype(s)
 	
-- [ ] Deliver
+- [ ] **Deliver**
 	
 	...
 	
-The double diamond is a conceptual model. IRL there are more than four steps...
+### Only four?	
+	
+The double diamond is a *conceptual model*. IRL there are more than four steps.
 
 The design process is **iterative**. 
 
-![](assets/spinning-arrows.gif) ![](assets/spinning-arrows.gif) ![](assets/spinning-arrows.gif) ![](assets/spinning-arrows.gif)
+![](assets/spinning-arrows.gif) ![](assets/spinning-arrows.gif) ![](assets/spinning-arrows.gif) ![](assets/spinning-arrows.gif)  ![](assets/spinning-arrows.gif) ![](assets/spinning-arrows.gif)
 	
 
 # User stories
