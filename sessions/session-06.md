@@ -2,8 +2,9 @@
 
 ### Today, Tuesday 17th February 2015
 
-1. Wireframes critique
-* User journeys	
+1. [Wireframes critique](#wireframes-critique)
+* [User journeys](#user-journeys)	
+Your [homework](#assignments)!
 
 
 
