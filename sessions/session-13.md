@@ -1,3 +1,13 @@
+- [ ] design principles exercise?
+- [x] user stories method
+- [x] spreadsheet clone from GC
+- [ ] identifying gaps for prototyping
+- [ ] prototyping: how do you do it? discussion
+- [ ] semi-tutorials
+- [ ] flesh out assignments
+
+
+
 # Session 13	
 
 ### Today, Tuesday 5th May 2015
@@ -11,7 +21,7 @@ Your [homework](#assignment)!
 
 <!--* User-testing: A/B testing and analytics-->
 
-Check out [UX Checklist](http://uxchecklist.github.io)
+<!--Check out [UX Checklist](http://uxchecklist.github.io)-->
 
 
 # Where are you?
@@ -62,45 +72,100 @@ The design process is **iterative**.
 
 # User stories
 
+Not to be confused with [user journeys](session-06.md#user-journeys).
 
-
-
-
+If a user journey is close to a comic, a user story fits more into a spreadsheet.
 
 ### Personas are not enough
 
+Personas are useful to cluster different people into types (or *archetypes*) and summarise our user research.
+
+Personas illustrate behaviours, attitudes, and motivations of people at a high level.
+
+<!-- add image of persona here -->
+
+When **developing** our products we need **more detail** than what a persona tells us.
+
+<!--Also, sometimes personas are at risk of being *too* imaginary, wishful characters that perfectly fit into your dream customer. -->
+
+### What are user stories?
+
+Plain English sentences that **describe the basic units of functionality** of your product.
+
+Useful to:
+
+* state **product requirements** without writing endless pages of documentation
+* have a **checklist** for software development 
+* not depended on the whims of a stakeholder 
+* get *everyone on the same page*
+
+![](assets/dilbert-userstories.jpg)
+
+This guy [:heart: user stories](http://www.usabilitycounts.com/2013/10/11/why-i-love-user-stories).
+
+In one sentence, a user story encapsulates
+
+* **Who** is this functionality for?
+* **What** does s/he want?
+* **When** does s/he want it?  
+* **Why** is it valuable to the her?
+
+<!-- https://imgflip.com/memegenerator/What-Do-We-Want-3 -->
+
+
+> Who are we?
+![](assets/who-are-we.png)
+
+> What do we want?
+![](assets/who-are-we.png)
+
+> When do we want it?
+![](assets/who-are-we.png)
+
+> Why?
+![](assets/who-are-we.png)
+
+
+### The actual format
+
+As a `who?`, I want to `what?`, so that `why?` [`when`]
+
+#### Examples
+
+* As `an administrator`, I want to `search for my customers by their first and last names`, so that `I quickly find specific people to contact`.
+* As `a user`, I want to `start the application with the last edit`.
+* As `a user`, when `closing the application`, I want to `be prompted to save anything that has changed since the last save` so that `I don't lose work`.
+* As `a student`, I want to `find my grades online` so that `I don't have to wait until the next day to know whether I passed`.
+* As `a book shopper`, I want to `read reviews of a selected book` to `help me decide whether to buy it`.
+* As `an author`, I want `the spell checker to ignore words with numbers` so that `only truly misspelled words are indicated`.
+
+### How do you write user stories?
+
+1. Brainstorm and jot down **players** in the **system** (based on your personas), eg: visitor, potential customer, new customer, customer, system admin, developer, content editor
+* For each player, jot down **actions** s/he may want to do, eg: read about the service, get contact details, find info about opening times.. 
+* For each action think about `before I do that, I need to` chains.
+* Separate actions between **tasks** (intermediate in a chain) and **goals** (end of chain) 
+* Map actions to players (one action could be assigned to more than one player)
+* Write a user story for each action assigned to a player, from the player perspective.
+* WHO and WHAT are required, WHY and WHEN are optional
+* Organise actions that the system must / could / shouldn't allows players to do
+
+
+### Your turn
+
+1. Open [this spreadsheet](https://docs.google.com/a/rave.ac.uk/spreadsheets/d/1JDf-xhG0sT9GIfxyyfNSad3gAw3rWxgcVcE8BGo4t4A/edit?usp=sharing)
+2. Duplicate the `_blank` sheet and give it your name
+3. Jot down stories following the steps above
 
 
 
 
 
-
-
-Useful to describe and break down the basic units of functionality of your product.
-
-More on [user stories](http://www.usabilitycounts.com/2013/10/11/why-i-love-user-stories) and [acceptance criteria](http://www.agilelearninglabs.com/2013/04/user-story-splitting-three/)
-
-- [ ] spreadsheet
-
-
-
-
-
-- [ ] [Spliting user stories](http://www.agilelearninglabs.com/2013/05/new-quick-reference-guide-for-splitting-user-stories)
+<!-- and [acceptance criteria](http://www.agilelearninglabs.com/2013/04/user-story-splitting-three/)
+- [ ] [Splitting user stories](http://www.agilelearninglabs.com/2013/05/new-quick-reference-guide-for-splitting-user-stories)
 - [ ] [Examples and counter-examples](http://blogs.collab.net/agile/user-story-examples-and-counterexamples)
 - [ ] [More examples from Wikipedia](http://en.wikipedia.org/wiki/User_story#Examples)
-- [ ] [How to Tell the User’s Story](https://www.newfangled.com/how-to-tell-the-users-story/)
-
-A less contrived method could be
-
-1. brainstorm and jot down **players** in the **system** (could be based on your personas), eg: visitor, potential customer, new customer, customer, system admin, developer, content editor
-* for each player, jot down **actions** s/he may want to do, eg: read about the service, get contact details, find info about opening times.. 
-* for each action think about `before i do that, i need to` chains.. or in a gaming frame `in order to unlock this action/skill, i need to`
-* separate actions between **tasks** (intermediate in a chain) and **goals** (end of chain) 
-* map actions to players (one action could be assigned to more than one player)
-* organise actions that the system must / could / shoudn't allows players to do
-
-We could use Trello for this, amirite? players > lists, actions > cards.. what about chains? what about "duplicate" actions?
+- [ ] [How to Tell the User’s Story](https://www.newfangled.com/how-to-tell-the-users-story/)-->
 
 
 
@@ -113,38 +178,12 @@ We could use Trello for this, amirite? players > lists, actions > cards.. what a
 
 
 
-[Job stories](http://insideintercom.io/using-job-stories-design-features-ui-ux/) are a simple and effective way to describe and break down the **basic units of functionality** of a system, focusing on **causality**, **anxieties** and **motivations**.
 
-The basic idea behind job stories is that _people hire products/services to do jobs for them._
 
-The format of a job story is:
 
-<undefined>*   **when _, I want __, so that I can ___.***   **situation → motivation → outcome**</undefined>
 
-Keep in mind that job stories describe jobs to be done, **not solutions**.
 
-1.  Start with a high level job.
-2.  Identify a smaller job or jobs which help resolve the higher level job.
-3.  Observe [how people solve the problem now](http://insideintercom.io/making-things-people-want/) (which job do they currently use).
-4.  Come up with a job story, or job stories, that investigate the causality, anxieties, and motivations of what they do now.
-5.  Finally,  think of a solution (usually in the form of a website new feature or  changes to an existing feature) which addresses that job story.
 
-Eg: let’s consider the scenario of a customer that wants to get in touch to the website owner.
-
-1.  Typical first attempt: _When  a customer wants to get in touch with the website owner, s/he wants  to... get in touch with the website owner, so that s/he can... get in  touch with the website owner._ Obviously this is not a good job story. Why?
-2.  Let’s address the outcome (_so that..._).  Ask yourself: why does the customer want to get in touch with the  website owner? What does she want from the website owner? What job does  she want the site to do for her?
-
-*   _When  a customer wants to get in touch with the website owner, s/he wants  to... get in touch with the website owner, so that s/he can book her  tickets to the next event_ (for instance) 
-
-1.  Let’s address the situation (_when_).  Ask yourself: where is the customer when she is trying to get in touch  with the website owner? Is she in a rush? Is she on the move? Is she  anxious or frustrated about something?
-
-*   _When a customer is checking the availability of tickets for the next event, she’s on her phone, on the bus_ (for instance)_,  anxious that they may have sold out and can’t find out a straight  answer, s/he wants to get in touch with the website owner, so that s/he  can book her tickets to the next event._
-
-*   List down all of the features of your site, even the most obvious ones
-*   The same story can be written from different perspectives (eg: the seller vs the buyer)
-*   Sometimes a top-level, generic story must be broken down into multiple, more specific stories
-
-Collaborative job stories playground on [](http://bit.ly/job-stories)[http://bit.ly/job-stories](http://bit.ly/job-stories)
 
 
 
@@ -174,6 +213,11 @@ Answering **specific questions** (design, usability, technical).
 
 
 
+Produce prototypes that address your user stories
+
+
+
+
 # Invision
 
 Using [Invision](http://blog.invisionapp.com/6-ways-to-save-time-in-rapid-prototyping), let’s start prototyping two user flows:
@@ -185,3 +229,4 @@ Using [Invision](http://blog.invisionapp.com/6-ways-to-save-time-in-rapid-protot
 # Assignment
 
 1. Blog: [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil) 
+2. More prototyping
