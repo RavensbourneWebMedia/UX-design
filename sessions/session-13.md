@@ -260,6 +260,9 @@ Each prototyping tool has its own feature set and strengths. Based on your needs
 * Does it have any **collaboration features**, such as allowing multiple people to work on it at the same time?
 * What are the licensing terms and **costs**?
 
+[![Illustration by Larry Buchanan](assets/prototyping-tools.png)](http://larrybuch.com)
+
+
 ##### Tools to consider
 
 * [Sketch](http://www.bohemiancoding.com/sketch/) [Mac only]
