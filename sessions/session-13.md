@@ -17,7 +17,7 @@
 * [Rapid prototyping](#rapid-prototyping)
 * [Your prototype](#your-turn)
 
-Your [homework](#assignment)!
+Your [homework](#assignments)!
 
 <!--* User-testing: A/B testing and analytics-->
 
@@ -153,7 +153,7 @@ As a `who?`, I want to `what?`, so that `why?` [`when`]
 
 ### Your stories
 
-1. Open [this spreadsheet](https://docs.google.com/a/rave.ac.uk/spreadsheets/d/1JDf-xhG0sT9GIfxyyfNSad3gAw3rWxgcVcE8BGo4t4A/edit?usp=sharing)
+1. Open [**this spreadsheet**](https://docs.google.com/a/rave.ac.uk/spreadsheets/d/1JDf-xhG0sT9GIfxyyfNSad3gAw3rWxgcVcE8BGo4t4A/edit?usp=sharing)
 2. Duplicate the `_blank` sheet and give it your name
 3. Jot down stories following the steps above
 
@@ -234,19 +234,20 @@ Remember, the point of rapid prototyping is to showcase how something will work 
 
 ### DO
 
-* **Work collaboratively** with users, teammates and stakeholders while rapid prototyping. Apart from giving valuable feedback, they also gain a sense of ownership of the final product.
-* Avoid *prototype creep* by **setting expectations** for the process, including ones affecting the purpose, fidelity, scope and duration. Remind everyone, including yourself, that rapid prototyping is a means to an end, not an end in itself.
-* When creating interactive high-fidelity prototypes and simulations, build in **realistic delays** (for instance, for screen refreshing or moving through steps of a transaction), so that users do not expect instant response times from the final product.
+1. **Work collaboratively** with users, teammates and stakeholders while rapid prototyping. Apart from giving valuable feedback, they also gain a sense of ownership of the final product.
 * **Reuse, reuse, reuse**. For computer-based prototyping, this means saving reusable templates, stencils, patterns and widgets for future projects.
+* When creating interactive high-fidelity prototypes and simulations, build in **realistic delays** (for instance, for screen refreshing or moving through steps of a transaction), so that users do not expect instant response times from the final product.
+* Avoid *prototype creep* by **setting expectations** for the process, including ones affecting the purpose, fidelity, scope and duration. Remind everyone, including yourself, that rapid prototyping is a means to an end, not an end in itself.
 * Begin every prototype review session with the disclaimer that **this is just a prototype**, a mock-up, not the actual solution. This reminds users that this is a work in progress, it encourages feedback, and in the case of high-fidelity prototypes, it prevents users from mistaking it for a working solution.
 
 ### DON'T
 
+1. **Don't be a perfectionist**. In most cases, rapid prototyping does not have to be 100% perfect, just **good enough** to give everyone a common understanding.
+* **Don't prototype everything**. Most of the time, you shouldn't have to. A good rule of thumb is to focus on the **20% of the functionality that will be used 80% of the time**, key functionality that will be used most often. 
 * Don't prototype features or functionality that cannot be implemented. When in doubt, confirm with developers before starting.
 * Don't take every change or request that comes out of a prototype review as a new requirement. Rapid prototyping helps capture missed requirements, but these new requirements should be evaluated carefully. Some may be implemented, while others are pushed to a future release.
 * Don't begin prototype review sessions without **clear guidelines for feedback**. Be very specific about the type of feedback you are looking for. (Are the steps logically arranged? Is the navigation clear and intuitive?) If not, be prepared for `I don't like the blue in the header` or `Can't we use this font instead?` or `Can you make this bigger, bolder, in red and flashing?`
-* **Don't be a perfectionist**. In most cases, rapid prototyping does not have to be 100% perfect, just **good enough** to give everyone a common understanding.
-* **Don't prototype everything**. Most of the time, you shouldn't have to. A good rule of thumb is to focus on the **20% of the functionality that will be used 80% of the time**, key functionality that will be used most often. 
+
 
 
 
@@ -269,7 +270,8 @@ Each prototyping tool has its own feature set and strengths. Based on your needs
 * [OmniGraffle](#https://www.omnigroup.com/omnigraffle) [Mac only]
 * [Axure](http://www.axure.com) [Mac and Win]
 * [Balsamiq](https://balsamiq.com/products/mockups) [Mac and Win]
-* [Prott](https://prottapp.com) [Mac only]
+* [Adobe Muse](http://muse.adobe.com) [Mac and Win]
+* [Justinmind](http://www.justinmind.com) [Mac and Win]
 * Photoshop and Illustrator [Mac and Win], check out [Web Zap](http://webzap.uiparade.com)
 * [Framer](http://framerjs.com)  [Mac only] for slick animations
 * [Blocs](http://blocsapp.com) [Mac only] interface builder for Bootstrap
@@ -286,7 +288,7 @@ http://blog.invisionapp.com/11-tips-for-prototyping-with-sketch/-->
 
 ### Your turn
 
-Using [Invision](http://blog.invisionapp.com/6-ways-to-save-time-in-rapid-prototyping), let's start prototyping two user flows:
+Using [Invision](http://invisionapp.com), let's start prototyping two user flows:
 
 * *onboarding* process (everybody should have that)
 * a problematic scenario, aka *edge case* or *unhappy path* (of your choice, depending on gaps you have identified in your user stories)
@@ -325,7 +327,27 @@ Produce prototypes that address [your user stories](#your-stories).
 
 
 
-# Assignment
+# Assignments
 
-1. Blog: [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil) 
-2. More prototyping
+### 1. Blog 
+
+Read and blog this article on UI walkthroughs: [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil) 
+
+* Are you planning to use a UI walkthrough in your product?
+* What's your experience with UI walkthroughs on other products?
+* What could be an innovative way to guide new users through your product? Think wild :)
+
+Once you published your post, tweet about it using the hashtag [#RaveUX](https://twitter.com/hashtag/raveux)
+
+### 2. Prototype
+
+Continue working on [your prototype](#your-turn). 
+
+As a rule of thumb, your prototype should have (at least) one screen per user story. 
+
+We'd like to see 10 screens minimum next week, linked up in [InVision](http://www.invisionapp.com).
+
+![](http://www.invisionapp.com/assets/img/home/animations/prototyping-mockup-mobile.gif)
+
+Next week we'll review your prototypes, discuss challenges, and share tips on the [tools you tried](#tools-to-consider) and methods you experimented with
+
