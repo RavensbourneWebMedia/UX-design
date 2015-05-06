@@ -189,3 +189,10 @@ Upon completion of this unit you will (hopefully) be able to:
 * **Communicate** your ideas both technically and in an engaging way.
 
 * **Back-up** your project files using the Git version-control system (through GitHub).
+
+
+### License
+
+[![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ](http://creativecommons.org/licenses/by-nc-sa/4.0)
