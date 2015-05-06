@@ -2,9 +2,12 @@
 
 ### Today, Tuesday 14th April 2015
 
-1. Content strategy
-* Copywriting (not copyright)
-* Exercises in style
+1. [Content strategy](#content-first)
+* [Content is kebab](#is-content-like-kebab) (or is it?)
+* [Copywriting](#copywriting-is-interface-design) (not copyright)
+* [Exercises in style](#exercises-in-style)
+
+[Your homework](#assignments)!
 
 # Content first
 
