@@ -99,3 +99,11 @@ Ask about their projects and then keep referring to them as examples for concept
 
 Students said it would have been even more useful to have this session in the first half of the project.
 
+## Session 13
+
+Students found **user stories** really useful to 
+
+* spec out discrete functionality 
+* list them all out
+* even come up with new ideas
+
