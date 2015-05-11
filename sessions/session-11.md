@@ -14,11 +14,15 @@ Your [homework](#assignments)!
 
 # Communities
 
+Here's a link to [Michael's presentation](https://drive.google.com/file/d/0Bwa-zerzlWL6bEh3OV9pbGpXYWs/view?usp=sharing)!
+
+[![](assets/community.png)](https://drive.google.com/file/d/0Bwa-zerzlWL6bEh3OV9pbGpXYWs/view?usp=sharing)
+
 Watch [Community (the TV series)](http://en.wikipedia.org/wiki/Community_%28TV_series%29)
 
-[HotBot](http://www.hotbot.com/) was the search engine before Google became hot
+> [HotBot](http://www.hotbot.com/) was the search engine before Google became hot
 
-Technologies change, communities are still there: it's about **people**
+> Technologies change, communities are still there: it's about **people**
 
 ### Takeways
 
