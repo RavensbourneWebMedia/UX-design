@@ -12,6 +12,8 @@
 
 # User-testing
 
+Here's a link to [Amy's presentation](https://drive.google.com/file/d/0Bwa-zerzlWL6WXY1bDRLS2tlX2I0UEVpaklQRy11SWF6MGZ3/view?usp=sharing)!
+
 ### Why?
 
 * Because we can't design on **assumptions** only, we need some **evidence**
