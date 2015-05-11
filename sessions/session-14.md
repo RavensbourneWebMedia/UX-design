@@ -1,14 +1,40 @@
-## Session 14
+# Session 14
 
-##### Tuesday 12th May 2015	
+### Today, Tuesday 12th May 2015	
 
-* Copywriting and Search Engine Optimisation	
+1. [Blog posts review](#blogz)
+* Prototypes critique
+* Cognitification 
 
-##### Assignment
+Your [homework](#homework)!
 
-Exercise in style: pick one screen of your product and write 3 different versions of its interface copy
+# Blogz
 
-##### Notes
+* **25%** of your [final grade for this unit will be based](../README.md#assessment-criteria) on your blog.
 
-* It's about the details
-- [ ] SEO sessional?
+* Blogging is not an exercise to *tick the box* and fill your time. It's an important and effective tool to **document** and **reinforce** your learning. 
+
+* **Documenting** your work is the first step to *productify* your time. Something well-documented can be delegated to someone else (collaborator, employee, client etc). Be smart :)
+
+* Don't limit yourself to the blog posts we assign you to write. **Blog independently**. Include work-in-progress screenshots, hyperlinks, research, inspirations, tweets.. we'll consider these too for your final grade.
+
+Some [blogging tips](https://github.com/RavensbourneWebMedia/blogging#some-tips).
+
+
+
+# Prototypes critique
+
+
+# Cognitification
+
+Each student pick an effect from [CogLode](http://coglode.com), research it and present it to the class. Discuss how effects could be applied to individual projects. 
+
+This activity links to [GoodUI](https://www.goodui.org) 
+
+### Homework
+
+1. Responsive prototypes
+
+2. Blog: [Uber-ification](http://blog.intercom.io/on-magical-software/)
+
+
