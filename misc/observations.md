@@ -107,3 +107,4 @@ Students found **user stories** really useful to
 * list them all out
 * even come up with new ideas
 
+Good to show them a real-world example (Granary Care) and stress that this is a technique used a lot in the industry.
