@@ -12,6 +12,7 @@
 - [ ] [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40) before Itamar's session
 - [ ] [Less is more](http://blog.intercom.io/invisible-design)
 - [ ] [The best interface is no interface](http://genius.com/Golden-krishna-the-best-interface-is-no-interface-excerpt-chap-14-annotated)
+- [ ] [Designing for mobile](http://www.uxbooth.com/articles/designing-for-mobile-part-1-information-architecture/)
 
 
 
