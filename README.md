@@ -159,7 +159,17 @@ The blog should have at least 12 posts.
 Topics from each week:
 
 1. [What are my learning goals?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
-2. More to come..
+2. [Personifications](sessions/session-02.md#assignment-for-the-next-session)
+3. [User interviews](sessions/session-03.md#exercise)
+4. [Make it like the PSD](sessions/session-05.md#2-read-and-comment-this-article)
+5. [The Internet's own boy](sessions/session-06.md#3-blog-about-this-film)
+6. [Remote user testing](sessions/session-07.md#1-blog-about-the-results-of-your-remote-testing)
+7. [The time is ripe for niche social networks](sessions/session-09.md#assignments)
+8. [Your social network in 2 paragraphs](sessions/session-10.md#assignments)
+9. [Interviewing humans](sessions/session-11.md#assignments)
+10. [Issue map](sessions/session-12.md#assignments)
+11. [Are UI walkthroughs evil?](sessions/session-13.md#1-blog)
+12. More to come..
 
 Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
 
