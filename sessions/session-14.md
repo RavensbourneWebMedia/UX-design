@@ -136,8 +136,21 @@ What we want now is not what we aspire to in the future
 
 # Homework
 
-1. Responsive prototypes
+### 1. Prototypes
 
-2. Blog: [Uber-ification](http://blog.intercom.io/on-magical-software/)
+Keep working on your prototypes. You should have ~30 screens by the end of this unit.
+
+### 2. Recruit user-testers 
+
+And bring them to Ravensbourne next week for a collective user-testing session in the afternoon of Tuesday 19th of May. 
+
+<!--See [here](sessions/session-12.md#2-plan-interviews-and-testing) for mode details.-->
+
+### 3. Blog about [magical software](http://blog.intercom.io/on-magical-software/)
+
+* Do you agree with the author? Why?
+* Can any of the trends he writes about be useful to your project? Why?
+
+[![](assets/uberification.gif)](http://blog.intercom.io/on-magical-software/)
 
 
