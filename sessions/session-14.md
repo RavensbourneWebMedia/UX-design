@@ -4,7 +4,7 @@
 
 1. [Blog posts review](#blogz)
 * [Prototypes critique](#prototypes-critique)
-* Cognitification 
+* [Designing behaviours](#designing-behaviours)
 
 Your [homework](#homework)!
 
@@ -73,13 +73,66 @@ Each one of you should have (at least) 10 screens linked up in [Invision](http:/
 
 [How to give designers better feedback](http://blog.invisionapp.com/how-to-give-designers-better-feedback/)
 
-# Cognitification
+# Designing behaviours
 
-Each student pick an effect from [CogLode](http://coglode.com), research it and present it to the class. Discuss how effects could be applied to individual projects. 
+This activity links to [Design Patterns from Session 5](session-05.md#webdesign-patterns). 
 
-This activity links to [GoodUI](https://www.goodui.org) 
+1. Pick an effect from [CogLode](http://coglode.com) 
+2. Research it. 
 
+	Share your research on this [Google document](https://docs.google.com/document/d/1cHS1-0RFSgUBUaL4I4r-caq3V8BjCffkTcsvThR2-Ok/edit?usp=sharing). 
+3. Present it to the class.
 
+	Discuss how the effect you presented could be **applied to your project**, or to **your classmates' projects**. 
+
+![](http://assets.contentful.com/dodh4a5oemo1/eiaDwV9YK4ioQEQ8e6M2s/e21c9188787f0fc67881d328d9faeb30/38_Speak-Easy_Bias_Icon.svg)
+
+### Matt	 ☞ [Optimism Bias](http://coglode.com/gems/optimism-bias) 
+
+When looking to our future, we tend to inflate the good stuff and downplay the bad.
+
+### Margot	☞ [Fresh Start Effect](http://coglode.com/gems/fresh-start-effect)
+
+We'll more likely achieve goals set at the start of a new time period.
+
+### Kimberly ☞ [Nostalgia Effect](http://coglode.com/gems/nostalgia-effect)
+
+Thinking about the past makes us want to pay more now.
+
+### Simeron ☞ [Cashless Effect](http://coglode.com/gems/cashless-effect)
+
+We pay more when we can't actually see the money.
+ 
+### Innocent ☞ [Endowment Effect](http://coglode.com/gems/endowment-effect)
+
+We value something more once we feel we own it.
+
+### Cal ☞ [IKEA Effect](http://coglode.com/gems/ikea-effect)
+
+We place disproportionately-high value on self-made products.
+
+### Liam ☞ [Bye-Now Effect](http://coglode.com/gems/bye-now-effect)
+
+Reading the word `bye` makes us more likely to buy.
+
+### Burak ☞ [Top Ten Effect](http://coglode.com/gems/top-ten-effect)
+
+We break down ordered lists into smaller ones ending in 0 or 5.
+
+### Harry ☞ [Hedonic Adaptation](http://coglode.com/gems/hedonic-adaptation) 
+
+Restricting pleasure increases pleasure.
+
+<!--
+[Anchoring Bias](http://coglode.com/gems/anchoring-bias) 
+We tend to rely too heavily on the first piece of information seen.
+
+[Present Bias](http://coglode.com/gems/present-bias)
+What we want now is not what we aspire to in the future
+
+-->
+
+![](http://assets.contentful.com/dodh4a5oemo1/4bSRuqfXYkyagocQa4yGme/386a6e6b31865d025a7b50d8f7f65611/20_The_Bye-Now_Effect_Icon.svg)
 
 # Homework
 
