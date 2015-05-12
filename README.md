@@ -69,8 +69,8 @@ Examples of broad (bad) user targets:
 
 # Plan
 
-Session	| Date			| In class				| Assignment
--------	| -------------	| --------------------	| ------------------------------
+Session	| Date	| In class		| Assignment
+-------	| -----	| ---------	| -----------
 [1](sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
 [2](sessions/session-02.md)		| Tue Jan 13th 	| Competitor analysis  | Play-acting Web products
 [3](sessions/session-03.md)		| Thu Jan 15th 	| User research | User interview
@@ -82,7 +82,7 @@ Session	| Date			| In class				| Assignment
 [9](sessions/session-09.md)		| **Tue Mar 10th** 	| Formative Assessment  | Plan of action
 [10](sessions/session-10.md)		| Tue Apr 14th 	| Copywriting<br>Exercises in style  | User-testing<br>Elevator's pitch
 [11](sessions/session-11.md)		| Tue Apr 21st 	| Guest: Michael Mentessi <br>Communities  | Community planning<br>Interviewing humans
-[12](sessions/session-12.md)		| Tue Apr 28th 	| Guest: Itamar Ferrer<br>In-depth interviews  | User-testing: recruiting guinea pigs
+[12](sessions/session-12.md)		| Tue Apr 28th 	| Guest: Itamar Ferrer<br>In-depth interviews  | [User-testing: recruiting *guinea pigs*](sessions/session-12.md#2-plan-interviews-and-testing)
 [13](sessions/session-13.md)		| Tue May 5th 	| User stories<br>Rapid prototyping | 
 [14](sessions/session-14.md)		| Tue May 12th 	| Prototypes critique<br>Behavioural design  | Responsive prototypes
 [15](sessions/session-15.md)		| Tue May 19th 	| User-testing  | User-testing
@@ -93,7 +93,7 @@ Session	| Date			| In class				| Assignment
 
 # Assessment criteria
 
-Your final mark will be based on:
+Your final grade will be based on:
 
 * [75% project](#project)
 * [25% blog](#blog)
