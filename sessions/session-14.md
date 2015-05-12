@@ -3,7 +3,7 @@
 ### Today, Tuesday 12th May 2015	
 
 1. [Blog posts review](#blogz)
-* Prototypes critique
+* [Prototypes critique](#prototypes-critique)
 * Cognitification 
 
 Your [homework](#homework)!
@@ -20,10 +20,58 @@ Your [homework](#homework)!
 
 Some [blogging tips](https://github.com/RavensbourneWebMedia/blogging#some-tips).
 
+[![blogging tips](https://raw.githubusercontent.com/RavensbourneWebMedia/Blogging/master/assets/keep-calm.png)](https://github.com/RavensbourneWebMedia/blogging#some-tips)
+
+
 
 
 # Prototypes critique
 
+Each one of you should have (at least) 10 screens linked up in [Invision](http://www.invisionapp.com).
+
+<!--![](http://www.invisionapp.com/assets/img/home/animations/prototyping-mockup-mobile.gif)-->
+
+
+1. Open your prototype in Invision
+2. Click on the `LiveShare` button 
+ 
+	![](assets/invision-live-share.png)
+3. Share the link with us on FB
+
+	It should look like [invis.io/p/CY2YEHUU3](http://invis.io/p/CY2YEHUU3)
+4. Let the critique begin
+
+
+### Questions
+
+* What **principles** guided your design choices?
+	
+	> For example, I wanted *minimum input* and *just enough information* at any stage.
+
+* What **problem** is this screen addressing?
+
+* What is the **goal** of the interaction on this screen?
+
+* How does this link to your **user stories**?
+ 
+* Which [tools](session-13.md#tools-to-consider) did you use?
+* Any **tips&tricks** to share? Cool tricks you discovered or learned?
+	
+	> For example, I downloaded the [Foundation toolkit for Sketch](http://www.sketchappsources.com/free-source/484-sketch-foundation-kit.html) and learned that you can *hide* screens from Invision by simply [adding a **-** to their names](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/)
+* What **challenges** did you encounter?
+
+* How are you going to **test** this? 
+
+* What **questions** will you seek to answer when testing your prototype? 
+
+* What will be your **guidelines for feedback**?
+
+[![](assets/rave-timetable-sketch.png)
+![](assets/rave-timetable-invision.gif)](http://invis.io/p/CY2YEHUU3)
+
+<!--[![](http://blog.invisionapp.com/wp-content/uploads/2015/01/How-to-give-designers-better-feedback.jpg)](http://blog.invisionapp.com/how-to-give-designers-better-feedback/)-->
+
+[How to give designers better feedback](http://blog.invisionapp.com/how-to-give-designers-better-feedback/)
 
 # Cognitification
 
@@ -31,7 +79,9 @@ Each student pick an effect from [CogLode](http://coglode.com), research it and 
 
 This activity links to [GoodUI](https://www.goodui.org) 
 
-### Homework
+
+
+# Homework
 
 1. Responsive prototypes
 
