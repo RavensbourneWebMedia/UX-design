@@ -18,6 +18,8 @@ Your [homework](#homework)!
 
 * Don't limit yourself to the blog posts we assign you to write. **Blog independently**. Include work-in-progress screenshots, hyperlinks, research, inspirations, tweets.. we'll consider these too for your final grade.
 
+* Here's the [list of blog topics](../README.md#blog) so far
+
 Some [blogging tips](https://github.com/RavensbourneWebMedia/blogging#some-tips).
 
 [![blogging tips](https://raw.githubusercontent.com/RavensbourneWebMedia/Blogging/master/assets/keep-calm.png)](https://github.com/RavensbourneWebMedia/blogging#some-tips)
