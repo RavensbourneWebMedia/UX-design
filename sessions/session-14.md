@@ -144,7 +144,9 @@ Keep working on your prototypes. You should have ~30 screens by the end of this 
 
 ### 2. Recruit user-testers 
 
-And bring them to Ravensbourne next week for a collective user-testing session in the afternoon of Tuesday 19th of May. 
+And bring them to Ravensbourne next week for a collective user-testing session in the afternoon of Tuesday 19th of May.
+
+See [discussion on the FB group](https://www.facebook.com/groups/663534170338338/permalink/1010947418930343/) 
 
 <!--See [here](sessions/session-12.md#2-plan-interviews-and-testing) for mode details.-->
 
