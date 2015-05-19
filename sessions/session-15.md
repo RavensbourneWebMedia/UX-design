@@ -4,8 +4,8 @@
 
 * [Prototypes critique](#prototypes-critique) 1h
 * [User-testing preparation](#user-testing-preparation) 1h
-* [User-testing](#guinea-pigs:)) 1h
-* [User-testing debrief] 1h
+* [User-testing](#let-them-in-) 1h
+* [User-testing debrief](#debrief) 1h
 
 Your [homework](#homework)!
 
@@ -90,6 +90,9 @@ Your main job is to make your testers not feel stupid:
 
 More here: [The do's and dont's of UX testing](http://blog.oboxthemes.com/the-dos-and-donts-of-user-experience-testing/)
 
+> The best kind of user test is one where the subject is not influenced by too much direction, they are simply there to use what’s in front of them to achieve a goal that you set out before the test began.
+
+
 
 ### Your turn
 
@@ -106,15 +109,24 @@ More here: [The do's and dont's of UX testing](http://blog.oboxthemes.com/the-do
 
 http://blog.invisionapp.com/design-teardown-designing-for-personas-with-usertesting/-->
 
+- [ ] [Choosing Test Participants for Your UX Research](http://downloads.usertesting.com/white_papers/TipSheet_ChoosingTestParticipants.pdf)
+
+- [ ] [User-testing Checklist](http://downloads.usertesting.com/white_papers/UserTesting-Website-Testing-Checklist.pdf) PRINT IT OUT!
+
+- [ ] [Minimizing Bias in User Testing](http://downloads.usertesting.com/white_papers/TipSheet_MinimizingBias.pdf)
 
 
-# Guinea pigs :)
 
-We should have about 6 external guests that you kindly recruited.
+
+# Let them in :)
+
+[![](assets/guinea-pig.jpg)](http://www.phrases.org.uk/meanings/guinea-pig.html)
+
+We should have about 6 guest users that you kindly recruited.
 
 Each user-testing session should last about 20 minutes, so you should get to test your project with 2-3 guests.
 
-Make sure you ask them if it's ok to record their session, check all the [do's and dont's](#dos-and-donts)for user-testing and **take notes**!  
+Make sure you ask them if it's ok to record their session, check all the [do's and dont's](#dos-and-donts) for user-testing and **take notes**!  
 
 
 
