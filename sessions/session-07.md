@@ -43,7 +43,7 @@ User-testing is **iterative**, you should do small tests as often as possible, n
 
 Ideally you'd pick someone who's **representative** of your target audience, but following the principle that *some testing is way better than no testing* you can pick anyone really: friends, relatives and colleagues.
 
-[![](http://graphicashen.com/wp-content/uploads/2014/06/Booboo-the-guinea-pig.jpg)](http://www.phrases.org.uk/meanings/guinea-pig.html)
+[![](assets/guinea-pig.jpg)](http://www.phrases.org.uk/meanings/guinea-pig.html)
 
 
 ## Types of user-testing
