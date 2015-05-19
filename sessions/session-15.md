@@ -156,6 +156,7 @@ What worked, what didn’t, how to improve.. debate.
 2. Write up a user-testing report: 
  
  		* What did you find out?
- 		* How are you going to fold user-testing feedback into your design?
- 		* What did you learn about testing people? 
+ 		* Did you observe any emerging patterns (eg: similar comments from different people, similar obstacles they got stuck on)?  
+ 		* How are you going to fold their feedback into your design?
+ 		* What did you learn about user-testing in general? 
  		 
