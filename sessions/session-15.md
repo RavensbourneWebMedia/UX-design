@@ -152,11 +152,11 @@ What worked, what didn’t, how to improve.. debate.
 
 # Homework
 
-1. Conduct and record another user-testing session with one or more people.
-2. Write up a user-testing report: 
+1. Conduct and record **another user-testing** session with one or more people.
+2. Watch recorded tests, analyse them and write up a **user-testing report**: 
  
  		* What did you find out?
- 		* Did you observe any emerging patterns (eg: similar comments from different people, similar obstacles they got stuck on)?  
- 		* How are you going to fold their feedback into your design?
- 		* What did you learn about user-testing in general? 
+ 		* Did you observe any **emerging patterns** (eg: similar comments from different people, similar obstacles they got stuck on)?  
+ 		* How are you going to fold their feedback into your design? Put together a list of **action items**
+ 		* What did you learn about **user-testing in general**? 
  		 
