@@ -75,7 +75,7 @@ Can you spot a few issues in the way the *facilitator* conducted the test?
 
 ### Do's and dont's
 
-You are the user-testing *facilitator*.
+You are the user-testing **facilitator**.
 
 Your main job is to make your testers not feel stupid:
 
@@ -140,7 +140,9 @@ Each user-testing session should last about 20 minutes, so you should get to tes
 
 Make sure you ask them if it's ok to record their session, check all the [do's and dont's](#dos-and-donts) for user-testing and **take notes**!  
 
-If they're bringing their laptops/phones it's a good idea to share the link to your prototype with them and ask them to test it on their devices, so that they *feel at home*. Otherwise, check if they are familiar with the system on which you're testing, eg: *Have you used a Mac / PC / Android / iPhone before?*.
+If they're bringing their laptops/phones it's a good idea to share the link to your prototype with them and ask them to test it on their devices, so that they *feel at home*. 
+
+Otherwise, check if they are familiar with the system on which you're testing, eg: *Have you used a Mac / PC / Android / iPhone before?*
 
 
 
@@ -155,8 +157,8 @@ What worked, what didn’t, how to improve.. debate.
 1. Conduct and record **another user-testing** session with one or more people.
 2. Watch recorded tests, analyse them and write up a **user-testing report**: 
  
- 		* What did you find out?
- 		* Did you observe any **emerging patterns** (eg: similar comments from different people, similar obstacles they got stuck on)?  
- 		* How are you going to fold their feedback into your design? Put together a list of **action items**
- 		* What did you learn about **user-testing in general**? 
+	* What did you find out?
+ 	* Did you observe any **emerging patterns** (eg: similar comments from different people, similar obstacles they got stuck on)?  
+ 	* How are you going to fold their feedback into your design? Put together a list of **action items**
+ 	* What did you learn about **user-testing in general**? 
  		 
