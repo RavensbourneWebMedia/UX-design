@@ -79,14 +79,17 @@ You are the user-testing *facilitator*.
 
 Your main job is to make your testers not feel stupid:
 
-* state clearly that you're testing the the app, not them
-* reassure them it's not their fault if what they do has an unexpected result
-* encourage them to **think out loud**
-* **no hints**, instead encourage them to think what they'd do if you weren't there
-* be kind and **patient** 
-* **don't take it personally** if they don't get what you think it's obvious, but try and understand why
-* ask **specific questions**
-* no orders, but rather give some choice to your testers (eg: *What would you click first?*)
+* State clearly that you're testing the the app, not them
+* Reassure them it's not their fault if what they do has an unexpected result
+* Encourage them to **think out loud**
+* **No hints**, instead encourage them to think what they'd do if you weren't there. Ask them what they are thinking or looking for but avoid words like `try`.
+* Be kind and **patient**, don't sigh. 
+* **Don't take it personally** if they don't get what you think it's obvious, but try and understand why
+* You should look out for incidents where the user stops concentrating on her tasks and starts thinking about the tool and how she is going to use it. Note questioning words, especially where testers question their own judgement, `why can't I find...`, `I expected to see...` etc. as this indicates that the workflow for the task may have broken down.
+* No orders, but rather give some choice to your testers (eg: *What would you click first?*)
+* Allow people to proceed in a task until you don't feel like it's producing any value or they becomes very frustrated.
+
+
 
 More here: [The do's and dont's of UX testing](http://blog.oboxthemes.com/the-dos-and-donts-of-user-experience-testing/)
 
@@ -96,24 +99,33 @@ More here: [The do's and dont's of UX testing](http://blog.oboxthemes.com/the-do
 
 ### Your turn
 
-1. Prepare a loose script for your user-testing session. You can take inspiration from this [sample script](https://hackpad.com/Sample-usertesting-script-UTHN25ekYIQ). Maybe copy that to Google docs?
+1. Prepare a script for your user-testing session. You can take inspiration from this [sample script](https://docs.google.com/a/rave.ac.uk/document/d/1bJ5S-Ws50dDJpjX5iZgmISV0u_l30s7UT2J0S6dcNn8/edit?usp=sharing) (*clone* it into a new Google doc).
+
+	* Look around, what would you click first
+	* How do you find out more about ...
+	* Please sign up and go through profile-setting-up process
+	* 3 options: which one would you go for?
+	* Search for your favourite book / film / track etc 
+
 
 2. Download and install [Silverback](http://silverbackapp.com)
 
-	If it doesn't work, you can use PhotoBooth and QuickTime for screen recording.
+	If it doesn't work, try [CamWiz](http://www.camwizapp.com/)
 
-	Windows users, let's work out together how to do this. 
+	Windows users, you can use [Microsoft Expression Encoder Screen Capture](http://www.microsoft.com/en-GB/download/confirmation.aspx?id=10732) or [BB FlashBack Express](http://www.bbsoftware.co.uk/BBFlashBack_FreePlayer.aspx)
 
 
 <!--[A/B testing](http://www.smashingmagazine.com/2010/06/24/the-ultimate-guide-to-a-b-testing/)
 
 http://blog.invisionapp.com/design-teardown-designing-for-personas-with-usertesting/-->
 
-- [ ] [Choosing Test Participants for Your UX Research](http://downloads.usertesting.com/white_papers/TipSheet_ChoosingTestParticipants.pdf)
+### Useful resources
 
-- [ ] [User-testing Checklist](http://downloads.usertesting.com/white_papers/UserTesting-Website-Testing-Checklist.pdf) PRINT IT OUT!
+<!--- [Choosing Test Participants for Your UX Research](http://downloads.usertesting.com/white_papers/TipSheet_ChoosingTestParticipants.pdf)-->
 
-- [ ] [Minimizing Bias in User Testing](http://downloads.usertesting.com/white_papers/TipSheet_MinimizingBias.pdf)
+- [User-testing Checklist](http://downloads.usertesting.com/white_papers/UserTesting-Website-Testing-Checklist.pdf)
+
+- [Minimizing Bias in User Testing](http://downloads.usertesting.com/white_papers/TipSheet_MinimizingBias.pdf)
 
 
 
@@ -128,16 +140,22 @@ Each user-testing session should last about 20 minutes, so you should get to tes
 
 Make sure you ask them if it's ok to record their session, check all the [do's and dont's](#dos-and-donts) for user-testing and **take notes**!  
 
+If they're bringing their laptops/phones it's a good idea to share the link to your prototype with them and ask them to test it on their devices, so that they *feel at home*. Otherwise, check if they are familiar with the system on which you're testing, eg: *Have you used a Mac / PC / Android / iPhone before?*.
+
 
 
 # Debrief 
 
-What worked, what didn’t, how to improve..
+What worked, what didn’t, how to improve.. debate.
 
 
 
 # Homework
 
-Conduct and record another user-testing session using [Silverback](http://silverbackapp.com) (or, on a Mac: Photobooth + QuickTime screen recorder)
-
-- [ ] Windows?	
+1. Conduct and record another user-testing session with one or more people.
+2. Write up a user-testing report: 
+ 
+ 		* What did you find out?
+ 		* How are you going to fold user-testing feedback into your design?
+ 		* What did you learn about testing people? 
+ 		 
