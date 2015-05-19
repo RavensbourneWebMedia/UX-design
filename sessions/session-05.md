@@ -98,9 +98,6 @@ Let's look at some patterns from [GoodUI](http://goodui.org)
 
 [![](http://goodui.org/images/idea058.png)](http://goodui.org/#58)
 
-
-<!--- [ ] PDF? couldn't find it-->
-
 Also, check out animated examples of webdesign patterns at [UseYourInterface](http://useyourinterface.com)
 
 ## Your turn
