@@ -56,6 +56,8 @@ Examples of broad (bad) user targets:
  
 ## Context
 
+<!-- from https://speakerdeck.com/destraynor/the-language-of-interfaces -->
+
 * Web-*sites* are turning into Web-*apps*: one does not simply *read* an app.
 * The Web is being rebuilt around **people**, aka *the users* (think comments, recommendations, wish lists, personalised feeds..)
 * **Social networks** are the most popular Web-apps for people to connect and interact with each other online
