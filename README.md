@@ -162,7 +162,7 @@ Topics from each week:
 
 1. [What are my learning goals?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
 * [Personifications](sessions/session-02.md#personifications)
-* [User interviews](sessions/session-03.md#exercise)
+* [User interviews](sessions/session-03.md#blog)
 * [Make it like the PSD](sessions/session-05.md#2-read-and-comment-this-article)
 * [The Internet's own boy](sessions/session-06.md#3-blog-about-this-film)
 * [Remote user testing](sessions/session-07.md#1-blog-about-the-results-of-your-remote-testing)
