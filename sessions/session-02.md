@@ -173,9 +173,11 @@ Think about a specific situation, a *task* that your user character needs to get
 
 
 
-# Assignment for the next session
+# Assignments
 
-Imagine a social network of as a person, the character in a short play (2-3 minutes). Write the script for it.
+### Personifications
+
+Imagine a social network as a person, the character in a short play (2-3 minutes). Write the script for it.
 
 This can be a spin-off of the story you came up with in class, or a completely new story.
 
