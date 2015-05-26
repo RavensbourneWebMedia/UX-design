@@ -7,6 +7,8 @@
 * Come up with (at least) 3 product ideas and write about them
 
 
+Your [homework](#homework): [blog](#blog)! 
+
 # What is UX?
 
 * UX design is about effectively addressing the **needs** and **circumstances** of your **users**, to produce **interfaces** that are **comfortable** and even **joyful** to use.
@@ -86,11 +88,11 @@ If you want to have **good ideas** you must [have **many ideas**](https://medium
 
 
 
-# Assignment for next week
+# Homework
 
-Remember to use the category **WEB14204** for all your blog posts for this unit!
+### Blog
 
-* Blog post: [what are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
+[What are your learning goals for this unit?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
 
 
 <!-- 

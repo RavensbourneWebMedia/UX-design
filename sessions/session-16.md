@@ -7,7 +7,7 @@
  
 <!--* Prototypes critique-->
 
-Your [homework](#assignment)!
+Your [homework](#homework): [blog](#blog)!
 
 # User-testing debate
 
@@ -45,6 +45,8 @@ Sign up to [Trello](https://trello.com/) and write down a list of things that ne
 
 ### Tutorials?-->
 
-# Assignment
+# Homework
 
-### Blog: [Invisible design](http://blog.intercom.io/invisible-design)
+### Blog
+
+Write about this article: [Invisible design](http://blog.intercom.io/invisible-design).

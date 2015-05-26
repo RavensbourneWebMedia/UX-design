@@ -3,8 +3,10 @@
 ### Today, Tuesday 17th February 2015
 
 1. [Wireframes critique](#wireframes-critique)
-* [User journeys](#user-journeys)	
-Your [homework](#assignments)!
+* [User journeys](#user-journeys)
+ 	
+
+Your [homework](#homework) and [blog](#blog)!
 
 
 
@@ -254,9 +256,9 @@ Think about
 
 
 
-# Assignments
+# Homework
 
-### 1. Redraft your wireframes
+### Redraft your wireframes
 
 Two options:
 
@@ -267,12 +269,12 @@ Two options:
 2. If you want to be cool, you can start translating your wireframes into an **HTML + CSS** prototype using a framework like [Skeleton](http://getskeleton.com), [Bootstrap](http://getbootstrap.com) or [Foundation](http://foundation.zurb.com/prototyping.html)
 
 
-### 2. Storyboard another user journey
+### Storyboard another user journey
 
 Pick from the [three *themes* above](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-06.md#your-turn), one that you haven't storyboarded yet.
 
 
-### 3. Blog about this film
+### Blog
 
 Watch [The Internet's Own Boy](http://www.bbc.co.uk/iplayer/episode/b051wkry/storyville-20142015-11-the-internets-own-boy), a film about Aaron Swartz: wiz-kid, co-founder of Reddit and activist for social justice and freedom of information. 
 

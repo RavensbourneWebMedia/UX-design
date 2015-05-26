@@ -163,15 +163,18 @@ Topics from each week:
 1. [What are my learning goals?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)
 * [Personifications](sessions/session-02.md#personifications)
 * [User interviews](sessions/session-03.md#blog)
-* [Make it like the PSD](sessions/session-05.md#2-read-and-comment-this-article)
-* [The Internet's own boy](sessions/session-06.md#3-blog-about-this-film)
-* [Remote user testing](sessions/session-07.md#1-blog-about-the-results-of-your-remote-testing)
-* [The time is ripe for niche social networks](sessions/session-09.md#assignments)
-* [Your social network in 2 paragraphs](sessions/session-10.md#assignments)
-* [Interviewing humans](sessions/session-11.md#assignments)
-* [Issue map](sessions/session-12.md#assignments)
-* [Are UI walkthroughs evil?](sessions/session-13.md#1-blog)
-12. More to come..
+* [Make it like the PSD](sessions/session-05.md#blog)
+* [The Internet's own boy](sessions/session-06.md#blog)
+* [Remote user testing](sessions/session-07.md#blog)
+* [The time is ripe for niche social networks](sessions/session-09.md#blog)
+* [Your social network in 2 paragraphs](sessions/session-10.md#blog)
+* [Interviewing humans](sessions/session-11.md#blog)
+* [Issue map](sessions/session-12.md#blog)
+* [Are UI walkthroughs evil?](sessions/session-13.md#blog)
+* [Magical software](sessions/session-14.md#blog)
+* [User-testing report](sessions/session-15.md#blog)
+* [Invisible design](sessions/session-16.md#blog)
+* [Transitional interfaces](sessions/session-17.md#blog)
 
 Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
 

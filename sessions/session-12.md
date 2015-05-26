@@ -8,7 +8,8 @@
 * [Issue mapping](#issue-mapping)
 * Identifying the gaps in your customer knowledge
 
-Your [homework](#assignments)!
+
+Your [homework](#homework) and [blog](#blog)!
 
 
 <!--Graphic design is not advertising
@@ -252,9 +253,11 @@ Step back from the wireframes and think about: is your idea the right thing to d
 
 
 
-# Assignments
+# Homework
 
-### 1. Document your issue map
+### Blog
+
+Document your issue map
 
 * What is the main **issue** you're working on? 
 * What are its **causes**? 
@@ -268,7 +271,7 @@ Take a picture of your initial thoughts on the paper framework provided by Itama
 
 Push everything to your folder on GitHub.
 
-### 2. Plan interviews and testing
+### Plan interviews and testing
 
 Based on the conclusions of your issue map (see above), start recruiting people for interviews, user-testing or both.
 

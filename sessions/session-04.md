@@ -6,6 +6,8 @@
 * User personas: clustering user needs and goals into *archetype* users. 
 * Create two personas for your online social network.
 
+Your [homework](#homework)!
+
 
 
 # Social networks analysis
@@ -123,7 +125,7 @@ http://www.ux-lady.com/introduction-to-user-personas/
 
 
 
-# Assignment for the next session
+# Homework
 
 <!--Create the profile for another persona.-->	
 

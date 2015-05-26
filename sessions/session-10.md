@@ -7,7 +7,7 @@
 * [Copywriting](#copywriting-is-interface-design) (not copyright)
 * [Exercises in style](#exercises-in-style)
 
-[Your homework](#assignments)!
+Your [homework](#homework) and [blog](#blog)!
 
 # Content first
 
@@ -299,16 +299,20 @@ Make sure you save every variation, as you'll need it as user-testing material.
 
 
 
-# Assignments
+# Homework
 
-1. **Test** your 3 *Exercises in Style* variations with 2 people face-to-face, AND on [UsabilityHub](https://usabilityhub.com). Blog about your findings: *what happened and why* (use MarkDown and save to GitHub)?
+### Test
 
-2. In preparation for next week's guest lecture, write a **brief description** (max 2 paragraphs) of your social network concept, including the following information:
+**Test** your 3 *Exercises in Style* variations with 2 people face-to-face, AND on [UsabilityHub](https://usabilityhub.com). Blog about your findings: *what happened and why* (use MarkDown and save to GitHub)?
 
-	* Who is it for?
-	* How does it work?
-	* What is unique about it?
-	* Where are you currently in the design process?
+### Blog
+
+In preparation for next week's guest lecture, write a **brief description** (max 2 paragraphs) of your social network concept, including the following information:
+
+* Who is it for?
+* How does it work?
+* What is unique about it?
+* Where are you currently in the design process?
 
 
 

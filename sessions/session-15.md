@@ -7,7 +7,7 @@
 * [User-testing](#let-them-in-) 1h
 * [User-testing debrief](#debrief) 1h
 
-Your [homework](#homework)!
+Your [homework](#homework) and [blog](#blog)!
 
 # Prototypes critique
 
@@ -154,11 +154,16 @@ What worked, what didn’t, how to improve.. debate.
 
 # Homework
 
-1. Conduct and record **another user-testing** session with one or more people.
-2. Watch recorded tests, analyse them and write up a **user-testing report**: 
+### User-test
+
+Conduct and record **another user-testing** session with one or more people.
+
+### Blog
+
+Watch recorded tests, analyse them and write up a **user-testing report**: 
  
-	* What did you find out?
- 	* Did you observe any **emerging patterns** (eg: similar comments from different people, similar obstacles they got stuck on)?  
- 	* How are you going to fold their feedback into your design? Put together a list of **action items**
- 	* What did you learn about **user-testing in general**? 
+* What did you find out?
+* Did you observe any **emerging patterns** (eg: similar comments from different people, similar obstacles they got stuck on)?  
+* How are you going to fold their feedback into your design? Put together a list of **action items**
+* What did you learn about **user-testing in general**? 
  		 

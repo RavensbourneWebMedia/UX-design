@@ -8,6 +8,7 @@
 * Paper-prototyping 
 * Wireframing: sketch many interfaces on paper, trying out different solutions.
 
+Your [homework](#homework) and [blog](#blog)!
 
 
 # Interviews review
@@ -178,9 +179,9 @@ Wireframes are very useful throughout the design process:
 
 
 
-# Assignments
+# Homework
 
-### 1. Wireframe 
+### Wireframe 
 
 Sketch out at least 5 key screens / states of your social network.
 
@@ -188,7 +189,7 @@ Let's not start from the *homepage*.
 
 You can either wireframe on paper or digitally.
 
-#### Paper wireframes
+##### Paper wireframes
 
 Print out wireframing templates from [InterfaceSketch](http://www.interfacesketch.com)
 
@@ -198,12 +199,12 @@ Print out wireframing templates from [InterfaceSketch](http://www.interfacesketc
 
 Or..
 
-#### Digital wireframes
+##### Digital wireframes
 
 Use [Moqups](http://moqups.com) and then upload your screens to [InVision](http://www.invisionapp.com) to make them clickable and illustrate user journeys.
 
 
-### 2. Read and comment this article
+### Blog
 
 [Make it like the PSD](http://dangovan.com/make-it-like-the-psd)
 

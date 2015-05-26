@@ -17,7 +17,7 @@
 * [Rapid prototyping](#rapid-prototyping)
 * [Your prototype](#your-turn)
 
-Your [homework](#assignments)!
+Your [homework](#homework) and [blog](#blog)!
 
 <!--* User-testing: A/B testing and analytics-->
 
@@ -327,9 +327,9 @@ Produce prototypes that address [your user stories](#your-stories).
 
 
 
-# Assignments
+# Homework
 
-### 1. Blog 
+### Blog 
 
 Read and blog this article on UI walkthroughs: [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil) 
 
@@ -339,7 +339,7 @@ Read and blog this article on UI walkthroughs: [Are UI walkthroughs evil?](http:
 
 Once you published your post, tweet about it using the hashtag [#RaveUX](https://twitter.com/hashtag/raveux)
 
-### 2. Prototype
+### Prototype
 
 Continue working on [your prototype](#your-turn). 
 

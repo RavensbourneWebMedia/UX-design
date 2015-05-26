@@ -10,7 +10,9 @@
 
 This is a joint session with Level 1 students 
 
-Your [homework](#assignments)!
+Your [homework](#homework) and [blog](#blog)!
+
+
 
 # Communities
 
@@ -271,16 +273,17 @@ Write a short introduction email to a new member of your community.
 > Thank you for you precipitation
 
 
-# Assignments
+# Homework
 
-1. Finish writing the email from the [exercise](#engagement-exercise) above (MarkDown to GitHub).
+### Engagement email
+
+Finish writing the email from the [exercise](#engagement-exercise) above (MarkDown to GitHub).
+
+### Blog
  
-2. Read and blog (MarkDown to GitHub) about [interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40). 
+Read and blog (MarkDown to GitHub) about [interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40). 
 	
-	Have you put any of the advice in the article into practice already? What worked? What could have been better?
-	
-	In your experience, what's most challenging about interviewing people? 
-	
-	Anything that surprised you?
-	
-	What did you do with the data that you collected during the interviews?
+* Have you put any of the advice in the article into practice already? What worked? What could have been better?
+* In your experience, what's most challenging about interviewing people? 
+* Anything that surprised you?
+* What did you do with the data that you collected during the interviews?

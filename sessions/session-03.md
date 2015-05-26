@@ -4,9 +4,10 @@
 
 1. Play-acting social networks (from previous session)
 * Qualitative and quantitative user research
-* Interviewing users (write and test a script)	
- 
-Your [homework](#assignment)!
+* Interviewing users (write and test a script)
+ 	
+
+Your [homework](#homework): [blog](#blog)! 
 
 
 # User research
@@ -160,7 +161,7 @@ After the interviews, consider:
 Armed with a revised script, go and interview another pair of people.
 
 	
-# Assignment
+# Homework
 
 ### Blog
 

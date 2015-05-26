@@ -2,7 +2,9 @@
 
 ### Today, Tuesday 10th March 2015
 
-Formative Assessment presentations	
+Formative Assessment presentations
+
+Your [homework](#homework) and [blog](#blog)!	
 
 # Checklist for presentations
 
@@ -28,8 +30,12 @@ This is the spreadsheet where we all give each other feedback.
 
 
 
-# Assignments
+# Homework
 
-1. Note the feedback you received (see matrix above) and draft a plan of action for next term (push it to your fork of this project on GitHub). 
+### Plan of action
 
-2. Read and blog about [*The time is ripe for niche social networks*](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks). You can hear the author talking in [this podcast](http://monocle.com/radio/shows/the-entrepreneurs/173) also.
+Note the feedback you received (see matrix above) and draft a plan of action for next term (push it to your fork of this project on GitHub). 
+
+### Blog
+
+Read and blog about [*The time is ripe for niche social networks*](http://pando.com/2013/10/16/the-time-is-ripe-for-a-new-wave-of-niche-social-networks). You can hear the author talking in [this podcast](http://monocle.com/radio/shows/the-entrepreneurs/173) also.

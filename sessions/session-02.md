@@ -4,8 +4,10 @@
 
 1. Review learning goals
 * Analyse competitors
-* Group exercise: play-acting Web products	
+* Group exercise: play-acting Web products
 
+Your [homework](#homework) and [blog](#personifications)! 
+	
 
 
 # Learning goals review
@@ -173,7 +175,11 @@ Think about a specific situation, a *task* that your user character needs to get
 
 
 
-# Assignments
+# Homework
+
+### From last week
+
+Also, if you haven't done / published the post from last week yet (the one about [your learning goals for this unit](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)), please push it to your fork of this project on GitHub (inside the `students > {yourName}` folder). Ideally as a MD file, because we don't like MS Word :)
 
 ### Personifications
 
@@ -187,6 +193,4 @@ You [can take a look at what last year's students came up with](https://www.drop
 
 Next session we'll pick a few scripts and act them out!
 
-### From last week
 
-Also, if you haven't done / published the post from last week yet (the one about [your learning goals for this unit](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-are-my-learning-goals.md)), please push it to your fork of this project on GitHub (inside the `students > {yourName}` folder). Ideally as a MD file, because we don't like MS Word :)

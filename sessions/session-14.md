@@ -6,7 +6,8 @@
 * [Prototypes critique](#prototypes-critique)
 * [Designing behaviours](#designing-behaviours)
 
-Your [homework](#homework)!
+Your [homework](#homework) and [blog](#blog)!
+
 
 # Blogz
 
@@ -141,11 +142,11 @@ What we want now is not what we aspire to in the future
 
 # Homework
 
-### 1. Prototypes
+### Prototypes
 
 Keep working on your prototypes. You should have ~30 screens by the end of this unit.
 
-### 2. Recruit user-testers 
+### Recruit user-testers 
 
 And bring them to Ravensbourne next week for a collective user-testing session in the afternoon of Tuesday 19th of May.
 
@@ -153,7 +154,9 @@ See [discussion on the FB group](https://www.facebook.com/groups/663534170338338
 
 <!--See [here](sessions/session-12.md#2-plan-interviews-and-testing) for mode details.-->
 
-### 3. Blog about [magical software](http://blog.intercom.io/on-magical-software/)
+### Blog 
+
+Write about [magical software](http://blog.intercom.io/on-magical-software/)
 
 * Do you agree with the author? Why?
 * Can any of the trends he writes about be useful to your project? Why?
