@@ -2,8 +2,8 @@
 
 ### Today, Tuesday 26th May 2015
 
-1. User-testing debate
-* Reality check
+1. [User-testing debate](#user-testing-debate)
+* [Reality check](#reality-check)
  
 <!--* Prototypes critique-->
 
@@ -24,7 +24,7 @@ Thinking about last week's user-testing session:
 * How did your script change as you tested with different people?
 * What reactions did your questions trigger? Did you try different ways of asking the same questions?
 
-![]()
+<!--![]()-->
 
 Write down you group observations on post-its and we'll then discuss them all together.
 
