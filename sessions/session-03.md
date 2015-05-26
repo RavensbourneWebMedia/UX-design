@@ -5,7 +5,8 @@
 1. Play-acting social networks (from previous session)
 * Qualitative and quantitative user research
 * Interviewing users (write and test a script)	
-
+ 
+Your [homework](#assignment)!
 
 
 # User research
@@ -92,7 +93,7 @@ Useful to answer **why** type of questions.
 
 
 
-# Exercise
+# User interviews
 
 Interview 2 (or more) people about their use of social networks.
 
@@ -100,7 +101,7 @@ Today we plan and test, then you'll recruit and interview your participants.
 
 Write your plan and findings in MarkDown, then push it to your fork of this project on GitHub (inside the `students > {yourName}` folder).
 
-## Good practices for user research
+### Good practices for user research
 
 1. **Plan**: prepare a script, know what to ask, and who to ask.
 2. **Test** your test (with family and friends).
@@ -124,7 +125,7 @@ Write your plan and findings in MarkDown, then push it to your fork of this proj
 	
 11. Try **casual requests** instead of questions. For instance, instead of asking `How do you store your photos?` consider asking them to show you how they store photos.		
 	
-## Plan
+### Plan
 
 **What do you want to find out from your interviewees?**
 
@@ -144,7 +145,7 @@ Question examples:
 * (if the user has started telling you about a relevant experience) What did you enjoy most? What didn't you enjoy about it?
 * What kinds of problems do you or your community commonly see in your experience? Have you thought about how you would solve it?
 
-## Test	
+### Test	
 
 Interview each others, in pairs. 
 
@@ -159,6 +160,8 @@ After the interviews, consider:
 Armed with a revised script, go and interview another pair of people.
 
 	
-# Assignment for the next session
+# Assignment
 
-See exercise above.
+### Blog
+
+Write about your [user interviews](#user-interviews): from planning and recruitment, to conducting interviews with people and making sense of their answers.
