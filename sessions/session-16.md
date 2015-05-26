@@ -17,16 +17,18 @@ First in small groups (2-3 people) and then all together.
 
 Thinking about last week's user-testing session:
  
-* What worked?
-* What could be improved?
-* Things you wish you knew beforehand
-* Techniques / tricks you learned (and are going to use in your next user-testing session)
-* How did your script change as you tested with different people?
-* What reactions did your questions trigger? Did you try different ways of asking the same questions?
-
-<!--![]()-->
+* What **worked**?
+* What could be **improved**? What would you change if you were to go back in time?
+* Things you **wish** you would have done during, before or after the session
+* **Tricks** you learned (and are going to use in your next user-testing session)
+* How did use your **script** as you tested with different people? Did you *improvise*?
+* What **reactions** did your questions trigger? Did you try different ways of asking the same question? Did you ask people *preliminary* questions (at the beginning of the session)?
+* What role did **video-recording** the session play for you? How did people react to being filmed?  
+* Did you take **notes**? Why?
 
 Write down you group observations on post-its and we'll then discuss them all together.
+
+![](assets/user-testing_margot+harry.jpg)
 
 # Reality check 
 
@@ -45,4 +47,4 @@ Sign up to [Trello](https://trello.com/) and write down a list of things that ne
 
 # Assignment
 
-Blog: [Invisible design](http://blog.intercom.io/invisible-design)
+### Blog: [Invisible design](http://blog.intercom.io/invisible-design)
