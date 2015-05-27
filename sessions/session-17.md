@@ -30,20 +30,24 @@ This is a list of topics that your presentation *should* touch upon.
 
 * The **research**	
 	* [Competitor analysis](session-02.md#competitor-analysis) 
-	* [User interviews](session-03.md#exercise)
+	* [User interviews](session-03.md#user-interviews)
 	* [User personas](session-04.md#user-personas)	
-	* [Behavioural design](session-14.md#designing-behaviours)
+	* [Designing behaviours](session-14.md#designing-behaviours)
 
 * The **experiments**
 	* [Wireframes](session-05.md#wireframing) at different stages: from paper sketches to digital wireframes
-	* [User journeys](session-06.md#user-journeys): *onboarding*, how to deal with user mistakes 
-	* [Prototypes](session-13.md#your-turn) in Invision / Muse. You should have ~30 screens 
+	* [User journeys](session-06.md#user-journeys) for a [couple of realistic scenarios](session-06.md#your-turn) (no fairytale, science-fiction comics) 
+	* Clickable [prototypes](session-13.md#rapid-prototyping) in Invision / Muse. 
+		
+		Your prototypes should have **~30 states**. 
+		
+		For example: a login screen *could* have a default state, a state with text filled in, and a state for the "uh-oh that doesn't seem to be the right password" state. 
 	* [User-testing](session-15.md#user-testing-preparation): both [usability tests](session-07.md#usability-testing) and [face2face sessions](session-15.md#let-them-in-). What did you learn from testing your ideas and prototypes with people, and how did you integrate their feedback into your design?
 
 * The **communication**
-	* [Interface labels](session-10.md#2-hack-your-design)
-	* [Motivational copy](session-10.md#your-turn)
-	* [Engagement email](session-11.md#engagement-exercise)
+	* [Motivational copy](session-10.md#your-turn)	
+	* [Interface copy](session-10.md#2-hack-your-interface-copy)
+	* [Engagement email](session-11.md#engagement-email)
 	* [User stories](session-13.md#your-stories)
 
 
