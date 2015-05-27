@@ -34,6 +34,32 @@ This includes:
 	Using Lorem Ipsum is a missed opportunity to do good UX design.
 
 
+
+# Plan
+
+Session	| Date	| Topic(s)	| Assignment | Blog
+-------	| -----	| --------	| ---------- | ----
+[1](sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
+[2](sessions/session-02.md)		| Tue Jan 13th 	| Competitor analysis  | Play-acting Web products
+[3](sessions/session-03.md)		| Thu Jan 15th 	| User research | User interview
+[4](sessions/session-04.md)		| Tue Jan 20th 	| User personas | User personas
+[5](sessions/session-05.md)		| Tue Feb 3rd 	| Interface design  | Wireframing
+[6](sessions/session-06.md)		| Tue Feb 17th 	| User journeys	 | User journeys
+[7](sessions/session-07.md)		| Tue Feb 24th 	| User-testing  | User-testing
+[8](sessions/session-08.md)		| Tue Mar 3rd 	| Tutorials  | Prepping presentation
+[9](sessions/session-09.md)		| Tue Mar 10th 	| **Formative Assessment**  | Plan of action
+[10](sessions/session-10.md)		| Tue Apr 14th 	| Copywriting<br>Exercises in style  | User-testing<br>Elevator's pitch
+[11](sessions/session-11.md)		| Tue Apr 21st 	| Guest: Michael Mentessi <br>Communities  | Community planning<br>Interviewing humans
+[12](sessions/session-12.md)		| Tue Apr 28th 	| Guest: Itamar Ferrer<br>In-depth interviews  | [User-testing: recruiting *guinea pigs*](sessions/session-12.md#2-plan-interviews-and-testing)
+[13](sessions/session-13.md)		| Tue May 5th 	| User stories<br>Rapid prototyping | 
+[14](sessions/session-14.md)		| Tue May 12th 	| Prototypes critique<br>Behavioural design  | Responsive prototypes
+[15](sessions/session-15.md)		| Tue May 19th 	| User-testing  | User-testing
+[16](sessions/session-16.md)		| Tue May 26th 	| Prototyping & tutorials  | User-testing
+[17](sessions/session-17.md)		| Tue Jun 2nd 	| Tutorials  | Prepping presentation
+[18](sessions/session-18.md)		| Thu Jun 4th 	| **Summative Assessment**  | Feedback form 
+
+
+
 # Brief
 
 Design the **UX** and build the **prototype** of a Web-based **social network** for `{your choice of users}`.
@@ -54,7 +80,7 @@ Examples of broad (bad) user targets:
 * a social network for `students`
 * a social network for `sports fans`
  
-## Context
+### Context
 
 <!-- from https://speakerdeck.com/destraynor/the-language-of-interfaces -->
 
@@ -68,29 +94,6 @@ Examples of broad (bad) user targets:
 * The words you put on something, be it an **action** or a relationship, define your app.
 * [Copywriting is Interface Design](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php)
 
-
-# Plan
-
-Session	| Date	| In class		| Assignment
--------	| -----	| ---------	| -----------
-[1](sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
-[2](sessions/session-02.md)		| Tue Jan 13th 	| Competitor analysis  | Play-acting Web products
-[3](sessions/session-03.md)		| Thu Jan 15th 	| User research | User interview
-[4](sessions/session-04.md)		| Tue Jan 20th 	| User personas | User personas
-[5](sessions/session-05.md)		| Tue Feb 3rd 	| Interface design  | Wireframing
-[6](sessions/session-06.md)		| Tue Feb 17th 	| User journeys	 | User journeys
-[7](sessions/session-07.md)		| Tue Feb 24th 	| User-testing  | User-testing
-[8](sessions/session-08.md)		| Tue Mar 3rd 	| Tutorials  | Prepping presentation
-[9](sessions/session-09.md)		| **Tue Mar 10th** 	| Formative Assessment  | Plan of action
-[10](sessions/session-10.md)		| Tue Apr 14th 	| Copywriting<br>Exercises in style  | User-testing<br>Elevator's pitch
-[11](sessions/session-11.md)		| Tue Apr 21st 	| Guest: Michael Mentessi <br>Communities  | Community planning<br>Interviewing humans
-[12](sessions/session-12.md)		| Tue Apr 28th 	| Guest: Itamar Ferrer<br>In-depth interviews  | [User-testing: recruiting *guinea pigs*](sessions/session-12.md#2-plan-interviews-and-testing)
-[13](sessions/session-13.md)		| Tue May 5th 	| User stories<br>Rapid prototyping | 
-[14](sessions/session-14.md)		| Tue May 12th 	| Prototypes critique<br>Behavioural design  | Responsive prototypes
-[15](sessions/session-15.md)		| Tue May 19th 	| User-testing  | User-testing
-[16](sessions/session-16.md)		| Tue May 26th 	| Prototyping & tutorials  | User-testing
-[17](sessions/session-17.md)		| Tue Jun 2nd 	| Tutorials  | Prepping presentation
-[18](sessions/session-18.md)		| **Thu Jun 4th** 	| Summative Assessment  | Feedback form 
 
 
 # Assessment criteria
