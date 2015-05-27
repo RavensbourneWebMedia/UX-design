@@ -43,13 +43,14 @@ Thinking about the feedback you received in your user-testing:
 
 1. Sign up to [Trello](https://trello.com/) with your `@students.rave.ac.uk` email address
 * Join the [trello.com/ravewebmedia](https://trello.com/ravewebmedia) organisation 
-* Write down a list of everything that needs doing. 
-* Project **deadline is next week** (4th of June).
-* Blogs deadline is the following week (9th of June).
+* Write down a list of everything that needs doing.
+  
+	* Project **deadline is next week** (4th of June).
+	* Blogs deadline is the following week (9th of June).
 * Good luck :)
 
 
-Learn how to use Trello with this [quick guide](https://trello.com/guide/board_basics.html).
+[Quick guide](https://trello.com/guide/board_basics.html) on  how to use Trello.
 
 [![](https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/f556940da98ac9e209bb9fb7d7150ca2/board.jpg)](https://trello.com/guide/board_basics.html)
 
