@@ -141,7 +141,7 @@ Your final grade will be based on:
 
 #### B
 
-* **Research** whilst your competitor analysis and user interviews are broad and integrated, they could be better documented; your user personas are good and varied (we don't need 7 photocopies of of young professionals with disposable income and thirst for technology) 
+* **Research** whilst your competitor analysis and user interviews are broad and integrated, they could be better documented; your user personas are good and varied (we don't need 7 photocopies of young professionals with disposable income and thirst for technology) 
 * **Experimentation** you wireframed key screens using real(istic) content, and your user journeys explore several scenarios in depth; you explained how your design decisions are linked to research evidence
 * **Iteration** you prototyped and user-tested several  concepts, tested them with users and folded their feedback into your design process; more than two iterations
 * **Communication** your presentation(s) were clear, complete and engaging
