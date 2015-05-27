@@ -272,7 +272,7 @@ Queneau's *Exercises in Style* goes beyond storytelling. It is an exploration of
 
 Let's see if we can apply his method to **explore communication patterns in interface design**: how many ways of communicating the same small event can you think of?
 
-#### 1. De-face your competitor (warm up)
+#### De-face your competitor (warm up)
 
 1. Pick one of your competitors, choose a page from their site.
 
@@ -291,7 +291,7 @@ Let's see if we can apply his method to **explore communication patterns in inte
 5. Back your work up on GitHub.
 
 
-#### 2. Hack your design
+#### Hack your interface copy
 
 Taking inspiration from Queneau's *Exercises in Style*, pick one screen of your social network and write 3 different variations of its interface copy.
 
