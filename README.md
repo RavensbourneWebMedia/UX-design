@@ -109,10 +109,10 @@ Your final grade will be based on:
 
 ### Components
 
-1. **Research** identifying problems and opportunities through *competitor analysis*, examining audiences through *user interviews* and interpreting your research data through *user personas* 
-* **Experimentation** exploring ideas through *wireframes* and *user journeys*, from paper to digital
-* **Iteration** *prototyping* and *user-testing* your concepts, learning from mistakes
-* **Communication** presenting both your project's output and process  
+1. **Research** identifying problems and opportunities through [competitor analysis](session-02.md#competitor-analysis), examining audiences through [user interviews](session-03.md#user-interviews), understanding [behaviours](session-14.md#designing-behaviours) and interpreting your research data through [user personas](session-04.md#user-personas) 
+* **Experimentation** exploring ideas through [wireframes](session-05.md#wireframing) and [user journeys](session-06.md#user-journeys), from paper to digital
+* **Iteration** [prototyping](session-13.md#rapid-prototyping) and [user-testing](session-15.md#user-testing-preparation) your concepts (both [remotely](session-07.md#usability-testing) and [face2face](session-15.md#let-them-in-))
+* **Communication** writing [motivational copy](session-10.md#your-turn) for [emails](session-11.md#engagement-email) and [Web interfaces](session-10.md#2-hack-your-interface-copy), formalising your project requirements through [user stories](session-13.md#your-stories), presenting both your project's output and process  
 
 
 ### Grades
