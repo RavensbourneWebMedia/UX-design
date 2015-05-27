@@ -183,7 +183,7 @@ Refer to the general **[Web Media blog assessment criteria](https://github.com/R
 
 Upon completion of this unit you will (hopefully) be able to: 
 
-* Understand the difference between qualitative and quantitative **user research** and be familiar with a few techniques to perform both types of research.
+* Understand the difference between *qualitative* and *quantitative* **user research** and be familiar with a few techniques to perform both types of research.
  
 * Research and analyse **competitor services** to gain inspiration and insight from them.
 
@@ -197,7 +197,7 @@ Upon completion of this unit you will (hopefully) be able to:
 
 * Use **rapid prototyping** tools to quickly test solutions to specific UX problems.
 
-* Understand the differences between various **user-testing** methods (face2face, A/B testing and analytics) and practice them at a basic level
+* Understand the differences between various **user-testing** methods and practice them at a basic level
 
 * **Document** your design and development process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
 
