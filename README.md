@@ -170,6 +170,7 @@ Topics from each week:
 * [The Internet's own boy](sessions/session-06.md#blog)
 * [Remote user testing](sessions/session-07.md#blog)
 * [The time is ripe for niche social networks](sessions/session-09.md#blog)
+* [Exercises in style](session-10.md#test)
 * [Your social network in 2 paragraphs](sessions/session-10.md#blog)
 * [Interviewing humans](sessions/session-11.md#blog)
 * [Issue map](sessions/session-12.md#blog)
