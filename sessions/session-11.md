@@ -6,7 +6,7 @@
 * [What is a community manager?](#what-is-a-community manager)
 * [My communities](#my-communities)
 * [Community planning](#community-planning-exercise)
-* [Crafting emails](#engagement-exercise) 
+* [Crafting emails](#engagement-email) 
 
 This is a joint session with Level 1 students 
 
@@ -262,7 +262,7 @@ Don't underestimate email. Great tool for engagement
 
 Monitor all your communication with [Intercom](http://intercom.io)
 
-# Engagement exercise
+# Engagement email
 
 Write a short introduction email to a new member of your community.
 
@@ -275,7 +275,7 @@ Write a short introduction email to a new member of your community.
 
 # Homework
 
-### Engagement email
+### Engagement
 
 Finish writing the email from the [exercise](#engagement-exercise) above (MarkDown to GitHub).
 
