@@ -4,8 +4,9 @@
 
 * [Prototypes critique](#prototypes-critique) 1h
 * [User-testing preparation](#user-testing-preparation) 1h
-* [User-testing](#let-them-in-) 1h
-* [User-testing debrief](#debrief) 1h
+* [User-testing](#let-them-in-) 2h
+
+<!-- * [User-testing debrief](#debrief) 1h -->
 
 Your [homework](#homework) and [blog](#blog)!
 
