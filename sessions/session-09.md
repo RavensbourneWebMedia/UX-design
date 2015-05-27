@@ -8,19 +8,18 @@ Your [homework](#homework) and [blog](#blog)!
 
 # Checklist for presentations
 
-1. [Competitor analysis](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-02.md#competitor-analysis) 
+1. [Competitor analysis](session-02.md#competitor-analysis) 
 
-2. [User interviews](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-03.md#exercise)
+2. [User interviews](session-03.md#exercise)
 
-3. [User personas](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-04.md#user-personas)	
-
-4. [Wireframes](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-05.md#wireframing) at different stages: 
+3. [User personas](session-04.md#user-personas)	
+4. [Wireframes](session-05.md#wireframing) at different stages: 
 
 	* paper sketches for alternative solutions 
 	* digital wireframes
 	* BONUS: clickable wireframes
 
-5. [User journeys](https://github.com/RavensbourneWebMedia/WEB14204/blob/master/sessions/session-06.md#user-journeys)
+5. [User journeys](session-06.md#user-journeys)
 
 
 
