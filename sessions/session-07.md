@@ -81,9 +81,9 @@ Ideally you'd pick someone who's **representative** of your target audience, but
 Most types of testing can be done both remotely and face2face.
 
 
-# Warm-up exercise
+# Usability testing
 
-Let's start with some quick and dirty remote testing.
+Let's warm up with some remote usability testing.
 
 1. Sign up for a free account on [UsabilityHub](https://usabilityhub.com/?r=30141), take a few tests to see what it's like and get inspired about what you can test. 
 
