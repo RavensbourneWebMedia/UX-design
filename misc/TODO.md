@@ -153,3 +153,14 @@ Each student pick an effect from [CogLode](http://coglode.com), research it and 
 1. Redesign emails (as a warm-up exercise in UX). Seems like a problem many companies are having a go at ([Mailbox](http://www.mailboxapp.com/) by Dropbox, [Inbox](http://www.google.com/inbox/) by Google, [Sanebox](http://www.sanebox.com/tour) by Sanebox). One thing that struck me from Sanebox is the self-referentiality of their communication (it's from tech entrepreneurs to tech entrepreneurs): who else receives emails from investors, why is "holidays-mode" associated with drinking mojitos on a beach? Also check out [dotMail](http://www.vanschneider.com/work/dotmailapp), a concept that didn't make it to production, but had a refreshing take on *what is email* and *what can email be*.
 
 2. [The interface layer](https://medium.com/bridge-collection/the-interface-layer-when-design-commoditizes-tech-e7017872173a) micro-brief (one week): pick one website (competitor?), extract its content and re-design its interface. Can be soft re-design (same platform / medium) or hard (different platform / medium.. eg text-to-speech interface on wristband, text-to-image flashcard for deaf?)
+
+3. Look at what other courses are doing, eg [Dundee's Digital Interaction Design](http://www.dundee.ac.uk/study/ug/digitalinteractiondesign/#!info-what-youll-study) run a *Designing Social Networks* unit for Level2.. their [own website](http://socialdigital.dundee.ac.uk/)
+
+	* > [research a design, arts and craft subject](http://socialdigital.dundee.ac.uk/~vloux/blog/archives/category/designing-social-networks) to find a purpose to our network
+	* > [design a social network](http://interaction.dundee.ac.uk/~dtodd/blog/?p=173) for a group of people based in design
+	* > [issue-led design](http://www.chloefinlayson.co.uk/?p=459)
+	* > [What is lacking](http://interaction.dundee.ac.uk/~srmacvean/blog/?cat=9) in social networks?
+	* > a social network that caters for a [select group of designers](http://interaction.dundee.ac.uk/~asmccrae/blog/?p=66)
+	* > [social graphs](http://interaction.dundee.ac.uk/~fzramsay/blog/?p=111)
+	* > build a community based around [issues/activities  that relates to Design and Craft](http://interaction.dundee.ac.uk/~kywong/blog/?cat=4)
+	* > [design related](http://interaction.dundee.ac.uk/~lhssilverberg/blog/?p=131) user groups
