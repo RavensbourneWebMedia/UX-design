@@ -8,6 +8,7 @@
 * [Issue mapping](#issue-mapping)
 * Identifying the gaps in your customer knowledge
 
+[Itamar's presentation](https://drive.google.com/file/d/0Bwa-zerzlWL6ZnBMT3hXVUNuWWc/view?usp=sharing)
 
 Your [homework](#homework) and [blog](#blog)!
 
