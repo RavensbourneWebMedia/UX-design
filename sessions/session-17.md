@@ -20,7 +20,7 @@ This is a list of topics that your presentation *should* touch upon.
 
 * The **context**
 	* What is the *subject* of your project, not just on the Web but also IRL? 
-	* What kind of *content* do people currently share around your subject?
+	* What kind of *content* do people currently share around your subject? How do they talk about it? What gets them excited / willing to share?
 	* How do people currently *socialise* around this subject? How did they do it *historically* (eg: 10-20 years ago, before the Web was a thing)?
 	* What is the *challenge* (or challenges) that this social interaction currently presents?
 	* What *causes* the challenge(s)?
@@ -49,9 +49,9 @@ This is a list of topics that your presentation *should* touch upon.
 	* [User-testing](session-15.md#user-testing-preparation): both [usability tests](session-07.md#usability-testing) and [face2face sessions](session-15.md#let-them-in-). What did you learn from testing your ideas and prototypes with people, and how did you integrate their feedback into your design?
 
 * The **communication**
-	* [Motivational copy](session-10.md#your-turn)	
-	* [Interface copy](session-10.md#2-hack-your-interface-copy)
-	* [Engagement email](session-11.md#engagement-email)
+	* [Motivational copy](session-10.md#your-turn): how do you convince people to sign up to your product and participate in its community? Which words / ideas resonate with your audience?
+	* [Interface copy](session-10.md#2-hack-your-interface-copy): what words do you use in your buttons? Is it called `post` or `share` or `shout`, and why?
+	* [Engagement email](session-11.md#engagement-email): how do you welcome new members by email? 
 	* [User stories](session-13.md#your-stories)
 
 
