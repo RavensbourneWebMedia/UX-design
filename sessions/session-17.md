@@ -19,9 +19,11 @@ Your [homework](#homework) and [blog](#blog)!
 This is a list of topics that your presentation *should* touch upon. 
 
 * The **context**
-	* What is the *issue* (or issues) your project addresses?
-	* What *causes* the issue(s)?
-	* Who are the *people affected* by the issue(s)?
+	* What is the *subject* of your project? 
+	* How do people currently *socialise* around this subject?
+	* What is the *challenge* (or challenges) that this social interaction currently presents?
+	* What *causes* the challenge(s)?
+	* Who are the *people affected* by the challenge(s)?
 
 * The **goal**
 	* *Why* are you working on this?
