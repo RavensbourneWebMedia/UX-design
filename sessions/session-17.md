@@ -19,12 +19,14 @@ Your [homework](#homework) and [blog](#blog)!
 This is a list of topics that your presentation *should* touch upon. 
 
 * The **context**
-	* What is the *subject* of your project? 
-	* How do people currently *socialise* around this subject?
+	* What is the *subject* of your project, not just on the Web but also IRL? 
+	* What kind of *content* do people currently share around your subject?
+	* How do people currently *socialise* around this subject? How did they do it *historically* (eg: 10-20 years ago, before the Web was a thing)?
 	* What is the *challenge* (or challenges) that this social interaction currently presents?
 	* What *causes* the challenge(s)?
 	* Who are the *people affected* by the challenge(s)?
-
+	* What is the *opportunity* (or opportunities) that this social interaction currently presents?
+	
 * The **goal**
 	* *Why* are you working on this?
 	* What do you regard as *success* for this unit?
