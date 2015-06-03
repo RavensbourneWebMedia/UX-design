@@ -9,10 +9,12 @@
 - [ ] [On walkthroughs](http://www.dtelepathy.com/blog/design/ux-flows-how-when-to-design-app-walkthrough) (second term)
 - [ ] [More on walkthroughs](http://blog.maxrudberg.com/post/38958984259/if-you-see-a-ui-walkthrough-they-blew-it) (second term)
 - [ ] [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil/) (second term)
-- [ ] [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40) before Itamar's session
+- [ ] [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40) before User Research  session
 - [ ] [Less is more](http://blog.intercom.io/invisible-design)
 - [ ] [The best interface is no interface](http://genius.com/Golden-krishna-the-best-interface-is-no-interface-excerpt-chap-14-annotated)
 - [ ] [Designing for mobile](http://www.uxbooth.com/articles/designing-for-mobile-part-1-information-architecture/)
+- [ ] [Live by the mockup, die by the mockup](http://www.uxmatters.com/mt/archives/2006/02/live-by-the-mockup-die-by-the-mockup.php) before wireframing, on the same wavelength of *Make it like the PSD*
+- [ ] [13 ways designers screw up presentations](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c)
 
 
 
@@ -164,3 +166,9 @@ Each student pick an effect from [CogLode](http://coglode.com), research it and 
 	* > [social graphs](http://interaction.dundee.ac.uk/~fzramsay/blog/?p=111)
 	* > build a community based around [issues/activities  that relates to Design and Craft](http://interaction.dundee.ac.uk/~kywong/blog/?cat=4)
 	* > [design related](http://interaction.dundee.ac.uk/~lhssilverberg/blog/?p=131) user groups
+	
+4. From *stereotypes* to *prototypes*: 
+
+	> ..an oversimplified image or idea of a particular type of person	
+	
+	Typically we design for ourselves, our social circles and  our/their interests. Let's design something for people outside of our **comfort zone**.
