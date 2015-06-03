@@ -23,7 +23,7 @@ This includes:
 
 * This unit is **not about Photoshop wizardry**.   
 
-	You will be introduced to several tools that enable you to **wireframe** (design user interfaces) quickly and effectively.
+	You will be introduced to several tools that enable you to **wireframe** and **prototype** user interfaces quickly and effectively.
 
 * In this unit **[Lorem ipsum](http://en.wikipedia.org/wiki/Lorem_ipsum) is banned**. 
 
