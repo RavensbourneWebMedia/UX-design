@@ -29,18 +29,18 @@ This is a list of topics that your presentation *should* touch upon.
 	
 	It's very important to start your presentation with the definition of a **context**. If you don't do this, feedback could quickly turn into a critique of your mockups instead of your **solution**. After all, it’s much easier to have an opinion on font sizes and colour choices than on the strategy of a product.
 	
-* The **goal**
+* Your **goal**
 	* *Why* are you working on this?
 	* What do you regard as *success* for this unit?
 	* How can you take this project further *beyond this unit*? 
 
-* The **research**	
+* Your **research**	
 	* [Competitor analysis](session-02.md#competitor-analysis) 
 	* [User interviews](session-03.md#user-interviews)
-	* [User personas](session-04.md#user-personas)	
+	* [User personas](session-04.md#user-personas)
 	* [Designing behaviours](session-14.md#designing-behaviours)
 
-* The **experiments**
+* Your **experiments**
 	* [Wireframes](session-05.md#wireframing) at different stages: from paper sketches to digital wireframes
 	* [User journeys](session-06.md#user-journeys) for a [couple of realistic scenarios](session-06.md#your-turn) (no fairytale, science-fiction comics) 
 	* Clickable [prototypes](session-13.md#rapid-prototyping) in Invision / Muse. 
@@ -50,7 +50,7 @@ This is a list of topics that your presentation *should* touch upon.
 		For example: a login screen *could* have a default state, a state with text filled in, and a state for the "uh-oh that doesn't seem to be the right password" state. 
 	* [User-testing](session-15.md#user-testing-preparation): both [usability tests](session-07.md#usability-testing) and [face2face sessions](session-15.md#let-them-in-). What did you learn from testing your ideas and prototypes with people, and how did you integrate their feedback into your design?
 
-* The **communication**
+* Your **communication**
 	* [Motivational copy](session-10.md#your-turn): how do you convince people to sign up to your product and participate in its community? Which words / ideas resonate with your audience?
 	* [Interface copy](session-10.md#2-hack-your-interface-copy): what words do you use in your buttons? Is it called `post` or `share` or `shout`, and why?
 	* [Engagement email](session-11.md#engagement-email): how do you welcome new members by email? 
