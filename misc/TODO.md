@@ -15,6 +15,7 @@
 - [ ] [Designing for mobile](http://www.uxbooth.com/articles/designing-for-mobile-part-1-information-architecture/)
 - [ ] [Live by the mockup, die by the mockup](http://www.uxmatters.com/mt/archives/2006/02/live-by-the-mockup-die-by-the-mockup.php) before wireframing, on the same wavelength of *Make it like the PSD*
 - [ ] [13 ways designers screw up presentations](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c)
+- [ ] [3 kinds of feedback](http://www.discussingdesign.com/3-kinds-of-feedback/)
 
 
 
