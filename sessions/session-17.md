@@ -27,6 +27,8 @@ This is a list of topics that your presentation *should* touch upon.
 	* Who are the *people affected* by the challenge(s)?
 	* What is the *opportunity* (or opportunities) that this social interaction currently presents?
 	
+	It's very important to start your presentation with the definition of a **context**. If you don't do this, feedback could quickly turn into a critique of your mockups instead of your **solution**. After all, it’s much easier to have an opinion on font sizes and colour choices than on the strategy of a product.
+	
 * The **goal**
 	* *Why* are you working on this?
 	* What do you regard as *success* for this unit?
@@ -55,7 +57,7 @@ This is a list of topics that your presentation *should* touch upon.
 	* [User stories](session-13.md#your-stories)
 
 
-Your presentation doesn't have to follow the same order in which topics are outlined here. **Structure your presentation as it makes sense to you**. Remember, we do value creativity after all ;)
+Your presentation doesn't have to strictly follow the same order in which things are outlined here. **Structure your presentation as it makes sense to you**. Remember, we do value creativity after all ;)
 
 
 # Tutorials
