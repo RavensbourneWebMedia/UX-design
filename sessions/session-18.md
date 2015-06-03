@@ -2,12 +2,12 @@
 
 ### Today, Thursday 4th June 2015
 
-Summative assessment, aka *presentations*!
+Summative assessment, aka [*presentations*](#presentations)!
 
 
-# Tips
+# Presentation
 
-### For the presenter
+### Tips for the presenter
 
 1. Don't start with an **apology**.   
   
@@ -41,7 +41,7 @@ Summative assessment, aka *presentations*!
 	Our ideas may be different and I respect that. Your job is to show the value of your work, not to flatter me. 
 -->
 
-### For everyone else
+### Tips for everyone else
 
 1. Be **kind**.   
   
