@@ -108,3 +108,42 @@ Students found **user stories** really useful to
 * even come up with new ideas
 
 Good to show them a real-world example (Granary Care) and stress that this is a technique used a lot in the industry.
+
+## Session 18 - presentations
+
+Share tips for presentations a few days before (so that students can actually include them in their presentations and delivery)
+
+**Competitors**: I want you to *use* their apps and write a detailed report on how they work, what opportunities for enhancement they present. What are the good things about that you could *borrow*?
+
+**Personas** should be more integrated: 
+
+* Meet `Fred`, he's such and such
+* Fred has a problem..
+* How is `Fred` learning about and start using your product?
+
+We need more than one persona, someone who is not a 20-something student.
+
+**Blank slate** should be considered and prototyped. Also, how does the app cope when there's little content. What happens when there are only a few people? Add how will it *scale*?
+
+**Freemium** models could be considered
+
+**Tone**: how does your product talk? What language does it use? Need to include at least two versions of the same page's copy.
+
+**GoodUI**: need to include examples of which ones you used. Maybe one of the exercises would be to pimp up an existing interface (from another product) using GoodUI tricks
+
+**Name and tagline**: tagline more important actually. Explain the main benefit of your app in one snappy sentence, eg `Find upcoming musicians near you` or `Plan your workouts with friends` or `The Sports Social Network. Interact with passionate fans and some of the biggest names in sport.`
+
+**Historical research**: make it mandatory for people to research into how people used to socialise around your chosen topic, before the Web.
+
+### Personification
+
+Imagine that your product is a **person/job**, eg your `personal trainer`. What's the interaction you would have with that person? What kind of personal transactions is s/he facilitating?
+
+Flesh out how that personal interaction works, and then translate it to computer-mediated interaction.
+
+> It was amazing once you put some content in people immediately get it!
+
+# UX chat
+
+* See observations above
+* Found user stories useful, why? At what stage of the process?
