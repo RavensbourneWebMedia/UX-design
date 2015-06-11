@@ -16,7 +16,7 @@ Your [homework](#homework) and [blog](#blog)!
 2. Grab a pen and some post-its 
 3. Let's *critique* each other's drafts
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/wireframes-critique.jpg)
+![](assets/wireframes-critique.jpg)
 
 ### Critiquette
 
@@ -50,7 +50,7 @@ In a nutshell:
 
 ### Banned words
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/thumbs-down.png)
+![](assets/thumbs-down.png)
 
 * Broken
 * Clean
@@ -70,11 +70,11 @@ In a nutshell:
 
 ### Bullshit wireframes
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/wireframe-bullshit.jpg)
+![](assets/wireframe-bullshit.jpg)
 
 What's wrong with the wireframes above?
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/wireframes-bullshit.jpg)
+![](assets/wireframes-bullshit.jpg)
 
 What's wrong with the wireframes above?
 
@@ -87,19 +87,19 @@ Used both as a teaching tool in the classroom and by 11-18 year olds in their ow
 
 Commissioned by the [Hansard Society](http://www.hansardsociety.org.uk) in 2011.
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/headsup-wireframes/1-home.png)
+![](assets/headsup-wireframes/1-home.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/headsup-wireframes/2-navigation.png)
+![](assets/headsup-wireframes/2-navigation.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/headsup-wireframes/3-prepare.png)
+![](assets/headsup-wireframes/3-prepare.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/headsup-wireframes/4-dashboard-student.png)
+![](assets/headsup-wireframes/4-dashboard-student.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/headsup-wireframes/5-profile.png)
+![](assets/headsup-wireframes/5-profile.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/headsup-wireframes/6-dashboard-teacher.png)
+![](assets/headsup-wireframes/6-dashboard-teacher.png)
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/headsup-wireframes/7-class-registration-form.png)
+![](assets/headsup-wireframes/7-class-registration-form.png)
 
 
 ### Leading questions
