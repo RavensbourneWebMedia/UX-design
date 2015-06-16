@@ -19,9 +19,9 @@ This includes:
 
 1. This unit is **not about honing your coding skills**.   
 
-	Whilst you are welcome to **prototype** your ideas using HTML+CSS+JS, there are many tools that will get you to similar end-results without touching code (or not too much of it).
+	Whilst you are welcome to **prototype** your ideas using HTML+CSS+JS, there are many tools that will get you to similar end-results without touching code (or very little of it).
 
-* This unit is **not about Photoshop wizardry**.   
+* This unit is **not about Photoshop or Illustrator wizardry**.   
 
 	You will be introduced to several tools that enable you to **wireframe** and **prototype** user interfaces quickly and effectively.
 
@@ -29,9 +29,9 @@ This includes:
 
 	If a Web product aims to **deliver valuable content and facilitate meaningful interactions**, we should be designing **content-first** for the best possible UX. 
 	
-	Lorem Ipsum is gibberish that conveniently fills the available space like an expanding gas. It is inert, meaningless and lacks context, revealing nothing about the relationship between your design and your content.   
+	*Lorem ipsum* is gibberish that conveniently fills the available space like an expanding gas. It is inert, meaningless and lacks context, revealing nothing about the relationship between your design and your content.   
   
-	Using Lorem Ipsum is a missed opportunity to do good UX design.
+	Using *Lorem ipsum* is a missed opportunity to do good UX design.
 
 
 
@@ -127,6 +127,7 @@ Your final grade will be based on:
 * **Experimentation** you wireframed only a handful of screens using filler content (*Lorem ipsum*, no images); your user journeys are superficial and/or delusional (wishful, not based on research evidence) 
 * **Iteration** your prototypes are hard to test and therefore your user-testing didn't provide useful insight; your process was erratic
 * **Communication** your presentation(s) lacked clarity and completeness
+<!-- not just bout presentations-->
 
 #### D
 
@@ -134,6 +135,7 @@ Your final grade will be based on:
 * **Experimentation** you wireframed a handful of screens using real(istic) content; your user journeys are based on research evidence but shallow (happy ending, no explanations) 
 * **Iteration** you prototyped and user-tested one concept, however you haven't addressed the road bumps your users encountered (one iteration only)
 * **Communication** your presentation(s) were complete
+<!-- not just bout presentations-->
 
 #### C
 
@@ -141,6 +143,7 @@ Your final grade will be based on:
 * **Experimentation** you wireframed key screens using real(istic) content; your user journeys are based on research evidence and explore a few scenarios 
 * **Iteration** you prototyped and user-tested a few concepts, tested them with several users and folded their feedback into your design process (at least two iterations)
 * **Communication** your presentation(s) were clear and complete
+<!-- not just bout presentations-->
 
 #### B
 
@@ -148,6 +151,7 @@ Your final grade will be based on:
 * **Experimentation** you wireframed key screens using real(istic) content, and your user journeys explore several scenarios in depth; you explained how your design decisions are linked to research evidence
 * **Iteration** you prototyped and user-tested several  concepts, tested them with users and folded their feedback into your design process; more than two iterations
 * **Communication** your presentation(s) were clear, complete and engaging
+<!-- not just bout presentations-->
 
 #### A
 
@@ -155,7 +159,7 @@ Your final grade will be based on:
 * **Experimentation** you wireframed key screens using real(istic) content, experimenting with UI design patterns and explaining how your design decisions are linked to research evidence; your user journeys are based on research evidence, highlight pain points and offer branching solutions
 * **Iteration** you prototyped and user-tested various  concepts, testing them both on a high level and refining the details (eg A/B testing); more than two iterations
 * **Communication** your presentation(s) were clear, complete, engaging and original
-
+<!-- not just bout presentations-->
 
 ## Blog
 
