@@ -325,4 +325,6 @@ Your presentations are only one part of your submission. Their goal is to help y
 
 * Found user stories useful, why? At what stage of the process?
 * Export presentations as `.pdf`. No `.ppt` or `.key` please.
-* *Freemium* is not a sin: businesses have to be sustainable (who's paying bills and salaries otherwise?) [If you’re not paying for it, you are the product](http://www.forbes.com/sites/marketshare/2012/03/05/if-youre-not-paying-for-it-you-become-the-product/)
+* *Freemium* is not a sin: businesses have to be sustainable (who's paying bills and salaries otherwise?) [If you’re not paying for it, you are the product](http://www.forbes.com/sites/marketshare/2012/03/05/if-youre-not-paying-for-it-you-become-the-product/)  
+  
+![](assets/ux-chat.jpg)
