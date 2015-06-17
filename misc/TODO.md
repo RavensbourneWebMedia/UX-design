@@ -16,6 +16,9 @@
 - [ ] [Live by the mockup, die by the mockup](http://www.uxmatters.com/mt/archives/2006/02/live-by-the-mockup-die-by-the-mockup.php) before wireframing, on the same wavelength of *Make it like the PSD*
 - [ ] [13 ways designers screw up presentations](https://medium.com/@monteiro/13-ways-designers-screw-up-client-presentations-51aaee11e28c)
 - [ ] [3 kinds of feedback](http://www.discussingdesign.com/3-kinds-of-feedback/)
+- [ ] Should you have a `Login with Facebook` button? Try and find all the reason why someone may NOT want to sign in with Facebook
+- [ ] Facebook is a capitalist social network. What would a *socialist social network* look like and how would it work? (See marxist SnowWhite interpretation)
+- [ ] [Invisible design](https://blog.intercom.io/invisible-design/) (many students liked it, particularly the rhino anecdote)
 
 
 
@@ -29,6 +32,7 @@
 - [ ] [What is *lean* UX?](http://ux.stackexchange.com/questions/38845/what-is-lean-ux-and-where-can-i-learn-more-about-it)
 - [ ] [What is Lean UX by Mozilla](http://blog.mozilla.org/ux/2014/06/3623/)
 - [ ] [How to choose the right UX metrics for your product](http://www.gv.com/lib/how-to-choose-the-right-ux-metrics-for-your-product)
+- [ ] [On learning goals (before and after, by Margot)](https://github.com/Myrtilletamere/WEB14204/blob/master/students/Margot/Blogs/What%20Are%20My%20Learning%20Goals.md)
 
 ### Onboarding 
 
