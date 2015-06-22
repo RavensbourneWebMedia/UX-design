@@ -5,12 +5,11 @@
 * [Transitional interfaces](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3) (second term)
 * [We're designers](http://articles.morganallanknutson.com/were-designers) (bah)
 * [Interfaces in need](https://medium.com/@gbks/interfaces-in-need-fa21105102c6) (first term)
-* [History of UX](http://blog.invisionapp.com/a-brief-history-of-user-experience)(first term)
+* [History of UX](http://blog.invisionapp.com/a-brief-history-of-user-experience) (first term)
 - [ ] [On walkthroughs](http://www.dtelepathy.com/blog/design/ux-flows-how-when-to-design-app-walkthrough) (second term)
 - [ ] [More on walkthroughs](http://blog.maxrudberg.com/post/38958984259/if-you-see-a-ui-walkthrough-they-blew-it) (second term)
 - [ ] [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil/) (second term)
 - [ ] [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40) before User Research  session
-- [ ] [Less is more](http://blog.intercom.io/invisible-design)
 - [ ] [The best interface is no interface](http://genius.com/Golden-krishna-the-best-interface-is-no-interface-excerpt-chap-14-annotated)
 - [ ] [Designing for mobile](http://www.uxbooth.com/articles/designing-for-mobile-part-1-information-architecture/)
 - [ ] [Live by the mockup, die by the mockup](http://www.uxmatters.com/mt/archives/2006/02/live-by-the-mockup-die-by-the-mockup.php) before wireframing, on the same wavelength of *Make it like the PSD*
@@ -18,7 +17,7 @@
 - [ ] [3 kinds of feedback](http://www.discussingdesign.com/3-kinds-of-feedback/)
 - [ ] Should you have a `Login with Facebook` button? Try and find all the reason why someone may NOT want to sign in with Facebook
 - [ ] Facebook is a capitalist social network. What would a *socialist social network* look like and how would it work? (See marxist SnowWhite interpretation)
-- [ ] [Invisible design](https://blog.intercom.io/invisible-design/) (many students liked it, particularly the rhino anecdote)
+- [x] [Invisible design](https://blog.intercom.io/invisible-design/) (many students liked it, particularly the rhino anecdote)
 
 
 
