@@ -5,7 +5,7 @@ In particular, you will get familiar with:
 * **User eXperience** (UX) design principles and patterns  
 * Qualitative and quantitative **user research** 
 * **Competitor analysis**
-* User **personas*** , user **stories***  and user **journeys**
+* User **personas**, user **stories** and user **journeys**
 * **Interface design**: **paper-prototyping** and **wireframing**
 * **Rapid prototyping** tools
 * **User-testing**: face2face, A/B testing and analytics
