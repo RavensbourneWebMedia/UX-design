@@ -1,31 +1,31 @@
-# Designing the UX
+### During this course you will learn how to effectively address the needs and circumstances of **Web users**, to design and prototype Web products that are comfortable and even joyful to use.
 
-<!-- ## [bit.ly/WEB14204](http://bit.ly/WEB14204) -->
+In particular, you will get familiar with:
 
-This unit introduces you to the methods and tools used to effectively address the needs and circumstances of Web users, to design and produce Web interfaces that are comfortable and even joyful to use.
+* **User eXperience** (UX) design principles and patterns  
+* Qualitative and quantitative **user research** 
+* **Competitor analysis**
+* User **personas*** , user **stories***  and user **journeys**
+* **Interface design**: **paper-prototyping** and **wireframing**
+* **Rapid prototyping** tools
+* **User-testing**: face2face, A/B testing and analytics
+* Motivational **copy-writing** for stickiness
 
-This includes:
+![](sessions/assets/design-vs-UX.jpg)
 
-* qualitative and quantitative **user research** 
-* **competitor analysis**
-* **User eXperience** (UX) design principles and patterns
-* user **personas**, user **stories** and user **journeys**
-* **interface design**: **paper-prototyping** and **wireframing**
-* **rapid prototyping** tools
-* **user-testing**: face2face, A/B testing and analytics
-* motivational **copy-writing** for stickiness
+### What this course is NOT
 
-### What this unit is NOT
+1. This course is **NOT about honing your coding skills**.   
 
-1. This unit is **not about honing your coding skills**.   
+	Whilst you are welcome to **prototype** your ideas using HTML+CSS+JS, there are many tools that will get you to similar results without touching code (or very little of it).
 
-	Whilst you are welcome to **prototype** your ideas using HTML+CSS+JS, there are many tools that will get you to similar end-results without touching code (or very little of it).
+* This course is **not about Photoshop or Illustrator wizardry**.   
 
-* This unit is **not about Photoshop or Illustrator wizardry**.   
+	You will be introduced to several tools that enable you to **wireframe** and **prototype** user interfaces quickly and effectively.  
+  
+	![](sessions/assets/photoshop.png)
 
-	You will be introduced to several tools that enable you to **wireframe** and **prototype** user interfaces quickly and effectively.
-
-* In this unit **[Lorem ipsum](http://en.wikipedia.org/wiki/Lorem_ipsum) is banned**. 
+* In this course **[Lorem ipsum](http://en.wikipedia.org/wiki/Lorem_ipsum) is banned**. 
 
 	If a Web product aims to **deliver valuable content and facilitate meaningful interactions**, we should be designing **content-first** for the best possible UX. 
 	
@@ -194,7 +194,7 @@ Refer to the general **[Web Media blog assessment criteria](https://github.com/R
 
 # Learning goals
 
-Upon completion of this unit you will (hopefully) be able to: 
+Upon completion of this course you will (hopefully) be able to: 
 
 * Understand the difference between *qualitative* and *quantitative* **user research** and be familiar with a few techniques to perform both types of research.
  
