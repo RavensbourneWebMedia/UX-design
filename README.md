@@ -59,10 +59,10 @@ Thursday<br>26.05| TBA | TBA | TBA
 Thursday<br>02.06| TBA | TBA | TBA 
 Thursday<br>09.06| **Summative presentations** | | 
 
+<!-- 
 
-<!-- Thursday<br>07.01| <ul><li> <li> | <ul><li> <li> | -->
+Thursday<br>07.01| <ul><li> <li> | <ul><li> <li> | 
 
-<!--
 Session	| Date	| Topic(s)	| Assignment | Blog
 -------	| -----	| --------	| ---------- | ----
 [1](sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
@@ -86,7 +86,6 @@ Session	| Date	| Topic(s)	| Assignment | Blog
 -->
 
 
-
 # Projects
 
 ### Kidesign <sup>Spring term</sup>
@@ -101,10 +100,8 @@ Design and prototype a digital archive experience.
 
 <!-- All the project material is [here](projects/art-experience). -->
 
- 
 
-
-
+<!--
 
 # Assessment criteria
 
@@ -166,16 +163,6 @@ Your final grade will be based on:
 * **Iteration** you prototyped and user-tested various  concepts, testing them both on a high level and refining the details (eg A/B testing); more than two iterations
 * **Communication** your presentation(s) were clear, complete, engaging and original
 
-
-
-<!-- 
-
-
-Communication
-	not just about presentations
-
--->
-
 ## Blog
 
 The blog should have at least 12 posts.
@@ -201,10 +188,10 @@ Topics from each week:
 
 Refer to the general **[Web Media blog assessment criteria](https://github.com/RavensbourneWebMedia/Blogging/blob/master/assessment-criteria.md)** for a detailed grading breakdown.
 
+-->
+
 
 # Learning goals
-
-Upon completion of this course you will (hopefully) be able to: 
 
 * Understand the difference between *qualitative* and *quantitative* **user research** and be familiar with a few techniques to perform both types of research.
  
@@ -220,13 +207,13 @@ Upon completion of this course you will (hopefully) be able to:
 
 * Use **rapid prototyping** tools to quickly test solutions to specific UX problems.
 
-* Understand the differences between various **user-testing** methods and practice them at a basic level
+* Understand the differences between various **user-testing** methods and practice them at a basic level.
 
 * **Document** your design and development process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
 
 * **Communicate** your ideas both technically and in an engaging way.
 
-* **Back-up** your project files using the Git version-control system (through GitHub).
+* Use the Git version-control system (through GitHub) to **collaborate** with your team and **back-up** your project files.
 
 
 ### License
