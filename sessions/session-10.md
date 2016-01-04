@@ -268,9 +268,17 @@ You can find the rest of the *Exercises in Style* comic [here](http://www.exerci
 
 ### Your turn
 
-Queneau's *Exercises in Style* goes beyond storytelling. It is an exploration of **communication patterns**. 
+Queneau's *Exercises in Style* goes beyond storytelling. The story (as in sequence of events) he tells is banal and ultimately unimportant. What matters is not *what* but **how** that story is re-told.
+
+What Queneau asks of us is to go beyond the story, and look for **communication patterns**. From those apparently insignificant details, from the *style* we can learn a lot about what the author(s) of a text (or piece, comic, app, interface) are thinking.
 
 Let's see if we can apply his method to **explore communication patterns in interface design**: how many ways of communicating the same small event can you think of?
+
+#### Why are we doing this?
+
+Questioning the choice words (*why like, rather than love or approve?*) to describe interface actions, will allow you to train your *design thinking* muscles. Imagining alternative ways of framing *things*, not just in digital interfaces, keeps your creativity flowing, and builds your *critical thinking* immune system. When train to deconstruct the messages we receive, down to the single word, we become less sensible to bullshit. 
+
+<!-- Finding those patterns is a bit like spotting someone's accent in speech. -->
 
 #### De-face your competitor (warm up)
 
