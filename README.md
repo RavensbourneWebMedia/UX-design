@@ -34,9 +34,35 @@ In particular, you will get familiar with:
 	Using *Lorem ipsum* is a missed opportunity to do good UX design.
 
 
-
 # Plan
 
+When | In class | Homework | Blog 
+---- | -------- | -------- | ----
+Thursday<br>07.01| <ul><li>Intro to UX <li>Co-design (for children) <li>Brief <li>Competitor analysis  | Competitor analysis | TBA
+Thursday<br>14.01| <ul><li>UX research <li>Workshop on interviews <li>Field research at a local primary school | TBA | TBA 
+Thursday<br>21.01| <ul><li>Wireframes <li>Paper prototypes  | Prep for usertesting  | TBA
+Thursday<br>28.01| Usertesting at a local primary school | Debrief | TBA 
+Thursday<br>04.02| **Formative presentations** | TBA | TBA
+Week 6| | | 
+Thursday<br>18.02| UX workshop with primary school teachers | TBA | TBA 
+Thursday<br>25.02| Prototypes with app dev tool | TBA | TBA 
+Thursday<br>03.03| App dev at a local primary school | TBA | TBA
+Thursday<br>10.03| **Formative presentations** | TBA | 
+Easter break| | | 
+Thursday<br>14.04| TBA | TBA | TBA
+Thursday<br>21.04| TBA | TBA | TBA 
+Thursday<br>28.04| TBA | TBA | TBA 
+Thursday<br>05.05| TBA | TBA | TBA 
+Thursday<br>12.05| TBA | TBA | TBA 
+Thursday<br>19.05| TBA | TBA | TBA 
+Thursday<br>26.05| TBA | TBA | TBA 
+Thursday<br>02.06| TBA | TBA | TBA 
+Thursday<br>09.06| **Summative presentations** | | 
+
+
+<!-- Thursday<br>07.01| <ul><li> <li> | <ul><li> <li> | -->
+
+<!--
 Session	| Date	| Topic(s)	| Assignment | Blog
 -------	| -----	| --------	| ---------- | ----
 [1](sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
@@ -57,6 +83,7 @@ Session	| Date	| Topic(s)	| Assignment | Blog
 [16](sessions/session-16.md)		| Tue May 26th 	| Prototyping & tutorials  | User-testing
 [17](sessions/session-17.md)		| Tue Jun 2nd 	| Tutorials  | Prepping presentation
 [18](sessions/session-18.md)		| Thu Jun 4th 	| **Summative Assessment**  | Feedback form 
+-->
 
 
 
