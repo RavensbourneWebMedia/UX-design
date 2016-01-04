@@ -4,7 +4,7 @@
 
 * How many things can you remember from a lecture (or any piece of information)? Later today, tomorrow, in a month's time..
 
-* Filter information. Let it seep through your brain, not just passively absorbe it.
+* Filter information. Let it seep through your brain, not just passively absorb it.
 
 * **How to take notes?** Paper vs digital. What to write?
 
