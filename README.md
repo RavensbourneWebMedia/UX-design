@@ -216,6 +216,19 @@ Refer to the general **[Web Media blog assessment criteria](https://github.com/R
 * Use the Git version-control system (through GitHub) to **collaborate** with your team and **back-up** your project files.
 
 
+# Rules of the road
+
+* **Be present**. If you happen to be late (even by 5 minutes) or absent, make sure you email me about it before a session starts. We'll deduct 2% from your grade for each uncommunicated tardiness or absence (aka the *2% Tardiness Tax*).
+
+* **Participate** in class debates and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
+
+* **Present** your work during formative and summative assessments. If you can't make it those days then you'll record your presentation and upload it to YouTube (or similar).
+
+* **Be responsible** for what happens in class. Organise with your peers to get class information and material that you may have missed.
+
+* **Meet the deadlines**. If you submit your work after a deadline, your grade will be capped at D- (bare pass).
+
+
 ### License
 
 [![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
