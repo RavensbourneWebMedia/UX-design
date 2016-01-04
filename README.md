@@ -87,39 +87,22 @@ Session	| Date	| Topic(s)	| Assignment | Blog
 
 
 
-# Brief
+# Projects
 
-Design the **UX** and build the **prototype** of a Web-based **social network** for `{your choice of users}`.
+### Kidesign <sup>Spring term</sup>
 
-This can be a **new** social network, or the **re-design** of an existing one.
+On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by engaging with a challenging user group: primary school children and (their) parents. 
 
-The more specific your **user target**, the more focused your UX design will be.
+All the project material is [here](projects/kidesign).
 
-Examples of specific (good) user targets:
+### Art experience <sup>Summer term</sup>
 
-* a social network for `dog owners`
-* a social network for `professional carers`
-* a social network for `over-60 retired mothers`
+Design and prototype a digital archive experience.
 
-Examples of broad (bad) user targets:
+<!-- All the project material is [here](projects/art-experience). -->
 
-* a social network for `everyone`
-* a social network for `students`
-* a social network for `sports fans`
  
-### Context
 
-<!-- from https://speakerdeck.com/destraynor/the-language-of-interfaces -->
-
-* Web-*sites* are turning into Web-*apps*: one does not simply *read* an app.
-* The Web is being rebuilt around **people**, aka *the users* (think comments, recommendations, wish lists, personalised feeds..)
-* **Social networks** are the most popular Web-apps for people to connect and interact with each other online
-* A social Web-app is a gamble on **content** (will people **produce** content for your app?)
-* The people use the **interfaces** (that you design) to do this
-* You control the *user interface*, the *[blank slate](http://ui-patterns.com/patterns/BlankSlate)* for new users, and the *content definition* (it's called *tweet*, not *share*, *post*, *update* etc.)
-* Interfaces influence **behaviour**, and words influence **relationships** (*friends*, *partners*, *buddies*, *colleagues* etc.)
-* The words you put on something, be it an **action** or a relationship, define your app.
-* [Copywriting is Interface Design](https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php)
 
 
 
