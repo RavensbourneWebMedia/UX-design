@@ -48,6 +48,7 @@
 - [ ] [CogLode](http://coglode.com) a collection of psychology / "behavioural economics" research about how people use products, shop or generally behave, "distilled" in a way that could help you "make better products"
 - [ ] Mintel (we have an account from Ravensbourne)
 - [ ] [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40)
+- [ ] [From the Contextual Studies team](http://rmr.ravewebmedia.co.uk)
 
 ### Personas
 
