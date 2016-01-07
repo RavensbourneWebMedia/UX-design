@@ -1,4 +1,4 @@
-### During this course you will learn how to effectively address the needs and circumstances of **Web users**, to design and prototype Web products that are comfortable and even joyful to use.
+### During this course you will learn how to effectively address the needs and circumstances of **Web users**, to design and prototype interactive products that are comfortable and even joyful to use.
 
 In particular, you will get familiar with:
 
@@ -38,7 +38,7 @@ In particular, you will get familiar with:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Thursday<br>07.01](sessions/01)| <ul><li>Intro to UX <li>Co-design (for children) <li>Brief <li>Competitor analysis  | Competitor analysis | Interviewing humans
+[Thursday<br>07.01](sessions/01)| <ul><li>Intro to UX <li>Co-design (for children) <li>Team project: [**Kidesign**](#kidesign) <li>Workshop: working with kids  | Competitor analysis | Interviewing humans
 Thursday<br>14.01| <ul><li>UX research <li>Workshop on interviews <li>Field research at a local primary school | TBA | TBA 
 Thursday<br>21.01| <ul><li>Wireframes <li>Paper prototypes  | Prep for usertesting  | TBA
 Thursday<br>28.01| Usertesting at a local primary school | Debrief | TBA 
