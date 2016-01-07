@@ -40,7 +40,9 @@ There are many ways of understanding **U**ser e**X**perience.
 
 <!-- [Here](http://www.allaboutux.org/ux-definitions) is a pool of definitions found from the literature and on the Web. --> 
 
- - [ ] In pairs, read [these UX definitions](http://www.allaboutux.org/ux-definitions) and pick your favourite one, or jot down your own definition / interpretation of UX, as you currently understand it. We'll then discuss them all together.
+### Your turn
+
+In pairs, read [these UX definitions](http://www.allaboutux.org/ux-definitions) and pick your favourite one, or jot down your own definition / interpretation of UX, as you currently understand it. We'll then discuss them all together.
 
 <!-- UX design is about effectively addressing the **needs** and **circumstances** of your **users**, to produce interactive products that are **comfortable** and even **joyful** to use. -->
 
