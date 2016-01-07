@@ -4,7 +4,7 @@
 
 1. [Welcome](#welcome) :)
 * [What is User eXperience?](#what-is-ux)
-* Peer-learning: designing for kids (see that article)
+* Peer-learning: [designing for kids](#peer-learning)
 * Project
 
 ### Your [homework](#homework) and [blog](#blog)!
@@ -69,6 +69,35 @@ In pairs, read [these UX definitions](http://www.allaboutux.org/ux-definitions) 
 * Starting from the small screens (and less capable hardware) makes you **focus** on what really matters
 
 * Give yourself a **performance budget** (how much can this page weigh on a mobile phone? how long should it take to load on a 3G connection?)-->
+
+
+# Peer learning
+
+### Designing for kids
+
+In teams, read and discuss this article: [Designing Web interfaces for kids](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/) by [Trine Falbe](https://twitter.com/trinefalbe).
+
+1. Read and annotate (on a Google doc, mind-map, paper sketch.. up to you) the general parts (*Paradigm shift*, *The brain of a kid* and *What affects how kids use the Web?*), share your notes with everyone else on Slack.
+* Each team focuses on one of the [design guidelines](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#the-guidelines):
+
+	Who | Which guideline
+	--- | ---------------
+	Team 1 | [Simple data entry](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#simple-data-entry)
+	Team 2 | [Buttons rather than text links](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#buttons-rather-than-text-links) and [Use icons and images](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#use-icons-and-images)
+	Team 3 | [Search](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#search-use-auto-complete-and-visual-search-for-young-kids-older-kids-can-use-more-complex-search)
+	Team 4 | [Design for social](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#design-for-social)
+	Team 5 | [Provide information and instructions “just in time” and “on demand”](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#provide-information-and-instructions-just-in-time-and-on-demand)
+	Team 6 | [Design for playfulness](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#design-for-playfulness-gamify)
+	
+	For each guideline, try and find one or more examples of Web products that implement your guideline, **both good and bad examples**.
+* Present your findings to the rest of the class, and share your notes on Slack.	
+
+<!--
+
+	Team D | [Don’t reposition key navigation](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#dont-reposition-key-navigation-when-redesigning)
+	Team E | [Use voiceover support for young kids](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#use-voiceover-sound-for-young-kids)
+
+-->
 
 
 # Homework
