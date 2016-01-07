@@ -102,7 +102,7 @@ To what extent do people form ties with similar versus dissimilar others? Simila
 
 What kind of content(s) are users producing, sharing and consuming on these networks?
 
-What kind of comments do people post on these networks? As a designer, how can you *scaffold* users interactions aroud content.
+What kind of comments do people post on these networks? As a designer, how can you *scaffold* users interactions around content.
 
 Why are many comments on YouTube so moronic? Why do you think people let loose so much on that social network? [Watch this video](https://www.youtube.com/watch?v=gx-WBaSNrTQ). It's funny.
 
