@@ -38,7 +38,7 @@ In particular, you will get familiar with:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-Thursday<br>07.01| <ul><li>Intro to UX <li>Co-design (for children) <li>Brief <li>Competitor analysis  | Competitor analysis | TBA
+[Thursday<br>07.01](sessions/01)| <ul><li>Intro to UX <li>Co-design (for children) <li>Brief <li>Competitor analysis  | Competitor analysis | Interviewing humans
 Thursday<br>14.01| <ul><li>UX research <li>Workshop on interviews <li>Field research at a local primary school | TBA | TBA 
 Thursday<br>21.01| <ul><li>Wireframes <li>Paper prototypes  | Prep for usertesting  | TBA
 Thursday<br>28.01| Usertesting at a local primary school | Debrief | TBA 
@@ -57,44 +57,18 @@ Thursday<br>12.05| TBA | TBA | TBA
 Thursday<br>19.05| TBA | TBA | TBA 
 Thursday<br>26.05| TBA | TBA | TBA 
 Thursday<br>02.06| TBA | TBA | TBA 
-Thursday<br>09.06| **Summative presentations** | | 
-
-<!-- 
-
-Thursday<br>07.01| <ul><li> <li> | <ul><li> <li> | 
-
-Session	| Date	| Topic(s)	| Assignment | Blog
--------	| -----	| --------	| ---------- | ----
-[1](sessions/session-01.md)		| Tue Jan 6th 	| Unit intro <br>What is UX?  | Learning goals
-[2](sessions/session-02.md)		| Tue Jan 13th 	| Competitor analysis  | Play-acting Web products
-[3](sessions/session-03.md)		| Thu Jan 15th 	| User research | User interview
-[4](sessions/session-04.md)		| Tue Jan 20th 	| User personas | User personas
-[5](sessions/session-05.md)		| Tue Feb 3rd 	| Interface design  | Wireframing
-[6](sessions/session-06.md)		| Tue Feb 17th 	| User journeys	 | User journeys
-[7](sessions/session-07.md)		| Tue Feb 24th 	| User-testing  | User-testing
-[8](sessions/session-08.md)		| Tue Mar 3rd 	| Tutorials  | Prepping presentation
-[9](sessions/session-09.md)		| Tue Mar 10th 	| **Formative Assessment**  | Plan of action
-[10](sessions/session-10.md)		| Tue Apr 14th 	| Copywriting<br>Exercises in style  | User-testing<br>Elevator's pitch
-[11](sessions/session-11.md)		| Tue Apr 21st 	| Guest: Michael Mentessi <br>Communities  | Community planning<br>Interviewing humans
-[12](sessions/session-12.md)		| Tue Apr 28th 	| Guest: Itamar Ferrer<br>In-depth interviews  | [User-testing: recruiting *guinea pigs*](sessions/session-12.md#2-plan-interviews-and-testing)
-[13](sessions/session-13.md)		| Tue May 5th 	| User stories<br>Rapid prototyping | 
-[14](sessions/session-14.md)		| Tue May 12th 	| Prototypes critique<br>Behavioural design  | Responsive prototypes
-[15](sessions/session-15.md)		| Tue May 19th 	| User-testing  | User-testing
-[16](sessions/session-16.md)		| Tue May 26th 	| Prototyping & tutorials  | User-testing
-[17](sessions/session-17.md)		| Tue Jun 2nd 	| Tutorials  | Prepping presentation
-[18](sessions/session-18.md)		| Thu Jun 4th 	| **Summative Assessment**  | Feedback form 
--->
+Thursday<br>09.06| **Summative presentations** |  **Summative hand-in** | 
 
 
 # Projects
 
-### Kidesign <sup>Spring term</sup>
+### Kidesign
 
 On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by engaging with a challenging user group: primary school children and (their) parents. 
 
 All the project material is [here](projects/kidesign).
 
-### Art experience <sup>Summer term</sup>
+### Art experience
 
 Design and prototype a digital archive experience.
 
@@ -103,26 +77,18 @@ Design and prototype a digital archive experience.
 
 # Learning goals
 
-* Understand the difference between *qualitative* and *quantitative* **user research** and be familiar with a few techniques to perform both types of research.
- 
+By the end of this course, you will be able to:
+
+1. Understand the difference between *qualitative* and *quantitative* **user research** and be familiar with a few techniques to perform both types of research.
 * Research and analyse **competitor services** to gain inspiration and insight from them.
-
 * Identify and use **design patterns** effectively in your projects.
-
 * Produce user **personas**, user **stories** and user **journeys** to communicate and validate your design decisions.
-
 * Understand the importance of motivational **copy-writing** in interface design, and write interface copy that is appropriate for your audience and their task(s) at hand.
-
 * Use **paper-prototyping** and **wireframing** techniques to visualise your interface design ideas and explore alternative solutions.
-
 * Use **rapid prototyping** tools to quickly test solutions to specific UX problems.
-
 * Understand the differences between various **user-testing** methods and practice them at a basic level.
-
 * **Document** your design and development process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
-
 * **Communicate** your ideas both technically and in an engaging way.
-
 * Use the Git version-control system (through GitHub) to **collaborate** with your team and **back-up** your project files.
 
 
