@@ -82,12 +82,13 @@ In teams, read and discuss this article: [Designing Web interfaces for kids](htt
 
 	Who | Which guideline
 	--- | ---------------
-	Team 1 | [Simple data entry](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#simple-data-entry)
-	Team 2 | [Buttons rather than text links](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#buttons-rather-than-text-links) and [Use icons and images](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#use-icons-and-images)
-	Team 3 | [Search](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#search-use-auto-complete-and-visual-search-for-young-kids-older-kids-can-use-more-complex-search)
-	Team 4 | [Design for social](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#design-for-social)
-	Team 5 | [Provide information and instructions “just in time” and “on demand”](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#provide-information-and-instructions-just-in-time-and-on-demand)
-	Team 6 | [Design for playfulness](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#design-for-playfulness-gamify)
+	Jonny and Harry and Tom | [Simple data entry](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#simple-data-entry)
+	Ade and Rana | [Buttons rather than text links](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#buttons-rather-than-text-links)
+	Johan and Jack | [Use icons and images](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#use-icons-and-images)
+	Kieran and Sanj | [Search](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#search-use-auto-complete-and-visual-search-for-young-kids-older-kids-can-use-more-complex-search)
+	Zac and Alex | [Design for social](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#design-for-social)
+	Ryder and Ollie | [Provide information and instructions “just in time” and “on demand”](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#provide-information-and-instructions-just-in-time-and-on-demand)
+	Joe and Luke | [Design for playfulness](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#design-for-playfulness-gamify)
 	
 	For each guideline, try and find one or more examples of Web products that implement your guideline, **both good and bad examples**.
 * Present your findings to the rest of the class, and share your notes on Slack.	
