@@ -3,7 +3,7 @@
 ### Today, Thursday 7th January 2016
 
 1. [Welcome](#welcome) :)
-* What is User eXperience?
+* [What is User eXperience?](#what-is-ux)
 * Peer-learning: designing for kids (see that article)
 * Project
 
@@ -11,8 +11,6 @@
 
 
 # Welcome
-
-![](assets/design-vs-UX.jpg)
 
 1. [What is this course about?](../../README.md)
 * [What will you do?](../../README.md#projects)
@@ -30,6 +28,46 @@
 	* Read your writings out loud. It'll help you spot mistakes and make your written thoughts flow.
 	* simple ≠ simplistic (which means oversimplified and has a negative connotation)
 	* complex ≠ complicated (which means it could be simplified, and has a negative connotation) 
+
+
+# What is UX?
+
+![](assets/design-vs-UX.jpg)
+
+![](assets/xkcd-university-website.png)
+
+There are many ways of understanding **U**ser e**X**perience. 
+
+<!-- [Here](http://www.allaboutux.org/ux-definitions) is a pool of definitions found from the literature and on the Web. --> 
+
+ - [ ] In pairs, read [these UX definitions](http://www.allaboutux.org/ux-definitions) and pick your favourite one, or jot down your own definition / interpretation of UX, as you currently understand it. We'll then discuss them all together.
+
+<!-- UX design is about effectively addressing the **needs** and **circumstances** of your **users**, to produce interactive products that are **comfortable** and even **joyful** to use. -->
+
+<!-- > All the aspects of **how people use an interactive product**: the way it feels in their hands, how well they understand how it works, how they feel about it while they’re using it, how well it serves their purposes, and how well it fits into the entire context in which they are using it. -->
+
+<!-- * **User-centred** approach (*user personas*) vs **activity-centred** approach (*user stories*). We'll do a bit of both. -->
+
+### What is a prototype? How do we you make one?
+
+* Prototypes answer **questions**: the more specific the better.
+
+* Prototypes stand between your ideas (**assumptions**) and your users (**behaviours**).
+
+* Prototypes should be quick and **cheap** to make, re-make and possibly discard.
+
+* Prototype should be **close** to the real thing.
+
+* We'll start with sketches on paper (**paper-prototypes**), and then move on to **digital prototypes**.
+
+<!--## Why mobile-first?
+
+* Embrace the **diversity** of devices people are accessing the Web from (2015 is *the* year mobile Web traffic will overtake *desktop* Web traffic, according to predictions that I should link to..)
+
+* Starting from the small screens (and less capable hardware) makes you **focus** on what really matters
+
+* Give yourself a **performance budget** (how much can this page weigh on a mobile phone? how long should it take to load on a 3G connection?)-->
+
 
 # Homework
 
