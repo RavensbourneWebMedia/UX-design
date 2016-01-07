@@ -110,13 +110,69 @@ All the project material is [here](../../projects/kidesign).
 
 Today and until next week: 
 
-1. Form teams
-* Jot down your areas of interest / first ideas 
+1. Form teams.
+* Jot down your areas of interest / first ideas. 
 * Start analysing the competition (see [homework below](#competitor-analysis)).
 
 # Homework
 
 ### Competitor analysis
+
+Find 2-3 kids products / apps that are relevant to your team's area of interest. 
+
+For each product / app:
+
+1. Read **reviews** about it.
+* **Use it** and make notes about 
+	
+	* **Audience**: who is this product for, primarily and secondarily? 
+	
+		What are the user **goals**, ie what are they using the product for?
+	
+	* The **relationships** the product enables. 
+		
+		Can users connect with other users? 
+		
+		What are the steps to connect (and disconnect)?
+
+	* **Content**: what kind of content(s) are users producing, sharing and consuming on this product?  
+  
+		As a designer, how could you *scaffold* users interactions around content?
+
+	* **Content definitions**: what are *things* called?
+		
+		Is it `friends` or `contacts` or `buddies` or ... ?
+
+		Is it `like` or `love` or `appreciate` or `agree` or `+1` or ... ? 
+
+		And what implications could those choice of words have? For example, how do you `like` a post about a missing cat, or someone's death? Are all your connections really `friends`?
+
+		In particular, consider the **calls to action** (eg: `Buy this`, `Sign up today`, `Follow me`, `Send`, `Post` etc), which are usually found in buttons. What is the product asking users to do?
+		
+	* **Language**: how does the product *talk* to users?
+
+		Is the tone *formal* or *informal*, *plain* or *technical*, *sophisticated* or *unpretentious*, *active* or *passive*, etc.?
+
+		In what person does the product talk: `we`, `I`, `you`?
+
+		Is it `your profile` or `my profile`? 
+
+		What feelings do you think they are trying to trigger in the audience? 
+
+	* **Onboarding**: user *onboarding* is the process of increasing the likelihood that *new users* adopt your product and keep using it.
+
+		How does the product onboard new users?
+
+		See these very good analyses of user onboarding at [useronboard.com](http://www.useronboard.com).
+
+	* **Blank slate**: *I just signed up, what do I do now?*
+	
+		An app may feel without life and empty before the user has started to enter data into it. This is an opportunity to motivate the user to start using the app, by showing examples (sample content, screenshots) and best practices (seeds).
+
+		[More about blank slates here](http://ui-patterns.com/patterns/BlankSlate).	
+	* **Usability and usefulness** (mind the difference) in relation to its audience. 
+* Jot down what **could be re-designed** or improved (any ideas).
+* If you have a chance, **observe a child** using it and write down your observations. 
 
 ### Blog
  
