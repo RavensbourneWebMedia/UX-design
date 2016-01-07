@@ -11,7 +11,7 @@ In particular, you will get familiar with:
 * **User-testing**: face2face, A/B testing and analytics
 * Motivational **copy-writing** for stickiness
 
-![](sessions/assets/design-vs-UX.jpg)
+![](sessions/01/assets/design-vs-UX.jpg)
 
 ### What this course is NOT
 
@@ -64,7 +64,7 @@ Thursday<br>09.06| **Summative presentations** |  **Summative hand-in** |
 
 ### Kidesign
 
-On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by engaging with a challenging user group: primary school children and (their) parents. 
+On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by engaging with a challenging user group: primary school children. 
 
 All the project material is [here](projects/kidesign).
 

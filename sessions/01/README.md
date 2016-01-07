@@ -5,7 +5,7 @@
 1. [Welcome](#welcome) :)
 * [What is User eXperience?](#what-is-ux)
 * Peer-learning: [designing for kids](#peer-learning)
-* Project
+* Team project: [Kidesign](#project)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -99,6 +99,20 @@ In teams, read and discuss this article: [Designing Web interfaces for kids](htt
 
 -->
 
+
+# Project
+
+### Kidesign
+
+On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by engaging with a challenging user group: primary school children. 
+
+All the project material is [here](../../projects/kidesign).
+
+Today and until next week: 
+
+1. Form teams
+* Jot down your areas of interest / first ideas 
+* Start analysing the competition (see [homework below](#competitor-analysis)).
 
 # Homework
 
