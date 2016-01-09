@@ -61,3 +61,69 @@ Kids use Youtube and interfaces with lots of images and buttons, few text. The k
 9. Design for play, they will turn anything into a competition. 
 
 10. Test, test, test!
+
+
+# Peer learning
+
+### [Design for playfulness](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#design-for-playfulness-gamify)
+
+Kids learn through play.
+
+Games exploit kids, through in-app purchases, eg: Smurf's Village
+
+Good examples: [Tocaboca](http://tocaboca.com). *Pure play*: open-ended fun from a kid's perspective.
+
+Don't rely on reading skills, don't rely on verbal language
+
+### [Search](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#search-use-auto-complete-and-visual-search-for-young-kids-older-kids-can-use-more-complex-search)
+
+Challenges: spelling, keywords-based search (eg: Patrick)
+
+[Kidzsearch](http://www.kidzsearch.com/), a search service powered by Google
+
+> What if they knew what they were searching for?
+
+Can we move away from a keyword-based paradigm?
+
+### [Simple data entry](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#simple-data-entry)
+
+[Togetherville](https://en.wikipedia.org/wiki/Togetherville): access via parents' Facebook
+
+Passcode vs password vs visual patterns
+
+There's not a defined solution to log in kids safely, no one cracked it yet.
+
+Unified password?
+
+### [Buttons rather than text links](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#buttons-rather-than-text-links)
+
+Buttons: elements that look like they're clickable, they stand out
+
+* Keep the look of buttons **consistent**
+* **Images**: kids respond more to them
+* Stick to **conventions** with icons: play / pause / next etc.
+
+### [Use icons and images](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#use-icons-and-images)
+
+Kids recognise images more than texts.
+
+For example: [Y8](http://www.y8.com/), [Moshi Monsters](http://www.moshimonsters.com/welcome), [CBeebies](http://www.bbc.co.uk/cbeebies/) (good and bad, as some of the images used for buttons are scattered across the background) 
+
+### [Design for social](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#design-for-social)
+
+More than 30% of the kids in the study primarily used a computer or tablet together with other kids.
+
+History: from games on the World *Wild* Web to apps (walled gardens).
+
+Club Penguin: no free text, choose from options.
+
+DIY.org: community of makers
+
+[Science Museum games](http://www.sciencemuseum.org.uk/online_science/games)
+
+### [Provide information and instructions “just in time” and “on demand”](https://www.smashingmagazine.com/2015/08/designing-web-interfaces-for-kids/#provide-information-and-instructions-just-in-time-and-on-demand)
+
+
+
+
+
