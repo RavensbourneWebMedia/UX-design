@@ -25,7 +25,7 @@ Could be an illustration of a kid "talking" to their tablet
 Goals:
 
 * Get a general understanding of how kids use technology
-* Gather feedback on your initial ideas
+* Gather feedback on your initial ideas with illustrative worksheets 
 
 Your interviews will likely be split into two parts:
 
