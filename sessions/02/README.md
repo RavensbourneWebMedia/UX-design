@@ -37,6 +37,8 @@ It may help to observe the kids use one of your *competitor apps*
 
 # Homework
 
+### More interviews
+ 
 Hopefully after your interviews at the primary school you'll have a better idea of how kids use technology, and feedback on your initial concept(s). Yet sometimes ideas click after you speak to potential users, so between now and next week it'd be very useful to track down another child or two and **do another round of interviews**.
 
 For these, you want to build on what you learned at the primary school, and dig deeper into your concept. 
@@ -45,6 +47,8 @@ Recruit a child: your little brother/sister, cousin, or your friend's little bro
 
 You can conduct the interview via Skype/Facetime.
 
+### Blog
 
+- [ ] [Learning to wireframe: 10 best practices](http://www.dtelepathy.com/blog/design/learning-to-wireframe-10-best-practices)
 
  
