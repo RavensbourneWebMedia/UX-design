@@ -39,7 +39,7 @@ In particular, you will get familiar with:
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
 [Thursday<br>07.01](sessions/01)| <ul><li>Intro to UX <li>Co-design (for children) <li>Team project: [**Kidesign**](#kidesign) <li>Workshop: working with kids  | Competitor analysis | Interviewing humans
-Thursday<br>14.01| <ul><li>UX research <li>Workshop on interviews <li>Field research at a local primary school | TBA | TBA 
+[Thursday<br>14.01](sessions/02)| <ul><li>UX research <li>Workshop on interviews <li>Field research at a local primary school | TBA | TBA 
 Thursday<br>21.01| <ul><li>Wireframes <li>Paper prototypes  | Prep for usertesting  | TBA
 Thursday<br>28.01| Usertesting at a local primary school | Debrief | TBA 
 Thursday<br>04.02| **Formative presentations** | TBA | TBA
