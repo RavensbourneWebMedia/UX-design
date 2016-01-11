@@ -86,3 +86,10 @@ From [Designing Web interfaces for kids](https://www.smashingmagazine.com/2015/0
 * [Designing websites for kids: trends and best practices](https://www.smashingmagazine.com/2009/11/designing-websites-for-kids-trends-and-best-practices/) by [Louis Lazaris](https://twitter.com/ImpressiveWebs)
 * [Best practices for Web design for kids](https://www.smashingmagazine.com/2011/07/best-practices-for-designing-websites-for-kids/) by David Morrison
 * [Designing global applications for children](https://www.smashingmagazine.com/2011/09/designing-global-applications-for-children/) by [Catalina Naranjo-Bock](https://twitter.com/CatalinaNBock)
+
+<!--
+### TODO
+
+- [ ] Check out [NearPod](https://www.nearpod.com/)
+
+-->
