@@ -1,3 +1,5 @@
+# 2015
+
 ## General
 
 ### Taking notes
@@ -13,7 +15,7 @@
 
 ### Attending meetups etc.
 
-Make a list of these and encourage students to attend and report (via blog posts).
+- [ ] Make a list of these and encourage students to attend and report (via blog posts).
 
 
 ## [Session 1](../sessions/session-01.md)
@@ -328,3 +330,13 @@ Your presentations are only one part of your submission. Their goal is to help y
 * *Freemium* is not a sin: businesses have to be sustainable (who's paying bills and salaries otherwise?) [If you’re not paying for it, you are the product](http://www.forbes.com/sites/marketshare/2012/03/05/if-youre-not-paying-for-it-you-become-the-product/)  
   
 ![](assets/ux-chat.jpg)
+
+# 2016
+
+## Session 1
+
+Group discussion around UX definitions with post-its went really well.
+
+[![](https://pbs.twimg.com/media/CYHxskSWkAEjxzJ.jpg:large)](https://twitter.com/RaveWebMedia/status/685094380324130818)
+
+Peer learning: to stimulate higher quality research, and have all that shared, we could have tried using a collaborative Google Slides. 
