@@ -28,7 +28,7 @@ Discuss:
 
 	*Usability* vs *usefulness*
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/dilbert-easy-to-use.png)
+![](assets/dilbert-easy-to-use.png)
 
 ## What is UX research?
 
@@ -69,8 +69,8 @@ Product 				| Analytics <br>Usability testing
 
 <!--## Qua?-->
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/qualitative-quantitative.png)
-<!--![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/qualitative+quantitative.png)-->
+![](assets/qualitative-quantitative.png)
+<!--![](assets/qualitative+quantitative.png)-->
 
 ### Quantitative research
 
