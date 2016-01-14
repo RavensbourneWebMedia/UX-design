@@ -137,7 +137,7 @@ If you have a concept then it's better if you centre your interview questions ar
 To facilitate your interviews at the school, sketch out your concept on paper:
 
 * Focus on the *selling* feature, doesn't have to be a wireframe.
-* It could be an illustration of a kid "talking" to their tablet.
+* For example, it could be an illustration of a kid "talking" to their tablet.
 
 ### Test	
 
@@ -149,10 +149,11 @@ After the interviews, consider:
 	
 * What were the most successful questions? Why did they work?
 * How could you rephrase the less successful ones to get better answers?
-* Have you thought of follow-up questions?	
+* Have you thought of follow-up questions?
+
 Armed with a revised script, we'll go and interview primary school children (and a few teachers and parents).
 
-- [ ] Feedback sheets
+<!--- [ ] Feedback sheets-->
 
 
 # Homework
