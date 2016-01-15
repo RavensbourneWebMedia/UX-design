@@ -233,6 +233,12 @@ Armed with a revised script, we'll go and interview primary school children (and
 
 # Homework
 
+### Interviews debrief
+
+1. Individually, jot down the **5 key points** for each round of interviews (we had 3) as early as possible, whilst it's all still fresh in your memory. 
+* **Compare** your notes with your team mates.
+* Together, write a **summary** of your interview notes. Do this in a Google doc, which we'll review next week.
+
 ### More interviews
  
 Hopefully after your interviews at the primary school you'll have a better idea of how kids use technology, and feedback on your initial concept(s). Yet sometimes ideas click after you speak to potential users, so between now and next week it'll be very useful to track down another child or two and **do another round of interviews**.
