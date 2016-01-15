@@ -10,9 +10,56 @@
 ### Your [homework](#homework) and [blog](#blog)!
 
 
+# Service design
+
+<!--# What is service design?-->
+
+> Design is about making something **better** for someone. 
+
+Better, as in more.. 
+
+* useful
+* usable
+* desirable
+* efficient
+* effective
+* meaningful
+* valuable
+* sustainable
+
+Service types:
+
+1. Customer service (help desk)
+2. Software applications (BBC news, Facebook)
+3. Software as a service (Google Drive)
+4. Service as a product
+5. Product/service systems
+
+> **Service** is the act of helping someone to do something.
+
+Service Design is the process of inventing or improving experiences that happen across multiple **touch points** over time.
+
+[Touch point](http://en.wikipedia.org/wiki/Touchpoint): anything from a service that a customer gets to *touch*, ie interact with, eg: website, help desk, points of sale.
+
+Advertising can be considered an *awareness touchpoint*.
+
+### The process
+
+![](http://www.thecreativeindustries.co.uk/media/32564/DoubleDiamond_739x517.jpg)
+
+First diamond:
+
+* Discover the customer's **needs & values**.
+* Understanding **patterns of behaviours & attitudes** between several people (aka *the users*).
+* Identify **challenges & design opportunities**.
+
+Research is part of the **discovery** phase.
+
 # UX research
 
-It boils down to spending (a lot of) time talking to people (aka *the users*) to find out:
+> Know your unknowns!
+
+It boils down to spending (a lot of) time observing people and talking to them, to find out:
 
 * **What** are they currently doing?
 * **How** are they doing something?
@@ -88,9 +135,13 @@ Your interviews will be split into two parts:
 
 It may also help to observe the kids use one of your *competitor apps*.
 
-### Good practices for user research
+### Good practices for user interviews
 
-1. **Plan**: prepare a script, know what to ask, and who to ask.
+1. **Plan**: prepare a discussion guide, know what to ask, and who to ask.
+
+	* **Guide not script**: let the conversation flow, steer it gently.
+
+	* **Themes**: identify 4-6 themes around which to structure your session, questions or tasks
 * **Test** your test (with family and friends).
 * Recruit **strangers**. Because, [homophily](http://en.wikipedia.org/wiki/Homophily)?
 * Go to **their place**, in a space where they're comfortable, best if the space where they use the product(s) you want to test / talk about. Let them show you around.
@@ -98,21 +149,45 @@ It may also help to observe the kids use one of your *competitor apps*.
 * **Listen**. Don't talk about yourself.
 * Be comfortable with **silence**: give people time and space to answer your question.
 * Be ready to **be challenged** and improvise.
+* Ask the **how** (they do stuff) and **why** (they do stuff) questions.
+
+	**Use examples** to help people understand the type of answer you are after.
+	
+	**Help participants tell their stories**, what happened before and after. And what would have happened if...
+
 * Avoid **leading questions**. Try not to bias your interviewees.
 
 	bad > `How much do you love using XYZ?`
 	
 	good > `Tell me about your most recent XYZ experience` (more concrete & memorable)
-	
-10. Avoid **closed questions**.
+* Avoid **closed questions**.
 
 	bad > `Do you order A, B or C?`
 	
 	good > `How do you choose food when going out?`
+* Try **casual requests** instead of questions. For instance, instead of asking `How do you store your photos?` consider asking them to show you how they store photos.	
+* Keep it simple. Explain what you're doing.
+* You're interested in them as people, not just as users
+* Be respectful
+* Smile
+* Have an incentive (eg: iTunes vouchers, cash, merchandise, a coffee)
+* Have a media permissions sheet.
+
+<!--### Discussion guides tips (from Itamar)
+
+**Actions speak louder than words**: observation and gather evidence is key.
+
+**Show not just tell**: ask them to show you things, not just blabber
+
+**How**: ask how they do stuff
+
+**Why**: ask why they do it
+
+**Comparisons**
+
+**Open questions** -->
 	
-11. Try **casual requests** instead of questions. For instance, instead of asking `How do you store your photos?` consider asking them to show you how they store photos.		
-	
-### Plan
+### Your turn
 
 **What do you want to find out from your interviewees?**
 
