@@ -340,3 +340,9 @@ Group discussion around UX definitions with post-its went really well.
 [![](https://pbs.twimg.com/media/CYHxskSWkAEjxzJ.jpg:large)](https://twitter.com/RaveWebMedia/status/685094380324130818)
 
 Peer learning: to stimulate higher quality research, and have all that shared, we could have tried using a collaborative Google Slides. 
+
+## Session 2
+
+Itamar's presentation:
+
+* Maybe start with case studies and then draw out the principles / guidelines
