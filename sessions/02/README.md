@@ -37,7 +37,7 @@ Service types:
 
 > **Service** is the act of helping someone to do something.
 
-Service Design is the process of inventing or improving experiences that happen across multiple **touch points** over time.
+> **Service design** is the process of inventing or improving experiences that happen across multiple **touch points** over time.
 
 [Touch point](http://en.wikipedia.org/wiki/Touchpoint): anything from a service that a customer gets to *touch*, ie interact with, eg: website, help desk, points of sale.
 
