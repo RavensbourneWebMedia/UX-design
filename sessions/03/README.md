@@ -118,11 +118,11 @@ Write down your elevator pitch in **no more than 2 sentences**, answering the qu
 
 Prepare what you are going to share during the user-testing session at the primary school next week:
 
-* one-pager for anyone
-* one-pager for kids
-* capture sheet (know what you want to ask)
-* wireframes
-
+1. Finish the **one-pager** (for anyone) you started today.
+* Make a one-pager specifically **for kids** of your target age-group.
+* Sketch out **3-5 wireframes** of your key features. We recommend paper, as it makes user-testing friendlier.
+* Draft your testing material with a capture sheet (the questions you are going to ask kids).
+ 
 ### Blog
 
 - [ ] Log into BoB
