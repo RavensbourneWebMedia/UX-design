@@ -74,13 +74,18 @@ Prepare a capture sheet for your user-testing session. You can take inspiration 
 
 # Homework
 
+### Use case
 
-Build a *use case*: how a particular person uses a particular feature in a particular scenario (5 steps)
+Build a *use case*: how a particular person uses a particular feature in a particular scenario (min 5 steps).
 
 Prepare a pitch presentation:
 
-* What's your idea?
-* Who is it for?
-* Why is it needed?
-* What are the key features?
-* Use case 
+* **What** is your idea?
+* **Who** is it for?
+* **Why** is it needed?
+* What are the **key features**?
+* What is the **use case**? 
+
+### Blog
+
+Working with kids: what have you learned so far?
