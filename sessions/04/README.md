@@ -122,11 +122,11 @@ If you are writing a use case for a leave request system, for example, you would
 
 	![](assets/use-case-01.jpg)
 	
-2. Add emoticons to each step, to help others get a feel for what’s going on inside the character’s head.	
+2. Add emoticons to each step, to help others get a feel for what's happening inside the user's head.	
 
 	![](assets/use-case-02.jpg)
 
-3. Flesh out your use case by translating each moment into a *comic* frame. 
+3. Flesh out your use case by translating each key step into a *comic* frame. 
 
 	![](assets/use-case-03.jpg)
 
