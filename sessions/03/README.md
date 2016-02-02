@@ -128,9 +128,11 @@ Prepare what you are going to share during the user-testing session at the prima
 Watch *The secret life of 6 year olds* and **blog about it**.
 
 [![](assets/sl6yo-1.png)](http://www.channel4.com/programmes/the-secret-life-of-4-5-and-6-year-olds/on-demand/61827-005)
+
 [Episode 1](http://www.channel4.com/programmes/the-secret-life-of-4-5-and-6-year-olds/on-demand/61827-005)
 
 [![](assets/sl6yo-2.png)](http://www.channel4.com/programmes/the-secret-life-of-4-5-and-6-year-olds/on-demand/61827-006)
+
 [Episode 2](http://www.channel4.com/programmes/the-secret-life-of-4-5-and-6-year-olds/on-demand/61827-006)
 
 
