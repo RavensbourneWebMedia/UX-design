@@ -1,0 +1,81 @@
+# Week 5
+
+### Today, Thursday 4th February 2016
+
+1. [Formative presentations](#formative-presentations)
+
+<!--
+* [Tutorials](#project) on *Sharing is caring* 
+* [Workshop](#workshop): Meet PHP
+* [Team project](#team-project): Content needs design
+-->
+
+Your [homework](#homework) and [blog](#blog)!
+
+
+# Formative presentations
+
+Here's the [collaborative feedback Google doc](https://docs.google.com/a/rave.ac.uk/document/d/1m6RAJLOg_OVvi8cEsnsTrLjYW0j0WufOxhd1aALnmt0/edit?usp=sharing).
+
+### WTF should we present?
+
+Your progress on *Kidesign* so far:
+
+1. **What** is your idea?
+* **Who** is it for?
+* **Why** is it needed?
+* What are the **key features**?
+* What is the **use case**? 
+
+The points above are the bare minimum of what your presentation should include. You're very welcome to present them in a different order and include other aspects (such as your *creative process*) which you consider relevant.
+
+### How long should our presentation be?
+
+Ideally **10 minutes** (max 15 minutes) with another 5 for Q&A.
+
+### Tips for the presenters
+
+1. Don't start with an **apology**.   
+  
+	Whatever you have is what you'll present. 
+* **Don't read** a script, or read from your presentation.   
+  
+	We can read ourselves.
+* Don't be **defensive**.   
+  
+	We're not attacking you. 
+	
+	Instead of putting up a defence wall, try to listen for the feedback that can make your ideas better. 
+* Be **confident**.   
+  
+	You know your work inside out, so speak about it with confidence.   
+	
+	Stand up and get your hands out of your pockets.
+* Tell us a **story**, not a features list.  
+  
+	<!---->
+* Ask **specific questions**.   
+  
+	Not `What do you think?` or `Do you like it?`. 
+* **Smile**.   
+  
+	It makes people pay more attention, and it makes you sound more engaging. Simple :smile:
+
+Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90-Tips)!
+
+### Tips for everyone else
+
+1. Be **kind**.   
+  
+	Your comments can be challenging, but make sure the creator of the work understands that your feedback is about their work, not about them.
+* Be **constructive**.   
+  
+	Include *suggestions*, which the creator of the work can simply take away and use.   
+  
+	Also consider how you frame suggestions. Saying `Why didn't you make XYZ so and so?` may make the creator of the work feel like you think they're dumb or haven't done their work. Instead, try with `What do you think about making XYZ so and so?`
+* Be **specific** and say **why**.   
+  
+	Rather than saying / writing `I don’t like XYZ` be specific about what you have an issue with, and why. Try saying / writing something like `I don’t think tXYZ reflects the user needs, because...`     
+* **Focus on needs, not opinions**.
+	
+	Instead of a personal statement like `I hate the red button!` consider a user-focused question such as `Would users dislike the red button? It could be confused with an error message.`, which is much more effective, and also testable.
