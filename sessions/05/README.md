@@ -19,7 +19,7 @@ Here's the [collaborative feedback Google doc](https://docs.google.com/a/rave.ac
 
 ### WTF should we present?
 
-Your progress on *Kidesign* so far:
+Your progress on [*Kidesign*](../../projects/kidesign) so far:
 
 1. **What** is your idea?
 * **Who** is it for?
@@ -27,7 +27,7 @@ Your progress on *Kidesign* so far:
 * What are the **key features**?
 * What is the **use case**? 
 
-The points above are the bare minimum of what your presentation should include. You're very welcome to present them in a different order and include other aspects (such as your *creative process*) which you consider relevant.
+The points above are the bare minimum of what your presentation should include. You're very welcome to present them in a different order and include any other aspects (such as your *creative process*, what you discovered in your *user interviews* and *user testing*, etc.) which you consider relevant.
 
 ### How long should our presentation be?
 
