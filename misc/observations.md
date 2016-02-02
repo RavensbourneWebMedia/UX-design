@@ -86,11 +86,11 @@ Can we use those **datasets** that Rave has access to?
 
 User personas need to be based on **interview data**, not pulled out of your magical hat.
 
-Make a personas **template** with a specific field for connections to interview data (eg: this persona is based on two people I interviewed, and they both stated X and Y)
+Make a personas **template** with a specific field for connections to interview data (eg: this persona is based on two people I interviewed, and they both stated X and Y).
 
 More impactful if they're illustrated, ie put a face next to a name. 
 
-No need for gimmicky graphs, unless they're based on research data
+No need for gimmicky graphs, unless they're based on research data.
 
 ![](assets/personas.png)
 
@@ -101,7 +101,7 @@ No need for gimmicky graphs, unless they're based on research data
 
 I think it wasn't clear what exactly people were meant to do and how?
 
-Make use everyone uses [that method with the emoticons](../sessions/session-06.md#method)
+Make sure everyone uses [that method with the emoticons](../sessions/session-06.md#method)
 
 Storyboard challenges, not magical solutions!
 
