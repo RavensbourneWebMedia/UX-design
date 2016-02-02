@@ -5,6 +5,7 @@
 1. [Formative presentations](#formative-presentations)
  
 <!--
+* User personas session-04.md
 * [Tutorials](#project) on *Sharing is caring* 
 * [Workshop](#workshop): Meet PHP
 * [Team project](#team-project): Content needs design
@@ -25,7 +26,7 @@ Your progress on [*Kidesign*](../../projects/kidesign) so far:
 * **Who** is it for?
 * **Why** is it needed?
 * What are the **key features**?
-* Describe a **use case**. That is, illustrate from a **user's perspective** how they use a specific feature of your product.
+* Describe a **use case** ([don't know what that means?](../04#use-case))
 
 The points above are the bare minimum of what your presentation should include. You're very welcome to present them in a different order and include any other aspects (such as your *creative process*, what you discovered in your *user interviews* and *user testing*, etc.) which you consider relevant.
 
@@ -79,22 +80,3 @@ Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90
 * **Focus on needs, not opinions**.
 	
 	Instead of a personal statement like `I hate the red button!` consider a user-focused question such as `Would users dislike the red button? It could be confused with an error message.`, which is much more effective, and also testable.
-
-
-<!--
-# Use cases
-
-The term *use case* is a common source of misunderstanding because it is often used to mean different things. Sometimes people use it to describe:
-
-* a stakeholder’s high-level goal
-* a step by step description of system action
-* the **flow of how users interact with a system**
-
-As UX designers we usually mean the third kind.
-
-A use case can be **textual**, **visual**, or both (usually both). You can think of it as a *comic* that illustrates how someone uses a specific feature of your product.
-
-The use case is written from a **user's perspective** and describes the ideal interaction between a user and a system. 
-
-If you are writing a use case for a leave request system, for example, you would title your use case *booking vacation days* instead of *decide to go on vacation* or *determine number of vacation days*. The user and the system would both be included in the use case as well as any additional people involved, such as a manager who has to approve the leave request. 
--->

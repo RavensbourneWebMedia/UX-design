@@ -94,7 +94,45 @@ See usability test report template.-->
 
 ### Use case
 
-Build a *use case*: how a particular person uses a particular feature in a particular scenario (min 5 steps).
+Build a *use case*, describing how a particular person uses a particular feature in a particular scenario (min 5 steps).
+
+<!--
+The term *use case* is a common source of misunderstanding because it is often used to mean different things. Sometimes people use it to describe:
+
+* a stakeholder’s high-level goal
+* a step by step description of system action
+* the **flow of how users interact with a system**
+
+As UX designers we usually mean the third kind.
+-->
+
+A use case can be **textual**, **visual**, or both (usually both). You can think of it as a *comic* that illustrates how someone uses a specific feature of your product.
+
+A use case is written from a **user's perspective**. 
+
+Sometimes UX people call *use cases* also **user journeys**.
+
+<!--
+If you are writing a use case for a leave request system, for example, you would title your use case *booking vacation days* instead of *decide to go on vacation* or *determine number of vacation days*. The user and the system would both be included in the use case as well as any additional people involved, such as a manager who has to approve the leave request. 
+-->
+
+#### Method
+
+1. Try text or boxes and arrows first.
+
+	![](assets/use-case-01.jpg)
+	
+2. Add emoticons to each step, to help others get a feel for what’s going on inside the character’s head.	
+
+	![](assets/use-case-02.jpg)
+
+3. Flesh out your use case by translating each moment into a *comic* frame. 
+
+	![](assets/use-case-03.jpg)
+
+The images are taken from the excellent [Storyboarding & UX](http://johnnyholland.org/2011/10/storyboarding-ux-part-2-creating-your-own/) by Ben Crothers. 
+
+### Formative
 
 Prepare a pitch presentation:
 
@@ -103,6 +141,8 @@ Prepare a pitch presentation:
 * **Why** is it needed?
 * What are the **key features**?
 * What is the **use case**? 
+
+The points above are the bare minimum of what your presentation should include. You're very welcome to present them in a different order and include any other aspects (such as your *creative process*, what you discovered in your *user interviews* and *user testing*, etc.) which you consider relevant.
 
 ### Blog
 
