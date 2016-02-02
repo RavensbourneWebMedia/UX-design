@@ -25,7 +25,7 @@
 	* Write for yourself, not to please me.
 	* When you reference an external resource (something you've seen, read or learned about somewhere else on the Web) always link to it
 	* Use a spell-checker.
-	* Read your writings out loud. It'll help you spot mistakes and make your written thoughts flow.
+	* Read your writing out loud. It'll help you spot mistakes and make your written thoughts flow.
 	* simple ≠ simplistic (which means oversimplified and has a negative connotation)
 	* complex ≠ complicated (which means it could be simplified, and has a negative connotation) 
 
