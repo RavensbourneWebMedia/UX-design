@@ -55,7 +55,7 @@ When | What
  | Prototyping and usertesting preparation
 28th of January | Usertesting at a local primary school
 4th of February | Formative presentations
-February | Prototyping, workshops with kids   
+February | Prototyping & workshops with kids   
 9th of June | Final hand-in (together with the other project, so it's advised you get the bulk of this project done before the Easer break)
 
 ### Context
