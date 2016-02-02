@@ -197,11 +197,13 @@ Its author [Ryan van der Merwe](http://www.elezea.com) writes:
 
 Create (at least) two user personas for your product, using the guidelines above.
 
-Base your personas on the people you have interviewed.
+Base your personas on the people you have interviewed (eg: this persona is based on four people we interviewed, and they all stated X and Y).
 
 How you structure your personas (in terms of contents and visual presentation) is up to you. 
 
 If you desperately need a template, you could [use this as a starting point](http://www.ux-lady.com/diy-user-personas/) but don't just mindlessly copy it. Think of what **dimensions** will be useful in the design process.
+
+Please no gimmicky graphs, unless they're based on research data and tell us seomthing useful about the cluster of people they describe.
 
 
 # Homework
