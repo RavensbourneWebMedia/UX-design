@@ -183,13 +183,15 @@ Personas should challenge your design decisions, not simply mirror them.
 
 ### How to build personas
 
-![](assets/elezea-persona.jpg)
+The example below is a design persona for a short-term loan company. 
 
-The example above is a design persona for a short-term loan company. Its author [Ryan van der Merwe](http://www.elezea.com) writes:
+Its author [Ryan van der Merwe](http://www.elezea.com) writes:
 
 > The key to these types of personas are the **dimensions**, or in this particular case, the **loan drivers**. Note that for Monde, the monthly instalment is not important. What's important is that she gets the amount she needs to pay for her travel. For the persona that just wants a TV or some new shoes, this is different. For that persona the amount is less important — what's most important is whether or not they can afford the monthly instalment.
 
 > From [Elezea](http://www.elezea.com/2013/12/job-stories-and-personas-sitting-in-a-tree)
+
+![](assets/elezea-persona.jpg)
 
 ### Your turn
 
