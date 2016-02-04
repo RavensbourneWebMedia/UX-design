@@ -42,7 +42,7 @@ When | In class | Homework | Blog
 [Thursday<br>14.01](sessions/02)| <ul><li>UX research <li>Workshop on interviews <li>Field interviews at a local primary school | User interviews | Learning to wireframe 
 [Thursday<br>21.01](sessions/03)| <ul><li>Elevator pitch<li>Concept one-pager<li>Paper prototypes | Prep for usertesting  | The secret life of 6 year olds
 [Thursday<br>28.01](sessions/04)| <ul><li>Usertesting prep <li>Usertesting at a local primary school <li>Debrief | Use case | Working with kids 
-Thursday<br>04.02| **Formative presentations** | TBA | TBA
+[Thursday<br>04.02](sessions/05)| <ul><li>**Formative presentations** <li>User personas | User personas | TBA
 Week 6| | | 
 Thursday<br>18.02| UX workshop with primary school teachers | TBA | TBA 
 Thursday<br>25.02| Prototypes with app dev tool | TBA | TBA 
