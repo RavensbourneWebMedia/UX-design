@@ -80,25 +80,38 @@ Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90
 
 ### Once upon a time...
 
-Personas started as a **marketing tool**, designed by Angus Jenkinson to categorise customers beyond the traditional **demographic segmentation**. You can [read his paper here](http://www.centreforintegratedmarketing.com/gfx/documents/beyond_segmentation.pdf): from *classes* or *clans* to individuals that flock together based on **common characteristics**. 
+<!--Personas started as a **marketing tool**, designed by Angus Jenkinson to categorise customers beyond the traditional **demographic segmentation**. 
 
+You can [read his paper here](http://www.centreforintegratedmarketing.com/gfx/documents/beyond_segmentation.pdf): from *classes* or *clans* to individuals that flock together based on **common characteristics**. 
+-->
 <!--Remember [homophily](http://en.wikipedia.org/wiki/Homophily)?-->
 
-Alan Cooper introduced *user personas* as a methodology to solve the **elastic user problem**. He claimed that using *the user* as a design tool is a mistake. The **vagueness** of *the user* causes many design failures, as *the user* is too *elastic*. We therefore need something much more **specific**.
+[Alan Cooper introduced *user personas*](http://www.cooper.com/journal/2008/05/the_origin_of_personas) as a methodology to solve the **elastic user problem**. 
+
+He claimed that using *the user* as a design tool is a mistake. As designers, we are tempted to stretch *the user* to fit almost perfectly to whatever you are designing.
+
+The **vagueness** of *the user* causes many design failures, because *the user* is too *elastic*. 
+
+We therefore need something much more **specific**.
 
 ### What are user personas?
 
-A persona represents a **cluster of users** who exhibit similar behavioural patterns in their purchasing decisions, use of technology or products, customer service preferences, lifestyle choices, etc. 
+A *persona* represents a **cluster of users with common behavioural patterns** in their purchasing decisions, use of technology or products, customer service preferences, lifestyle choices, etc. 
 
-Personas are **fictional** characters. Even so, they should be based on **real data** from your user research.
+We build personas to represent potential users: what they **need**, **want** and **expect** from what we are designing.
 
-#### What criteria are used to cluster users into a persona? 
+Personas are **fictional** characters, based on **real data** from user research.
+
+#### What dimensions are used to cluster users into a persona? 
 
 1. **Behaviours**, what users do
 * **Attitudes**, what users expect 
 * **Motivations**, what users want / need 
+* **Limitations**, what blocks them from doing what they want / need
 
-#### What criteria are NOT used to cluster users into a persona? 
+Choosing relevant dimensions is the trickiest part of creating useful personas (more on this in the example below). 
+
+#### What dimensions should NOT be used to cluster users into a persona? 
 
 1. Age
 * Gender
@@ -117,13 +130,15 @@ Personas must answers three basic questions: what are the user needs, wants and 
 
 ### What are user personas NOT?
 
-A persona is not a demographic profile, a market segment or a report of survey data. 
+A persona is NOT a demographic profile, a market segment or a report of survey data. 
 
-It is not taking what people tell you directly, it's looking at their behaviours in order to understand the *whys* and build around them. Observation is key, because what people do and say can be entirely different things. 
+It is NOT taking what people tell you directly.
 
 ![](assets/what-homer-wants.jpg)
 
-Homer thinks that *everyman* wants this car.
+> Homer thinks that *everyman* wants this car.
+
+It's looking at their behaviours in order to understand the *whys* and build around them. Observation is key, because what people do and say can be entirely different things. 
 
 ### Why do we need personas?
 
@@ -133,15 +148,19 @@ When you work on a product, instead of talking about a generic *elastic user*, y
 
 #### Personas as a design tool
 
-As a **design tool** personas are used for answers key questions that will inform design decisions: 
+As a **design tool** personas are used to answer key questions that will inform design decisions: 
 
 * What would *Ali* do in this situation?
 * What would she need now? 
 * Does *Taylor* understand this?
 
-In order to answer such questions usefully and help you make effective design decisions, your personas should be specific and based on real data (more on this below).
+You'll see how team discussions will be much more focused when you use personas, instead of a vague elastic user.
+
+In order to be a **useful** design tool, personas should **challenge** your design decisions, not simply validate them.
 
 ### Dos and Don'ts
+
+In order to answer the above questions usefully and help you make effective design decisions, here are some dos and don'ts to keep in mind when building personas.
 
 #### Real data <sup>DO
 
@@ -183,9 +202,9 @@ Personas should challenge your design decisions, not simply mirror them.
 
 ### How to build personas
 
-The example below is a design persona for a short-term loan company. 
+The example below is a design persona for a short-term loan company, created by [Ryan van der Merwe](http://www.elezea.com) 
 
-Its author [Ryan van der Merwe](http://www.elezea.com) writes:
+He writes:
 
 > The key to these types of personas are the **dimensions**, or in this particular case, the **loan drivers**. Note that for Monde, the monthly instalment is not important. What's important is that she gets the amount she needs to pay for her travel. For the persona that just wants a TV or some new shoes, this is different. For that persona the amount is less important — what's most important is whether or not they can afford the monthly instalment.
 
