@@ -203,13 +203,18 @@ How you structure your personas (in terms of contents and visual presentation) i
 
 If you desperately need a template, you could [use this as a starting point](http://www.ux-lady.com/diy-user-personas/) but don't just mindlessly copy it. Think of what **dimensions** will be useful in the design process.
 
-Please no gimmicky graphs, unless they're based on research data and tell us seomthing useful about the cluster of people they describe.
+Please no gimmicky graphs, unless they're based on research data and tell us something useful about the cluster of people they describe.
 
 
 # Homework
 
 ### User personas
 
-Finalise your two (or more) user personas.
+Produce two (or more) user personas.
 
+### Blog
 
+1. Review the **formative feedback** your received.
+* **Individually** jot down an *action plan*: list what you want to do in order to address that feedback (eg: `prototype alternative game mechanics`, `try spelling of obscure animals`, `brainstorm different names`, `wireframe two options for the user login page`)
+* **Compare** your action plan list with your team mates.
+* Blog about this process, reflecting on the feedback received and how you (both individually and as a team) are responding to it.
