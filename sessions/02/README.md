@@ -45,7 +45,7 @@ Advertising can be considered an *awareness touchpoint*.
 
 ### The process
 
-![](http://www.thecreativeindustries.co.uk/media/32564/DoubleDiamond_739x517.jpg)
+![](assets/double-diamond.jpg)
 
 First diamond:
 
