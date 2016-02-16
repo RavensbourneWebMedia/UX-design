@@ -211,6 +211,7 @@ Name | Platform | Free?
 [Adobe Muse](http://muse.adobe.com) | Mac and Win | Not clear
 [Framer](http://framerjs.com) | Mac only | 30-days free trial, then $99 
 [Atomic](https://atomic.io) | Web-based | 30-days free trial
+[UXPin](https://www.uxpin.com) | Web-based | 7-days free trial
 
 <!--
 * [OmniGraffle](#https://www.omnigroup.com/omnigraffle) [Mac only]
