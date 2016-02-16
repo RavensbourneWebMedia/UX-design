@@ -171,9 +171,86 @@ Let's review your action plan and user stories.
 
 ### Rapid prototyping
 
-http://www.invisionapp.com/
-https://atomic.io/
-http://www.justinmind.com/
+In an iterative approach to UX design, rapid prototyping is the process of **quickly mocking up the future state of a system** and testing it with users, teammates and clients. 
+
+![](assets/prototype-review-refine.jpg)
+
+Doing this **rapidly and iteratively** generates feedback early and often in the process, improving the final design and reducing the need for costly changes during development.
+
+#### What is a prototype then?
+
+A prototype **answers questions**. The more specific the better.
+
+A prototype stands between your **assumptions** and your users **behaviours**.
+
+A prototype should be **quick** (and cheap) to make, re-make and possibly discard.
+
+A prototype should be **close** to the real thing.
+
+A prototype is **not the real thing**.
+
+#### Which prototyping tool should I use?
+
+Each prototyping tool has its own feature set and strengths. Based on your needs and the requirements of your project, evaluate which tool is more appropriate:
+
+1. How **easy** is it to learn and use the tool?
+* Are there a repositories of **reusable templates** or widgets available?
+* How easy is it to make changes on the fly or to **incorporate feedback**?
+* Does it have any **collaboration features**, such as allowing multiple people to work on it at the same time?
+* What are the licensing terms and **costs**?
+
+##### Tools to consider
+
+Name | Platform | Free?
+---- | -------- | -----
+[Macaw](http://macaw.co/) | Mac and Win | Yes
+[Invision](http://www.invisionapp.com/) | Web-based | Yes
+[Justinmind](http://www.justinmind.com) | Mac and Win | 30-days free trial, then $19/month 
+[Sketch](http://www.bohemiancoding.com/sketch/) | Mac only | Free trial, then $49 (education price)
+[Balsamiq](https://balsamiq.com/products/mockups) | Mac and Win | 30-days free trial, then $89 
+[Adobe Muse](http://muse.adobe.com) | Mac and Win | Not clear
+[Framer](http://framerjs.com) | Mac only | 30-days free trial, then $99 
+[Atomic](https://atomic.io) | Web-based | 30-days free trial
+
+<!--
+* [OmniGraffle](#https://www.omnigroup.com/omnigraffle) [Mac only]
+* [Axure](http://www.axure.com) [Mac and Win]
+* Photoshop and Illustrator [Mac and Win], check out [Web Zap](http://webzap.uiparade.com)
+* [Blocs](http://blocsapp.com) [Mac only] interface builder for Bootstrap
+* [Divshot](https://divshot.com/features), online interface builder for Bootstrap
+-->
+
+
+
+<!--
+#### DO
+
+1. **Work collaboratively** with users, teammates and *stakeholders* while rapid prototyping. Apart from giving valuable feedback, they also gain a sense of ownership of the final product.
+* **Reuse, reuse, reuse**. For computer-based prototyping, this means saving reusable templates, stencils, patterns and widgets for future projects.
+* When creating interactive high-fidelity prototypes and simulations, build in **realistic delays** (for instance, for screen refreshing or moving through steps of a transaction), so that users do not expect instant response times from the final product.
+* Avoid *prototype creep* by **setting expectations** for the process, including ones affecting the purpose, fidelity, scope and duration. Remind everyone, including yourself, that rapid prototyping is a means to an end, not an end in itself.
+* Begin every prototype review session with the disclaimer that **this is just a prototype**, a mock-up, not the actual solution. This reminds users that this is a work in progress, it encourages feedback, and in the case of high-fidelity prototypes, it prevents users from mistaking it for a working solution.
+
+#### DON'T
+
+1. **Don't be a perfectionist**. In most cases, rapid prototyping does not have to be 100% perfect, just **good enough** to give everyone a common understanding.
+* **Don't prototype everything**. Most of the time, you shouldn't have to. A good rule of thumb is to focus on the **20% of the functionality that will be used 80% of the time**, key functionality that will be used most often. 
+* Don't take every change or request that comes out of a prototype review as a new requirement. Rapid prototyping helps capture missed requirements, but these new requirements should be evaluated carefully. Some may be implemented, while others are pushed to a future release.
+* Don't begin prototype review sessions without **clear guidelines for feedback**. Be very specific about the type of feedback you are looking for. (Are the steps logically arranged? Is the navigation clear and intuitive?) If not, be prepared for `I don't like the blue in the header` or `Can't we use this font instead?` or `Can you make this bigger, bolder, in red and flashing?`
+-->
+
+
+
+#### Your turn
+
+**Prototype two user flows**
+
+1. *Onboarding* process (the process of increasing the likelihood that *new users* adopt your product and keep using it, see [UserOnboard](http://www.useronboard.com/)).
+* A problematic scenario, aka *edge case* or *unhappy path* (of your choice)
+
+Produce prototypes that address [your user stories](#your-stories).
+
+
 <!--
 ### Invicta app template
 
