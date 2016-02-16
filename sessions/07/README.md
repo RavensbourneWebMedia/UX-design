@@ -4,7 +4,7 @@
 
 1. [User personas](#user-personas) review
 * [Workshop](#workshop): user stories
-* Tutorials on Kidesign
+* [Tutorials](#tutorials) on Kidesign
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -162,7 +162,10 @@ In just one sentence, a user story encapsulates
 
 # Tutorials
 
-Review action plan
+### Kidesign
+
+Let's review your action plan and user stories.
+
 
 # Homework
 
