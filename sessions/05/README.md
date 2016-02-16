@@ -96,9 +96,7 @@ We therefore need something much more **specific**.
 
 ### What are user personas?
 
-A *persona* represents a **cluster of users with common behavioural patterns** in their purchasing decisions, use of technology or products, customer service preferences, lifestyle choices, etc. 
-
-We build personas to represent potential users: what they **need**, **want** and **expect** from what we are designing.
+A *user persona* is a UX design tool that allows you to visualise **users with common behavioural patterns** in their purchasing decisions, use of technology or products, customer service preferences, lifestyle choices, etc. 
 
 Personas are **fictional** characters, based on **real data** from user research.
 
@@ -144,7 +142,7 @@ It's looking at their behaviours in order to understand the *whys* and build aro
 
 To set a **common understanding** of the user(s) we're designing for. 
 
-When you work on a product, instead of talking about a generic *elastic user*, you can talk about *Chris* or *Danny*.
+When you work on a product, instead of talking about a generic *elastic user* you can talk about *Chris* or *Danny*.
 
 #### Personas as a design tool
 
@@ -154,9 +152,9 @@ As a **design tool** personas are used to answer key questions that will inform 
 * What would she need now? 
 * Does *Taylor* understand this?
 
-You'll see how team discussions will be much more focused when you use personas, instead of a vague elastic user.
+You'll see how team discussions will be much more focused when you use personas, rather than a vague *elastic* user.
 
-In order to be a **useful** design tool, personas should **challenge** your design decisions, not simply validate them.
+In order to be a **useful** design tool personas should **challenge** your design decisions, not simply validate them.
 
 ### Dos and Don'ts
 
