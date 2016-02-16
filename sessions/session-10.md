@@ -27,8 +27,7 @@ They don't care about our *parallax scrolling*, *animated SVG* or whatever is tr
 
 ![](http://alistapart.com/d/_made/d/ALA274_consthalvorsen_300_960_576_81.jpg)
 
-> Who's talking about the time-intensive, complicated, messy content development process? 
-> Who's overseeing the care and feeding of content once it's out there, clogging up the tubes and dragging down our search engines?
+> Who's talking about the time-intensive, complicated, messy content development process? Who's overseeing the care and feeding of content once it's out there, clogging up the tubes and dragging down our search engines?
 
 ..says [Kristina Halvorson](http://alistapart.com/article/thedisciplineofcontentstrategy)
 
@@ -49,7 +48,7 @@ You can learn more about content strategy in [The complete beginner's guide to c
 
 ### Is content like kebab?
 
-[![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/kebab.jpg)](https://www.flickr.com/photos/einalem/150690876/ "Best kebab in Cyprus")
+[![](assets/kebab.jpg)](https://www.flickr.com/photos/einalem/150690876/ "Best kebab in Cyprus")
 
 Adapted from [Content is kebab](https://medium.com/@damianogui/content-is-kebab-638b1b1d261b) by [this guy](https://twitter.com/damianogui).
 
@@ -59,7 +58,7 @@ Three assumptions to discuss.
 
 #### 1. There is no such thing as good or bad kebab
 
-[![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/kebab-best.jpg)](https://www.flickr.com/photos/toddmecklem/5876661561 "The worst use of parentheses (London)")
+[![](assets/kebab-best.jpg)](https://www.flickr.com/photos/toddmecklem/5876661561 "The worst use of parentheses (London)")
 
 > The true goodness of a kebab is directly proportional to how **hungry** you are.
 
@@ -79,7 +78,7 @@ How does the *wrapping* impact the user experience?
 
 #### 2. The wrapping matters
 
-[![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/kebab-wrap.jpg)](https://www.flickr.com/photos/avlxyz/3014257435/ "Mixed Lamb and Chicken Souvlaki - Stalactites")
+[![](assets/kebab-wrap.jpg)](https://www.flickr.com/photos/avlxyz/3014257435/ "Mixed Lamb and Chicken Souvlaki - Stalactites")
 
 Agree or disagree?
 
@@ -95,7 +94,7 @@ Can you think of examples of Web content (text, video, audio etc.) that you may 
 
 #### 3. The less sauce, the better interface
 
-![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/kebab-sauces.jpg)
+![](assets/kebab-sauces.jpg)
 
 Agree or disagree?
 
@@ -222,7 +221,7 @@ _____
 
 # Exercises in style
 
-[![](https://raw.githubusercontent.com/RavensbourneWebMedia/WEB14204/master/sessions/assets/queneau.jpg)](http://en.wikipedia.org/wiki/Raymond_Queneau)
+[![](assets/queneau.jpg)](http://en.wikipedia.org/wiki/Raymond_Queneau)
 
 A bit about Raymond: he liked to play with language(s), as a translator and as a writer. Founded [Oulipo](http://en.wikipedia.org/wiki/Oulipo) (Ouvroir de littérature potentielle = *workshop of potential literature*, where people explored the possibilities of natural language by mashing it up with maths, rules from games etc.).
 
