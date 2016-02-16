@@ -31,7 +31,7 @@ As a **design tool** personas are used to answer key questions that will inform 
 * What would she need now? 
 * Does *Taylor* understand this?
 
-You'll see how team discussions will be much more focused when you use personas, rather than a vague *elastic* user.
+You'll see how team discussions will be much more focused when you use personas, rather than a vague *elastic user*.
 
 In order to be a **useful** design tool personas should **challenge** your design decisions, not simply validate them.
 
@@ -239,8 +239,6 @@ Name | Platform | Free?
 * Don't begin prototype review sessions without **clear guidelines for feedback**. Be very specific about the type of feedback you are looking for. (Are the steps logically arranged? Is the navigation clear and intuitive?) If not, be prepared for `I don't like the blue in the header` or `Can't we use this font instead?` or `Can you make this bigger, bolder, in red and flashing?`
 -->
 
-
-
 #### Your turn
 
 **Prototype two user flows**
@@ -256,4 +254,14 @@ Produce prototypes that address [your user stories](#your-stories).
 
 Get familiar with it
 -->
+
 ### Blog
+
+[**Make it like the PSD**](http://dangovan.com/make-it-like-the-psd)
+
+Some questions that may guide your blog post (in no particular order):
+
+* What are the disadvantages of presenting Photoshop documents, as opposed to other ways of communicating a design (according to the author)?
+* If PSDs are so bad, why do so many people use them as *project deliverables*?
+* What alternatives does the author propose to the *Photoshop-driven design process*?
+* How do you feel about the *Photoshop-driven design process*? 
