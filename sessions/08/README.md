@@ -16,7 +16,7 @@ Your [homework](#homework) and [blog](#blog)!
 1. The **onboarding** process: how does your app *welcome new users* and help them find their feet? How does your app tell users what they can do, where to find things, and encourage them to use its features? 
 
 	You can find very detailed breakdowns of other app's onboarding at [UserOnboard](http://www.useronboard.com/).
-* A **problematic scenario**, aka an *edge case* or *unhappy path* (of your choice). 
+* A **problematic scenario** (aka an *edge case* or *unhappy path*) of your choice. 
 
 	For instance, what happens when your typical user makes a mistake, can't find what s/he is looking for, or generally when something goes wrong?
 
