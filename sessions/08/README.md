@@ -34,7 +34,9 @@ Get familiar with it
 
 ### Blog
 
-For those who took part in the workshops: when working with kids and **teaching them about UX design**, what *strategies* and *techniques* have you tried / discovered, which made your life easier? 
+#### For those who took part in the workshops at the primary school...
+
+While working with kids and **teaching them about UX design**, what *strategies* and *techniques* have you tried / discovered, which made your life easier? 
 
 For example:
 
@@ -42,7 +44,14 @@ For example:
 * Assigning specific roles to groups of kids (eg: the *research table*, the *design table*, the *logo table*...)
 * Making use kids don't feel intimidated by adults (1 kid with 2+ adults → intimidated; more kids than adults → empowered)
 
-Imagine that someone who has never worked with children before were to ask you for advice. 
+Imagine that someone who has never worked with children before were to ask for your advice. 
 
 Write a blog post with your **top tips and tricks**, explaining how and why they work!
 
+#### For those who didn't... 
+
+Read and blog this article on UI *walkthroughs*: [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil) 
+
+* Are you planning to use a UI walkthrough in your product?
+* What's your experience with UI walkthroughs on other products?
+* What could be an innovative way to guide new users through your product? Think wild :)
