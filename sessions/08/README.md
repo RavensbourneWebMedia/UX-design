@@ -9,64 +9,18 @@ Your [homework](#homework) and [blog](#blog)!
 
 # Homework
 
-* Keep prototyping (next week you'll user-test your prototypes at the school)
-
-
-
-<!--
 ### Rapid prototyping
 
-In an iterative approach to UX design, rapid prototyping is the process of **quickly mocking up the future state of a system** and testing it with users, teammates and clients. 
+[Last week](../07#your-turn-1) we asked you to **prototype two user flows**:
 
-![](assets/prototype-review-refine.jpg)
+1. The **onboarding** process: how does your app *welcome new users* and help them find their feet (learning what they can do, where to find things, and start using the features)? You can find very detailed breakdowns of other app's onboarding at [UserOnboard](http://www.useronboard.com/)).
+* A problematic scenario, aka an *edge case* or *unhappy path* of your choice. For instance, what happens when your typical user makes a mistake, can't find what s/he is looking for, or generally when something goes wrong?
 
-Doing this **rapidly and iteratively** generates feedback early and often in the process, improving the final design and reducing the need for costly changes during development.
+**Keep prototyping** using your tool of choice (we recommend [Invision](http://www.invisionapp.com)).
 
-#### What is a prototype then?
+Next week you'll user-test your prototypes at the primary school.
 
-A prototype **answers questions**. The more specific the better.
-
-A prototype stands between your **assumptions** and your users **behaviours**.
-
-A prototype should be **quick** (and cheap) to make, re-make and possibly discard.
-
-A prototype should be **close** to the real thing.
-
-A prototype is **not the real thing**.
-
-#### Which prototyping tool should I use?
-
-Each prototyping tool has its own feature set and strengths. Based on your needs and the requirements of your project, evaluate which tool is more appropriate:
-
-1. How **easy** is it to learn and use the tool?
-* Are there a repositories of **reusable templates** or widgets available?
-* How easy is it to make changes on the fly or to **incorporate feedback**?
-* Does it have any **collaboration features**, such as allowing multiple people to work on it at the same time?
-* What are the licensing terms and **costs**?
-
-##### Tools to consider
-
-Name | Platform | Free?
----- | -------- | -----
-[Macaw](http://macaw.co/) | Mac and Win | Yes
-[Invision](http://www.invisionapp.com/) | Web-based | Yes
-[Justinmind](http://www.justinmind.com) | Mac and Win | 30-days free trial, then $19/month 
-[Sketch](http://www.bohemiancoding.com/sketch/) | Mac only | Free trial, then $49 (education price)
-[Balsamiq](https://balsamiq.com/products/mockups) | Mac and Win | 30-days free trial, then $89 
-[Adobe Muse](http://muse.adobe.com) | Mac and Win | Not clear
-[Framer](http://framerjs.com) | Mac only | 30-days free trial, then $99 
-[Atomic](https://atomic.io) | Web-based | 30-days free trial
-[UXPin](https://www.uxpin.com) | Web-based | 7-days free trial
-
-#### Your turn
-
-**Prototype two user flows**
-
-1. *Onboarding* process (the process of increasing the likelihood that *new users* adopt your product and keep using it, see [UserOnboard](http://www.useronboard.com/)).
-* A problematic scenario, aka *edge case* or *unhappy path* (of your choice)
-
-Produce prototypes that address [your user stories](#your-stories).
--->
+Remember [the dos and don'ts of user-testing](../04#dos-and-donts)?
 
 <!--
 ### Invicta app template
