@@ -40,13 +40,13 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Thursday<br>07.01](sessions/01)| Intro to UX <br>Co-design (for children) <br>Team project: [**Kidesign**](#kidesign) <br>Workshop: working with kids  | Competitor analysis | Interviewing humans
 [Thursday<br>14.01](sessions/02)| UX research <br>Workshop: user interviews <br>Field interviews at a local primary school | User interviews | Learning to wireframe 
-[Thursday<br>21.01](sessions/03)| Elevator pitch<br>Concept one-pager<br>Paper prototypes | Prep for usertesting  | The secret life of 6 year olds
-[Thursday<br>28.01](sessions/04)| Usertesting prep <br>Usertesting at a local primary school <br>Debrief | Use case | Working with kids 
+[Thursday<br>21.01](sessions/03)| Elevator pitch<br>Concept one-pager<br>Paper prototypes | Prep for user-testing  | The secret life of 6 year olds
+[Thursday<br>28.01](sessions/04)| User-testing prep <br>User-testing at a local primary school <br>Debrief | Use case | Working with kids 
 [Thursday<br>04.02](sessions/05)| **Formative presentations** <br>User personas | User personas | Formative feedback action plan
 Week 6| | | 
 [Thursday<br>18.02](sessions/07)| User personas review <br>Workshop: rapid prototyping <br>Tutorials on *Kidesign* | *Kidesign*: digital prototype | Make it like the PSD 
-[Thursday<br>25.02])| App dev at a local primary school | TBA | TBA 
-Thursday<br>03.03| App dev at a local primary school | TBA | TBA
+[Thursday<br>25.02](sessions/08)| Workshops at a local primary school | *Kidesign*: digital prototype | Teaching kids UX 
+Thursday<br>03.03| User-testing at a local primary school | TBA | TBA
 Thursday<br>10.03| App dev at a local primary school | TBA | 
 Easter break| | | 
 Thursday<br>14.04| TBA | TBA | TBA
