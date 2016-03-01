@@ -22,7 +22,7 @@ Your [homework](#homework) and [blog](#blog)!
 
 **Keep prototyping** using your tool of choice (we recommend [Invision](http://www.invisionapp.com)).
 
-Next week you'll user-test your prototypes at the primary school.
+Next Thursday (3rd of March) you'll user-test your prototypes at the primary school.
 
 Remember [the dos and don'ts of user-testing](../04#dos-and-donts)?
 
