@@ -57,3 +57,6 @@ An important and often overlooked part of user-testing is **collecting evidence*
 Bear in mind you'll be marked on this report (among other project materials, such as wireframes, presentations, prototypes etc.) You will be able to change your report after next week and until the final hand-in in June, however the sooner you write it the better, as your user-testing sessions will be fresher in your memory :)
 
 ### Blog
+
+Read the article [2016 will be the year of conversational commerce](https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991) and blog about it.
+
