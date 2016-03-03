@@ -60,6 +60,13 @@ Thursday<br>02.06| TBA | TBA | TBA
 Thursday<br>09.06| **Summative presentations** |  **Summative hand-in** | 
 
 
+<!--
+
+Peer-learning on Cognitive Lode behavioural patterns session-14.md 
+
+-->
+
+
 # Projects
 
 ### Kidesign
