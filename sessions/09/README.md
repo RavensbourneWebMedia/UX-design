@@ -40,4 +40,20 @@ Your main job is to make your testers not feel stupid:
 
 # Homework
 
+### User-testing report!
+
+An important and often overlooked part of user-testing is **collecting evidence** of your sessions, writing your **observations** and condensing them into a list of **actionable recommendations**.
+
+<!-- Aggregating responses should take the form of simple tallies related to either task performance (success/failure) or sentiment (like/indifferent/dislike). -->
+
+1. Open [this template GDoc](https://docs.google.com/document/d/1XIrJQe4acdR1fNuu53qgHxd80F5V_cvm2Uh62OQ3i1M/edit?usp=sharing). 
+* `File` > `Make a copy...`
+* Change the sharing settings for your copy so that `Anyone with the link can comment`.
+
+	![](assets/gdoc-sharing.jpg)
+* Share the link on Slack in the `#ux-design` channel. 
+* Use this template as a guideline (not all sections in the template may apply to your project) to **write a report of your digital prototype user-testing**.
+
+Bear in mind you'll be marked on this report (among other project materials, such as wireframes, presentations, prototypes etc.) You will be able to change your report after next week and until the final hand-in in June, however the sooner you write it the better, as your user-testing sessions will be fresher in your memory :)
+
 ### Blog
