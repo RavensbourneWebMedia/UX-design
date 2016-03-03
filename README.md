@@ -46,7 +46,7 @@ When | In class | Homework | Blog
 Week 6| | | 
 [Thursday<br>18.02](sessions/07)| User personas review <br>Workshop: rapid prototyping <br>Tutorials on *Kidesign* | *Kidesign*: digital prototype | Make it like the PSD 
 [Thursday<br>25.02](sessions/08)| Workshops at a local primary school | *Kidesign*: digital prototype | Teaching kids UX 
-Thursday<br>03.03| User-testing at a local primary school | TBA | TBA
+[Thursday<br>03.03](sessions/09)| User-testing at a local primary school | User-testing report | Conversational interfaces
 Thursday<br>10.03| App dev at a local primary school | TBA | 
 Easter break| | | 
 Thursday<br>14.04| TBA | TBA | TBA
