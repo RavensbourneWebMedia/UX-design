@@ -9,7 +9,9 @@ Your [homework](#homework) and [blog](#blog)!
 
 # User-testing
 
-You have user-tested your **ideas** and **paper-wireframes** last month. Now it's time to user-test your **digital prototypes**. 
+You have user-tested your **ideas** and **paper-wireframes** last month. 
+
+Now it's time to user-test your **digital prototypes**. 
 
 <!--At this point you should be testing details, rather than the *bigger picture*.-->
 
@@ -54,7 +56,9 @@ An important and often overlooked part of user-testing is **collecting evidence*
 * Share the link on Slack in the `#ux-design` channel. 
 * Use this template as a guideline (not all sections in the template may apply to your project) to **write a report of your digital prototype user-testing**.
 
-Bear in mind you'll be marked on this report (among other project materials, such as wireframes, presentations, prototypes etc.) You will be able to change your report after next week and until the final hand-in in June, however the sooner you write it the better, as your user-testing sessions will be fresher in your memory :)
+Bear in mind you'll be marked on this report (among other project materials, such as wireframes, presentations, prototypes etc). 
+
+You will be able to change your report after next week and until the final hand-in in June, however the sooner you write it the better, as your user-testing sessions will be fresher in your memory :)
 
 ### Blog
 
