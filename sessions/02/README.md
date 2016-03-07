@@ -235,7 +235,7 @@ Armed with a revised script, we'll go and interview primary school children (and
 
 ### Interviews debrief
 
-1. Individually, jot down the **5 key points** for each round of interviews (we had 3) as early as possible, whilst it's all still fresh in your memory. 
+1. Individually, jot down the **5 key points** for each round of interviews (we had 3) as early as possible, whilst they're all still fresh in your memory. 
 * **Compare** your notes with your team mates.
 * Together, write a **summary** of your interview notes. Do this in a Google doc, which we'll review next week.
 
