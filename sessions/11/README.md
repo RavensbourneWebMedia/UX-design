@@ -111,3 +111,7 @@ Your personas represent the potential user groups of your app.
 Take a look at the [dos and don'ts of user personas](../05#dos-and-donts) to create useful, non-gimmicky personas.
 
 ### Blog	
+
+Read and blog about [Design is a conversation](https://blog.intercom.io/design-is-a-conversation), a short article by Emmet Connolly from Intercom.
+
+[![](https://blog.intercomassets.com/wp-content/uploads/2015/11/23191336/Design-conversation-hero.png)](https://blog.intercom.io/design-is-a-conversation)
