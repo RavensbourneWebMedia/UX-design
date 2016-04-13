@@ -100,6 +100,14 @@ emotion or reaction? How do you *feel* in there?
 	
 # Homework
 
-form teams, create personas based on your observations
+### User personas
+
+Form teams for the DAX project.
+
+Using [Xtensio](https://xtensio.com/user-persona/), produce 2 (or more) **user personas** based on your observations at the Museum. 
+
+Your personas represent the potential user groups of your app.
+
+Take a look at the [dos and don'ts of user personas](../05#dos-and-donts) to create useful, non-gimmicky personas.
 
 ### Blog	
