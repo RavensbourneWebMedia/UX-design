@@ -38,7 +38,24 @@ Our guest Amy Jackson-Bruce (Web Media alumna) will inspire you with a [pecha-ku
 
 # Workshop
 
-brain swarming - your goal at the top and your resources at the bottom - you get 2 mins to write down your ideas then pass it on to someone else, Matteo to show some examples.
+You are probably familiar with *brainstorming*, but have you hear of [**brainswarming**](http://blogs.hbr.org/2014/03/why-you-should-stop-brainstorming/) before?
+
+<!-- BSt: coming up with lots of ideas whilst withholding judgement, typically in a group session -->
+
+> No study has proven that brainstorming works well, even though it has been the go-to method for **idea generation** since 1953.
+
+In *brainstorming* you **talk** (and interrupt), whilst in *brainswarming* you **write**.
+
+[![](assets/brainswarming.png)](http://blogs.hbr.org/2014/03/why-you-should-stop-brainstorming)
+
+### Your turn
+
+1. Form teams of 2-3 people (you don't have to be in the same teams for the rest of this project).
+* Grab sharpies and post-its.
+* Discuss what your app's **goal** could be, then write it down.
+* Jot down also some **resources** that could help you achieve that goal.
+
+You get 2 mins to write down your ideas, then pass it on to someone else, until your idea sheet returns to you after it's made a full round.
 
 
 # Field research
