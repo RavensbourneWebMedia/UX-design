@@ -13,7 +13,39 @@ Your [homework](#homework) and [blog](#blog)!
 
 # In the previous episodes
 
-What the class learnt last time - tools and methods: personas, paper prototyping, we are concentrating on digital prototyping
+![](assets/digital-leaders.png)
+
+### Designing for real people 
+
+Working at a primary school gave you hands-on experience in designing for real people (as opposed to vague *users*), testing your ideas and prototypes with very opinionated little human beings.
+
+> This allowed me to test my ideas and see what worked and didn’t in real life as I saw how children interacted with my ideas and their thought process, rather than progressing through the project purely on my own assumptions.
+
+> Rana (real person) 
+
+### Design-prototype-test ... repeat
+
+We promoted an **iterative test-driven** design approach: rather than making assumptions about target users, you kept prototyping different solutions and tested them with children *as soon as possible*. 
+
+We hope this also reduced in-group arguments, promoting the ethos that *every idea is neither good or bad until it’s been tested*.
+
+### UX tools
+
+* [Interviews](../02#user-interviews): every project succeeds or fails on **research**. 
+
+	By conducting several interviews you learned which types of question work and which don't, what to ask and how to ask. 
+
+* [Concept one-pagers](../03#concept-one-pager) allow you to communicate your idea to *anyone* in a concise and effective (visual) way. 
+
+* [User personas](../05#user-personas) help you put a face on your research insights.
+ 
+ 	Team discussions can be more focused when you use personas, rather than a vague *elastic* user. 
+
+* [User stories](../07#user-stories): plain English sentences that describe the basic units of functionality of your product, so that everyone is on the *same page*.
+
+* [User-testing](../04#user-testing-preparation) your ideas, **paper-prototypes** and wireframes as soon as possible, as often as possible, will ensure you don't spend time (or money) working on something that doesn't work for your customers (or that they don't need).
+
+* This term we'll focus on **digital prototypes**.
 
 <!-- 
 - [ ] **Being professional**: if you say YES and then can't make it, you need to update me. Best if you do it in writing (by email), so that we don't forget. 
