@@ -76,19 +76,30 @@ You get 2 mins to write down your ideas, then pass it on to someone else, until 
 
 # Field research
 
+We'll spend the afternoon hours at the [Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) in Greenwich.
 
-120 PM: Field research visit to the NMM and ideation session with students about ideas for projects. All groups to leave with a variety of project ideas. Make some observations - What interests you in the museum? A collection as a whole, or a single object? What is inspiring about that part of the museum? A fact, history or look, feel of the object / objects? How are people invited to engage with the items in the museum? How are people moving around the space? Think about the museum as a website, how are people using the space, what info do they need etc..
-Homework: form teams, create personas based on your observations
+* Free entry.
+* Open Monday - Sunday, 10am - 5pm.
+* 30 minutes from Ravensbourne by bus on the 422 or 108 (see [trip on Citymapper](https://citymapper.com/trip/Tpdr49a))
 
+We're going to explore the museum (a physical space) and analyse it as a **virtual space**. 
 
+Put on your *UX designer hat*, observe and answer as many of the following questions as possible: 
 
-
-
-
-
-
-	
+* **Registration** How do you log in / out of the museum?
+* What is the **navigation** like? Are there predictable *paths*? Do you know where you are, or are you likely to get *lost*? How are people moving around the space? 
+* **Information architecture** What info does the museum provide? How is it organised? What info is missing? 
+* Is the museum space and its information **accessible**?
+* **UX** Has the space been designed to create an effect,
+emotion or reaction? How do you *feel* in there?
+* **Calls to action** What do they want you to do?
+* **Incentives** Does the museum encourage you to visit a certain section, or perform a certain action?
+* **Narratives** Is there an overarching theme to the space? Are there sub-themes?
+* **Content** Who do you reckon curates the museum content? Does the museum feature any *user-generated content*? How often is the content updated?
+ 	
 	
 # Homework
+
+form teams, create personas based on your observations
 
 ### Blog	
