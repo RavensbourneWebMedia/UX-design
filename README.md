@@ -49,14 +49,14 @@ Week 6| | |
 [Thursday<br>03.03](sessions/09)| User-testing at a local primary school | User-testing report | Conversational interfaces
 [Thursday<br>10.03](sessions/10)| User-testing at a local primary school | User-testing report
 Easter break| | | 
-Thursday<br>14.04| TBA | TBA | TBA
-Thursday<br>21.04| TBA | TBA | TBA 
-Thursday<br>28.04| TBA | TBA | TBA 
-Thursday<br>05.05| TBA | TBA | TBA 
-Thursday<br>12.05| TBA | TBA | TBA 
-Thursday<br>19.05| TBA | TBA | TBA 
-Thursday<br>26.05| TBA | TBA | TBA 
-Thursday<br>02.06| TBA | TBA | TBA 
+Thursday<br>14.04| Team project: [**DAX**](#DAX) <br>Lightning talk: digital projects in galleries and museums <br>*Brainswarming* <br>Field **research** at the Maritime Museum | Form teams, create **personas** based on your field research observations | TBA
+Thursday<br>21.04| Guest speaker: the process of making art-based apps <br>Workshop: from post-its to **digital prototypes** | Keep prototyping | TBA 
+Thursday<br>28.04| Prototyping <br>User-testing | TBA | TBA 
+Thursday<br>05.05| Prototyping <br>User-testing | TBA | TBA 
+Thursday<br>12.05| **Formative presentations** | TBA | TBA 
+Thursday<br>19.05| Guest speaker: working with museums <br> Workshop: creating engaging content using the [izi.travel](https://izi.travel/en) platform | Use *izi.travel* as a prototyping tool for your idea | TBA 
+Thursday<br>26.05| Conference: [Talk Web Design](http://talkwebdesign.co.uk) | TBA | TBA 
+Thursday<br>02.06| Workshop: UX evaluation <br> Prototyping and user-testing new features and enhancements | TBA | TBA 
 Thursday<br>09.06| **Summative presentations** |  **Summative hand-in** | 
 
 
@@ -75,11 +75,11 @@ On this **team project** you will learn the methods and tools of *user research*
 
 All the project material is [here](projects/kidesign).
 
-### Art experience
+### DAX
 
-Design and prototype a digital archive experience.
+Design and prototype a **d**igital **a**rchive e**x**perience.
 
-<!-- All the project material is [here](projects/art-experience). -->
+All the project material is [here](projects/dax).
 
 
 # Learning goals
