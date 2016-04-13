@@ -19,9 +19,9 @@ This **team project** focuses on the methods and tools of *digital prototyping*.
 * How would such *digital manipulations* be useful / educational? 
 * What are the most experimental things you could do with a collection? 
 
-Take a body of work or archived material from the [Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) and prototype a digital experience that opens this up to the public for the purpose of **learning** or **making**.
+Take a body of work or archived material from the [Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) and prototype a digital experience that opens this up to the public.
 
-Digital experiences could vary from presenting a **broad** collection of archived materials, to a **focused** collection of particular objects that you can *deep-dive* into.
+Digital experiences can vary from presenting a **broad** collection of archived materials to a **focused** collection of particular objects, for the purpose of **learning** or **making**.
 
 For example:
 
