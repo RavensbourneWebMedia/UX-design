@@ -28,12 +28,28 @@ What the class learnt last time - tools and methods: personas, paper prototyping
 
 # Team project
 
- intro to the brief..
+New term, new project: [DAX](projects/dax), which stands for **d**igital **a**rchive e**x**perience.
+
+* What makes a museum (intended as physical collection on display) experience unique? 
+* Can you reproduce some of these qualities in a digital experience?
+* Can a digital experience allow users to *play* with the artefacts within a collection? 
+* How would such *digital manipulations* be useful / educational? 
+* What are the most experimental things you could do with a collection? 
+
+We're partnering with the [Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) in Greenwich to design and prototype a digital experience that opens their archive up to the public.
+
+Digital experiences can vary from presenting a **broad** collection of archived materials to a **focused** collection of particular objects, for the purpose of **learning** or **making**.
+
+For example:
+
+![](../../projects/dax/assets/experience-content-graph.png)
 
 
 # Lighting talk
 
 Our guest Amy Jackson-Bruce (Web Media alumna) will inspire you with a [pecha-kucha](http://www.pechakucha.org/) (20 slides, 20 seconds each) presentation on digital projects in galleries and museums.
+
+After that we'll start <del>brainstorming</del> *brainswarming* ideas for the [DAX project](#team-project). 
 
 
 # Workshop
