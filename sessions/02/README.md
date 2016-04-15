@@ -154,7 +154,6 @@ It may also help to observe the kids use one of your *competitor apps*.
 	**Use examples** to help people understand the type of answer you are after.
 	
 	**Help participants tell their stories**, what happened before and after. And what would have happened if...
-
 * Avoid **leading questions**. Try not to bias your interviewees.
 
 	bad > `How much do you love using XYZ?`
