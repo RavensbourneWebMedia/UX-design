@@ -34,7 +34,7 @@ When | What
 14th of April | Project start <br>Field **research** trip to the Maritime Museum
  | User **personas**
 21st of April | From post-its to **digital prototypes**
- | Prototyping and **user-testing **
+ | Prototyping and **user-testing**
 12th of May | **Formative** presentations
 May | **Content strategy** <br>izi.travel **UX evaluation** <br> Prototyping and user-testing new features and enhancements 
 9th of June | **Summative** presentations and hand-in
