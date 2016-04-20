@@ -56,7 +56,7 @@ Week 6| | |
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
 [Thursday<br>14.04](sessions/11)| Team project: [**DAX**](#DAX) <br>Lightning talk: digital projects in galleries and museums <br>*Brainswarming* <br>Field **research** at the Maritime Museum | Form teams, create **personas** based on your field research observations | Design is a conversation
-Thursday<br>21.04| Guest speaker: the process of making art-based apps <br>Workshop: from post-its to **digital prototypes** | Keep prototyping | TBA 
+[Thursday<br>21.04](sessions/12)| Guest speaker: the process of making art-based apps <br>Workshop: from post-its to **digital prototypes** | Keep prototyping | Your favourite digital archive experience 
 Thursday<br>28.04| Prototyping <br>User-testing | TBA | TBA 
 Thursday<br>05.05| Prototyping <br>User-testing | TBA | TBA 
 Thursday<br>12.05| **Formative presentations** | TBA | TBA 
