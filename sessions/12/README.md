@@ -40,3 +40,17 @@ Our guest Amy Jackson-Bruce (Web Media alumna) will tell you how 3 Tate apps she
 
 ### Blog	
 
+Pick your favourite digital archive experience from [Amy's presentation last week](assets/amy-jackson-bruce-presentation.pdf) (links in the slides, and at the bottom of the [DAX](../../projects/dax) brief) and blog about it.
+
+Focus on these aspects (in no particular order):
+
+* What do you think is the **goal** of the experience you chose?
+* What **design challenges** may the people involved in your chosen project have faced? How did they solve them?
+* **Why** did you pick this project? What intrigues you about it?
+* **Where** does this project fit in the *content - experience* graph, and why?
+
+	![](../../projects/dax/assets/experience-content-graph.png)
+
+
+
+
