@@ -81,7 +81,9 @@ For example:
 
 Our guest Amy Jackson-Bruce (Web Media alumna) will inspire you with a [pecha-kucha](http://www.pechakucha.org/) (20 slides, 20 seconds each) presentation on digital projects in galleries and museums.
 
-After that we'll start <del>brainstorming</del> *brainswarming* ideas for the [DAX project](#team-project). 
+You can download her slides [here](assets/amy-jackson-bruce-presentation.pdf).
+
+After Amy's talk we'll start <del>brainstorming</del> *brainswarming* ideas for the [DAX project](#team-project). 
 
 
 # Workshop
