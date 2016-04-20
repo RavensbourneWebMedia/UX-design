@@ -19,8 +19,53 @@ Our guest Amy Jackson-Bruce (Web Media alumna) will tell you how 3 Tate apps she
 
 ### Ideation on post-it notes
 
+- [ ] TODO
+
 ### Creating digital prototypes 
 
+#### Why prototyping?
+
+In an **iterative** approach to UX design, (rapid) prototyping is the process of **quickly mocking up** the *future state* of a system and **testing** it with users, teammates and clients. 
+
+Doing this **rapidly and iteratively** generates feedback early and often in the process, improving the final design and reducing the need for costly changes during development.
+
+![](assets/tree-swings.jpg)
+
+* A prototype **answers questions**. The more specific the better.
+
+* A prototype stands between your **assumptions** and your users **behaviours**.
+
+* A prototype should be **quick** (and cheap) to make, re-make and possibly discard.
+
+* A prototype should be **close** to the real thing...
+
+* ... but a prototype is **not the real thing**.
+
+#### Which prototyping tool should I use?
+
+Each prototyping tool has its own feature set and strengths. Based on your needs and the requirements of your project, evaluate which tool is more appropriate:
+
+1. How **easy** is it to learn and use the tool?
+* Are there a repositories of **reusable templates** or widgets available?
+* How easy is it to make changes on the fly or to **incorporate feedback**?
+* Does it have any **collaboration features**, such as allowing multiple people to work on it at the same time?
+* What are the licensing terms and **costs**?
+
+##### Tools to consider
+
+Name | Platform | Free?
+---- | -------- | -----
+[Moqups](https://moqups.com) | Web-based | Freemium
+[Invision](http://www.invisionapp.com/) | Web-based | Yes
+[Adobe Experience Design](http://www.adobe.com/uk/products/experience-design.html) | Mac and Win | In preview (they may charge you later)
+[Sketch](http://www.bohemiancoding.com/sketch/) | Mac only | Free trial, then $49 (education price)
+[Justinmind](http://www.justinmind.com) | Mac and Win | 30-days free trial, then $19/month 
+[Balsamiq](https://balsamiq.com/products/mockups) | Mac and Win | 30-days free trial, then $89 
+[Framer](http://framerjs.com) | Mac only | 30-days free trial, then $99 
+[Atomic](https://atomic.io) | Web-based | 30-days free trial
+[UXPin](https://www.uxpin.com) | Web-based | 7-days free trial
+	
+<!-- [Macaw](http://macaw.co/) | Mac and Win | Yes -->	
 	
 # Homework
 
