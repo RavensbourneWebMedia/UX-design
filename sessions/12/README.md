@@ -50,9 +50,7 @@ You can do that with **post-its first** (and optionally turn your map digital, i
 	Don't worry about interface for now. Focus on the **purpose** of each step.
 * **Connect** the steps in a map.
 
-<!-- -->
-
-- [ ] Add example from Amy's pres
+![](assets/experience-map.jpg)
 
 ### Digital prototype 
 
