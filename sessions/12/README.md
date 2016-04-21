@@ -3,7 +3,7 @@
 ### Today, Thursday 21st April 2016
 
 1. [Guest talk](#guest-talk): the design process of making art-based apps 
-* [Workshop](#workshop): from post-its to digital prototypes
+* [Workshop](#workshop): from *concept* to *experience map* to *digital prototype*
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -17,11 +17,31 @@ Our guest Amy Jackson-Bruce (Web Media alumna) will tell you how 3 Tate apps she
 
 # Workshop
 
-### Ideation on post-it notes
+### Concept one-pager
+
+Can you **summarise** & **visualise** your idea, the primary features of your experience, and its benefits to your audience in one page?
+
+A concept one-pager typically includes:
+
+* a catchy **title**
+* a **strapline** (one sentence)
+* a **visualisation** of the idea
+
+To answer these questions:
+
+1. **What** is your idea?
+* **Who** is it for?
+* **Why** is it needed or wanted?
+
+A good concept one-pager enables you to talk about your idea to *anyone*.
+
+<!--![](assets/one-pagers.jpg)-->
+
+### Experience map on post-its
 
 - [ ] TODO
 
-### Creating digital prototypes 
+### Digital prototype 
 
 #### Why prototyping?
 
