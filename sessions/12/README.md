@@ -39,7 +39,20 @@ A good concept one-pager enables you to talk about your idea to *anyone*.
 
 ### Experience map on post-its
 
-- [ ] TODO
+Once you have a concept, and before you dive into the details of it, it's very useful to map out the **customer journey** (aka *experience map*).
+
+You can do that with **post-its first** (and optionally turn your map digital, if it needs many iterations). 
+
+1. **List** out each fundamental **step** in your experience.   
+  
+	A step could eventually become many screens, but in a customer journey map it can be condensed into one step.  
+  
+	Don't worry about interface for now. Focus on the **purpose** of each step.
+* **Connect** the steps in a map.
+
+<!-- -->
+
+- [ ] Add example from Amy's pres
 
 ### Digital prototype 
 
