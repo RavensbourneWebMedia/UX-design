@@ -12,7 +12,7 @@ Your [homework](#homework) and [blog](#blog)!
 
 Our guest Amy Jackson-Bruce (Web Media alumna) will tell you how 3 Tate apps she worked on were designed. From defining the problem to prototyping (paper and digital) and user-testing.
 
-<!--You can download her slides [here](assets/amy-jackson-bruce-presentation.pdf).-->
+You can download her slides [here](assets/amy-jackson-bruce-presentation.pdf).
 
 
 # Workshop
