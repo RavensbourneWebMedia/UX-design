@@ -179,7 +179,6 @@ Next week we'll go to the Maritime Museum and test your prototypes with real vis
 
 	If you're designing a mobile app, get the prototype on your mobile.
 
-	
 <!--
 # Team tutorials
 
@@ -187,5 +186,12 @@ Next week we'll go to the Maritime Museum and test your prototypes with real vis
 -->
 
 # Homework
+
+### User-testing prep 
+
+Next week (Thursday 5th of May) we'll go to the Maritime Museum and test your prototypes in the Great Map area.
+
+1. Continue prototyping.
+* Prepare a user-testing guide (see [tips here](../04#dos-and-donts)). 
 
 ### Blog	
