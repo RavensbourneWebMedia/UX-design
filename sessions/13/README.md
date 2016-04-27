@@ -109,17 +109,17 @@ Your riskiest assumption is both **core** to your product and **most unknown**, 
 
 Here are three examples:
 
-* :x: `Museum visitors want to see a feed of recent activity by other visitors when entering the museum`
+:x: `Museum visitors want to see a feed of recent activity by other visitors when entering the museum`
 
-	This is a solution-oriented assumption. Take a step back and ask, *why*?
+This is a solution-oriented assumption. Take a step back and ask, *why*?
 
-* :x: Because `visitors aren't spending enough time at the museum`
+:x: Because `visitors aren't spending enough time at the museum`
 
-	This is the business-perspective assumption. Not the customer's problem. Ask *why* again.
+This is the business-perspective assumption. Not the customer's problem. Ask *why* again.
 	
-* :heavy_check_mark: Because `visitors don't know where to find the stuff they want to see and get lost / frustrated after roaming around for a while`  
+:heavy_check_mark: Because `visitors don't know where to find the stuff they want to see and get lost / frustrated after roaming around for a while`  
   
-	This hypothesis is defined from the customer's perspective (and should be generated from customer interviews).
+This hypothesis is defined from the customer's perspective (and should be generated from customer interviews).
 
 <!--
 When you're testing a customer-perspective assumption, your riskiest assumption is one that supports the belief that your customer *has that problem*. 
@@ -127,13 +127,13 @@ When you're testing a customer-perspective assumption, your riskiest assumption 
 In a problem-solution case, the riskiest assumption is that it's *the right solution* to solve the problem. 
 -->
 
-To prototype and test effectively, you need to **turn your assumptions into hypotheses** and then build an **experiment** to test the **riskiest** one.
-
 #### What makes a good experiment?
+
+To prototype and test effectively, you need to **turn your assumptions into hypotheses** and then build an **experiment** to test the **riskiest** one.
 
 A good experiment is:
 
-* cheap
+1. cheap
 * quick
 * has the highest possible learning potential
 
@@ -150,6 +150,8 @@ We're familiar with paper prototyping (here's a [great video-example](https://ww
 -->
 
 Next week we'll go to the Maritime Museum and test your prototypes with real visitors.
+
+Here are a few tips:
 
 * Decide **how lo-fi** the prototype will be. 
 
