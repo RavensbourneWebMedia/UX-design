@@ -195,3 +195,9 @@ Next week (Thursday 5th of May) we'll go to the Maritime Museum and test your pr
 * Prepare a user-testing guide (see [tips here](../04#dos-and-donts)). 
 
 ### Blog	
+
+Read and blog this article on UI walkthroughs: [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil/)
+
+* Are you thinking of using a UI walkthrough in your DAX project? Why?
+* What's your experience with UI walkthroughs on other products?
+* What could be a different / innovative way to *guide* new users through your *interface*? How are people doing it in other industries / media (eg: games, films, restaurants, airports) Think wild :)
