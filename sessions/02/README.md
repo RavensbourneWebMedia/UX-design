@@ -225,7 +225,7 @@ After the interviews, consider:
 * How could you rephrase the less successful ones to get better answers?
 * Have you thought of follow-up questions?
 
-Armed with a revised script, we'll go and interview primary school children (and a few teachers and parents).
+Armed with a revised guide, we'll go and interview primary school children (and a few teachers and parents).
 
 <!--- [ ] Feedback sheets-->
 
