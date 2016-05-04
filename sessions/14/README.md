@@ -92,3 +92,25 @@ Your main job is to make your testers not feel stupid:
 
 <!-- -->
 - [ ] Does anyone need stuff printed?
+
+
+# Homework
+
+
+### Formative
+
+Next week is formative day. You'll present your work-in-progress to me, Amy and Chris (from the Maritime Museum).
+
+Prepare a pitch presentation:
+
+* **What** is your idea?
+* **Who** is it for?
+* **Why** is it needed? What challenges (from a Museum's perspective) does it address?
+* **How** does it work?
+* What is your **plan** to develop it further?
+
+The points above are the bare minimum of what your presentation should include. You're very welcome to present them in a different order and include any other aspects (such as your *inspirations*, your *creative process*, what you discovered in your *user testing*, etc.) which you consider relevant.
+
+#### How long should the presentation be?
+
+Ideally **10 minutes** (max 15 minutes) with another 5 for feedback and Q&A.
