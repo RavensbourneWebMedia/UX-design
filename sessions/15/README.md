@@ -4,15 +4,24 @@
 
 # Homework
 
-Register to izi.travel as an individual with your `@students.rave.ac.uk` email. Institution should say `Ravensbourne`, London and UK.
+### Explore the izi.travel app
 
 **Blind-test**: explore and observe!
 
 Get comfortable with the app as a tourist. See what content exists and how you can consume it as a cultural tourist.
 
-[ ] Matteo to write a few guideline questions about the UX of the app
+- [ ] Matteo to write a few guideline questions about the UX of the app
 
-Write down observations.
+Write down your observations.
+
+### Sign up to izi.travel 
+
+Register to [cms.izi.travel/registrations/new](https://cms.izi.travel/registrations/new):
+
+* Use your `@students.rave.ac.uk` email. 
+* In `Organisation` use `Ravensbourne`
+* You'll get an email with a registration link, after you clicked it you'll be able to complete your registration.
+* Make sure you put down your `Country` as `United Kingdom` and your `City` as `London` (you can leave the other fields blank).
 
 ### Prepare content
 
