@@ -144,6 +144,10 @@ Prepare a pitch presentation:
 
 The points above are the bare minimum of what your presentation should include. You're very welcome to present them in a different order and include any other aspects (such as your *creative process*, what you discovered in your *user interviews* and *user testing*, etc.) which you consider relevant.
 
+#### How long should the presentation be?
+
+Ideally **10 minutes** (max 15 minutes) with another 5 for feedback and Q&A.
+
 ### Blog
 
 Working with kids: what have you learned so far?
