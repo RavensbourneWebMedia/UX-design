@@ -159,7 +159,6 @@ In just one sentence, a user story encapsulates
 3. Jot down stories following the steps above.
 
 
-
 # Tutorials
 
 ### Kidesign
