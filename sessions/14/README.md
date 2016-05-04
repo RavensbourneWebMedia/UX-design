@@ -3,10 +3,12 @@
 ### Today, Thursday 5th May 2016
 
 1. Testing prep
-* User-testing with humans
+* User-testing (with humans) at the Maritime Museum
 
 Your [homework](#homework) and [blog](#blog)!
 
+* [ ] [uxlondon.com](http://2016.uxlondon.com/) 18-20 May: follow it on social media!
+* [ ] **FREE** [talkwebdesign.co.uk](http://talkwebdesign.co.uk/) 26th of May @ Greenwich University: get your ticket if you haven't already!
 
 
 # Testing
