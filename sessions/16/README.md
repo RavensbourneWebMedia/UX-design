@@ -1,5 +1,7 @@
 # Week 16
 
+### Today, Thursday 19th May 2016
+
 Students should come prepared with some content: an idea for a story / tour.
 
 One story for the indoors and one for the outdoors, then we try to connect them both.
