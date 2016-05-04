@@ -96,6 +96,24 @@ Your main job is to make your testers not feel stupid:
 
 # Homework
 
+### User-testing debrief and report
+
+An important and often overlooked part of user-testing is **collecting evidence** of your sessions, writing your **observations** and condensing them into a list of **actionable recommendations**.
+
+* *Individually*, jot down the **5 key points** for each test as early as possible (ideally right after your test is over) whilst they're all still fresh in your memory. 
+* *With your team*, **compare** your notes with those of your team mates, then:
+
+	1. Open [this template GDoc](https://docs.google.com/document/d/1XIrJQe4acdR1fNuu53qgHxd80F5V_cvm2Uh62OQ3i1M/edit?usp=sharing). 
+	* `File` > `Make a copy...`
+	* Change the sharing settings for your copy so that `Anyone with the link can comment`.
+
+	![](assets/gdoc-sharing.jpg)
+	* Share the link on Slack in the `#ux-design` channel. 
+	* Use this template as a guideline (not all sections in the template may apply to your project) to **write a report of your user-testing**.
+
+Bear in mind you'll be marked on this report (among other project materials, such as presentations, prototypes etc). 
+
+You will be able to change your report after next week and until the final hand-in in June, however the sooner you draft it the better.
 
 ### Formative
 
