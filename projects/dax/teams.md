@@ -4,12 +4,12 @@ Read the whole brief [here](README.md).
 
 Teams:
 
-1. [Ade and Kieran](#team-AK)
-* [Zac, Johan and Alex](#team-ZAJ)
-* [Rana, Luke and Sanj](#team-SLR) 
-* [Harry and Jonny](#team-HJ)
-* [Aidan, Ollie and Ryder](#team-RAO)
-* [Joe, Tom and Baby Jake](#team-TJ2)## Team AK* Ade
+1. [Ade and Kieran](#team-ak)
+* [Zac, Johan and Alex](#team-zaj)
+* [Rana, Luke and Sanj](#team-slr) 
+* [Harry and Jonny](#team-hj)
+* [Aidan, Ollie and Ryder](#team-rao)
+* [Joe, Tom and Baby Jake](#team-tj2)## Team AK* Ade
 * Kieran### Week 1Interactive mobile - look at artefact and it gives you more information - augmented reality - Wham by Roy Liechtenstein - look at artwork and get more artworks by the artist.Play the game - QR code and you get a pdf to take away at the end.
 ![](assets/brainswarming_ade-kieran.jpg)### Week 2
 - [ ] Concept one-pager### Week 3![](assets/map_kieran-ade.jpg)AR apps for ships.
