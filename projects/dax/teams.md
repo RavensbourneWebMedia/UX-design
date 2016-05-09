@@ -32,7 +32,7 @@ Google Cardboard?#### Assumptions* Schools have VR?* Lo-fi option, eg: [Now
 ![](assets/brainswarming_luke-rana-sanj.jpg)### Week 2
 - [ ] Concept one-pager### Week 3
 
-- [ ] Map (Rana to email me)
+![](assets/map_luke-rana-sanj.jpg)
 Navigation experience and tour customiser. Bit like a sat-nav for museums.
 Questions:
 * Individual tour or group tour?
