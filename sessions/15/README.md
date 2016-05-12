@@ -9,7 +9,23 @@ Your [homework](#homework) and [blog](#blog)!
 
 # Formative
 
-- [ ] TODO
+Here's the [collaborative feedback Google doc](https://docs.google.com/a/rave.ac.uk/document/d/1Vxqd9eODxFJagXYtjT7_Qum9SdgNj9mcSj_R0cmVFy4/edit?usp=sharing).
+
+### WTF should we present?
+
+A pitch presentation for your [*DAX*](../../projects/dax) concept:
+
+* **What** is your idea?
+* **Who** is it for?
+* **Why** is it needed? What challenges (from a Museum's perspective) does it address?
+* **How** does it work?
+* What is your **plan** to develop it further?
+
+The points above are the bare minimum of what your presentation should include. You're very welcome to present them in a different order and include any other aspects (such as your *inspirations*, your *creative process*, what you discovered in your *user testing*, etc.) which you consider relevant.
+
+#### How long should the presentation be?
+
+Ideally **10 minutes** (max 15 minutes) with another 5 for feedback and Q&A.
 
 
 # Homework
