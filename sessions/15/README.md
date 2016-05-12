@@ -2,7 +2,7 @@
 
 ### Today, Thursday 12th May 2016
 
-1. Formative presentations with Amy JB and Chris King from NMM.
+Formative presentations with Amy JB + Chris and Fabrice from NMM.
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -30,36 +30,50 @@ Ideally **10 minutes** (max 15 minutes) with another 5 for feedback and Q&A.
 
 # Homework
 
-### Explore the izi.travel app
+[izi.TRAVEL](https://izi.travel/en/app) is a storytelling and tour guide app for museums and cultural institutions. It's *free to download* and use for museum visitors, and it's also free for anyone to create content with.
 
-**Blind-test**: explore and observe!
+Next week we'll have a guest from izi.TRAVEL, who'll give us tips on how to produce engaging content for museums. He'll then run a workshop with us, to create and test both indoor and outdoor guides.
+
+In preparation for next week, three tasks for you:
+
+### 1. Explore the izi.TRAVEL app
+
+Download [the izi.TRAVEL app](https://izi.travel/en/app)
+
+<!-- **Blind-test**: explore and observe! -->
 
 Get comfortable with the app as a tourist. See what content exists and how you can consume it as a cultural tourist.
 
-- [ ] Matteo to write a few guideline questions about the UX of the app
+Write down your first impressions:
 
-Write down your observations.
+* How do you find the **onboarding process**? How does the app *welcome* you as a new user and show you what you can do with it?
+* How is the **language** of the app's interface? What do the buttons say? 
+* How is **content** presented? Compare a couple of tour guides, possibly from two different museums / institutions, and think about which one presents its collection in the most suitable way
+* What **features** could be improved, and why?
+* What features could be **added**, and why?
 
-### Sign up to izi.travel 
+### 2. Sign up to the izi.TRAVEL CMS
 
-Register to [cms.izi.travel/registrations/new](https://cms.izi.travel/registrations/new):
+Sign up as a content creator at [cms.izi.travel/registrations/new](https://cms.izi.travel/registrations/new):
 
 * Use your `@students.rave.ac.uk` email. 
-* In `Organisation` use `Ravensbourne`
+* In `Organisation` put `Ravensbourne`
 * You'll get an email with a registration link, after you clicked it you'll be able to complete your registration.
 * Make sure you put down your `Country` as `United Kingdom` and your `City` as `London` (you can leave the other fields blank).
 
-### Prepare content
+### 3. Prepare some content for *your* tour
 
-Next week we'll use izi.travel to make **indoor tour** for the Maritime Museum (NMM)
+Next week we'll use izi.TRAVEL to make an **indoor tour** of the Maritime Museum. 
+
+The **subject / theme** of your tour is up to you. It can be more or less related to your DAX project.
 
 As a team, come prepared with the following: 
 
-1. Introduction paragraph to your tour (short and sharp)
-* Couple of images (grab them from Google)
-* Map of the space (if available / relevant)
-* A paragraph about the collection or group of exhibits you want to focus on (could be a collection / group that interests your group) 
-* 2-3 exhibit items (part of the collection, or not) with description & a couple of images per item
+1. An introduction paragraph to your tour (short and sharp, think *elevator pitch*)
+* A couple of images (you can grab them from Google)
+* A map of the tour space (if available / relevant)
+* A paragraph about the collection or group of exhibits you want to focus on
+* 2-3 exhibit items with a short description and a couple of images per item. Items can be part of the Museum collection, or not (it could be something which is not in the Maritime Museum, but still relevant to your tour, e.g. the Cutty Sark).
 
 ### Blog
 
