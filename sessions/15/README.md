@@ -63,4 +63,9 @@ As a team, come prepared with the following:
 
 ### Blog
 
-- [ ] TODO
+#### Action plan!
+
+1. Review the **formative feedback** your received.
+* **Individually** jot down an *action plan*: list what you want to do in order to address that feedback (eg: `prototype alternative routes`, `try a different tone of voice`, `change the tutorial screen so that...`)
+* **Compare** your action plan list with your team mates.
+* Blog about this process, reflecting on the feedback received and how you (both individually and as a team) are responding to it.
