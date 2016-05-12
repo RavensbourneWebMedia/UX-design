@@ -117,7 +117,7 @@ You will be able to change your report after next week and until the final hand-
 
 ### Formative
 
-Next week is formative day. You'll present your work-in-progress to me, Amy and Chris (from the Maritime Museum).
+Next week is formative day. You'll present your work-in-progress to me and Amy, plus Chris and Fabrice (from the Maritime Museum).
 
 Prepare a pitch presentation:
 
