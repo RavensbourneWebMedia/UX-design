@@ -22,6 +22,7 @@ One story for the indoors and one for the outdoors, then we try to connect them 
 See previous week's [homework](../15#homework)
 -->
 
+
 # AM 
 
 ## Guest talk
@@ -38,6 +39,7 @@ First you'll create an **outdoor tour** for (North) Greenwich. It can be either 
 
 You will use 4 points of interest, ideally not more than 10 minutes walk from each other (to quickly test them). 
 
+
 # PM
 
 ## Workshop: **indoor tour** at NMM
@@ -45,3 +47,29 @@ You will use 4 points of interest, ideally not more than 10 minutes walk from ea
 In class, you'll record audio content and create the guide on [izi.TRAVEL](https://izi.travel/en).
 
 Then we'll go to the Maritime Museum to test it.
+
+
+# Homework
+
+Continue prototyping your idea
+
+### Blog
+
+**Evaluate** izi.TRAVEL, both front-end (the app) and back-end (the CMS).
+
+The questions below can guide your evaluation. Feel free to reflect on and write about other aspects of izi.TRAVEL, which are not covered by the questions below.
+
+Front-end:
+
+* How do you find the **onboarding process**? How does the app *welcome* you as a new user and show you what you can do with it?
+* How is the **language** of the app's interface? What do the buttons say? 
+* How is **content** presented? Compare a couple of tour guides, possibly from two different museums / institutions, and think about which one presents its collection in the most suitable way
+* What **features** could be improved, and why?
+* What features could be **added**, and why?
+
+Back-end:
+ 
+* How does the CMS teach you how to use it? How is the **learning curve**?
+* What happens if you make a **mistake**?
+* What **features** could be improved, and why?
+* What features could be **added**, and why?
