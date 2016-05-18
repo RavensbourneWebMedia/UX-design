@@ -60,7 +60,7 @@ When | In class | Homework | Blog
 [Thursday<br>28.04](sessions/13)| Experience map <br>Riskiest hypothesis <br>Prototype | User-testing prep | Are UI walkthroughs evil? 
 [Thursday<br>05.05](sessions/14)| User-testing | User-testing debrief and report <br>Prep formative |  
 [Thursday<br>12.05](sessions/15)| **Formative presentations** | Explore the izi.travel app | Action plan 
-Thursday<br>19.05| Guest speaker: working with museums <br> Workshop: creating engaging content using the [izi.travel](https://izi.travel/en) platform | Use *izi.travel* as a prototyping tool for your idea | TBA 
+[Thursday<br>19.05](sessions/16)| Guest speaker: working with museums <br> Workshop: creating engaging content using the [izi.TRAVEL](https://izi.travel/en) platform | Use *izi.travel* as a prototyping tool for your idea | TBA 
 Thursday<br>26.05| Conference: [Talk Web Design](http://talkwebdesign.co.uk) | TBA | TBA 
 Thursday<br>02.06| Francesca will present ArtWonder <br>Workshop: UX evaluation <br> Prototyping and user-testing new features and enhancements | TBA | TBA 
 Thursday<br>09.06| **Summative presentations** |  **Summative hand-in** | 
