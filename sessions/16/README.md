@@ -51,7 +51,11 @@ Then we'll go to the Maritime Museum to test it.
 
 # Homework
 
-Continue prototyping your idea
+### Continue prototyping your DAX idea
+
+Start implementing the changes / enhancements in response to the [feedback you received in the formative last week](https://docs.google.com/document/d/1Vxqd9eODxFJagXYtjT7_Qum9SdgNj9mcSj_R0cmVFy4/edit).
+
+You may have a chance to test your prototypes next Thursday at [Talk Web Design](http://lanyrd.com/2016/talkwd/), with fellow students and industry practitioners.
 
 ### Blog
 
