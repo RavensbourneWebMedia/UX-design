@@ -61,9 +61,9 @@ When | In class | Homework | Blog
 [Thursday<br>05.05](sessions/14)| User-testing | User-testing debrief and report <br>Prep formative |  
 [Thursday<br>12.05](sessions/15)| **Formative presentations** | Explore the izi.TRAVEL app | Action plan 
 [Thursday<br>19.05](sessions/16)| Guest speaker: working with museums <br> Workshop: creating engaging content using the [izi.TRAVEL](https://izi.travel/en) platform | Continue prototyping your idea | Evaluate izi.TRAVEL (both front-end and back-end) 
-Thursday<br>26.05| Conference: [Talk Web Design](http://talkwebdesign.co.uk) | TBA | TBA 
-Thursday<br>02.06| Francesca will present ArtWonder <br>Workshop: UX evaluation <br> Prototyping and user-testing new features and enhancements | TBA | TBA 
-Thursday<br>09.06| **Summative presentations** |  **Summative hand-in** | 
+[Thursday<br>26.05](sessions/17)| School trip: [Talk Web Design](http://talkwebdesign.co.uk) | Continue prototyping your idea | Talk Web Design 
+[Thursday<br>02.06](sessions/18)| *ArtWonder* presentation and user-testing <br>Tutorials on *DAX* | Prep summative |  
+[Thursday<br>09.06](sessions/19)| **Summative presentations** | **Summative hand-in** | 
 
 
 <!--
