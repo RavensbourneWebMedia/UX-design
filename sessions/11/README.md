@@ -60,7 +60,7 @@ We hope this also reduced in-group arguments, promoting the ethos that *every id
 
 # Team project
 
-New term, new project: [DAX](projects/dax), which stands for **d**igital **a**rchive e**x**perience.
+New term, new project: [DAX](../../projects/dax), which stands for **d**igital **a**rchive e**x**perience.
 
 * What makes a museum (intended as physical collection on display) experience unique? 
 * Can you reproduce some of these qualities in a digital experience?
