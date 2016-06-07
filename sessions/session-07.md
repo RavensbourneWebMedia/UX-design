@@ -131,7 +131,7 @@ You will be the *facilitator* and your main job is to make your testers not feel
 * ask **specific questions**
 * no orders, but rather give some choice to your testers (eg: *What would you click first?*)
 
-1. Prepare a loose script for your user-testing session. You can take inspiration from this [sample script](https://hackpad.com/Sample-usertesting-script-UTHN25ekYIQ)
+1. Prepare a loose script for your user-testing session. You can take inspiration from this [sample script](https://docs.google.com/document/d/17IuAMJojz0dlvBFh7QBDBgUWun2NyRZ6hlRwLdqYcH0/edit?usp=sharing) (*clone* it into a new Google doc).
 
 2. Download and install [Silverback](http://silverbackapp.com)
 
