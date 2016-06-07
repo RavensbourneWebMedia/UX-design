@@ -11,7 +11,9 @@ Summative [presentations](#presentations) and [hand-in](#hand-in-checklist)
 
 From 10:30 to 12:30, 10 minutes per team.
 
-We'll have guests: [Visit Greenwich](http://www.visitgreenwich.org.uk/), [izi.TRAVEL](https://izi.travel/en), the [Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) and [Amy Jackson-Bruce](https://www.linkedin.com/in/amyjacksonbruce).
+We'll have guests: [Visit Greenwich](http://www.visitgreenwich.org.uk/), [izi.TRAVEL](https://izi.travel/en) and [Amy Jackson-Bruce](https://www.linkedin.com/in/amyjacksonbruce).
+
+<!--, the [Maritime Museum](http://www.rmg.co.uk/national-maritime-museum)-->
 
 ### WTF should we present?
 
