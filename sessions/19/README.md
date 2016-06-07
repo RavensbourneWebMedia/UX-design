@@ -11,7 +11,7 @@ Summative [presentations](#presentations) and [hand-in](#hand-in-checklist)
 
 From 10:30 to 12:30, 10 minutes per team.
 
-We'll have guests: [Visit Greenwich](http://www.visitgreenwich.org.uk/), [izi.TRAVEL](https://izi.travel/en) and [Amy Jackson-Bruce](https://www.linkedin.com/in/amyjacksonbruce).
+We'll have guests: [Kat Breese (Visit Greenwich)](http://www.visitgreenwich.org.uk/), [Teymour Sursock (izi.TRAVEL)](https://izi.travel/en), [Francesca Guerrera (ArtWonder)](http://www.artwonder.net) and [Amy Jackson-Bruce (Burberry Digital)](https://www.linkedin.com/in/amyjacksonbruce).
 
 <!--, the [Maritime Museum](http://www.rmg.co.uk/national-maritime-museum)-->
 
