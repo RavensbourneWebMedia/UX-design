@@ -9,9 +9,51 @@ Summative [presentations](#presentations) and [hand-in](#hand-in-checklist)
 
 # Presentations
 
-30 minutes per team
+From 10:30 to 12:30, 10 minutes per team.
 
-- [ ] WTF should we present?
+We'll have guests: [Visit Greenwich](http://www.visitgreenwich.org.uk/), [izi.TRAVEL](https://izi.travel/en), the [Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) and [Amy Jackson-Bruce](https://www.linkedin.com/in/amyjacksonbruce).
+
+### WTF should we present?
+
+Prepare a **pitch** presentation for your [DAX](../../projects/dax) concept.
+
+As a pitch, you want to focus on the **solution** your product provides to a **problem** for your target **users** (less on the process).
+
+It's about how people use your product and how they need it to make their experience (of a museum, for instance) better.
+
+> Talk about them, not yourself.
+
+#### Structure
+
+The **structure** of your pitch is up to you. 
+
+A **story** is an effective and proven way to structure your pitch. 
+
+Humans have been telling stories for thousands of years, and our **brains** are wired to emotionally respond to stories more than to facts and figures. When someone tells you a story, the same areas of your brain and their brain get active. If they say "Danny kicked the ball..." your motor cortex, which coordinates your body movements, will fire up. That's how powerful stories are.
+
+You can frame your pitch as a story in a couple of ways:
+
+* Challenge > process > outcome (from a client point of view)
+
+* Problem > solution > result (from a user point of view)
+
+#### Slides
+
+Your slides should help your audience focus on your key points. If you put too much text in your slides, you'll end up confusing people.
+
+Tip: **one point per slide**.
+
+> Avoid showing what you are saying and saying what you are showing.	
+
+#### Delivery
+
+When you stand up to present your project, remember that *everyone wants you to win*.
+
+If you're a little nervous, take a few **deep breaths**. 
+
+Throughout your presentation, get comfortable with **silence**. Everyone needs a bit of it to digest what you're saying.
+
+> Silence is better than bullshit.
 
 
 # Hand-in checklist
@@ -72,7 +114,7 @@ Aka *the Maritime Museum project*
 
 > Make sure all the folders, pages, documents & presentations you linked in your `WEB14204-Name-Surname.md` are publicly accessible (not just private to you). I don't want to be asking *permissions to view this file* while you're off :)
 
-**Upload** and submit your `WEB14204-Name-Surname.md` through Moodle at this link: [learn.rave.ac.uk/moodle/mod/assign/view.php?id=81825](http://learn.rave.ac.uk/moodle/mod/assignment/view.php?id=81825)
+**Upload** and submit your `WEB14204-Name-Surname.md` through Moodle here [learn.rave.ac.uk/moodle/mod/assign/view.php?id=81825](http://learn.rave.ac.uk/moodle/mod/assignment/view.php?id=81825)
 
 ### Deadline
 
