@@ -73,7 +73,7 @@ Monday<br>09.06 | **Summative presentations** | **Summative hand-in** |
 
 ### NMMaps
 
-On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by engaging with a challenging user group: primary school children. 
+On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by working on a real-world project for the National Maritime Museum (NMM) in Greenwich. 
 
 All the project material is [here](projects/nmmaps).
 
