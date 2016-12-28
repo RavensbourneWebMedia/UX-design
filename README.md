@@ -40,46 +40,42 @@ In particular, you will get familiar with:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Thursday<br>07.01](sessions/01)| Intro to UX <br>Co-design (for children) <br>Team project: [**Kidesign**](#kidesign) <br>Workshop: working with kids  | Competitor analysis | Interviewing humans
-[Thursday<br>14.01](sessions/02)| UX research <br>Workshop: user interviews <br>Field interviews at a local primary school | User interviews | Learning to wireframe 
-[Thursday<br>21.01](sessions/03)| Elevator pitch<br>Concept one-pager<br>Paper prototypes | Prep for user-testing  | The secret life of 6 year olds
-[Thursday<br>28.01](sessions/04)| User-testing prep <br>User-testing at a local primary school <br>Debrief | Use case | Working with kids 
-[Thursday<br>04.02](sessions/05)| **Formative presentations** <br>User personas | User personas | Formative feedback action plan
-Week 6| | | 
-[Thursday<br>18.02](sessions/07)| User personas review <br>Workshop: rapid prototyping <br>Tutorials on *Kidesign* | *Kidesign*: digital prototype | Make it like the PSD 
-[Thursday<br>25.02](sessions/08)| Workshops at a local primary school | *Kidesign*: digital prototype | Teaching kids UX 
-[Thursday<br>03.03](sessions/09)| User-testing at a local primary school | User-testing report | Conversational interfaces
-[Thursday<br>10.03](sessions/10)| User-testing at a local primary school | User-testing report
+Monday<br>09.01 | Intro to UX <br>Team project kickstart: [**NMMaps**](#nmmaps) <br>Field interviews at the National Maritime Museum in Greenwich (aka *NMM*) | Competitor analysis | Interviewing humans
+Monday<br>16.01 | Lightning talk: digital projects in galleries and museums <br>*Brainswarming* <br>Elevator pitch <br>Concept one-pager | Wireframes (aka *paper prototypes*) | Learning to wireframe 
+Monday<br>23.01 | Experience map <br>Digital prototypes v1 <br>User-testing <br>Tutorials | User-testing | TBA (*to be announced*)
+Monday<br>30.01 | **Formative presentations** @ NMM | Working with kids | TBA | Formative feedback action plan
+Monday<br>06.02 | Digital prototypes v2 <br>Tutorials | AB testing | TBA
+Enchantment Week | | | 
+Monday<br>20.02 | User-testing @ NMM <br>Intro to concept videos <br>Tutorials | Concept video | TBA
+Monday<br>27.02 | Micro-copywriting <br>Tutorials | TBA | TBA 
+Monday<br>06.03 | **Summative presentations** @ NMM | TBA | TBA
+
+<!--
 
 ### Term 3
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Thursday<br>14.04](sessions/11)| Team project: [**DAX**](#DAX) <br>Lightning talk: digital projects in galleries and museums <br>*Brainswarming* <br>Field **research** at the Maritime Museum | Form teams, create **personas** based on your field research observations | Design is a conversation
-[Thursday<br>21.04](sessions/12)| Guest speaker: the process of making art-based apps <br>Workshop: from post-its to **digital prototypes** | Keep prototyping | Your favourite digital archive experience 
-[Thursday<br>28.04](sessions/13)| Experience map <br>Riskiest hypothesis <br>Prototype | User-testing prep | Are UI walkthroughs evil? 
-[Thursday<br>05.05](sessions/14)| User-testing | User-testing debrief and report <br>Prep formative |  
-[Thursday<br>12.05](sessions/15)| **Formative presentations** | Explore the izi.TRAVEL app | Action plan 
-[Thursday<br>19.05](sessions/16)| Guest speaker: working with museums <br> Workshop: creating engaging content using the [izi.TRAVEL](https://izi.travel/en) platform | Continue prototyping your idea | Evaluate izi.TRAVEL (both front-end and back-end) 
-[Thursday<br>26.05](sessions/17)| School trip: [Talk Web Design](http://talkwebdesign.co.uk) | Continue prototyping your idea | Talk Web Design 
-[Thursday<br>02.06](sessions/18)| *ArtWonder* presentation and user-testing <br>Tutorials on *DAX* | Prep summative |  
-[Thursday<br>09.06](sessions/19)| **Summative presentations** | **Summative hand-in** | 
-
-
-<!--
-
-Peer-learning on Cognitive Lode behavioural patterns session-14.md 
+Monday<br>14.04 | Team project: [**DAX**](#DAX) <br>Lightning talk: digital projects in galleries and museums <br>*Brainswarming* <br>Field **research** at the Maritime Museum | Form teams, create **personas** based on your field research observations | Design is a conversation
+Monday<br>21.04 | Guest speaker: the process of making art-based apps <br>Workshop: from post-its to **digital prototypes** | Keep prototyping | Your favourite digital archive experience 
+Monday<br>28.04 | Experience map <br>Riskiest hypothesis <br>Prototype | User-testing prep | Are UI walkthroughs evil? 
+Monday<br>05.05 | User-testing | User-testing debrief and report <br>Prep formative |  
+Monday<br>12.05 | **Formative presentations** | Explore the izi.TRAVEL app | Action plan 
+Monday<br>19.05 | Guest speaker: working with museums <br> Workshop: creating engaging content using the [izi.TRAVEL](https://izi.travel/en) platform | Continue prototyping your idea | Evaluate izi.TRAVEL (both front-end and back-end) 
+Monday<br>26.05 | School trip: [Talk Web Design](http://talkwebdesign.co.uk) | Continue prototyping your idea | Talk Web Design 
+Monday<br>02.06 | *ArtWonder* presentation and user-testing <br>Tutorials on *DAX* | Prep summative |  
+Monday<br>09.06 | **Summative presentations** | **Summative hand-in** | 
 
 -->
 
 
 # Projects
 
-### Kidesign
+### NMMaps
 
 On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by engaging with a challenging user group: primary school children. 
 
-All the project material is [here](projects/kidesign).
+All the project material is [here](projects/nmmaps).
 
 ### DAX
 
@@ -120,6 +116,6 @@ By the end of this course, you will be able to:
 
 ### License
 
-[![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0)
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ](http://creativecommons.org/licenses/by-nc-sa/4.0)
+[![](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0)
