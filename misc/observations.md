@@ -346,3 +346,8 @@ Peer learning: to stimulate higher quality research, and have all that shared, w
 Itamar's presentation:
 
 * Maybe start with case studies and then draw out the principles / guidelines
+
+
+# 2017
+
+## Session 1
