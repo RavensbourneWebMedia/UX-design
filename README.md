@@ -1,11 +1,11 @@
-### During this course you will learn how to effectively address the needs and circumstances of **Web users**, to design and prototype interactive products that are comfortable and even joyful to use.
+### During this course you will learn how to *research* the circumstances and needs of different types of *users*, to *design* and *prototype* interactive products that are both *usable* and *useful*.
 
 In particular, you will get familiar with:
 
 * **User eXperience** (UX) design principles and patterns  
 * Qualitative and quantitative **user research** 
 * **Competitor analysis**
-* User **personas**, user **stories** and user **journeys**
+* User **personas**, user **stories** and user **journey maps**
 * **Interface design**: **paper-prototyping** and **wireframing**
 * **Rapid prototyping** tools
 * **User-testing**: face2face, A/B testing and analytics
@@ -40,7 +40,7 @@ In particular, you will get familiar with:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-Monday<br>09.01 | Intro to UX <br>Team project kickstart: [**NMMaps**](#nmmaps) <br>Field interviews at the National Maritime Museum in Greenwich (aka *NMM*) | Competitor analysis | Interviewing humans
+[Monday<br>09.01](sessions/01) | Intro to UX <br>Team project kickstart: [**NMMaps**](projects/nmmaps) <br>Customer discovery interviews at the National Maritime Museum in Greenwich (aka *NMM*) | Competitor analysis | Interviewing humans
 Monday<br>16.01 | Lightning talk: digital projects in galleries and museums <br>*Brainswarming* <br>Elevator pitch <br>Concept one-pager | Wireframes (aka *paper prototypes*) | Learning to wireframe 
 Monday<br>23.01 | Experience map <br>Digital prototypes v1 <br>User-testing <br>Tutorials | User-testing | TBA (*to be announced*)
 Monday<br>30.01 | **Formative presentations** @ NMM | Working with kids | TBA | Formative feedback action plan
@@ -91,14 +91,13 @@ By the end of this course, you will be able to:
 1. Understand the difference between *qualitative* and *quantitative* **user research** and be familiar with a few techniques to perform both types of research.
 * Research and analyse **competitor services** to gain inspiration and insight from them.
 * Identify and use **design patterns** effectively in your projects.
-* Produce user **personas**, user **stories** and user **journeys** to communicate and validate your design decisions.
+* Produce user **personas**, user **stories** and user **journey maps** to communicate and validate your design decisions.
 * Understand the importance of motivational **copy-writing** in interface design, and write interface copy that is appropriate for your audience and their task(s) at hand.
 * Use **paper-prototyping** and **wireframing** techniques to visualise your interface design ideas and explore alternative solutions.
 * Use **rapid prototyping** tools to quickly test solutions to specific UX problems.
 * Understand the differences between various **user-testing** methods and practice them at a basic level.
 * **Document** your design and development process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
 * **Communicate** your ideas both technically and in an engaging way.
-* Use the Git version-control system (through GitHub) to **collaborate** with your team and **back-up** your project files.
 
 
 # Rules of the road
