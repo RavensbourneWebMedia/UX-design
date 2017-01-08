@@ -6,43 +6,47 @@ The [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (N
 
 The interactive exhibit will be part of the [Endeavour Galleries - Tudor and Stuart Seafarers](https://www.hlf.org.uk/about-us/news-features/endeavour-galleries-national-lottery-success-ahoy), which will open in 2018.
 
-Through the interactive exhibit visitors will be able to explore the Museum’s unrivalled collection of charts and maps from the Tudor and Stuart periods, and become aware that maps and charts were made and used for a variety of purposes. 
+Through the interactive exhibit visitors will be able to: 
 
+* Explore the Museum’s unrivalled collection of charts and maps from the Tudor and Stuart periods
+* Become aware that maps and charts were made and used for a variety of purposes. 
+
+<!--
 Digital experiences can vary from presenting a **broad** collection of archived materials to a **focused** collection of particular objects, for the purpose of **learning** or **making**.
 
 For example:
 
 ![](assets/experience-content-graph.png)
+-->
 
 ### Deliverables
 
-In other words, what the clients wants you to deliver...
+In other words, what the client wants you to deliver:
 
-* A statement of the exhibit’s context in the gallery 
-* A description of the exhibit narrative 
-* What the visitor will see/experience on approaching it
-* The nature of the visitor’s interaction with the exhibit
+* A statement of the exhibit’s *context* in the gallery 
+* A description of the exhibit *narrative* 
+* What the visitor will see/experience on approaching it (*onboarding*)
+* The nature of the visitor’s *interaction* with the exhibit
 * A description of the interaction and the *reward* at the conclusion of the interaction
-* A description of how the exhibit re-sets itself on conclusion of the interaction 
-* Interactive prototypes for your idea 
-* User-testing sessions report
+* A description of how the exhibit re-sets itself on *conclusion* of the interaction 
+* Interactive *prototypes* of your idea 
+* *User-testing report*
 
-TO BE CONTINUED
-
-
-#### Timeline
+### Timeline
 
 When | What
 ---- | ----
-Monday 9th of January | Project kickstart and field interviews @ NMM
+Monday 9th of January | Project kickstart and customer discovery interviews @ NMM
 January | Come up with ideas, prototype and test them
 Monday 30th of January | Formative presentations @ NMM 
 February | Iterative prototyping and user-testing @ NMM, tutorials
 Monday 6th of March | Summative presentations @ NMM 
 
 
-#### Inspiring projects
+### Inspiring projects
 
+* [Maps and the 20th Century](http://www.bl.uk/events/maps-and-the-20th-century-drawing-the-line) at the British Library in London
+* [InformForm Maps](http://informform.com/maps/) (online collection)
 * *Espionage Timeline* and *Password Hacker* at the [Spy Museum](http://www.spymuseum.org) in Berlin
 * [Interactive Modern Art Timeline](http://www.framestore.com/work/tate-timeline-modern-art) by Framestore Labs for the Tate Modern in London
 * The [Google Art Project](https://www.google.com/culturalinstitute/u/0/project/art-project), an online platform showcasing artworks from lots of galleries and cultural institutions from around the world. Added bonus: you can use Google Street view to explore inside the buildings.
