@@ -19,12 +19,12 @@
 
 <!-- * [What can you learn?](../../README.md#learning-goals) -->
 
-A few observations from the previous ~episode~ unit:
+A few observations from the previous ~~episode~~ unit:
 	
 * Blog **regularly** as in week by week, not all in one lump. Capture your ideas whilst they're fresh!
 * Publish on a blogging platform like Medium (not on Google Docs).
 * When you reference an external resource (something you've seen, read or learned about somewhere else on the Web) always link to it.
-* Use a spell-checker, like [Grammarly](https://www.grammarly.com) 
+* Use a spell-checker, like [Grammarly](https://www.grammarly.com). 
 * Read your writing out loud. It'll help you spot mistakes and make your written thoughts flow. Use [Hemingway](http://beta.hemingwayapp.com/) to make your writing bolder and clearer.
 
 
