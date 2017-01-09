@@ -6,7 +6,7 @@ The [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (N
 
 The interactive exhibit will be part of the [Endeavour Galleries - Tudor and Stuart Seafarers](https://www.hlf.org.uk/about-us/news-features/endeavour-galleries-national-lottery-success-ahoy), which will open in 2018.
 
-[ ] TODO more content from the brief here
+- [ ] TODO more content from the brief here
 
 http://collections.rmg.org.uk/collections.html to familiarise yourself with the collection
 
@@ -28,7 +28,7 @@ You're welcome to come up with your own key message.
 
 ### Audience
 
-Pick one of the segments [TODO link] and make sure that your design choices are appropriate for the audience needs and skills.
+Pick one of the segments [TODO add link] and make sure that your design choices are appropriate for the audience needs and skills.
 
 ### Technology
 
@@ -38,7 +38,9 @@ Your proposal could add extra technology on top of that, as long as it fits with
 
 ### Constraints
 
+Time: the duration of the interactive experience shouldn't be more than 5 minutes
 
+- [ ] TODO Accessibility
 
 ### Deliverables
 
