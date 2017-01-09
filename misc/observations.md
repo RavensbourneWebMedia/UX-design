@@ -351,3 +351,6 @@ Itamar's presentation:
 # 2017
 
 ## Session 1
+
+* Rosie and Will's excellent idea: check [TripAdvisor reviews](https://www.tripadvisor.co.uk/Attraction_Review-g186338-d187600-Reviews-National_Maritime_Museum-London_England.html) to get a sense of what museum visitors are frustrated with. Can work as a starting point to plan interviews.
+* 
