@@ -6,25 +6,48 @@ The [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (N
 
 The interactive exhibit will be part of the [Endeavour Galleries - Tudor and Stuart Seafarers](https://www.hlf.org.uk/about-us/news-features/endeavour-galleries-national-lottery-success-ahoy), which will open in 2018.
 
-Through the interactive exhibit visitors will be able to: 
+[ ] TODO more content from the brief here
 
-* Explore the Museum’s unrivalled collection of charts and maps from the Tudor and Stuart periods
-* Become aware that maps and charts were made and used for a variety of purposes. 
+http://collections.rmg.org.uk/collections.html to familiarise yourself with the collection
 
-<!--
-Digital experiences can vary from presenting a **broad** collection of archived materials to a **focused** collection of particular objects, for the purpose of **learning** or **making**.
+### Key message
 
-For example:
+The interactive should have one key message, one thing that visitors will come away with.
 
-![](assets/experience-content-graph.png)
--->
+<!-- Through the interactive exhibit visitors will be able to: -->
+
+Example key messages could be:
+
+* Visitors will explore the Museum’s unrivalled collection of charts and maps from the Tudor and Stuart periods (but showing all the maps in the collection could be a terrible idea...)
+
+* Visitors will become aware that maps and charts were made and used for a variety of purposes
+
+You're welcome to come up with your own key message. 
+
+`In this space in X amount of time, this is what visitors should be doing`
+
+### Audience
+
+Pick one of the segments [TODO link] and make sure that your design choices are appropriate for the audience needs and skills.
+
+### Technology
+
+Your starting point is a 32" touch screen, with audio output and internet connection. 
+
+Your proposal could add extra technology on top of that, as long as it fits with the `key message`. 
+
+### Constraints
+
+
 
 ### Deliverables
 
 In other words, what the client wants you to deliver:
 
+* *Key message* of the interactive and your interpretation (if you've changed from the given goal, and how does this relate to the audience)
+* Primary *audience*: who is it for, and why should they care? How have you catered to their needs, interests and skills
 * A statement of the exhibit’s *context* in the gallery 
-* A description of the exhibit *narrative* 
+* A description of the exhibit *narrative*, what's your angle 
 * What the visitor will see/experience on approaching it (*onboarding*)
 * The nature of the visitor’s *interaction* with the exhibit
 * A description of the interaction and the *reward* at the conclusion of the interaction
