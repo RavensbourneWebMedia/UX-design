@@ -13,7 +13,7 @@
 
 #### TL;DR
 
-The [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (NMM) in Greenwich wants you to design the UX of an interactive exhibit about the Museum's vast **collection of maps and charts from the 16th and 17th centuries**. 
+The [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (NMM) in Greenwich wants you to design the UX of an interactive exhibit about the Museum's vast **collection of maps and charts from the 16th and 17th centuries** and deliver your proposal by the 6th of March 2017! 
 
 ![](assets/atlantic-chart.jpg "Chart of Atlantic World by Nicholas Comberford, 1650")
 
