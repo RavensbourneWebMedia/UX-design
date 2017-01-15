@@ -1,5 +1,18 @@
 # NMMaps
 
+#### Table of contents
+
+1. [Context](#context)
+* [Key message](#key-message)
+* [Audience](#audience)
+* [Technology](#technology) 
+* [Constraints](#constraints)
+* [Deliverables](#deliverables), aka hand-in checklist
+* [Timeline](#timeline) and deadlines
+* [Inspirations](#inspiring-projects)
+
+#### TL;DR
+
 The [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (NMM) in Greenwich wants you to design the UX of an interactive exhibit about the Museum's vast **collection of maps and charts from the 16th and 17th centuries**. 
 
 ![](assets/atlantic-chart.jpg "Chart of Atlantic World by Nicholas Comberford, 1650")
@@ -59,7 +72,15 @@ Depending on your key message, your exhibit could present a **broad** collection
 
 [![](assets/segments.png)](https://docs.google.com/presentation/d/1Soipi5y7EXkTpo5TzV1g0G6gs21_MGves83PrxwdB1M/edit?usp=sharing)
 
-### Dont's :disappointed: 
+#### Dos :+1:
+
+* Asking visitors to collect items / complete tasks
+* Use characters / stories to convey factual information
+* Make sure that you **explain the interface** to your visitors (don't force it on everyone, but make it available if someone is lost)
+* How can you let people experience the same piece without creating bottle-necks? **Non-linear narratives** and experience that don't rely on a single entry point can help manage the *traffic* in the gallery space.
+* **Randomisation** of content, so that visitors are not exposed to the same content.
+
+#### Dont's :-1: 
 
 * Avoid dry paragraphs
 * Do visitors understand that the piece can be interacted with, and is it clear how they can interact with it?  
@@ -68,19 +89,12 @@ Depending on your key message, your exhibit could present a **broad** collection
   
 	If visitors don't understand the interface (*does this look like a button?* and *how am I meant to tap this?* kind of questions) then they won't interact with the piece.
 
-### Dos :smile: 
-
-* Asking visitors to collect items / complete tasks
-* Use characters / stories to convey factual information
-* Make sure that you **explain the interface** to your visitors (don't force it on everyone, but make it available if someone is lost)
-* How can you let people experience the same piece without creating bottle-necks? **Non-linear narratives** and experience that don't rely on a single entry point can help manage the *traffic* in the gallery space.
-* **Randomisation** of content, so that visitors are not exposed to the same content.
 
 ### Technology
 
 Your starting point is a 32" touch screen (red rectangle in the image below) with audio output and internet connection. 
 
-Your proposal can add extra technology on top of that, as long as it fits with your `key message`. 
+Your proposal can add extra technology on top of that, as long as it fits with your [key message](#key-message). 
 
 ![](assets/touch-screen.jpg)
 
