@@ -65,11 +65,17 @@ First we need to define:
 
 Some examples by your fellow students from 2016:
 
-* > A learning game for Key Stage 1 children to practice their spelling and addition. It harnesses children's creativity and love of Minecraft to convert some of playtime into learning time. 
+> A learning game for Key Stage 1 children to practice their spelling and addition. It harnesses children's creativity and love of Minecraft to convert some of playtime into learning time. 
 
-* > CodeFriend is an app that teaches children between the ages of 7-11 the basics of HTML in a fun and interactive way.
+Harry, Jonny and Tom
 
-* > An adventure across the whole of London, in which you have to use skill and intelligence to discover fascinating facts about landmarks across this fantastic city. Play mini games and take quizzes against friends to see who will be the champion of London.
+> CodeFriend is an app that teaches children between the ages of 7-11 the basics of HTML in a fun and interactive way.
+
+Ade, Rana and Jack
+
+> An adventure across the whole of London, in which you have to use skill and intelligence to discover fascinating facts about landmarks across this fantastic city. Play mini games and take quizzes against friends to see who will be the champion of London.
+
+Ollie, Aidan, Ryder and Johan
 
 ### Your turn
 
@@ -91,8 +97,6 @@ It typically includes:
 
 Some examples by your fellow students from 2016:
 
-![](assets/one-pager-Tom-Harry-Johnny.pdf)
-
 ![](assets/one-pager-Ade-Kieran.jpg)
 
 ![](assets/one-pager-Ade-Rana-Jack.jpg)
@@ -101,9 +105,12 @@ Some examples by your fellow students from 2016:
 
 ![](assets/one-pager-Ollie-Aidan-Ryder-Johan.jpg)
 
-![](assets/one-pager-Ollie-Aidan-Ryder.pdf)
-
 ![](assets/one-pager-Rana-Luke-Sanj.jpg)
+
+<!--
+![](assets/one-pager-Ollie-Aidan-Ryder.pdf)
+![](assets/one-pager-Tom-Harry-Johnny.pdf)
+-->
 
 ### Your turn
 
