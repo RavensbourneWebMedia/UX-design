@@ -106,6 +106,10 @@ Your proposal can add extra technology on top of that, as long as it fits with y
 
 Learn more about the specifics of this interactive exhibit from the [NMM's official Exhibition Design Sheet (EDS)](https://docs.google.com/document/d/1ZV_rdbyZbnu4Ir0sPeR4DyWPsCuopbWpSqZvNZhoecU/edit?usp=sharing).
 
+Here's a [sample of maps and charts](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing) from the NMM collection. 
+
+[![](assets/upside-down.jpg)](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing)
+
 ### Deliverables
 
 In other words, what the client wants you to deliver:
