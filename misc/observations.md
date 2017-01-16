@@ -353,4 +353,23 @@ Itamar's presentation:
 ## Session 1
 
 * Rosie and Will's excellent idea: check [TripAdvisor reviews](https://www.tripadvisor.co.uk/Attraction_Review-g186338-d187600-Reviews-National_Maritime_Museum-London_England.html) to get a sense of what museum visitors are frustrated with. Can work as a starting point to plan interviews.
-* 
+
+## Session 2
+
+### Amy's pres 
+
+* Matteo should have introduced the day's overview
+* A progress indicator like `3/20` could help us give a sense of how far we've got
+* Showing videos of the interactives in the background (whilst you're talking) could be useful
+
+### Elevator pitch
+
+People seemed really reluctant to play the Alan Sugar of the situation
+
+
+
+
+
+
+
+
