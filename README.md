@@ -42,9 +42,9 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Monday<br>09.01](sessions/01) | Intro to UX <br>Team project kickstart: [**NMMaps**](projects/nmmaps) <br>Customer discovery interviews at the National Maritime Museum in Greenwich (aka *NMM*) | Competitor analysis | Interviewing humans
 [Monday<br>16.01](sessions/02) | Lightning talk: digital projects in museums <br>Ideation <br>Elevator pitch <br>Concept one-pager | Interviews round 2 <br>Wireframes (aka *paper prototypes*) | Learning to wireframe 
-Monday<br>23.01 | Experience map <br>Digital prototypes v1 <br>User-testing <br>Tutorials | User-testing | TBA (*to be announced*)
-Monday<br>30.01 | **Formative presentations** @ NMM | Working with kids | TBA | Formative feedback action plan
-Monday<br>06.02 | Digital prototypes v2 <br>Tutorials | AB testing | TBA
+[Monday<br>23.01](sessions/03) | Experience map <br>Digital prototypes v1 <br>Tutorials | Prototyping | Inspiring museum interactives
+Monday<br>30.01 | **Formative presentations** @ NMM | TBA | Formative feedback action plan
+Monday<br>06.02 | Digital prototypes v2 <br>User-testing <br>Tutorials | AB testing | TBA
 Enchantment Week | | | 
 Monday<br>20.02 | User-testing @ NMM <br>Intro to concept videos <br>Tutorials | Concept video | TBA
 Monday<br>27.02 | Micro-copywriting <br>Tutorials | TBA | TBA 
