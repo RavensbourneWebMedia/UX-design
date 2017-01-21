@@ -1,7 +1,6 @@
 <!-- 
 TODO
 - Amy's pres link
-- Review prototyping section
 -->
 
 # Week 3
