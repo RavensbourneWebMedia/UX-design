@@ -1,145 +1,142 @@
+<!-- 
+TODO
+- Amy's pres link
+- Review prototyping section
+-->
+
 # Week 3
 
-### Today, Thursday 21st January 2016
+### Today, Monday 23rd January 2017
 
-1. Special guest: [Itamar Ferrer](http://www.ifita.com/), service design consultant at [Engine](http://enginegroup.co.uk/team)
-* [Define](#define)!
-* [Elevator pitch](#elevator-pitch)
-* [Concept one-pager](#concept-one-pager)
-* [Wireframes](#wireframes)
+1. Lightning talk: the [UX design process](#the-process) from *concept* to *experience map* to *digital prototype* 
+* Workshop: [experience map](#experience-map)
+* Workshop: [prototyping](#prototyping)
+* Tutorials
 
 ### Your [homework](#homework) and [blog](#blog)!
 
 
-# Define
+# The process
 
-![](http://www.thecreativeindustries.co.uk/media/32564/DoubleDiamond_739x517.jpg)
+Amy will tell you about 3 projects she worked on while at Tate and Burberry. She will focus on the UX design process: 
 
-After [last week's interviews](../02) (part of the *Discovery* phase) we are entering the **Define** stage.
+- defining the *problem*, aka **research** 
+- fleshing out the *solution* through **experience maps**
+- **prototyping** physically and digitally 
+- **user-testing**
 
-Defining your idea is important to:
-
-* be able to quickly present your idea
-* communicate your idea is 30% of winning the work / getting someone on board
-* define your **design principles**
-* keep you on track when designing
-
-### What are the next steps?
-
-You would think it's time to wireframe. Not quite!
-
-First we need to define:
-
-1. **What** is your idea?
-* **Who** is it for?
-* **Why** is it needed or wanted?
-
-### Elevator pitch
-
-Develop your answers to the 3 questions above into an *[elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)*: a short and sharp communication that shouldn't take more than 30 seconds to tell!
-
-### Concept one-pager
-
-A one page document summarising the primary features, benefits and requirements of a feature. 
-
-It typically includes:
-
-* a catchy title
-* a strapline
-* answers your elevator pitch
-* a visualisation of the idea
-
-Purpose:
-
-1. To help you understand your idea better
-* To give you a communication tool to talk about your idea to *anyone*
-
-![](assets/one-pagers.jpg)
-
-# Case study
-
-Channel 4 recommendation system for the 4OD player.
-
-Design principle: *Watch one more thing*!
-
-1. Benchmarking other players (competitor analysis)
-* Expert interviews (eg: executives, technicians) to understand the *world of Channel4*.
-* Analysing user behaviours (when they watch, what they watch) to understand their *world*.
-* Recruit viewers to talk about the viewing habits
-* Initial testing: no wireframes, just ideas for features. Written feedback on a Google doc
-* Second round of testing: rough sketches
-* Defining the *Personalisation and recommendation engine* features, based on the key activities:
-
-	* Watch and do
-	* Collect and share
-	* Prompt
-	* Manage
-	* Discover
-	* Seek
-* Wireframes	
-* Build use cases, eg: how would this *search engine* work when *kids* are searching for a *place*? Visualise and explain
-* Roadmap / delivery
-* Specification of all features
+You can view her slides [here](TODO).
 
 
-# Testing and validating ideas
+# Workshop
 
-**Low-res** (paper wireframes) vs **high-res** (polished digital wireframes)
+### Experience map on post-its
 
-People like being asked for their opinions.
+Once you have a concept, and before you dive into the details of it, it's very useful to map out the **customer journey** (aka *experience map*).
 
-Low-res invites feedback more than high-res
+You can do that with **post-its first** (and optionally turn your map digital, if it needs many iterations). 
 
-### Wireframes
+1. **List** out each fundamental **step** in your experience.   
+  
+	A step could eventually become many screens, but in a customer journey map it can be condensed into one step.  
+  
+	Don't worry about interface for now. Focus on the **purpose** of each step.
+* **Connect** the steps in a map.
 
-Wireframes are conversation-starters. Use them to guide your users through your concept and its features.
-
-* Don't use colour.
-* Be consistent with visual elements.
-* Manage people's expectations (what stage of the dev you are at, what feedback you are expecting from them)
-* Paper gets more interaction that digital (people are less afraid to touch it, move it around, scribble notes on it)
-
-### Validation
-
-Print out your wireframes, give people stickers to vote for features. Then ask all the *why* questions.
+![](assets/experience-map.jpg)
 
 
-# Homework 
+# Prototyping 
 
-### Elevator pitch
+### Why prototyping?
 
-Write down your elevator pitch in **no more than 2 sentences**, answering the questions:
+In an **iterative** UX design process, prototyping allows you to **quickly mock up** the *future state* of a system and **test** it with users, team mates and clients. 
 
-1. **What** is your idea?
-* **Who** is it for?
-* **Why** is it needed or wanted? In other words, what is the *gap* your idea is filling, what *issue(s)* is it addressing?
+Doing this **rapidly and iteratively** generates feedback early and often in the process, improving the final design and reducing the need for costly changes during development.
 
-### User-testing prep
+![](assets/tree-swings.jpg)
 
-Prepare what you are going to share during the user-testing session at the primary school next week:
+* A prototype **answers questions**. The more specific the better.
 
-1. Finish the **one-pager** (for anyone) you started today.
-* Make a one-pager specifically **for kids** of your target age-group.
-* Sketch out **3-5 wireframes** of your key features. We recommend paper, as it makes user-testing friendlier.
-* Draft your testing material with a capture sheet (the questions you are going to ask kids).
- 
-### Blog
+* A prototype stands between your **assumptions** and your users **behaviours**.
 
-Watch *The secret life of 6 year olds* and **blog about it**.
+* A prototype should be **quick** (and cheap) to make, re-make and possibly discard.
 
-[![](assets/sl6yo-1.png)](http://www.channel4.com/programmes/the-secret-life-of-4-5-and-6-year-olds/on-demand/61827-005)
+* A prototype should be **close** to the real thing...
 
-[Episode 1](http://www.channel4.com/programmes/the-secret-life-of-4-5-and-6-year-olds/on-demand/61827-005)
+* ... but a prototype is **not the real thing**.
 
-[![](assets/sl6yo-2.png)](http://www.channel4.com/programmes/the-secret-life-of-4-5-and-6-year-olds/on-demand/61827-006)
+### Which prototyping tool should I use?
 
-[Episode 2](http://www.channel4.com/programmes/the-secret-life-of-4-5-and-6-year-olds/on-demand/61827-006)
+Start with paper, then go digital!
+
+Each prototyping tool has its own feature set and strengths. Based on your needs and the requirements of your project, evaluate which tool is more appropriate:
+
+1. How **easy** is it to learn and use the tool?
+* Are there collections of **reusable templates** or widgets available?
+* How easy is it to make changes on the fly or to **incorporate feedback**?
+* Does it have any **collaboration features**, such as allowing multiple people to work on it at the same time?
+* What are the licensing terms and **costs**?
+
+#### Tools to consider
+
+Name | Platform | Free?
+---- | -------- | -----
+[Moqups](https://moqups.com) | Web-based | Freemium
+[Invision](http://www.invisionapp.com/) | Web-based | Yes
+[Adobe Experience Design](http://www.adobe.com/uk/products/experience-design.html) | Mac and Win | In preview (they may charge you later)
+[Sketch](http://www.bohemiancoding.com/sketch/) | Mac only | Free trial, then $49 (education price)
+[Justinmind](http://www.justinmind.com) | Mac and Win | 30-days free trial, then $19/month 
+[Balsamiq](https://balsamiq.com/products/mockups) | Mac and Win | 30-days free trial, then $89 
+[Framer](http://framerjs.com) | Mac only | 30-days free trial, then $99 
+[Atomic](https://atomic.io) | Web-based | 30-days free trial
+[UXPin](https://www.uxpin.com) | Web-based | 7-days free trial
 
 
+# Tutorials
 
-<!--[Box of Broadcasts](http://bobnational.net) enables all staff and students to choose and record any broadcast programme from 60+ TV and radio channels! 
+Put your team name down on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit?usp=sharing).	
 
-You can use it with your Ravensbourne username and password.-->
- 
+	
+# Homework
 
+### Prep formative
 
+Next Monday (January the 30th) you will present your work-in-progress at the NMM. 
+
+Remember, this is a **formative presentation**, which gives you a chance to **get feedback** from the museum experts and **ask questions** to them. 
+
+Talk about your **research**: what you learned from interviewing museum visitors, and what you observed at NMM and/or other museums.
+
+Explain how your concept relates to the interests and needs of your **audience**.
+
+You can use your elevator pitch, concept one-pager, experience map and prototype(s) to describe and visualise your idea.
+
+**Make sure you have some questions to ask to the museum experts**. They're not there to judge you, but to help you make design decision about your idea. Think about how you can you take advantage of their experience and knowledge. What could you ask them? What could they help you with?
+
+### Keep prototyping
+
+**Prototype** two user flows:
+
+1. The **onboarding** process: how does your experience **attract visitors**? How does it engage them with its content? 
+	
+	Chris at the Maritime Museum observed that 
+	
+	> ...typically the most played video in an interactive piece at the museum is *the first video*, no matter what its content is. We tested this hypothesis by randomising the order in which videos are presented to visitors, and the results speak clearly: the most popular videos are the ones that require less tapping / scrolling to get to. Which means most visitors may watch one video, then move on. So how do we make that experience better? How do we get them to watch another?
+	
+* A **problematic scenario**. 
+
+	For instance, what happens when your user makes a mistake, can't find what s/he is looking for, or generally when **something goes wrong**?
+
+### Blog	
+
+Pick your favourite digital museum experience from [Amy's presentation last week](https://docs.google.com/presentation/d/1vTxxRo03hyqhA3zjIf48S2npBAu4DEDTbVITadu7r9Y/edit?usp=sharing) and blog about it.
+
+Focus on these aspects (in no particular order):
+
+* What do you think is the **goal** of the experience you chose?
+* What **design challenges** may the people involved in your chosen project have faced? How did they solve them?
+* **Why** did you pick this project? What intrigues you about it?
+* **Where** does this project fit in the *content - experience* graph (in your opinion) and why?
+
+	![](../../projects/nmmaps/assets/experience-content-graph.png)
