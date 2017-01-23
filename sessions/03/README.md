@@ -8,8 +8,9 @@ TODO
 ### Today, Monday 23rd January 2017
 
 1. Lightning talk: the [UX design process](#the-process) from *concept* to *experience map* to *digital prototype* 
+* Lightning talk: how to [make old maps interactive](#how to-make-old-maps-interactive) 
 * Workshop: [experience map](#experience-map)
-* Workshop: [prototyping](#prototyping)
+* Intro to [prototyping](#prototyping)
 * Tutorials
 
 ### Your [homework](#homework) and [blog](#blog)!
@@ -25,6 +26,15 @@ Amy will tell you about 3 projects she worked on while at Tate and Burberry. She
 - **user-testing**
 
 You can view/download her slides [here](assets/UX-design-prototyping-process.pdf).
+
+
+# How to make old maps interactive
+
+Megan Barford, cartography expert from NMM, will tell us about the museum's maps collection. We'll then discuss how you could present those objects and the rich information and stories they convey through an interactive exhibit.
+
+You can view her slides [here](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing). 
+
+[![](assets/upside-down.jpg)](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing)
 
 
 # Workshop
