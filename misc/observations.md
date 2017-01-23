@@ -1,3 +1,98 @@
+# 2017
+
+## Session 1
+
+* Rosie and Will's excellent idea: check [TripAdvisor reviews](https://www.tripadvisor.co.uk/Attraction_Review-g186338-d187600-Reviews-National_Maritime_Museum-London_England.html) to get a sense of what museum visitors are frustrated with. Can work as a starting point to plan interviews.
+
+## Session 2
+
+### Amy's pres 
+
+* Matteo should have introduced the day's overview
+* A progress indicator like `3/20` could help us give a sense of how far we've got
+* Showing videos of the interactives in the background (whilst you're talking) could be useful
+
+### Elevator pitch
+
+People seemed really reluctant to play the Alan Sugar of the situation. Uncomfortable with role play?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2016
+
+## Session 1
+
+Group discussion around UX definitions with post-its went really well.
+
+[![](https://pbs.twimg.com/media/CYHxskSWkAEjxzJ.jpg:large)](https://twitter.com/RaveWebMedia/status/685094380324130818)
+
+Peer learning: to stimulate higher quality research, and have all that shared, we could have tried using a collaborative Google Slides. 
+
+## Session 2
+
+Itamar's presentation:
+
+* Maybe start with case studies and then draw out the principles / guidelines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 2015
 
 ## General
@@ -330,46 +425,3 @@ Your presentations are only one part of your submission. Their goal is to help y
 * *Freemium* is not a sin: businesses have to be sustainable (who's paying bills and salaries otherwise?) [If you’re not paying for it, you are the product](http://www.forbes.com/sites/marketshare/2012/03/05/if-youre-not-paying-for-it-you-become-the-product/)  
   
 ![](assets/ux-chat.jpg)
-
-# 2016
-
-## Session 1
-
-Group discussion around UX definitions with post-its went really well.
-
-[![](https://pbs.twimg.com/media/CYHxskSWkAEjxzJ.jpg:large)](https://twitter.com/RaveWebMedia/status/685094380324130818)
-
-Peer learning: to stimulate higher quality research, and have all that shared, we could have tried using a collaborative Google Slides. 
-
-## Session 2
-
-Itamar's presentation:
-
-* Maybe start with case studies and then draw out the principles / guidelines
-
-
-# 2017
-
-## Session 1
-
-* Rosie and Will's excellent idea: check [TripAdvisor reviews](https://www.tripadvisor.co.uk/Attraction_Review-g186338-d187600-Reviews-National_Maritime_Museum-London_England.html) to get a sense of what museum visitors are frustrated with. Can work as a starting point to plan interviews.
-
-## Session 2
-
-### Amy's pres 
-
-* Matteo should have introduced the day's overview
-* A progress indicator like `3/20` could help us give a sense of how far we've got
-* Showing videos of the interactives in the background (whilst you're talking) could be useful
-
-### Elevator pitch
-
-People seemed really reluctant to play the Alan Sugar of the situation
-
-
-
-
-
-
-
-
