@@ -24,7 +24,7 @@ Amy will tell you about 3 projects she worked on while at Tate and Burberry. She
 - **prototyping** physically and digitally 
 - **user-testing**
 
-You can view her slides [here](https://github.com/RavensbourneWebMedia/UX-design/blob/2017/sessions/03/assets/UX_Design_%26_Prototyping_2017.pdf).
+You can view/download her slides [here](assets/UX-design-prototyping-process.pdf).
 
 
 # Workshop
