@@ -1,8 +1,3 @@
-<!-- 
-TODO
-- Amy's pres link
--->
-
 # Week 3
 
 ### Today, Monday 23rd January 2017
@@ -11,7 +6,6 @@ TODO
 * Lightning talk: how to [make old maps interactive](#how to-make-old-maps-interactive) 
 * Workshop: [experience map](#experience-map)
 * Intro to [prototyping](#prototyping)
-* Tutorials
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -104,11 +98,6 @@ Name | Platform | Free?
 [UXPin](https://www.uxpin.com) | Web-based | 7-days free trial
 
 
-# Tutorials
-
-Put your team name down on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit?usp=sharing).	
-
-	
 # Homework
 
 ### Prep formative
