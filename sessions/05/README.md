@@ -1,237 +1,142 @@
 # Week 5
 
-### Today, Thursday 4th February 2016
+### Today, Monday 6th February 2017
 
-1. [Formative presentations](#formative-presentations)
-* [User personas](#user-personas)
+1. Workshop: [where does it hurt?](#where-does-it-hurt)
+* Lightning talk and workshop on [user-testing](#user-testing)
+* [Tutorials](#tutorials): formative feedback evaluation & planning
 
 Your [homework](#homework) and [blog](#blog)!
 
 
-# Formative presentations
+# Where does it hurt?
 
-Here's the [collaborative feedback Google doc](https://docs.google.com/a/rave.ac.uk/document/d/1m6RAJLOg_OVvi8cEsnsTrLjYW0j0WufOxhd1aALnmt0/edit?usp=sharing).
+Imagine you're a person (or a *persona*) going through your experience map. 
 
-### WTF should we present?
+1. Define a **goal** for your person(a). What does s/he want to achieve through the experience? 
 
-Your progress on [*Kidesign*](../../projects/kidesign) so far:
-
-1. **What** is your idea?
-* **Who** is it for?
-* **Why** is it needed?
-* What are the **key features**?
-* Describe a **use case** ([don't know what that means?](../04#use-case))
-
-The points above are the bare minimum of what your presentation should include. You're very welcome to present them in a different order and include any other aspects (such as your *creative process*, what you discovered in your *user interviews* and *user testing*, etc.) which you consider relevant.
-
-### How long should our presentation be?
-
-Ideally **10 minutes** (max 15 minutes) with another 5 for Q&A.
-
-### Tips for the presenters
-
-1. Don't start with an **apology**.   
+	In other words, what is the *destination* s/he wants to reach in your experience map?
+* Simulate the **experience flow**: go through each step with your team and discuss what happens to your person(a).
+* For each step, identify potential **pain points**.  
   
-	Whatever you have is what you'll present. 
-* **Don't read** a script, or read from your presentation.   
-  
-	We can read ourselves.
-* Don't be **defensive**.   
-  
-	We're not attacking you. 
+	Add emoticons to each step, to visualise what's happening inside your person(a)'s head.
+
+	![](../04/assets/use-case-02.jpg)
+
+### The riskiest assumption
+
+Going through the *experience flow* and identifying its *pain points* will allow you to uncover the **riskiest assumptions** in your idea. 
+
+An assumption is a prediction for what you think will happen. Will users really behave as you predicted in your experience map?
+
+Your riskiest assumption is both **core** to your idea and **most unknown**, meaning you have little data to prove it's valid. It's important to always test your **riskiest assumption first**.
+
+Here are three examples:
+
+:x: `NMM visitors want to see all the maps in the collection through an interactive touchscreen`
+
+This is a solution-oriented assumption. Take a step back and ask, *why*?
+
+:x: Because `there isn't enough space in the galleries to showcase all maps`
+
+This is the business-perspective assumption. Not the customer's problem. Ask *why* again.
 	
-	Instead of putting up a defence wall, try to listen for the feedback that can make your ideas better. 
-* Be **confident**.   
+:heavy_check_mark: Because `visitors want to know where seafarers sailed and what navigation instruments they had available`  
   
-	You know your work inside out, so speak about it with confidence.   
-	
-	Stand up and get your hands out of your pockets.
-* Tell us a **story**, not a features list.  
-  
-	<!---->
-* Ask **specific questions**.   
-  
-	Not `What do you think?` or `Do you like it?`. 
-* **Smile**.   
-  
-	It makes people pay more attention, and it makes you sound more engaging. Simple :smile:
+This assumption is defined from the customer's perspective (and should be linked to something visitors told you during your interviews).
 
-Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90-Tips)!
+<!--
+When you're testing a customer-perspective assumption, your riskiest assumption is one that supports the belief that your customer *has that problem*. 
 
-### Tips for everyone else
-
-1. Be **kind**.   
-  
-	Your comments can be challenging, but make sure the creator of the work understands that your feedback is about their work, not about them.
-* Be **constructive**.   
-  
-	Include *suggestions*, which the creator of the work can simply take away and use.   
-  
-	Also consider how you frame suggestions. Saying `Why didn't you make XYZ so and so?` may make the creator of the work feel like you think they're dumb or haven't done their work. Instead, try with `What do you think about making XYZ so and so?`
-* Be **specific** and say **why**.   
-  
-	Rather than saying / writing `I don’t like XYZ` be specific about what you have an issue with, and why. Try saying / writing something like `I don’t think tXYZ reflects the user needs, because...`     
-* **Focus on needs, not opinions**.
-	
-	Instead of a personal statement like `I hate the red button!` consider a user-focused question such as `Would users dislike the red button? It could be confused with an error message.`, which is much more effective, and also testable.
-	
-
-# User personas
-
-### Once upon a time...
-
-<!--Personas started as a **marketing tool**, designed by Angus Jenkinson to categorise customers beyond the traditional **demographic segmentation**. 
-
-You can [read his paper here](http://www.centreforintegratedmarketing.com/gfx/documents/beyond_segmentation.pdf): from *classes* or *clans* to individuals that flock together based on **common characteristics**. 
+In a problem-solution case, the riskiest assumption is that it's *the right solution* to solve the problem. 
 -->
-<!--Remember [homophily](http://en.wikipedia.org/wiki/Homophily)?-->
 
-[Alan Cooper introduced *user personas*](http://www.cooper.com/journal/2008/05/the_origin_of_personas) as a methodology to solve the **elastic user problem**. 
+<!--
+#### What makes a good experiment?
 
-He claimed that using *the user* as a design tool is a mistake. As designers, we are tempted to stretch *the user* to fit almost perfectly to whatever you are designing.
+To prototype and test effectively, you need to **turn your assumptions into hypotheses** and then build an **experiment** to test the **riskiest** one.
 
-The **vagueness** of *the user* causes many design failures, because *the user* is too *elastic*. 
+A good experiment is:
 
-We therefore need something much more **specific**.
+1. cheap
+* quick
+* has the highest possible learning potential
 
-### What are user personas?
+You can create good experiments by building a *landing page* (remember [Buffer](#the-buffer-story)?) or by creating *prototypes* that simulate the aspects of your experience where the riskiest assumption lives.
 
-A *user persona* is a UX design tool that allows you to visualise **users with common behavioural patterns** in their purchasing decisions, use of technology or products, customer service preferences, lifestyle choices, etc. 
+Prototypes are likely the most appropriate tool for the kind of project we're working on this term ([DAX](../../projects/dax)).
+-->
 
-Personas are **fictional** characters, based on **real data** from user research.
+### Prototyping (to experiment)
 
-#### What dimensions are used to cluster users into a persona? 
+Prototype, either on paper or digitally (or both, if your experience requires physical supports) the part of your experience where the riskiest assumption lies.
 
-1. **Behaviours**, what users do
-* **Attitudes**, what users expect 
-* **Motivations**, what users want / need 
-* **Limitations**, what blocks them from doing what they want / need
+<!--
+We're familiar with paper prototyping (here's a [great video-example](https://www.youtube.com/watch?v=_g4GGtJ8NCY).
+-->
 
-Choosing relevant dimensions is the trickiest part of creating useful personas (more on this in the example below). 
+Over the next four weeks you'll iterate and test your prototypes with real visitors at NMM, several times!
 
-#### What dimensions should NOT be used to cluster users into a persona? 
+A few tips:
 
-1. Age
-* Gender
-* Education
-* Location and other typical *demographics* (quantifiable characteristics of a given population, such as nationality, religion and ethnicity)
+* Use **realistic content**.
 
-<!--Personas are **archetypes** built to identify potential users: what they **need**, **want** and **expect** from what we are designing.
+	As designers we're good at spotting *placeholder* text or images, however not everyone is familiar with them and sometimes people get hung up on details or ask `Why is that text in a foreign language?` (lorem ipsum).  
+	
+	Avoid *lorem ipsum* and stock photos like the plague! 
+	
+	You can find [real maps from the NMM collection here](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing).
 
-An *archetype* is a pattern of behaviours that help us s you better understand yourself and others.
+* How good is **good enough**?
 
-http://www.16personalities.com/personality-types
+	You want to strike a balance between the time it takes to build the prototype, and how close to the real thing you need it to be for your user-testing to be effective. 
+	
+	 When user-testing, it's crucial that you explain to people that this is **not a finished product** (even though it looks obvious to you) and that you are not testing colours, animations etc. 
 
-In UCD the personas are created based in a previous research, but in Lean UX methods for example, personas are created originally based on assumptions (*proto-personas*) in a brainstorming session with the team, and further checked against actual real data (See  Gothelf, Jeff. Lean UX. Applying Lean Principles to Improve User Experience. 2013).
+* Avoid **linear click-throughs**. 
 
-Personas must answers three basic questions: what are the user needs, wants and limitations.-->
+	Even if there's one single call to action per screen, your prototype should offer a couple of options to users.
 
-### What are user personas NOT?
+* Create **reusable** styles and symbols.
 
-A persona is NOT a demographic profile, a market segment or a report of survey data. 
+	There are ways to do it in every prototyping tool. 
+	
+	If you catch yourself building the same button twice, that's an alarm bell: you should turn it into a *symbol* (or *smart object*, or whatever your tool of choice calls them).
+	
+*	Use **real devices** when testing. 
 
-It is NOT taking what people tell you directly.
+	If you're designing a mobile app, get the prototype on your mobile. If you're designing a touchscreen experience, get the prototype on a tablet.
+	
 
-![](assets/what-homer-wants.jpg)
+# User-testing
 
-> Homer thinks that *everyman* wants this car.
+Johnny Isaacs from [Campus Society](http://www.campussociety.com/) will tell you the whys and hows of user-testing. Then we'll put that into practice.
 
-It's looking at their behaviours in order to understand the *whys* and build around them. Observation is key, because what people do and say can be entirely different things. 
+Slides and resources will be linked here after today.
 
-### Why do we need personas?
 
-To set a **common understanding** of the user(s) we're designing for. 
+# Tutorials 
 
-When you work on a product, instead of talking about a generic *elastic user* you can talk about *Chris* or *Danny*.
+Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit#heading=h.sri36ax4b1mo)!
 
-#### Personas as a design tool
+One month till the **summative presentations on the 6th of March**!
 
-As a **design tool** personas are used to answer key questions that will inform design decisions: 
+Let's plan the next 4 weeks:
 
-* What would *Ali* do in this situation?
-* What would she need now? 
-* Does *Taylor* understand this?
-
-You'll see how team discussions will be much more focused when you use personas, rather than a vague *elastic* user.
-
-In order to be a **useful** design tool personas should **challenge** your design decisions, not simply validate them.
-
-### Dos and Don'ts
-
-In order to answer the above questions usefully and help you make effective design decisions, here are some dos and don'ts to keep in mind when building personas.
-
-#### Real data <sup>DO
-
-`+` Do base your personas on **real data**: people that you know or have interviewed / surveyed.
-
-#### Fiction <sup>DON'T 
-
-`-` Don't make your personas entirely **fictional**. Your product is going to be used by real people, not fairytale characters that unquestioningly adopt it and happily use it ever after.
-
-#### Delusion <sup>DON'T
-
-`-` Don't make your personas perfectly match the *ideal user* of the product you're designing. I call these **delusional personas**. 
-
-Personas should challenge your design decisions, not simply mirror them.
-
-#### In your own image <sup>DON'T
-
-`-` Don't create user personas in your *own image*. It's easy (and tempting) to create personas who are in their early 20s, living in London and studying design or working in a creative agency in Shoreditch... but there's life beyond our **homophilic bubbles**.
-
-#### Simplistic <sup>DON'T
-
-`-` Don't **oversimplify** your personas: real people are complex, not shallow and generic.
-
-#### Extreme <sup>DO
-
-`+` Do rather go for the **extreme cases**, and the middle will take care of itself. For example: design for children that can't read well yet, or for children that are not familiar with the internet, etc.
-
-#### Needs and goals <sup>DO
- 
-`+` Do base your personas on **needs**, **goals**, and dimensions that have a direct impact on their interaction with the product you're designing.
-
-#### Demographics <sup>DON'T
- 
-`-` Don't worry about demographic detail: just enough to help us get to know this persona. For example *Ben, 46, father of a girl and a primary school teacher*
-
-#### Casuality <sup>DO
-
-`+` Do focus on **causality**: what are the reasons your personas behave in a certain way? What drives them in their choices?
-
-### How to build personas
-
-The example below is a design persona for a short-term loan company, created by [Ryan van der Merwe](http://www.elezea.com) 
-
-He writes:
-
-> The key to these types of personas are the **dimensions**, or in this particular case, the **loan drivers**. Note that for Monde, the monthly instalment is not important. What's important is that she gets the amount she needs to pay for her travel. For the persona that just wants a TV or some new shoes, this is different. For that persona the amount is less important — what's most important is whether or not they can afford the monthly instalment.
-
-> From [Elezea](http://www.elezea.com/2013/12/job-stories-and-personas-sitting-in-a-tree)
-
-![](assets/elezea-persona.jpg)
-
-### Your turn
-
-Create (at least) two user personas for your product, using the guidelines above.
-
-Base your personas on the people you have interviewed (eg: this persona is based on four people we interviewed, and they all stated X and Y).
-
-How you structure your personas (in terms of contents and visual presentation) is up to you. 
-
-If you desperately need a template, you could [use this as a starting point](http://www.ux-lady.com/diy-user-personas/) but don't just mindlessly copy it. Think of what **dimensions** will be useful in the design process.
-
-Please no gimmicky graphs, unless they're based on research data and tell us something useful about the cluster of people they describe.
+1. On post-its, write down everything that needs doing
+* Together we'll discuss priorities (what needs to be done first) and assign tasks to people.   
 
 
 # Homework
 
-### User personas
+### User-test your prototype
 
-Produce two (or more) user personas.
+Go to NMM and user-test your prototype with visitors. 
+
+**Do at least two sessions over the next two weeks, and test at least four people per session!**
+
+Take notes, write down your observations between one person and the next, record people (audio/video) if you can.
 
 ### Blog
 
-1. Review the **formative feedback** your received.
-* **Individually** jot down an *action plan*: list what you want to do in order to address that feedback (eg: `prototype alternative game mechanics`, `try spelling of obscure animals`, `brainstorm different names`, `wireframe two options for the user login page`)
-* **Compare** your action plan list with your team mates.
-* Blog about this process, reflecting on the feedback received and how you (both individually and as a team) are responding to it.
+Write your observations about user-testing at NMM. What did you learn **about your prototype** and what did you learn **about user-testing as a UX method**?
