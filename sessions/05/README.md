@@ -112,7 +112,7 @@ A few tips:
 
 Johnny Isaacs from [Campus Society](http://www.campussociety.com/) will tell you the whys and hows of user-testing. Then we'll put that into practice.
 
-Slides and resources will be linked here after today.
+[Slides](https://drive.google.com/open?id=0B8pExRtNgFyRTXdNT1ZjdG02ODA) and [resources](https://drive.google.com/open?id=0B8pExRtNgFyRbjh0LUp4TjE4TWc) from his session.
 
 
 # Tutorials 
