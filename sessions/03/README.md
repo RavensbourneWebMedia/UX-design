@@ -3,7 +3,7 @@
 ### Today, Monday 23rd January 2017
 
 1. Lightning talk: the [UX design process](#the-process) from *concept* to *experience map* to *digital prototype* 
-* Lightning talk: how to [make old maps interactive](#how to-make-old-maps-interactive) 
+* Lightning talk: how to [make old maps interactive](#how-to-make-old-maps-interactive) 
 * Workshop: [experience map](#experience-map)
 * Intro to [prototyping](#prototyping)
 
