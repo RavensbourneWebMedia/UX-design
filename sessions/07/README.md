@@ -1,6 +1,23 @@
 # Week 7
 
-### Today, Thursday 18th February 2016
+### Today, Monday 27th February 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1. [User personas](#user-personas) review
 * [Workshop](#workshop): user stories
@@ -253,13 +270,11 @@ Name | Platform | Free?
 Produce prototypes that address [your user stories](#your-stories).
 
 
-<!--
-### Invicta app template
-
-Get familiar with it
--->
-
 ### Blog
+
+[UX choreography](https://medium.freecodecamp.com/the-principles-of-ux-choreography-69c91c2cbc2a)
+
+<!--
 
 [**Make it like the PSD**](http://dangovan.com/make-it-like-the-psd)
 
@@ -269,3 +284,5 @@ Some questions that may guide your blog post (in no particular order):
 * If PSDs are so bad, why do so many people use them as *project deliverables*?
 * What alternatives does the author propose to the *Photoshop-driven design process*?
 * How do you feel about the *Photoshop-driven design process*? 
+
+-->
