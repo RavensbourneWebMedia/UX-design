@@ -3,7 +3,7 @@
 ### Today, Monday 23rd January 2017
 
 1. Lightning talk: the [UX design process](#the-process) from *concept* to *experience map* to *digital prototype* 
-* Lightning talk: how to [make old maps interactive](#how to-make-old-maps-interactive) 
+* Lightning talk: how to [make old maps interactive](#how-to-make-old-maps-interactive) 
 * Workshop: [experience map](#experience-map)
 * Intro to [prototyping](#prototyping)
 
@@ -26,7 +26,7 @@ You can view/download her slides [here](assets/UX-design-prototyping-process.pdf
 
 Megan Barford (cartography expert @ NMM) will tell us about the museum's maps collection. We'll then discuss how you could present those objects and the rich information and stories they convey through an interactive exhibit.
 
-Here are some [notes from her presentation](../projects/nnmaps/sixteenth-century-cartography.md) (please add your own comments by editing the linked `md` document).
+Here are some [notes from her presentation](../../projects/nmmaps/sixteenth-century-cartography.md) (please add your own comments by editing the linked `md` document).
 
 You can view her slides [here](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing). 
 
