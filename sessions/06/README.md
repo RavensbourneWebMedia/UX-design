@@ -23,11 +23,17 @@ Two weeks till the **summative presentations on the 6th of March**!
 Let's review the last two weeks and plan the next 14 days. 
 -->
 
-### User-testing your prototype
+# User-testing your prototype
 
-What have you learned so far about user-testing? Share some stories, discuss [tips](https://docs.google.com/document/d/1O0f50mVLfud9Y3fYCpPdtmcZ3scuJvaBq6nHGVjJrgs/edit#heading=h.mkklaycrp9q9).
+### What have you learned so far about user-testing? 
 
-Let's spend a few minutes to prepare a user-testing guide for this afternoon, write down:
+Share some stories, discuss [tips](https://docs.google.com/document/d/1O0f50mVLfud9Y3fYCpPdtmcZ3scuJvaBq6nHGVjJrgs/edit#heading=h.mkklaycrp9q9).
+
+### Prepare a user-testing guide
+
+Let's spend a few minutes to prepare a guide for a user-testing session at NMM this afternoon.
+
+Write down:
 
 * what assumptions do you want to test?
 * how can you test them?
