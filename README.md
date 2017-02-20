@@ -46,11 +46,13 @@ When | In class | Homework | Blog
 [Monday<br>30.01](sessions/04) | Tutorials <br>**Formative presentations** @ NMM | User personas | Formative feedback action plan
 [Monday<br>06.02](sessions/05) | Riskiest assumption <br>User-testing <br>Tutorials | User-testing @ NMM | User-testing: what did we learn?
 Enchantment Week | | | 
-[Monday<br>20.02](sessions/06) | Prototyping workshop <br>User-testing @ NMM | Concept video | Telling the story of your project / research
-Monday<br>27.02 | Micro-copywriting <br>Tutorials | TBA | TBA 
-Monday<br>06.03 | **Summative presentations** @ NMM | TBA | TBA
+[Monday<br>20.02](sessions/06) | Prototyping workshop | Concept video | Telling the story of your project / research
+Monday<br>27.02 | Tutorials <br>User-testing @ NMM | User-testing report | 
+Monday<br>06.03 | **Summative presentations** @ NMM | Hand-in |
 
 <!--
+
+Micro-copywriting 
 
 ### Term 3
 
