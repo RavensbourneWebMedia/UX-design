@@ -59,7 +59,9 @@ Throughout your presentation, get comfortable with **silence**. Everyone needs a
 
 Create a `WEB14204-Name-Surname.md` MarkDown document (where `Name` is your own name and `Surname` is your own surname, like `WEB14204-Matteo-Menapace.md`).
 
+<!--
 > You can edit MarkDown documents with the [Mou app](http://25.io/mou/) on OSX, the [MarkdownPad app](http://markdownpad.com/) on Windows, or online with [Dillinger](http://dillinger.io/) (all free).
+-->
 
 In that MarkDown document, include the following:
 
@@ -106,4 +108,4 @@ In that MarkDown document, include the following:
 
 ### Deadline
 
-**Deadline** is next Monday, 13th of February 2017 at **23:55**! Alright Cinderella? :high_heel:
+**Next** Monday, 13th of March 2017 at **23:55**! Alright Cinderella? :high_heel:
