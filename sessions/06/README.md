@@ -6,22 +6,8 @@
 * User-testing prep
 * User-testing @ NMM 
 
-<!--
-* [Tutorials](#tutorials): user-testing evaluation & planning
--->
-
 Your [homework](#homework) and [blog](#blog)!
 
-
-<!--
-# Tutorials 
-
-Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit#heading=h.ntityh5wyjvt)!
-
-Two weeks till the **summative presentations on the 6th of March**!
-
-Let's review the last two weeks and plan the next 14 days. 
--->
 
 # Prototyping workshop
 
