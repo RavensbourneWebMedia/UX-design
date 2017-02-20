@@ -2,12 +2,18 @@
 
 ### Today, Monday 20th February 2017
 
-1. [Tutorials](#tutorials): user-testing evaluation & planning
+1. Prototyping workshop 
 * User-testing prep
 * User-testing @ NMM 
 
+<!--
+* [Tutorials](#tutorials): user-testing evaluation & planning
+-->
+
 Your [homework](#homework) and [blog](#blog)!
 
+
+<!--
 # Tutorials 
 
 Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit#heading=h.ntityh5wyjvt)!
@@ -15,12 +21,20 @@ Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/
 Two weeks till the **summative presentations on the 6th of March**!
 
 Let's review the last two weeks and plan the next 14 days. 
+-->
 
+### User-testing your prototype
 
+What have you learned so far about user-testing? Share some stories, discuss [tips](https://docs.google.com/document/d/1O0f50mVLfud9Y3fYCpPdtmcZ3scuJvaBq6nHGVjJrgs/edit#heading=h.mkklaycrp9q9).
 
+Let's spend a few minutes to prepare a user-testing guide for this afternoon, write down:
 
+* what assumptions do you want to test?
+* how can you test them?
+* what tasks will you ask testers to perform?
+* what context questions will you ask them at the beginning?
 
-
+[Here is an example user-testing guide](https://docs.google.com/document/d/1BFktaf9BfkCLFq1ONkfNRJ4tIUZNB6BvOTxzZkVeAso/edit?usp=sharing) from Johnny at Campus Society.
 
 
 # Homework
