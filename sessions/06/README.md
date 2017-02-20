@@ -23,6 +23,10 @@ Two weeks till the **summative presentations on the 6th of March**!
 Let's review the last two weeks and plan the next 14 days. 
 -->
 
+# Prototyping workshop
+
+[Here's Amy's presentation](assets/prototyping.pdf)
+
 # User-testing your prototype
 
 ### What have you learned so far about user-testing? 
