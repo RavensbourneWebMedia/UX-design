@@ -48,7 +48,7 @@ When | In class | Homework | Blog
 Enchantment Week | | | 
 [Monday<br>20.02](sessions/06) | Prototyping workshop | Concept video | Telling the story of your project / research
 [Monday<br>27.02](sessions/07) | Tutorials <br>User-testing @ NMM | User-testing report | UX choreography
-Monday<br>06.03 | **Summative presentations** @ NMM | Hand-in |
+[Monday<br>06.03](sessions/08) | **Summative presentations** @ NMM | Hand-in on Moodle |
 
 <!--
 

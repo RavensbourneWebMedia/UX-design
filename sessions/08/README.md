@@ -1,57 +1,109 @@
 # Week 8
 
-### Today, Thursday 25th February 2016
+### Today, Monday 6th March 2017
 
-Full-day workshops at the primary school.
+1. *AM* Summative prep: make sure your `pres` is spot on
+* *PM* **Summative presentations @NMM**
+* [Hand-in your work on Moodle](#hand-in-checklist)
 
-Your [homework](#homework) and [blog](#blog)!
+
+# Summative prep
+
+### WTF should we present?
+
+Prepare a **pitch** presentation for your [NMMaps](../../projects/nmmaps) concept.
+
+As a pitch, you want to focus on the **solution** your product provides to a **problem** for your target **users** (less on the process).
+
+It's about how people use your product and how they need it to make their experience better.
+
+> Talk about them, not yourself.
+
+#### Structure
+
+The **structure** of your pitch is up to you. 
+
+A **story** is an effective and proven way to structure your pitch. 
+
+Humans have been telling stories for thousands of years, and our **brains** are wired to emotionally respond to stories more than to facts and figures. When someone tells you a story, the same areas of your brain and their brain get active. If they say "Danny kicked the ball..." your motor cortex, which coordinates your body movements, will fire up. That's how powerful stories are.
+
+You can frame your pitch as a story in a couple of ways:
+
+* Challenge > process > outcome (from a client point of view)
+
+* Problem > solution > result (from a user point of view)
+
+#### Slides
+
+Your slides should help your audience focus on your key points. If you put too much text in your slides, you'll end up confusing people.
+
+Tip: **one point per slide**.
+
+> Avoid showing what you are saying and saying what you are showing.	
+
+#### Delivery
+
+When you stand up to present your project, remember that *everyone wants you to win*.
+
+If you're a little nervous, take a few **deep breaths**. 
+
+Throughout your presentation, get comfortable with **silence**. Everyone needs a bit of it to digest what you're saying.
+
+> Silence is better than bullshit.
 
 
-# Homework
+# Let's rehearse: 10 minutes per team
 
-### Rapid prototyping
 
-[Last week](../07#your-turn-1) we asked you to **prototype two user flows**:
+# Hand-in checklist
 
-1. The **onboarding** process: how does your app *welcome new users* and help them find their feet? How does your app tell users what they can do, where to find things, and encourage them to use its features? 
+Create a `WEB14204-Name-Surname.md` MarkDown document (where `Name` is your own name and `Surname` is your own surname, like `WEB14204-Matteo-Menapace.md`).
 
-	You can find very detailed breakdowns of other app's onboarding at [UserOnboard](http://www.useronboard.com/).
-* A **problematic scenario** (aka an *edge case* or *unhappy path*) of your choice. 
+> You can edit MarkDown documents with the [Mou app](http://25.io/mou/) on OSX, the [MarkdownPad app](http://markdownpad.com/) on Windows, or online with [Dillinger](http://dillinger.io/) (all free).
 
-	For instance, what happens when your typical user makes a mistake, can't find what s/he is looking for, or generally when something goes wrong?
+In that MarkDown document, include the following:
 
-**Keep prototyping** using your tool of choice (we recommend [Invision](http://www.invisionapp.com)).
+#### NMMaps 
 
-Next Thursday (3rd of March) you'll user-test your prototypes at the primary school.
+1. [Competitor analysis](../01#competitor-analysis)
+* [Elevator pitch](../02#elevator-pitch) 
+* [Concept one-pager](../02#concept-one-pager)
+* [Experience map](../02#experience-map-on-post-its)
+* Formative presentation
+* [User personas](../04#user-personas)
+* Wireframes
+* Prototype(s)
+* [Concept video](../06#concept-video)
+* [User-testing report](../07#user-testing-report)
+* Summative presentation
 
-Remember [the dos and don'ts of user-testing](../04#dos-and-donts)?
+#### Blog posts
+
+1. [Interviewing humans](../01#blog)
+* [Learning to wireframe: 10 best practices](../02#blog)
+* [Inspiring museum interactives](../03#blog)
+* [Formative feedback action plan](../04#blog)
+* [User-testing: what did we learn?](../05#blog)
+* [Telling the story of your project / research](../06#blog)
+* [UX choreography](../07#blog)
 
 <!--
-### Invicta app template
-
-Get familiar with it
+* [2016 will be the year of conversational commerce](../09#blog)
+* [Design is a conversation](../11#blog)
+* [Your favourite digital archive experience](../12#blog)
+* [Are UI walkthroughs evil?](../13#blog)
+* [DAX formative action plan](../15#blog)
+* [Evaluate izi.TRAVEL](../16#blog)
+* [Talk Web Design](../17#blog)
+* [What did I learn?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
 -->
 
-### Blog
+### Moodle link
 
-#### For those who took part in the workshops at the primary school...
+> Make sure all the folders, pages, documents & presentations you linked in your `WEB14204-Name-Surname.md` are publicly accessible (not just private to you). I don't want to be asking *permissions to view this file* while you're off :)
 
-While working with kids and **teaching them about UX design**, what *strategies* and *techniques* have you tried / discovered, which made your life easier? 
+**Upload** and submit your `WEB14204-Name-Surname.md` through Moodle here [moodle.rave.ac.uk/mod/assign/view.php?id=96596](https://moodle.rave.ac.uk/mod/assign/view.php?id=96596)
 
-For example:
+### Deadline
 
-* Using whiteboards to make sentences easier for them to read out loud
-* Assigning specific roles to groups of kids (eg: the *research table*, the *design table*, the *logo table*...)
-* Making use kids don't feel intimidated by adults (1 kid with 2+ adults → intimidated; more kids than adults → empowered)
-
-Imagine that someone who has never worked with children before were to ask for your advice. 
-
-Write a blog post with your **top tips and tricks**, explaining how and why they work!
-
-#### For those who didn't... 
-
-Read and blog this article on UI *walkthroughs*: [Are UI walkthroughs evil?](http://tapity.com/are-ui-walkthroughs-evil) 
-
-* Are you planning to use a UI walkthrough in your product?
-* What's your experience with UI walkthroughs on other products?
-* What could be an innovative way to guide new users through your product? Think wild :)
+**Deadline** is next Monday, 13th of February 2017 at **23:55**! Alright Cinderella? :high_heel:
