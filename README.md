@@ -47,7 +47,7 @@ When | In class | Homework | Blog
 [Monday<br>06.02](sessions/05) | Riskiest assumption <br>User-testing <br>Tutorials | User-testing @ NMM | User-testing: what did we learn?
 Enchantment Week | | | 
 [Monday<br>20.02](sessions/06) | Prototyping workshop | Concept video | Telling the story of your project / research
-Monday<br>27.02 | Tutorials <br>User-testing @ NMM | User-testing report | 
+[Monday<br>27.02](sessions/07) | Tutorials <br>User-testing @ NMM | User-testing report | UX choreography
 Monday<br>06.03 | **Summative presentations** @ NMM | Hand-in |
 
 <!--
