@@ -3,10 +3,10 @@
 #### Table of contents
 
 1. [Context](#context)
-* [Brief](#your-brief)
-* [Deliverables](#deliverables), aka hand-in checklist
-* [Timeline](#timeline) and deadlines
-* [Inspirations](#inspiring-projects)
+2. [Brief](#your-brief)
+3. [Deliverables](#deliverables), aka hand-in checklist
+4. [Timeline](#timeline) and deadlines
+5. [Inspirations](#inspiring-projects)
 
 ## Context
 
@@ -17,12 +17,11 @@ As **Web designers and digital citizens**, how do we respond to these changes? C
 ### What are filter bubbles?
 
 > A squirrel dying in front of your home may be more relevant to your interests right now that people dying in Africa.
-
 > Mark Zuckerberg, Facebook’s founder and CEO (2011)
 
 [![](assets/junk-food-analogy.png)](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-53082)
 
-The idea of [filter bubbles was proposed by Eli Pariser (watch this video)](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-53082) to describe the effects of the *invisible algorithmic editing of the Web* by companies like Facebook and Google. As algorithms personalise content based on our preferences we are exposed only to what we *like*, and we don't get to see information that could challenge or broaden our worldview. Algorithms that we don’t see and don’t control are becoming the new gatekeepers, deciding which data, news and opinions will reach us and which won’t.
+The idea of [filter bubbles was proposed by Eli Pariser (watch this video)](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-53082) to describe the effects of the **invisible algorithmic editing of the Web** by companies like Facebook and Google. As algorithms personalise content based on our preferences we are exposed only to what we *like*, and we don't get to see information that could challenge or broaden our worldview. Algorithms that we don’t see and don’t control are becoming the new gatekeepers, deciding which data, news and opinions will reach us and which won’t.
 
 Eli Pariser argued that filter bubbles would ultimately prove to be bad for us and bad for democracy. So far his prophecy was spot on. Think fake news and *post-truth* politics, Brexit and Trump.
 
@@ -49,6 +48,7 @@ Your digital object prototype can be realistic, utopian or dystopian.
 * **Audience**: who is it for, and why should they care?  
 * Interactive **prototypes** of your digital object
 * **User-testing report**
+* Summative **pitch**
 
 
 ## Timeline
@@ -92,8 +92,6 @@ Friday 9th of June | Summative presentations
 
 * What is the intended or expected use of the data you're obtaining, and how might you use it differently?
 
-If you're interested in how filter bubbles impact our lives, and want to explore the related concept of *information obesity* I recommend this book: [The information diet](http://www.informationdiet.com) by Clay Johnson
-
 ### Data sets
 
 * [UK Government](http://data.gov.uk/data/search)
@@ -117,3 +115,5 @@ If you're interested in how filter bubbles impact our lives, and want to explore
 * [How to pop your filter bubble](https://medium.com/@paminthelab/how-to-pop-your-filter-bubble-4b8808ffdf0f)
 * [The data that turned the World upside down](https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win)
 * [All I know is what’s on the Internet](http://reallifemag.com/all-i-know-is-whats-on-the-internet/)
+
+If you're interested in how filter bubbles impact our lives, and want to explore the related concept of *information obesity* I recommend this book: [The information diet](http://www.informationdiet.com) by Clay Johnson.
