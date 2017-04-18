@@ -55,10 +55,10 @@ Enchantment Week | | |
 
 When | Where | In class | Homework | Blog 
 ---- | ----- | -------- | -------- | ----
-Friday<br>21.04 | Rave | Reflecting on last term, what are your learning goals for this term? <br>Workshop: data visualisation <br>Project kickstart: [**Filter bubbles**](projects/filter-bubbles) | Map your filter bubbles | Data selfies
-Friday<br>28.04 | [SCWA](http://scwa.org.uk/contact-us) | Research: filter bubbles, online privacy and media consumption habits <br>Interviews <br>Ideation | Generate 10 bad ideas | Designing surveys
-**Tuesday<br>02.05** | Rave | Paper-prototyping and testing your ideas | Design a Typeform survey and start collecting data | HDI Human-Data-Interaction  
-Friday<br>12.05 | Rave | Prototyping: from paper to digital <br>Tutorials | Prepare for face2face user-testing | How to user-test
+Friday<br>21.04 | Rave | Reflecting on last term, what are your learning goals for this term? <br><br>Workshop with special guest [Valentina D'Efilippo](http://www.valentinadefilippo.co.uk/): data visualisation <br><br>Project kickstart: [**Filter bubbles**](projects/filter-bubbles) | Map your filter bubbles | Data selfies
+Friday<br>28.04 | [SCWA](http://scwa.org.uk/contact-us) | Research: filter bubbles, online privacy and media consumption habits <br><br>Interviews <br><br>Ideation | Generate 10 bad ideas | Designing surveys
+**Tuesday<br>02.05** | Rave | Prototyping and testing your ideas | Design a Typeform survey and start collecting data <br><br>Prototyping: from paper to digital | HDI Human-Data-Interaction  
+Friday<br>12.05 | Rave | Special guest [Denise Xifara](https://twitter.com/dkxifara) ([Nupinion](http://beta.nupinion.com/) co-founder): tools and methods to scrape and visualise data | Prepare for face2face user-testing | Review Nupinion
 **Wednesday<br>17.05** | Rave | User-testing and iterative development | Draft a concept video | Designing concept videos
 Friday<br>26.05 | [SCWA](http://scwa.org.uk/contact-us) | Concept video, landing page and user-testing | Remote testing on social media | How to advertise on social media (without a budget) 
 Friday<br>02.06 | Rave | Tutorials | Prepare summative | What have you learned?  
