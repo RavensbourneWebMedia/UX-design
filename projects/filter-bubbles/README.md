@@ -115,5 +115,6 @@ Friday 9th of June | Summative presentations
 * [How to pop your filter bubble](https://medium.com/@paminthelab/how-to-pop-your-filter-bubble-4b8808ffdf0f)
 * [The data that turned the World upside down](https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win)
 * [All I know is what’s on the Internet](http://reallifemag.com/all-i-know-is-whats-on-the-internet/)
+* [Speculative data selfies](https://policyreview.info/articles/news/speculative-data-selfies/449)
 
 If you're interested in how filter bubbles impact our lives, and want to explore the related concept of *information obesity* I recommend this book: [The information diet](http://www.informationdiet.com) by Clay Johnson.
