@@ -55,7 +55,7 @@ Enchantment Week | | |
 
 When | Where | In class | Homework | Blog 
 ---- | ----- | -------- | -------- | ----
-Friday<br>21.04 | Rave | Reflecting on last term, what are your learning goals for this term? <br><br>Workshop with special guest [Valentina D'Efilippo](http://www.valentinadefilippo.co.uk/): data visualisation <br><br>Project kickstart: [**Filter bubbles**](projects/filter-bubbles) | Map your filter bubbles | Data selfies
+[Friday<br>21.04](sessions/09) | Rave | Reflecting on last term, what are your learning goals for this term? <br><br>Workshop with special guest [Valentina D'Efilippo](http://www.valentinadefilippo.co.uk/): data visualisation <br><br>Project kickstart: [**Filter bubbles**](projects/filter-bubbles) | Map your filter bubbles | Data selfies
 Friday<br>28.04 | [SCWA](http://scwa.org.uk/contact-us) | Research: filter bubbles, online privacy and media consumption habits <br><br>Interviews <br><br>Ideation | Generate 10 bad ideas | Designing surveys
 **Tuesday<br>02.05** | Rave | Prototyping and testing your ideas | Design a Typeform survey and start collecting data <br><br>Prototyping: from paper to digital | HDI Human-Data-Interaction  
 Friday<br>12.05 | Rave | Special guest [Denise Xifara](https://twitter.com/dkxifara) ([Nupinion](http://beta.nupinion.com/) co-founder): tools and methods to scrape and visualise data | Prepare for face2face user-testing | Review Nupinion
@@ -75,7 +75,7 @@ All the project material is [here](projects/nmmaps).
 
 ### Filter bubbles
 
-On this **individual project** you will design and prototype a *digital object* that helps people become aware of their filter bubbles and/or invites them to burst them.
+On this **individual project** you will design and prototype a *digital object* that helps people become aware of their filter bubbles and/or burst them.
 
 All the project material is [here](projects/filter-bubbles).
 

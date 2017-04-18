@@ -1,66 +1,84 @@
 # Week 9
 
-### Today, Thursday 3rd March 2016
+### Today, Friday 21st April 2017
 
-User-test your digital prototypes with school children (and potentially teachers).
+1. [Reflecting on last term](#once-upon-a-time), what are your learning goals for this term?
+2. [Workshop](#workshop): data visualisation
+3. [Project kickstart](#project-kickstart): filter bubbles
 
 Your [homework](#homework) and [blog](#blog)!
 
+# Once upon a time...
 
-# User-testing
+It feels like last term was ages ago. Let's grab some post-its and write down what went well and what we could improve on. 
 
-You have user-tested your **ideas** and **paper-wireframes** last month. 
+Some aspects to consider:
 
-Now it's time to user-test your **digital prototypes**. 
+* Collaborating with institutions like NMM
+* Working in teams
+* Work-load
+* UX design methods
+* Blogging
 
-<!--At this point you should be testing details, rather than the *bigger picture*.-->
+<!--
+### What went well
+### Even better if
+-->
 
-1. Put your prototype in front of your testers and see if they *get it* without clicking on anything. Is your idea clear enough at a first glance?
-* Give them a few tasks to do on your prototype and see how they perform them. This is usually the bulk of a user-testing session.
-* Finally, ask if they have any more questions, or suggestions.
+After we've collected and discussed all your inputs, we'll discuss your learning goals for this term.
 
-#### Do's and dont's
+## This term
 
-You are the user-testing **facilitator**.
+We'll be **collaborating** with [Stationers Crown Wood Academy](http://scwa.org.uk). 
 
-Your main job is to make your testers not feel stupid:
+The collaboration broad theme is *digital citizenship* and we'll be focusing on **[filter bubbles](../../projects/filter-bubbles)**. Your **individual brief** for this term will be to design and prototype a *digital object* that helps people become aware of their filter bubbles and/or burst them. 
 
-1. State clearly that you're testing the the *thing*, **not them**.
-* Reassure them it's not their fault if what they do has an unexpected result.
-* Encourage them to **think out loud**.
-* **No hints**, instead encourage them to think what they'd do if you weren't there. Ask them what they are thinking or looking for but avoid words like `try`.
-* Be kind and **patient**, don't sigh. 
-* **Don't take it personally** if they don't get what you think it's obvious, but try and understand why.
-* You should look out for **friction points**: those moments when the user stops concentrating on her tasks and starts thinking about the tool and how she is going to use it. Note questioning words, especially where testers question their own judgement, `why can't I find...`, `I expected to see...` etc. as this indicates that the workflow for the task may have broken down.
-* **No orders**, but rather give some choice to your testers (eg: *What would you click first?*)
-* Allow people to proceed in a task until you don't feel like it's producing any value or they becomes very frustrated.
+![](../../projects/filter-bubbles/assets/junk-food-analogy.png)
 
-> The best kind of user test is one where the subject is not influenced by too much direction, they are simply there to use what's in front of them to achieve a goal that you set out before the test began.
+Throughout the project you'll be interacting with minors (the SCWA students) so we need to do a very short training on dos and don'ts, led by Lucy Slater from the Outreach department. It's mostly common sense.
 
-> From [The do's and dont's of UX testing](http://blog.oboxthemes.com/the-dos-and-donts-of-user-experience-testing/)
+# Workshop
 
+Our special guest for today is [Valentina D'Efilippo](http://www.valentinadefilippo.co.uk/), information designer, educator and author of [The Infographic History of the World](http://www.valentinadefilippo.co.uk/projects/the-infographic-history-of-the-world/)
+
+[![](assets/infographic-history-of-the-world.jpg)](https://vimeo.com/66145156)
+
+Valentina will talk about her experience and introduce you to **data visualisation** through practical exercises:
+
+* data in your bag
+* map your personal data
+
+Throughout the day you'll have a chance to get to know the SCWA students.
+
+# Project kickstart
+
+Watch [this TED talk](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-53082) in which Eli Pariser introduces **filter bubbles** and explains the danger they pose.
+
+Start mapping your own filter bubbles.
+
+Then compare them with those of at least two of your classmates.
+
+See an example from a couple of past students.
+
+![](assets/filter-bubbles-venn-diagram.jpg) 
+
+<!--
+Individually, write about Filter Bubbles. Reflect on the concept and document your thought process. You can post pictures of scribbled notes, or jot down notes digitally. It doesn't need to be fleshed out and well written. The main goal here is to record your flow of ideas, not to make it beautiful!
+
+Ideally we'd get a variety of responses, from projects that raise awareness about certain aspects of digital citizenship, to others that get people active in protecting their data or changing their data consumption habits.
+-->
 
 # Homework
 
-### User-testing report!
-
-An important and often overlooked part of user-testing is **collecting evidence** of your sessions, writing your **observations** and condensing them into a list of **actionable recommendations**.
-
-<!-- Aggregating responses should take the form of simple tallies related to either task performance (success/failure) or sentiment (like/indifferent/dislike). -->
-
-1. Open [this template GDoc](https://docs.google.com/document/d/1XIrJQe4acdR1fNuu53qgHxd80F5V_cvm2Uh62OQ3i1M/edit?usp=sharing). 
-* `File` > `Make a copy...`
-* Change the sharing settings for your copy so that `Anyone with the link can comment`.
-
-	![](assets/gdoc-sharing.jpg)
-* Share the link on Slack in the `#ux-design` channel. 
-* Use this template as a guideline (not all sections in the template may apply to your project) to **write a report of your digital prototype user-testing**.
-
-Bear in mind you'll be marked on this report (among other project materials, such as wireframes, presentations, prototypes etc). 
-
-You will be able to change your report after next week and until the final hand-in in June, however the sooner you write it the better, as your user-testing sessions will be fresher in your memory :)
+* Continue mapping your filter bubbles
+* Survey for NMM
+* Install data-selfie
 
 ### Blog
 
-Read the article [2016 will be the year of conversational commerce](https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991) and blog about it.
+Read and blog about [data selfies](https://policyreview.info/articles/news/speculative-data-selfies/449)
 
+Some points for your reflection:
+
+* What is your online identity, your digital footprint?
+* How is your identity online different from your IRL one?
