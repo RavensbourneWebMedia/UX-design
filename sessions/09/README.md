@@ -10,13 +10,15 @@ Your [homework](#homework) and [blog](#blog)!
 
 # Once upon a time...
 
-It feels like last term was ages ago. Let's grab some post-its and write down what went well and what we could improve on. 
+It feels like last term was ages ago. 
 
-Some aspects to consider:
+Let's take 5 minutes to answer [3 quick questions about our collaboration with NMM](https://ravewebmedia.typeform.com/to/FvNgru).
+
+Then grab some post-its and write down **what went well** and **what we could improve on**. Some aspects to consider:
 
 * Collaborating with institutions like NMM
 * Working in teams
-* Work-load
+* Workload
 * UX design methods
 * Blogging
 
@@ -43,10 +45,10 @@ Our special guest for today is [Valentina D'Efilippo](http://www.valentinadefili
 
 [![](assets/infographic-history-of-the-world.jpg)](https://vimeo.com/66145156)
 
-Valentina will talk about her experience and introduce you to **data visualisation** through practical exercises:
+Valentina will talk about her experience and introduce you to **data visualisation** through practical exercises.
 
-* data in your bag
-* map your personal data
+* *Data in your bag* 1h 
+* *Map your personal data* 1h
 
 Throughout the day you'll have a chance to get to know the SCWA students.
 
@@ -54,7 +56,7 @@ Throughout the day you'll have a chance to get to know the SCWA students.
 
 Watch [this TED talk](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-53082) in which Eli Pariser introduces **filter bubbles** and explains the danger they pose.
 
-Start mapping your own filter bubbles.
+**Start mapping your own filter bubbles**!
 
 Then compare them with those of at least two of your classmates.
 
@@ -70,9 +72,9 @@ Ideally we'd get a variety of responses, from projects that raise awareness abou
 
 # Homework
 
-* Continue mapping your filter bubbles
-* Survey for NMM
-* Install data-selfie
+1. Continue [mapping your filter bubbles](#project-kickstart).
+2. If you haven't already, take 5 minutes to answer [3 quick questions about our collaboration with NMM](https://ravewebmedia.typeform.com/to/FvNgru).
+* Install [Data Selfie](http://dataselfie.it), an open-source Chrome browser extension that collects and analyses data about your behaviour on FB. Make sure you use FB on Chrome so that you can start harvesting data!
 
 ### Blog
 
@@ -80,5 +82,7 @@ Read and blog about [data selfies](https://policyreview.info/articles/news/specu
 
 Some points for your reflection:
 
-* What is your online identity, your digital footprint?
-* How is your identity online different from your IRL one?
+* How do you feel about the *persona* Data Selfie creates out of your FB activity? Do you identify with it? Is it accurate?
+* What does Data Selfie *not* tell about yourself?
+* How is your online identity *different* from your IRL (in-real-life) one?
+* What is your *digital footprint*?
