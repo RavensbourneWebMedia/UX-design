@@ -32,12 +32,17 @@ So what should we do about filter bubbles?
 
 Design and prototype a *digital object* (an app, a website, a game, a browser plugin, a bot... or anything in between) that helps people achieve any combination of the below:
 
-* Become aware of filter bubbles
-* Reflect on the impact of filter bubbles on their personal experiences
-* Change their media consumption habits to burst some of those bubbles
-* Anything else you can argue is relevant to the topic
+* Become aware of *personalisation algorithms*
+* Become aware of the *filter bubbles* those algorithms generate 
+* Understand how filter bubbles lead to *unconscious bias* (the information you consume is biased, but you are not fully aware of that), which in turn can result in the rise of *fake news*
+* Reflect on the *impact* of filter bubbles on their personal experiences
+* Change their *media consumption habits* 
+* *Burst* some of their filter bubbles
+* Evaluate digital media for validity and accuracy
+* Teach others to do the same
+* Anything else you can argue is relevant to this project's theme
 
-Your digital object prototype can be realistic, utopian or dystopian.
+Your digital object prototype can be *realistic*, *utopian* or *dystopian*.
 
 
 ## Deliverables
