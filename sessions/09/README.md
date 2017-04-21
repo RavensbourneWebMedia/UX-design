@@ -22,12 +22,33 @@ Then grab some post-its and write down **what went well** and **what we could im
 * UX design methods
 * Blogging
 
-<!--
 ### What went well
-### Even better if
--->
 
-After we've collected and discussed all your inputs, we'll discuss your learning goals for this term.
+* Working on a live brief
+* Designing for a specific context
+* *Broad* brief
+* Jonny from Campus Society workshop on user-testing
+* NMM staff (and particularly Chris) offered loads of insightful and frequent feedback
+* Creating an interactive prototype
+* Having access to real users
+* Team work: more ideas, distribution of work, teams chosen by students
+* Weekly tutorials
+
+### Even better if...
+
+* Design the UX for an app or website
+* Attendance and communication: you have a responsibility to let teammates and tutors know if you're not attending
+* Blogging regularly, recording your thoughts and creative process (however messy that may be) 
+* Have a clearer idea of what our task was (from NMM)
+* Practicing interviews
+* More time for the project (felt rushed)
+* More opportunities to discuss individual projects with NMM staff
+* Start the user-testing report earlier
+* More attention to time management
+* Rotating project manager within the team
+* Pick a target audience before you generate an idea
+* Hard to find the right target audience to interview & test (needs more planning and more attempts)
+* More wireframing and prototyping
 
 ## This term
 
