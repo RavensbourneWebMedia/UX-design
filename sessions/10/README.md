@@ -12,4 +12,6 @@ We'll go to SCWA and work with the students you met last week.
 
 All the material for today is in [this presentation](https://docs.google.com/presentation/d/1aeS1devIv-9eVnUuvArntvLG1uvt9YcqsV6q35Pfz0w/edit?usp=sharing).
 
-No homework for this time, because it's Bank Holiday weekend and the next session is right after on Tuesday (2nd of May) :)
+[![](assets/what-to-do.png)](https://docs.google.com/presentation/d/1aeS1devIv-9eVnUuvArntvLG1uvt9YcqsV6q35Pfz0w/edit?usp=sharing)
+
+**No homework** for this time, because it's Bank Holiday weekend and the next session is right after on Tuesday the 2nd of May :)
