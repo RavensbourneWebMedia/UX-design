@@ -16,7 +16,7 @@ As **Web designers and digital citizens**, how do we respond to these changes? C
 
 ### What are filter bubbles?
 
-> A squirrel dying in front of your home may be more relevant to your interests right now that people dying in Africa.
+> A squirrel dying in front of your home may be more relevant to your interests right now than people dying in Africa.
 > Mark Zuckerberg, Facebook’s founder and CEO (2011)
 
 [![](assets/junk-food-analogy.png)](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en#t-53082)
