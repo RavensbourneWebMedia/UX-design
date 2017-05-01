@@ -6,7 +6,8 @@
 2. [Brief](#your-brief)
 3. [Deliverables](#deliverables), aka hand-in checklist
 4. [Timeline](#timeline) and deadlines
-5. [Inspirations](#inspiring-projects)
+5. [Inspirations](#inspiring-projects) and tools
+6. [Reading / watching list](#reading-watching-list)
 
 ## Context
 
@@ -30,7 +31,7 @@ So what should we do about filter bubbles?
 
 ## Your brief
 
-Design and prototype a *digital object* (an app, a website, a game, a browser plugin, a bot... or anything in between) that helps people achieve any combination of the below:
+Design and prototype a *digital object* (an app, a website, a game, a browser plugin, a bot...) that helps people achieve any combination of the below:
 
 * Become aware of *personalisation algorithms*
 * Become aware of the *filter bubbles* those algorithms generate 
@@ -73,18 +74,22 @@ Friday 9th of June | Summative presentations
 
 * [Googling Freedom](https://www.flickr.com/photos/stml/sets/72157649456886632/) is a practical demonstration of a filter bubble
 
-* [Selfie City](http://selfiecity.net/) investigates social media self-portraits in five cities across the world
-
 * [FriendFlop](http://fffff.at/friendflop) is a browser extension for Chrome that scrambles the identities on your Twitter or Facebook timelines, dissolving your biases and "reminding you that everyone is saying the same shit anyway"
 
 * [LoveMachine](http://p.xuv.be/tag/lovemachine) is a little app that clicks all the likes available in your timeline, automatically
 
-* [I know where your cat lives](http://iknowwhereyourcatlives.com) is a data experiment that visualises a sample of 1 million public pics of **cats** on a world **map**. This project explores two uses of the internet: the sociable and humorous appreciation of domesticated felines, and the status quo of personal data usage by startups and international megacorps who are riding the wave of decreased privacy for all.
-
 * [What would I say](http://what-would-i-say.com/about.html) automatically generates Facebook posts that sound like you!
+
+<!--
+
+* [Selfie City](http://selfiecity.net/) investigates social media self-portraits in five cities across the world
 
 * [TinderIn](http://driesdepoorter.be/tinderin/) puts profile pictures from LinkedIn & Tinder of the same person, side by side.
 
+* [I know where your cat lives](http://iknowwhereyourcatlives.com) is a data experiment that visualises a sample of 1 million public pics of **cats** on a world **map**. This project explores two uses of the internet: the sociable and humorous appreciation of domesticated felines, and the status quo of personal data usage by startups and international megacorps who are riding the wave of decreased privacy for all.
+-->
+
+<!--
 ### Food for thought
 
 * How might you present data to influence the perspectives, actions and decisions of others?
@@ -102,6 +107,7 @@ Friday 9th of June | Summative presentations
 * [UK Government](http://data.gov.uk/data/search)
 * [UniStats](https://unistats.direct.gov.uk/open-access-data)
 * More to come
+-->
 
 ### Tools
 
@@ -115,11 +121,12 @@ Friday 9th of June | Summative presentations
 
 ### Reading / watching list
 
-* [How algorithms shape our world](http://ed.ted.com/lessons/kevin-slavin-how-algorithms-shape-our-world)
+* [How algorithms shape our world](http://ed.ted.com/lessons/kevin-slavin-how-algorithms-shape-our-world) by Kevin Slavin
 * [Did Facebook’s big new study kill my filter bubble thesis?](https://backchannel.com/facebook-published-a-big-new-study-on-the-filter-bubble-here-s-what-it-says-ef31a292da95) by Eli Pariser
-* [How to pop your filter bubble](https://medium.com/@paminthelab/how-to-pop-your-filter-bubble-4b8808ffdf0f)
-* [The data that turned the World upside down](https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win)
-* [All I know is what’s on the Internet](http://reallifemag.com/all-i-know-is-whats-on-the-internet/)
-* [Speculative data selfies](https://policyreview.info/articles/news/speculative-data-selfies/449)
+* The [Fluff Principle](http://www.paulgraham.com/hackernews.html) by Paul Graham Basically, in which he argues that "stream"-like UIs (Reddit/Twitter/Facebook) favour stuff that's easier to make quick judgments about (like memes and clickbait) over stuff that takes longer to judge (in-depth articles, long talks, etc). The result: ~shallow crap~ fluff everywhere.
+* [How to pop your filter bubble](https://medium.com/@paminthelab/how-to-pop-your-filter-bubble-4b8808ffdf0f) by Pamela Pavliscak
+* [The data that turned the World upside down](https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win) by Hannes Grassegger & Mikael Krogerus
+* [All I know is what’s on the Internet](http://reallifemag.com/all-i-know-is-whats-on-the-internet/) by Rolin Moe
+* [Speculative data selfies](https://policyreview.info/articles/news/speculative-data-selfies/449) by by Fernando van der Vlist and Anne Helmond
 
-If you're interested in how filter bubbles impact our lives, and want to explore the related concept of *information obesity* I recommend this book: [The information diet](http://www.informationdiet.com) by Clay Johnson.
+If you want to explore the related concept of *information obesity* I recommend this book: [The information diet](http://www.informationdiet.com) by Clay Johnson.
