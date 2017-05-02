@@ -115,7 +115,7 @@ Friday 9th of June | Summative presentations
 
 	The tool explores our relationship to the online data we leave behind as a result of media consumption and social networks - the information you share consciously and unconsciously.
 
-* [RAWgraphs](http://rawgraphs.io) allows you to convert spreadsheet data into a [D3.js](http://d3js.org/)-based visualisation 
+* [RAWgraphs](http://rawgraphs.io) allows you to convert spreadsheet data into a [D3.js](http://d3js.org/)-based visualisation. If you want to find out which viz is more appropriate for your idea, check out the [Dataviz Catalogue](http://www.datavizcatalogue.com).
 
 * [Import.io](https://import.io/) is a service that lets you turn website data into API data
 
