@@ -6,12 +6,14 @@ Our special guest [Denise Xifara](https://twitter.com/dkxifara) ([Nupinion](http
 
 The plan with approximate timings:
 
-* 10:00 - 10:30 Denise's lightning talk
+* 10:00 - 10:30 [Denise's lightning talk](https://docs.google.com/presentation/d/1foMU-YTwQEaiDCdo6wTrYFLVdLurfYxsRc2fsCq0IfU/edit?usp=sharing)
 * 10:30 - 11:30 Workshop: tinkering with APIs (news and [sentiment analysis](https://dandelion.eu/))
 * 11:30 - 12:30 Workshop: *scraping* news data from web-pages (HTML and a pinch of [Python](https://www.sourcelair.com/)) 
 * 12:30 - 13:30 lunch `<br>`
 * 13:30 - 15:00 Workshop: visualising scraped data with [RawGraphs](http://rawgraphs.io/)
 * 15:00 - 16:00 Tutorials with Denise (and Matteo)
+
+Some [notes from Denise's talk and workshop](Denise-notes.md).
 
 Your [homework](#homework) and [blog](#blog)!
 
