@@ -60,7 +60,7 @@ When | Where | In class | Homework | Blog
 [**Tuesday<br>02.05**](sessions/11) | Rave | Prototyping and testing your ideas | Design a Typeform survey and start collecting data <br><br>Prototyping: from paper to digital | How to create effective surveys <br><br>Analysing my filter bubbles  
 [Friday<br>12.05](sessions/12) | Rave | Special guest [Denise Xifara](https://twitter.com/dkxifara) ([Nupinion](http://beta.nupinion.com/) co-founder): tools and methods to scrape and visualise data | Prepare for face2face user-testing | Review Nupinion
 [**Wednesday<br>17.05**](sessions/13) | Rave | User-testing and iterative development | Draft a concept video | Designing concept videos
-Friday<br>26.05 | [SCWA](http://scwa.org.uk/contact-us) | Concept video, landing page and user-testing | Remote testing on social media | How to advertise on social media (without a budget) 
+[Friday<br>26.05](sessions/14) | [SCWA](http://scwa.org.uk/contact-us) | Concept video, landing page and user-testing | 5-second-test your landing page(s) | Testing landing pages
 Friday<br>02.06 | Rave | Tutorials | Prepare summative | What have you learned?  
 Friday<br>09.06 | Rave | **Summative presentations** | Hand-in on Moodle | 
 
