@@ -61,8 +61,8 @@ When | Where | In class | Homework | Blog
 [Friday<br>12.05](sessions/12) | Rave | Special guest [Denise Xifara](https://twitter.com/dkxifara) ([Nupinion](http://beta.nupinion.com/) co-founder): tools and methods to scrape and visualise data | Prepare for face2face user-testing | Review Nupinion
 [**Wednesday<br>17.05**](sessions/13) | Rave | User-testing and iterative development | Draft a concept video | Designing concept videos
 [Friday<br>26.05](sessions/14) | [SCWA](http://scwa.org.uk/contact-us) | Concept video, landing page and user-testing | 5-second-test your landing page(s) | Testing landing pages
-Friday<br>02.06 | Rave | Tutorials | Prepare summative | What have you learned?  
-Friday<br>09.06 | Rave | **Summative presentations** | Hand-in on Moodle | 
+[Friday<br>02.06](sessions/15) | Rave | Tutorials | Prepare summative | What did you learn?  
+[Friday<br>09.06](sessions/16) | Rave | **Summative presentations** | Hand-in on Moodle | 
 
 
 # Projects
