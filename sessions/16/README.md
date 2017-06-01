@@ -80,7 +80,7 @@ In that MarkDown document, include the following:
 
 > Make sure all the folders, pages, documents & presentations you linked in your `WEB14204-Name-Surname.md` are publicly accessible (not just private to you). I don't want to be asking *permissions to view this file* while you're off :)
 
-**Upload** and submit your `WEB14204-Name-Surname.md` through Moodle here [moodle.rave.ac.uk/mod/assign/view.php?id=96596](https://moodle.rave.ac.uk/mod/assign/view.php?id=96596)
+**Upload** and submit your `WEB14204-Name-Surname.md` through Moodle here [moodle.rave.ac.uk/mod/assign/view.php?id=102427](https://moodle.rave.ac.uk/mod/assign/view.php?id=102427)
 
 ### Deadline
 
