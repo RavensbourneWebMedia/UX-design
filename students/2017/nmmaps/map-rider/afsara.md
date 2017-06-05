@@ -8,7 +8,8 @@
 
 **Unit Code:** WEB14204
 
-##NMMaps
+
+## NMMaps
 
 
 ![](https://s11.postimg.org/3wjhclosj/1_intro_screen.jpg)
@@ -30,7 +31,7 @@ Throughout the weeks we had different tasks which included researching, intervie
 10. [User-testing report](https://docs.google.com/a/students.rave.ac.uk/document/d/1aR2LctckTnuVDYbJK-hy-16PxhwzWAO1JiIkGE0hQ7w/edit?usp=sharing)
 11. [Summative presentation](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1efUTWvZYxMSzecAY2Ze5VYNy2OdYuKtHATMlpkA3KAs/edit?usp=sharing)
 
-##Final Design
+### Final Design
 
 Although I included the final prototype in the prototype link above here is a direct link to view our final design our team produced.
 
@@ -39,7 +40,7 @@ Although I included the final prototype in the prototype link above here is a di
 ![](https://s7.postimg.org/ui3na9syz/17_level_2_timer_dv.jpg)
 
 
-#Blog Posts
+# Blog Posts
 
 
 Here are blogs which I completed weekly throughout the project:
