@@ -4,6 +4,8 @@
 
 # Summative presentations
 
+[![](assets/presenting.png)](https://docs.google.com/presentation/d/1Hi0DDdeuxqmb4aUyoIoBX3OZvKlvGhAjNqDzCsWo--k/edit?usp=sharing)
+
 ### WTF should I present?
 
 Prepare a **pitch** presentation for your [Filter Bubbles](../../projects/filter-bubbles) concept.
