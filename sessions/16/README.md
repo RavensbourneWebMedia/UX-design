@@ -86,4 +86,4 @@ In that MarkDown document, include the following:
 
 ### Deadline
 
-**Next** Friday, 9th of June 2017 at **23:55**! :high_heel:
+Friday, 9th of June 2017 at **23:55**! :high_heel:
