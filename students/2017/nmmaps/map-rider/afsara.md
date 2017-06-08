@@ -8,10 +8,11 @@
 
 **Unit Code:** WEB14204
 
-##NMMaps
+
+## NMMaps
 
 
-[![1 intro screen.jpg](https://s11.postimg.org/3wjhclosj/1_intro_screen.jpg =640x360)](https://postimg.org/image/hq7u1nhdr/)
+![](https://s11.postimg.org/3wjhclosj/1_intro_screen.jpg)
 
 
 The National Maritime Museum located in Greenwich has asked Ravensbourne Web Media year 2 students to design the UX for a interactive board to display in an interactive exhibit. They specified that the UX will have to include their collection of maps and charts. I teamed up with fellow classmates Ajay Dhillon and Malore Milchard and we created an interactive voyage game targeted at Maritime Museum explorers aged 14-25 year olds. 
@@ -30,16 +31,16 @@ Throughout the weeks we had different tasks which included researching, intervie
 10. [User-testing report](https://docs.google.com/a/students.rave.ac.uk/document/d/1aR2LctckTnuVDYbJK-hy-16PxhwzWAO1JiIkGE0hQ7w/edit?usp=sharing)
 11. [Summative presentation](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1efUTWvZYxMSzecAY2Ze5VYNy2OdYuKtHATMlpkA3KAs/edit?usp=sharing)
 
-##Final Design
+### Final Design
 
 Although I included the final prototype in the prototype link above here is a direct link to view our final design our team produced.
 
 [Final Prototype](https://invis.io/JHATF98A3#/221953939_1_Intro_Screen)
 
-[![17 level 2 timer dv.jpg](https://s7.postimg.org/ui3na9syz/17_level_2_timer_dv.jpg =640x360)](https://postimg.org/image/tftgrqa5j/)
+![](https://s7.postimg.org/ui3na9syz/17_level_2_timer_dv.jpg)
 
 
-#Blog Posts
+# Blog Posts
 
 
 Here are blogs which I completed weekly throughout the project:
