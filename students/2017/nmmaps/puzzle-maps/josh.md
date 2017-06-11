@@ -22,7 +22,7 @@ This has been a very enjoyable unit and term as a whole. I feel that it's taught
 
 ![NMM](https://i.gyazo.com/2c3d5c582d55b23160235ac818fae360.png)
 
-###NMM
+### NMM
 
 [Competitor Analysis](https://docs.google.com/document/d/1nwIGAFlklLuGpbBr7QEBm9IMHjv4c8Xlz0u-lDSEovg/edit#)
 
@@ -50,7 +50,7 @@ This has been a very enjoyable unit and term as a whole. I feel that it's taught
 
 ![Blogs](https://i.gyazo.com/830d7154e2259d5c184c42a099cf87ad.png)
 
-###**Blog Posts**                       
+### Blog Posts
 
 [Interviewing Humans](https://docs.google.com/document/d/19oSaG7HY-X3WH9QUvb-KDVF9Hz9fiVdn9xYqIq9kwK0/edit?usp=sharing)
 
