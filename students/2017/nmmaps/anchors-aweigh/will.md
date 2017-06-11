@@ -1,7 +1,7 @@
 ## UX Design / National Maritime Museum
 ![image](https://i0.imgpile.com/i/6CgjP.png)
 
-#NMMaps
+# NMMaps
 
 [Competitor Analysis](http://www.google.com)<br>
 [Elevator Pitch](https://docs.google.com/document/d/1KYTApEcA3njJ0yOafi9Ajcd4KI1xcnQ8Alja30cyiBg/edit?usp=sharing)<br>
@@ -17,7 +17,8 @@
 [User testing report](https://docs.google.com/document/d/1IGia4AUIc0d0VoSUcgDLFGv6OU4FEw5j5W80D5A62Uw/edit?usp=sharing)<br>
 [Summative presentation](https://docs.google.com/presentation/d/1QliA3K57pepDR98-FV5OjiKoKLgPllvL3AYm7cSG0Ys/edit?usp=sharing)<br>
 
-#Blogs
+# Blogs
+
 [@w.tonks](https://medium.com/@w.tonks)
 
 [Interviewing humans](https://medium.com/@w.tonks/blog-08-interviewing-humans-e9027a556d51#.58ip04rzn)<br>
