@@ -1,4 +1,5 @@
-##Summative Hand-in
+## Summative Hand-in
+
 **Name:** Dean Chalk
 
 **Student No:** 96291515
@@ -9,7 +10,8 @@
 
 [**GitHub Link**](https://github.com/deanlc/WEB14204-Dean-Chalk)
 
-##Blogs
+## Blogs
+
 - [Medium Publication](https://medium.com/nmmaps)
 
 1. **Week 1:** [Interviewing humans](https://medium.com/p/ef1d405577ee)
@@ -20,7 +22,7 @@
 6. **Week 6:** [Telling the story of your project / research](https://medium.com/nmmaps/telling-the-story-of-your-project-research-cbd52216915b#.ew4fpg5ti)
 7. **Week 7:** [UX choreography](https://medium.com/nmmaps/ux-choreography-6af52c74f48e#.u6dggs2xi)
 
-##NMMaps
+## NMMaps
 
 1. [Competitor analysis](https://docs.google.com/document/d/1vl6JEOp2lh07a6Hv3kYsn6018SLz6BE-ly2nQT0S-NM/edit?usp=sharing)
 2. [Elevator pitch](https://docs.google.com/document/d/1_u5GVXzwTBknlaqC_nLTrdikdeIakfn1o-AVP_h_wAA/edit#bookmark=id.chwn9ynp49ov)
