@@ -1,5 +1,4 @@
-#UX Design - Filter bubbles
-
+# UX Design - Filter bubbles
 
 **Name:** Ben Louka
 
@@ -16,7 +15,7 @@ When given this project I was quite worried and confused. Not only was I confuse
 However, after user testing and tutorials I had an idea that I was confident with but also not too complex to produce. Below is my work and blogs which helped me to produce my final prototype. 
 
  
-###Filter bubbles
+### Filter bubbles
 
 1. [Mapping your filter bubbles](https://drive.google.com/file/d/0B3GR6CwtALpARVRnQUloRF9nLW8/view?usp=sharing)
 2. [10 (or so) bad ideas](https://drive.google.com/drive/folders/0B3GR6CwtALpAbEdzYVltbjNkMG8?usp=sharing)
@@ -30,7 +29,7 @@ However, after user testing and tutorials I had an idea that I was confident wit
 10. [Summative presentation](https://docs.google.com/presentation/d/1npgJP7tx-OMUXIB7PBb4RO6OIwp1n2RMpq56I8R3E_s/edit?usp=sharing)
 
 
-###Blog posts
+### Blog posts
 
 1. [Data selfies](https://medium.com/@blouka/data-selfie-74d760695a4f)
 2. [How to create effective surveys](https://medium.com/@blouka/read-this-article-on-how-to-create-effective-surveys-f4297b7329d9)
