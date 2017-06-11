@@ -1,4 +1,4 @@
-## WEB14204 - Ux-Design
+## WEB14204 - UX Design
 
 ##### Name: Ajay Dhillon
 
@@ -80,7 +80,7 @@ All together we had created three prototypes, the first on was on paper which we
 
 [Prototypes](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1sF_dgjsGLQ2crJqPmKKt37iNXFjqw60QUKNCObeDxd8/edit?usp=sharing)
 
-#####Concept video
+##### Concept video
 
 We have created a quick 30 second video based on the idea of our game. It was created using Adobe Spark and online application to create short videos.
 
