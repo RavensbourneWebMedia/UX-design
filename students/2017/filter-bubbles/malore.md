@@ -1,4 +1,4 @@
-#WEB14204: UX-Design 
+# WEB14204: UX-Design 
 
 **Name:** Malore Milchard
 
@@ -8,9 +8,10 @@
 
 **Unit Code:** WEB14204
 
-[![what-is-ux-design-.png](https://s23.postimg.org/vzfor4cij/what-is-ux-design-.png =x185)](https://postimg.org/image/qo0s6eqfr/) [![Filter bubble.jpg](https://s15.postimg.org/6rqqop4vv/Filter_bubble.jpg =x185)](https://postimg.org/image/waj31pofr/)
+[![what-is-ux-design-.png](https://s23.postimg.org/vzfor4cij/what-is-ux-design-.png)](https://postimg.org/image/qo0s6eqfr/) 
+[![Filter bubble.jpg](https://s15.postimg.org/6rqqop4vv/Filter_bubble.jpg)](https://postimg.org/image/waj31pofr/)
 
-##Filter Bubbles
+## Filter Bubbles
 
 Below are all of the different documents that I have produced throughout this topic. They are all a part of the planning and designing process I undertook towards making my app. We started off with coming up with 10 rough ideas and then chose one which we wanted to make our final product. Once I had a initial idea of what I was going to do, I conducted a few interviews which then helped me to make my idea sheet. This is where I talked in detail about my final idea. Then I made my prototypes, first the paper prototype and then the digital prototype where I used the program Marvel. The last few things I did was the concept video and the landing page which I enjoyed doing the most. 
 
@@ -38,10 +39,10 @@ Below is the link to my summative presentation. I used Google Sldes to make it a
 
 [Summative Presentation](https://docs.google.com/presentation/d/1K4VpQhaFOJdwg1fnTE4JC8GbIE9i88U6n7_PsSp-nA4/edit#slide=id.g226dd0f018_0_54)
 
-![](https://s4.postimg.org/vm8bjya5p/Blog_Frankrijk.jpg =x150)
-![](file:///Users/maloremilchard/Downloads/1-5ztbgEt4NqpVaxTc64C-XA.png =300x)
+![](https://s4.postimg.org/vm8bjya5p/Blog_Frankrijk.jpg)
+![](file:///Users/maloremilchard/Downloads/1-5ztbgEt4NqpVaxTc64C-XA.png)
 
-##Blogs
+## Blogs
 
 Below is a list of all the blogs that I have done throughout this term. As always I used the site 'Medium' to produce my blog posts. 
 
