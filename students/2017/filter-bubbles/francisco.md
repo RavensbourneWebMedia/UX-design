@@ -1,6 +1,6 @@
 # WEB14204 Designing the User Experience
 
-###During this course you will learn how to research the circumstances and needs of different types of users, to design and prototype interactive products that are both usable and useful.
+### During this course you will learn how to research the circumstances and needs of different types of users, to design and prototype interactive products that are both usable and useful.
 
 In particular, you will get familiar with:
 
