@@ -1,9 +1,10 @@
-##WEB14204 - Ux-Design, Part 2
-#####Name: Ajay Dhillon
+## WEB14204 - UX Design, Part 2
 
-#####Course: BA (Hons) Web Media, Level 2
+##### Name: Ajay Dhillon
 
-#####Unit Code: WEB14204
+##### Course: BA (Hons) Web Media, Level 2
+
+##### Unit Code: WEB14204
 
 ### Introduction
 
@@ -14,7 +15,7 @@ Below you will find the link to my summative presentation which I completed onli
 
 [Slides.com Summative Presentation](http://slides.com/ajaydhillon/filter-bubbles)
 
-#####Blog posts via Medium
+##### Blog posts via Medium
 The links below will direct you to an online site where I have posted the blogs that I have completed during this project. 
 
 [Blog Post 1](https://medium.com/term2-ux-design/data-selfies-1db4743b0602)
@@ -32,48 +33,48 @@ The links below will direct you to an online site where I have posted the blogs 
 [Blog Post 7](https://medium.com/term2-ux-design/reflection-blog-f8d80b0f1335)
 
 
-#####Mapping your filter bubbles	 
+##### Mapping your filter bubbles	 
 
 This documents contains a drawing of my filter bubble. From the top of my head I noted down all the things that I look/search on the web and put them in a bubble. 
 
 [My Filter Bubble](https://docs.google.com/a/students.rave.ac.uk/presentation/d/1v2CmndhT6tQk-PrL_F6dlheNXuhCb9pckVisn2gfwWE/edit?usp=sharing)
 
-#####10 bad ideas
+##### 10 bad ideas
 Below you will find 10 random ideas that I had thought about once I had got the project brief. 
 
 [10 Bad Ideas](https://docs.google.com/a/students.rave.ac.uk/document/d/1uNU-SUfvPi2K6HfURh7Wi_UMiiuz1POuCqtEfR5unMc/edit?usp=sharing)
 
-#####Interviews
+##### Interviews
 
 Once I had written down my 10 ideas, my next task was to choose one of them to explore. I began conducting a few interviews to validate the choice I had in mind, to see if it was worth pursuing. I interviewed ages between 14-19, a younger audience as the idea i had would primarily be for that age group. 
 
 [Interviews](https://docs.google.com/a/students.rave.ac.uk/document/d/1_hdAa1l1tHwHNEl3wqH8tReqIjhv6mBq8lVwIlXRkSg/edit?usp=sharing)
 
-#####Idea Sheet
+##### Idea Sheet
 
 This document entails a few paragraphs of what my idea is. It tells you why I why i decided to create this product and it explains how I want the user should feel when using it. 
 
 [Idea sheet](https://docs.google.com/a/students.rave.ac.uk/document/d/1mAyvnUMENQDMiemDNjulKQiUogwuPw0_6YhgZr8Dl1s/edit?usp=sharing)
 
-#####Prototypes
+##### Prototypes
 
 I have added a link below showing the 2 different prototypes I created within this project. The first one was on paper, were then I completed interviews to improve and then designed a digital one. 
 
 [Prototypes](https://docs.google.com/a/students.rave.ac.uk/presentation/d/18T75pfQsk_XPBEN_av4JaPRd2R4fjKdPKqilen-e4qY/edit?usp=sharing)
 
-#####User testing feedback
+##### User testing feedback
 
 The user testing feedback is a log of the interviews that I completed to get more information to better my project. It contains a brief overview I have written explaining what I will take from the interviews and what the interviewee said. 
 
 [User testing feedback](https://docs.google.com/a/students.rave.ac.uk/document/d/1XVBz9l-NVD-v_pikoQYVgTEV3qZo1cmnEwsJ6Jsp1TQ/edit?usp=sharing)
 
-#####Concept Video
+##### Concept Video
 
 I designed and made a video based on my concept using Adobe Spark. It goes through the problems you may face when on apps looking to meet new people and then leads you on to the solution which is the product I've designed. 
 
 [Concept Video](https://spark.adobe.com/video/FiSQfftgAQgXM)
 
-#####Landing Page
+##### Landing Page
 
 I've created a landing page for my project, I used the the carrd.co for inspiration. However, I decided to use photoshop to create it as you have more flexibily when you edit it unlike carrd.co.
 
