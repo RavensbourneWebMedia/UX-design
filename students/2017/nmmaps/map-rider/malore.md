@@ -11,7 +11,7 @@
 ![](https://s9.postimg.org/mong60l8f/national_maritime_museum_see_do_museums_gallerie.jpg) 
 ![](https://s10.postimg.org/5fi4wb2ux/8248342_orig.jpg)
 
-##NMMAPS
+## NMMAPS
 
 Below are all of the different documents my team mates and I made. They are all a part of the reseach and design process we undertook. Both of our presentations are included.
 
@@ -40,7 +40,7 @@ Below are all of the different documents my team mates and I made. They are all 
 ![](https://s4.postimg.org/vm8bjya5p/Blog_Frankrijk.jpg)
 ![](file:///Users/maloremilchard/Downloads/1-5ztbgEt4NqpVaxTc64C-XA.png)
 
-##Blogs
+## Blogs
 
 1. [Interviewing Humans](https://medium.com/ux-designnn/1-interviewing-humans-d74d917cb35c#.7f3y2h7mk)
 2. [Learning to Wireframe](https://medium.com/ux-designnn/2-learning-to-wireframe-7a99b3ca68b0#.3wzmt7g9x)
