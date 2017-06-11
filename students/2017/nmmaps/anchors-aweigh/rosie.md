@@ -4,7 +4,7 @@ The National Maritime Museum (NMM) in Greenwich wants you to design the UX of an
 
 ### <i class="icon-anchor"></i>[NMM Project material:](https://drive.google.com/drive/folders/0B4MyhvimzX_fNWVaT2xjQWkxSlk?usp=sharing)
 
->* [Competitior Analysis](https://drive.google.com/drive/folders/0B4MyhvimzX_fc1hscGdkUmJ4OEE?usp=sharing)
+* [Competitior Analysis](https://drive.google.com/drive/folders/0B4MyhvimzX_fc1hscGdkUmJ4OEE?usp=sharing)
 * [Elevator Pitch](https://docs.google.com/document/d/1KYTApEcA3njJ0yOafi9Ajcd4KI1xcnQ8Alja30cyiBg/edit?usp=sharing)
 * [Concept One-pager](https://drive.google.com/file/d/0B7EQ0WWNAA-QVUlHMEkwMGRwNEE/view?usp=sharing)
 * [Experience Map](https://drive.google.com/drive/folders/0B4MyhvimzX_fdHk3dmpRbDN0YjQ?usp=sharing)
@@ -17,7 +17,7 @@ The National Maritime Museum (NMM) in Greenwich wants you to design the UX of an
 * [Summative Presentation](https://docs.google.com/presentation/d/1QliA3K57pepDR98-FV5OjiKoKLgPllvL3AYm7cSG0Ys/edit?usp=sharing)
 
 ### <i  class="icon-laptop"></i>[Blog Posts](https://medium.com/@wwwtf)
->* [Interviewing Humans](https://medium.com/@wwwtf/interviewing-humans-pt2-560a878ab016#.2w1spanb9)
+* [Interviewing Humans](https://medium.com/@wwwtf/interviewing-humans-pt2-560a878ab016#.2w1spanb9)
 * [Learning to Wireframe: 10 best practises](https://medium.com/@wwwtf/learning-to-wireframe-5400ac0cac6a#.kwfakyfa9)
 *  [Inspiring Museum Interactives](https://medium.com/@wwwtf/inspiring-museum-interactives-597d9cd8f7aa#.euo30oor7)
 *  [Formative feedback action plan](https://medium.com/@wwwtf/formative-feedback-action-plan-684c8f4af3ec#.ex489gquh)
