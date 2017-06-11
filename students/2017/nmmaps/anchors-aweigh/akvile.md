@@ -66,10 +66,10 @@ It can be found [here](https://drive.google.com/open?id=1QliA3K57pepDR98-FV5OjiK
 # Blog posts #
 Below is a list with the blog posts which I covered during this project. Each bullet point is linked to the blog post. (Note: I wanted to post them all on my website but for some reason Wordpress stopped loading it and I had to post most of them on Medium.)
 
-1.     [Interviewing humans](https://akvilepetra.wordpress.com/2017/01/17/interviewing-humans/)
-1.     [Learning to wireframe: 10 best practices](https://medium.com/@aihara.chan/learning-to-wireframe-10-best-practice-e4b416c687dc#.oc7txp48u)
-1.     [Inspiring museum interactives](https://medium.com/@aihara.chan/inspiring-museum-interactives-28c6c810b999#.i5z1unj4y)
-1.     [Formative feedback action plan](https://medium.com/@aihara.chan/formative-feedback-action-plan-7a8f1891e711#.t4bd828w2)
-1.     [User-testing: what did we learn?](https://medium.com/@aihara.chan/user-testing-what-did-we-learn-a7cf96dd33d9#.f2r9xkabk)
-1.     [Telling the story of your project / research](https://medium.com/@aihara.chan/telling-the-story-of-your-project-research-65b4c5cb54c7#.97pcd08j2)
-1.     [UX choreography](https://medium.com/@aihara.chan/ux-choreography-28e4d2110a57#.uqs2stg9u)
+1. [Interviewing humans](https://akvilepetra.wordpress.com/2017/01/17/interviewing-humans/)
+2. [Learning to wireframe: 10 best practices](https://medium.com/@aihara.chan/learning-to-wireframe-10-best-practice-e4b416c687dc#.oc7txp48u)
+3. [Inspiring museum interactives](https://medium.com/@aihara.chan/inspiring-museum-interactives-28c6c810b999#.i5z1unj4y)
+4. [Formative feedback action plan](https://medium.com/@aihara.chan/formative-feedback-action-plan-7a8f1891e711#.t4bd828w2)
+5. [User-testing: what did we learn?](https://medium.com/@aihara.chan/user-testing-what-did-we-learn-a7cf96dd33d9#.f2r9xkabk)
+6. [Telling the story of your project / research](https://medium.com/@aihara.chan/telling-the-story-of-your-project-research-65b4c5cb54c7#.97pcd08j2)
+7. [UX choreography](https://medium.com/@aihara.chan/ux-choreography-28e4d2110a57#.uqs2stg9u)
