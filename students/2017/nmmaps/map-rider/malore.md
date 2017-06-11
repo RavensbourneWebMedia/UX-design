@@ -1,4 +1,4 @@
-#WEB14204: Dynamic Web
+# WEB14204: Dynamic Web
 
 **Name:** Malore Milchard
 
@@ -8,7 +8,8 @@
 
 **Unit Code:** WEB14204
 
-![](https://s9.postimg.org/mong60l8f/national_maritime_museum_see_do_museums_gallerie.jpg =x170) ![](https://s10.postimg.org/5fi4wb2ux/8248342_orig.jpg =x160)
+![](https://s9.postimg.org/mong60l8f/national_maritime_museum_see_do_museums_gallerie.jpg) 
+![](https://s10.postimg.org/5fi4wb2ux/8248342_orig.jpg)
 
 ##NMMAPS
 
@@ -36,8 +37,8 @@ Below are all of the different documents my team mates and I made. They are all 
 
 [Summative Presentation](https://docs.google.com/presentation/d/1efUTWvZYxMSzecAY2Ze5VYNy2OdYuKtHATMlpkA3KAs/edit#slide=id.g1bb493e8ac_3_8)
 
-![](https://s4.postimg.org/vm8bjya5p/Blog_Frankrijk.jpg =x150)
-![](file:///Users/maloremilchard/Downloads/1-5ztbgEt4NqpVaxTc64C-XA.png =300x)
+![](https://s4.postimg.org/vm8bjya5p/Blog_Frankrijk.jpg)
+![](file:///Users/maloremilchard/Downloads/1-5ztbgEt4NqpVaxTc64C-XA.png)
 
 ##Blogs
 
