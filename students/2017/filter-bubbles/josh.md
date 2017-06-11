@@ -22,9 +22,9 @@
 
 ***
 
-![Filter Bubbles](https://gyazo.com/d783f9e8402044a2b77e607d28bd7a68.png =322x200)
+![Filter Bubbles](https://gyazo.com/d783f9e8402044a2b77e607d28bd7a68.png)
 
-###Filter Bubbles
+### Filter Bubbles
 
 1. [Mapping Your Filter Bubbles](https://docs.google.com/document/d/1JTGrgp15HY0ZsQuYtW7JEhJS2m2CWm0zY_kUO9LAAn0/edit?usp=sharing)
 
@@ -50,9 +50,9 @@
 
 ***
 
-![Blogs](https://gyazo.com/655ea052ee6c4481d0313e1ffb281d41.png =322x200)
+![Blogs](https://gyazo.com/655ea052ee6c4481d0313e1ffb281d41.png)
 
-###**Blog Posts**                       
+### **Blog Posts**                       
 
 1. [Data Selfies](https://docs.google.com/document/d/14GaFjEYqvB_LTvlEvaokHuSx369uZ2AqG9sxTUdK0gQ/edit?usp=sharing)
 
