@@ -8,10 +8,10 @@
 
 **Unit Code:** WEB14204
 
-##FILTER BUBBLES
+## FILTER BUBBLES
 
 
-[![Landing page.png](https://s4.postimg.org/v9pkgmuql/Landing_page.png =640x400)](https://postimg.org/image/lcejnkn4p/)
+[![Landing page.png](https://s4.postimg.org/v9pkgmuql/Landing_page.png)](https://postimg.org/image/lcejnkn4p/)
 
 For this term we learned about Filter bubbles and were told to design and prototype a digital object such as an app or website. This product should help people understand what filter bubbles are.
 
@@ -30,18 +30,16 @@ Below you can find all the links to see each of these findings which eventually 
 9. [Landing page](https://drive.google.com/file/d/0B4sgxawDFEN5eWlzLVdsNk5aamc/view?usp=sharing)
 11. [Summative presentation](https://docs.google.com/presentation/d/16hoTZYe0Qa8uAtek6Kpv-P5vV6J7lgv-AW9eVJjz1Ek/edit?usp=sharing)
 
-##Final Design
+## Final Design
 
 Although I included the final prototype in the prototype link above here is a direct link to my final design which I created on InVision.
 
-
 [Final Prototype](https://invis.io/K5C3HRKW8#/238156959_Bz_Screen_1_V2)
 
-[![bz screen 4 guy search v2.png](https://s18.postimg.org/x8b09n4nt/bz_screen_4_guy_search_v2.png =640x400)](https://postimg.org/image/psbqnugyd/)
+[![bz screen 4 guy search v2.png](https://s18.postimg.org/x8b09n4nt/bz_screen_4_guy_search_v2.png)](https://postimg.org/image/psbqnugyd/)
 
 
-#Blog Posts
-
+# Blog Posts
 
 Here are blogs which I completed weekly throughout the project:
 
