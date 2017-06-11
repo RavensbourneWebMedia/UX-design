@@ -1,5 +1,4 @@
-#UX-design
-
+# UX-design
 
 **Name:** Ben Louka
 
@@ -11,7 +10,7 @@
 
  <br /> 
 
-###NMMaps
+### NMMaps
 
 When given this project I was very excited as it is not something we have done before. I liked the idea that we had to visit the museums and gather important research. I also enjoyed the fact it was a group project as I believe it would have been very difficult to do this alone. 
 
@@ -31,7 +30,7 @@ We did struggle to decide on an Idea, and that's why we went into our Formative 
 11. [Summative presentation](https://docs.google.com/presentation/d/1pWZlhiTEBtOwUI78WtLrxBPu8gMuYeFyPYJeSGViZKo/edit?usp=sharing)
 
 
-###Blog posts
+### Blog posts
 
 1. [Interviewing humans](https://medium.com/@blouka/interviewing-humans-41ed31ddbcf5#.v1yjua1c3)
 2. [Learning to wireframe: 10 best practices](https://medium.com/@blouka/learning-to-wireframe-10-best-practices-7b8f00843319#.vreqkn9ma)
