@@ -3,7 +3,7 @@
 ### Today, Monday 30th January 2017
 
 1. **AM** Tutorials
-* **PM** formative presentations @ NMM. We need to get there by 13:30 and the formatives will run from 14:00 to 16:00
+2. **PM** formative presentations @ NMM. We need to get there by 13:30 and the formatives will run from 14:00 to 16:00
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -42,9 +42,9 @@ A user persona allows you to visualise users with **common behavioural patterns*
 #### What dimensions are used to cluster users into a persona?
 
 1. **Behaviours**: what users do
-* **Attitudes**: what users expect
-* **Motivations**: what users want / need
-* **Limitations**: what blocks them from doing what they want / need
+2. **Attitudes**: what users expect
+3. **Motivations**: what users want / need
+4. **Limitations**: what blocks them from doing what they want / need
 
 **Demographics** are not really that useful.
 
@@ -61,6 +61,6 @@ Please no gimmicky graphs, unless they're based on research data and tell us som
 ### Blog
 
 1. Review the **formative feedback** your received.
-* **Individually** jot down an *action plan*: list what you want to do in order to address that feedback (eg: `prototype alternative game mechanics`, `try maps of obscure places`, `brainstorm different names`, `wireframe two options for the welcome screen`)
-* **Compare** your action plan list with your team mates.
-* Blog about this process, reflecting on the feedback received and how you (both individually and as a team) are responding to it.
+2. **Individually** jot down an *action plan*: list what you want to do in order to address that feedback (eg: `prototype alternative game mechanics`, `try maps of obscure places`, `brainstorm different names`, `wireframe two options for the welcome screen`)
+3. **Compare** your action plan list with your team mates.
+4. Blog about this process, reflecting on the feedback received and how you (both individually and as a team) are responding to it.
