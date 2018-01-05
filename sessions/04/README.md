@@ -1,6 +1,6 @@
 # Week 4
 
-### Today, Monday 30th January 2017
+### Today, Monday 30th January 2017 is a crazy old time
 
 1. **AM** Tutorials
 2. **PM** formative presentations @ NMM. We need to get there by 13:30 and the formatives will run from 14:00 to 16:00
