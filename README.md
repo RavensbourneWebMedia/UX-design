@@ -42,17 +42,17 @@ In particular, you will get familiar with:
 
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
-[Monday<br>09.01](sessions/01) | Intro to UX <br>Team project kickstart: [**NMMaps**](projects/nmmaps) <br>Customer discovery interviews at the National Maritime Museum in Greenwich (aka *NMM*) | Competitor analysis | Interviewing humans
-[Monday<br>16.01](sessions/02) | Lightning talk: digital projects in museums <br>Ideation <br>Elevator pitch <br>Concept one-pager | Interviews round 2 <br>Wireframes (aka *paper prototypes*) | Learning to wireframe 
-[Monday<br>23.01](sessions/03) | Lightning talk: the UX design process <br>Lightning talk: cartography in the 16th century <br>Experience map <br>Digital prototypes v1 | Prototyping | Inspiring museum interactives
-[Monday<br>30.01](sessions/04) | Tutorials <br>**Formative presentations** @ NMM | User personas | Formative feedback action plan
-[Monday<br>06.02](sessions/05) | Riskiest assumption <br>User-testing <br>Tutorials | User-testing @ NMM | User-testing: what did we learn?
+[Monday<br>08.01](sessions/01) | Intro to UX <br>Team project kickstart: [**NMMaps**](projects/nmmaps) <br>Customer discovery interviews at the National Maritime Museum in Greenwich (aka *NMM*) | Competitor analysis | Interviewing humans
+[Monday<br>15.01](sessions/02) | Lightning talk: digital projects in museums <br>Ideation <br>Elevator pitch <br>Concept one-pager | Interviews round 2 <br>Wireframes (aka *paper prototypes*) | Learning to wireframe 
+[Monday<br>22.01](sessions/03) | Lightning talk: the UX design process <br>Lightning talk: cartography in the 16th century <br>Experience map <br>Digital prototypes v1 | Prototyping | Inspiring museum interactives
+[Monday<br>29.01](sessions/04) | TBC | TBC | TBC
+[Monday<br>05.02](sessions/05) | Tutorials <br>**Formative presentations** @ NMM | User personas | Formative feedback action plan
 Enchantment Week | | | 
-[Monday<br>20.02](sessions/06) | Prototyping workshop | Concept video | Telling the story of your project / research
-[Monday<br>27.02](sessions/07) | Tutorials <br>User-testing @ NMM | User-testing report | UX choreography
-[Monday<br>06.03](sessions/08) | **Summative presentations** @ NMM | Hand-in on Moodle |
+[Monday<br>19.02](sessions/06) | Prototyping workshop | Concept video | Telling the story of your project / research
+[Monday<br>26.02](sessions/07) | Tutorials <br>User-testing @ NMM | User-testing report | TBC
+[Monday<br>05.03](sessions/08) | **Summative presentations** @ NMM | Hand-in on Moodle |
  
-
+<!---
 ### Term 3
 
 When | Where | In class | Homework | Blog 
@@ -65,15 +65,17 @@ When | Where | In class | Homework | Blog
 [Friday<br>26.05](sessions/14) | [SCWA](http://scwa.org.uk/contact-us) | Concept video, landing page and user-testing | 5-second-test your landing page(s) | Testing landing pages
 [Friday<br>02.06](sessions/15) | Rave | Tutorials | Prepare summative | What did you learn?  
 [Friday<br>09.06](sessions/16) | Rave | **Summative presentations** | Hand-in on Moodle | 
-
+--->
 
 # Projects
 
-### NMMaps
+### NMM Hidden Histories
 
 On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by working on a real-world project for the National Maritime Museum (NMM) in Greenwich. 
 
 All the project material is [here](projects/nmmaps).
+
+<!---
 
 ### Filter bubbles
 
@@ -81,6 +83,7 @@ On this **individual project** you will design and prototype a *digital object* 
 
 All the project material is [here](projects/filter-bubbles).
 
+--->
 
 # Learning goals
 
@@ -100,15 +103,15 @@ By the end of this course, you will be able to:
 
 # Rules of the road
 
-* **Be present**. If you happen to be late (even by 5 minutes) or absent, make sure you email me about it before a session starts. We'll deduct 2% from your grade for each uncommunicated tardiness or absence (aka the *2% Tardiness Tax*).
+* **Be present**. If you happen to be late (even by 5 minutes) or absent, make sure you email me about it before a session starts. 
 
 * **Participate** in class debates and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
 
-* **Present** your work during formative and summative assessments. If you can't make it those days then you'll record your presentation and upload it to YouTube (or similar).
+* **Present** your work during formative and summative assessments. If you can't make it those days then you should let me know 2 weeks in advance and we'll arrange an earlier pitch date to present. 
 
 * **Be responsible** for what happens in class. Organise with your peers to get class information and material that you may have missed.
 
-* **Meet the deadlines**. If you submit your work after a deadline, your grade will be capped at D- (bare pass).
+* **Meet the deadlines**. If you submit your work after a deadline, your grade will be effected. Please read the Unit brief for details. 
 
 
 ### License
