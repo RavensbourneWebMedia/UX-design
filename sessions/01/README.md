@@ -173,7 +173,9 @@ The [Mom Test book](http://momtestbook.com) by [Rob Fitzpatrick](https://twitter
 	- [ ] Bad question 
 	
 	<!-- This is a good question, because it’s open and unbiased. It may take you three seconds to ask, and several minutes for people to answer. Through that, you may uncover problems you had not thought of before.
-Also, people are better at remembering what happened recently  (your last holiday) than reflecting on more abstract topics or imagine the future. -->	
+
+
+Also, people are better at remembering what happened recently  (your last holiday) than reflecting on more abstract topics or imagine the future. 	
 
 #### Don’t talk about your idea.
 
