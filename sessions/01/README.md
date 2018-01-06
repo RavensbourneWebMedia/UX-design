@@ -5,7 +5,7 @@
 1. [Welcome](#welcome) :)
 * [What is User eXperience?](#what-is-ux)
 * [How does one design user experiences?](#how-does-one-design-user-experiences?) The design-prototype-test loop
-* [The first experiment](#the-first-experiment): competitor analysis round 1
+* [The first experiment](https://github.com/RavensbourneWebMedia/UX-design/tree/2018/sessions/01#the-first-experiment---competitor-analysis-round-1): competitor analysis round 1
 * [The Second experiment](#the-second-experiment): customer discovery interviews
 
 ### Your [homework](#homework) and [blog](#blog)!
