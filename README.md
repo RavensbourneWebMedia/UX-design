@@ -73,7 +73,41 @@ When | Where | In class | Homework | Blog
 
 On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by working on a real-world project for the National Maritime Museum (NMM) in Greenwich. 
 
-All the project material is [here](projects/nmm-hidden-histories).
+All the project material is [here](projects/nmm_hidden_histories).
+
+# Course Hand-in's 
+
+### Formative Assessment: Monday Feb 5th @ National Maritime Museum
+ 
+For formative, each group will produce a pitch for a design concept that will be presented at the National Maritime Museum to tutors, peers and industry. 
+
+This will be followed by at Moodle upload of the presentation by 16.00pm the same day. 
+
+### Summertive Assessment: Monday March 5th @ National Maritime Museum
+
+For Summative Presentation your teams will develop the formative pitch into an appropriate working prototype along with evidance of all parts of the industry brief. 
+
+For summative upload, an accompanying hand-in package for this prototype and supporting course work must be uploaded by 16.00pm to the indicated section on Moodle.
+
+For summative upload you will be expect to hand in: A MarkDown document (where Name is your own name and Surname is your own surname, like WEB14204-Freya-Smith.md).
+
+In that MarkDown document, you should include the following:
+
+	•	Competitor analysis
+	•	Elevator pitch
+	•	Concept one-pager
+	•	Experience map
+	•	Formative presentation
+	•	User personas
+	•	Wireframes
+	•	Prototype(s)
+	•	Concept video
+	•	User-testing report
+	•	Summative presentation
+
+These matterials should support your prototype, supplied on a link within the document.  
+
+The summative hand-in should also be accompanied by a list of links to weekly blog posts. 
 
 <!---
 
