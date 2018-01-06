@@ -1,5 +1,9 @@
 # Week 2
 
+Session 2 will be released shortly before the teaching session. 
+
+<!---
+
 ### Today, Monday 16th January 2017
 
 1. [Amy's lightning talk](#lighting-talk) on digital projects in museums
@@ -107,10 +111,10 @@ Some examples by your fellow students from 2016:
 
 ![](assets/one-pager-Rana-Luke-Sanj.jpg)
 
-<!--
+
 ![](assets/one-pager-Ollie-Aidan-Ryder.pdf)
 ![](assets/one-pager-Tom-Harry-Johnny.pdf)
--->
+
 
 ### Your turn
 
@@ -141,3 +145,5 @@ Read [Learning to wireframe: 10 best practices](http://www.dtelepathy.com/blog/d
 At this stage of the project it's useful that you **wireframe your initial ideas individually**, and then compare those with your teammates next week. This way you'll explore different possibilities, based on your own understanding of the user research.
 
 Record your thoughts for these initial wireframes in a blog post.
+
+-->
