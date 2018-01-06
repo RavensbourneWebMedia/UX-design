@@ -42,7 +42,7 @@ When | In class | Homework | Blog
 ---- | -------- | -------- | ----
 [Monday<br>08.01](sessions/01) | Intro to the brief <br> Intro to UX <br>Team project kickstart: [**NMM_hidden_histories**](projects/nmm_hidden_histories) <br>Tour of existing interactives at NMM / Round 1 competitor analysis<br>Customer discovery interviews at the National Maritime Museum in Greenwich (aka *NMM*) | Competitor analysis round 2 | Interviewing humans
 [Monday<br>15.01](sessions/02) | Lightning talk: digital projects in museums <br>Ideation <br>Elevator pitch <br>Concept one-pager | Interviews round 2 <br>Wireframes (aka *paper prototypes*) | Learning to wireframe 
-[Monday<br>22.01](sessions/03) | Lightning talk: the UX design process <br>Lightning talk: cartography in the 16th century <br>Experience map <br>Digital prototypes v1 | Prototyping | Inspiring museum interactives
+[Monday<br>22.01](sessions/03) | Lightning talk: the UX design process  <br>Experience map <br>Digital prototypes v1 | Prototyping | Inspiring museum interactives
 [Monday<br>29.01](sessions/04) | TBC | TBC | TBC
 [Monday<br>05.02](sessions/05) | Tutorials <br>**Formative presentations** @ NMM | User personas | Formative feedback action plan
 Enchantment Week | | | 
