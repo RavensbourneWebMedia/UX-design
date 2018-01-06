@@ -87,7 +87,7 @@ For Summative Presentation your teams will develop the formative pitch into an a
 
 For summative upload, an accompanying hand-in package for this prototype and supporting course work must be uploaded by 16.00pm to the indicated section on Moodle.
 
-For summative upload you will be expect to hand in: A MarkDown document (where Name is your own name and Surname is your own surname, like WEB14204-Freya-Smith.md).
+You will be expect to hand in: A MarkDown document (where Name is your own name and Surname is your own surname, like WEB14204-Freya-Smith.md).
 
 In that MarkDown document, you should include the following:
 
