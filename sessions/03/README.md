@@ -1,5 +1,11 @@
 # Week 3
 
+Hello There :)
+
+Session 3 will be released shortly before the teaching session. 
+
+<!---
+
 ### Today, Monday 23rd January 2017
 
 1. Lightning talk: the [UX design process](#the-process) from *concept* to *experience map* to *digital prototype* 
