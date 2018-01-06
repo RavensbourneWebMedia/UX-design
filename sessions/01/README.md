@@ -64,6 +64,8 @@ Aka the **build+measure+learn** approach popularised by the [Lean Startup](http:
 
 # This Afternoon @ National Maritime Museum
 
+![](https://github.com/RavensbourneWebMedia/UX-design/blob/2018/sessions/01/assets/National_Maritime_Museum.jpg)
+
 We will be traveling to the NMM for a briefing on your industry project at 2pm so let's meet at 1.15pm in the Rave reception to get the bus to the Museum. Alternatively you can travel independantly and meet at 1.45pm in the main entrance. 
 
 After the briefing (30mins) there will be 15 mins for questions. This is your chance to get more information, so think of what to ask whilst being briefed. 
