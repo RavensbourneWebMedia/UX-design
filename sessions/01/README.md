@@ -1,11 +1,12 @@
 # Week 1
 
-### Today, Monday 9th January 2017
+### Today, Monday 8th January 2018
 
 1. [Welcome](#welcome) :)
 * [What is User eXperience?](#what-is-ux)
 * [How does one design user experiences?](#how-does-one-design-user-experiences?) The design-prototype-test loop
-* [The first experiment](#the-first-experiment): customer discovery interviews
+* [The first experiment](#the-first-experiment): competitor analysis round 1
+* [The Second experiment](#the-second-experiment): customer discovery interviews
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -19,14 +20,11 @@
 
 <!-- * [What can you learn?](../../README.md#learning-goals) -->
 
-A few observations from the previous ~~episode~~ unit:
+A few observations from the previous time we met:
 	
 * Blog **regularly** as in week by week, not all in one lump. Capture your ideas whilst they're fresh!
-* Publish on a blogging platform like Medium (not on Google Docs).
 * When you reference an external resource (something you've seen, read or learned about somewhere else on the Web) always link to it.
 * Use a spell-checker, like [Grammarly](https://www.grammarly.com). 
-* Read your writing out loud. It'll help you spot mistakes and make your written thoughts flow. Use [Hemingway](http://beta.hemingwayapp.com/) to make your writing bolder and clearer.
-
 
 # What is UX?
 
@@ -64,18 +62,80 @@ Key words:
 
 Aka the **build+measure+learn** approach popularised by the [Lean Startup](http://theleanstartup.com/).
 
+# This Afternoon @ National Maritime Museum
 
-# The first experiment
+We will be traveling to the NMM for a briefing on your industry project at 2pm so let's meet at 1.15pm in the Rave reception to get the bus to the Museum. Alternatively you can travel independantly and meet at 1.45pm in the main entrance. 
+
+After the briefing (30mins) there will be 15 mins for questions. This is your chance to get more information, so think of what to ask whilst being briefed. 
+
+We will then go on a tour of the interactive exhibits within the museum, this will lead to 2 tasks / experiements for the rest of the day. 
+
+# The first experiment - Competitor Analysis Round 1
+
+Re-visit on of the exhibitions that you have seen as part of your tour with your team mate(s).
+
+Observe and analyse the following: 
+
+* **Audience** 
+
+	Who is the exhibition for? What are the visitor **goals**, ie why are they visiting the exhibition?
+
+* **Narrative** 
+
+	What stories does the exhibition tell? Through which media? 
+
+* **Content**
+
+	What kind of content(s) are visitors consuming, producing, and sharing on this exhibition?  
+
+Now focus on interactive exhibits, ie any aspect of the exhibition that visitors can interact with (eg: touch screens, audio guides, responsive projections etc.)
+
+* **Onboarding**
+
+	What does the visitor see/experience on approaching the interactive exhibit?
+
+* **Interaction**
+
+	How does the visitor interact with the exhibit? Is there a *reward* at the conclusion of the interaction?
+
+* **Conclusion**
+
+	How does the exhibit re-sets itself when a visitor walks away?
+	
+* **Content definitions**
+
+ 	What are *things* called?
+		
+	Is it `like` or `love` or `appreciate` or `agree` or `+1` or ... ? 
+
+	In particular, consider the **calls to action** (eg: `Tap here`, `Swipe this` et.c), which are usually found in buttons.
+		
+* **Language** 
+
+	How does the exhibit *talk* to visitors?
+
+	Is the tone *formal* or *informal*, *plain* or *technical*, *sophisticated* or *unpretentious*, *active* or *passive*, etc.?
+
+	In what person does the exhibit talk: `we`, `I`, `you`?
+
+	What feelings do you think they are trying to trigger in the audience? 
+
+* Jot down what **could be re-designed** or improved (any ideas).
+
+A google doc of these questions / prompts can be found [online](https://docs.google.com/document/d/1jdDGVHYN72_tsaVx2jKL1AhxCbcHF_ODMGBpyDL9hjI/edit) in case you would like to print them (there will be no guarentee of wifi FYI.) 
+
+
+# The second experiment (and prep) 
 
 Before you design a **solution**, it may be sensible to test if people have the **problem** you're trying to solve. 
 
-In other words, you want to observe and understand how people are currently tackling the problem you're trying to solve.
+In other words, you want to observe and understand how people are currently tackling the problem you're trying to solve or the environment that you are designing for.
 
 The biggest experts about your problem are the people you’re designing for. 
 
 Every project starts from **research**, aka the *discovery* phase.
 
-Your first experiment will be **customer discovery interviews**.
+Your second experiment will be **customer discovery interviews**.
 
 <!--
 ### Project
@@ -129,9 +189,9 @@ Customer discovery interviews are not about you, they are about your customers.
 
 ### Your turn
 
-In teams, discuss and prepare a **guide** for your customer discovery interviews at the [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (NMM) in Greenwich.
+In teams, discuss and prepare a **guide** for your customer discovery interviews at the [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (NMM) in Greenwich. 
 
-* `15 minutes` to **prepare the guide** (write it on GDoc and share the link with everyone on the Slack `#ux-design` channel)
+* `15 minutes` to **prepare the guide** (write it on GDoc and share the link with everyone on this [class googledoc](https://docs.google.com/spreadsheets/d/1f4y9w31ErBtDiIHd6i-IYHugiTBL8vMOz_nUVkQpCvw/edit#gid=0))
 * `30 minutes` to **test** it with other teams and **tweak** it
 
 #### Test the test
@@ -155,75 +215,27 @@ Discuss with your team mate(s): what have you learned from interviewing visitors
 
 Capture your notes and record your observations in a GDoc. 
 
-Share the link with everyone on the Slack `#ux-design` channel.
+Share the link with everyone on the [class googledoc](https://docs.google.com/spreadsheets/d/1f4y9w31ErBtDiIHd6i-IYHugiTBL8vMOz_nUVkQpCvw/edit#gid=0)
 
-### Competitor analysis
+### Competitor analysis round 2
 
 Visit an exhibition. 
 
-* In London or elsewhere, [the current maps exhibition at the British Library](http://www.bl.uk/events/maps-and-the-20th-century-drawing-the-line) is highly recommended.
+* In London or elsewhere and profile an interative element of the show (other than the NMM). 
 
 * Ideally you'll visit the exhibition with your team mate(s).
 
-* If the exhibition is not free, we can reimburse the ticket for you. Bring evidence of payment (a receipt) next time.
+Now repeat the [competitor analysis](https://docs.google.com/spreadsheets/d/1f4y9w31ErBtDiIHd6i-IYHugiTBL8vMOz_nUVkQpCvw/edit#gid=0) that you conducted at the NMM to build the range of exhibitions and interactives you have considered. 
 
-Observe and analyse the following: 
-
-* **Audience** 
-
-	Who is the exhibition for? What are the visitor **goals**, ie why are they visiting the exhibition?
-
-* **Narrative** 
-
-	What stories does the exhibition tell? Through which media? 
-
-* **Content**
-
-	What kind of content(s) are visitors consuming, producing, and sharing on this exhibition?  
-
-Now focus on interactive exhibits, ie any aspect of the exhibition that visitors can interact with (eg: touch screens, audio guides, responsive projections etc.)
-
-* **Onboarding**
-
-	What does the visitor see/experience on approaching the interactive exhibit
-
-* **Interaction**
-
-	How does the visitor interact with the exhibit? Is there a *reward* at the conclusion of the interaction?
-
-* **Conclusion**
-
-	How does the exhibit re-sets itself when a visitor walks away?
-	
-* **Content definitions**
-
- 	What are *things* called?
-		
-	Is it `like` or `love` or `appreciate` or `agree` or `+1` or ... ? 
-
-	In particular, consider the **calls to action** (eg: `Tap here`, `Swipe this` et.c), which are usually found in buttons.
-		
-* **Language** 
-
-	How does the exhibit *talk* to visitors?
-
-	Is the tone *formal* or *informal*, *plain* or *technical*, *sophisticated* or *unpretentious*, *active* or *passive*, etc.?
-
-	In what person does the exhibit talk: `we`, `I`, `you`?
-
-	What feelings do you think they are trying to trigger in the audience? 
-
-* Jot down what **could be re-designed** or improved (any ideas).
+Add your analysis and observations to a Competitor Analysis Document with your profile that you did at the NMM. This will give you insights for the development of your project and contribute to your final hand in. 
 
 ### Blog
  
 Read and blog about this article: [Interviewing humans](https://medium.com/research-things/interviewing-humans-fa198f809c40). 
 
-Have you interviewed anyone before?   
-  
-If **yes**: 
+Then reflect back on the interviews that you conducted at the NMM and comment on:   
 
 * What worked? 
 * What could have been better?
-* Anything that surprised you?
-* What did you do with the data collected during your interview(s)?
+* Anything that surprised you.
+* What you did with the data collected during your interview(s). What analysis did you make that could impact your project moving forwards. 
