@@ -1,3 +1,9 @@
+Hello :) 
+
+This project will be released at the beginning of Term 3
+
+<!---
+
 # Filter Bubbles
 
 #### Table of contents
@@ -107,7 +113,7 @@ Friday 9th of June | Summative presentations
 * [UK Government](http://data.gov.uk/data/search)
 * [UniStats](https://unistats.direct.gov.uk/open-access-data)
 * More to come
--->
+
 
 ### Tools
 
@@ -130,3 +136,5 @@ Friday 9th of June | Summative presentations
 * [Speculative data selfies](https://policyreview.info/articles/news/speculative-data-selfies/449) by by Fernando van der Vlist and Anne Helmond
 
 If you want to explore the related concept of *information obesity* I recommend this book: [The information diet](http://www.informationdiet.com) by Clay Johnson.
+
+--->

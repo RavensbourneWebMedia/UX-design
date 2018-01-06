@@ -73,7 +73,7 @@ When | Where | In class | Homework | Blog
 
 On this **team project** you will learn the methods and tools of *user research* and *iterative design*, by working on a real-world project for the National Maritime Museum (NMM) in Greenwich. 
 
-All the project material is [here](projects/nmmaps).
+All the project material is [here](projects/nmm-hidden-histories).
 
 <!---
 
