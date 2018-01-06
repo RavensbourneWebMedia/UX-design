@@ -72,7 +72,7 @@ We will then go on a tour of the interactive exhibits within the museum, this wi
 
 # The first experiment - Competitor Analysis Round 1
 
-Re-visit on of the exhibitions that you have seen as part of your tour with your team mate(s).
+Re-visit one of the exhibitions that you have seen as part of your tour with your team mate(s).
 
 Observe and analyse the following: 
 
