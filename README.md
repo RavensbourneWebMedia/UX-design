@@ -139,7 +139,7 @@ By the end of this course, you will be able to:
 
 * **Participate** in class debates and workshops. We'll make sure that your ideas have space to be heard and that nobody makes you feel uncomfortable about sharing them.
 
-* **Present** your work during formative and summative assessments. If you can't make it those days then you should let me know 2 weeks in advance and we'll arrange an earlier pitch date to present. 
+* **Present** your work during formative and summative assessments. If you can't make it in on one of those days then you should let me know 2 weeks in advance and we'll arrange an earlier pitch date to present. 
 
 * **Be responsible** for what happens in class. Organise with your peers to get class information and material that you may have missed.
 
