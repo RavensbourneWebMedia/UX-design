@@ -2,7 +2,7 @@
 
 ### Today, Monday 15th January 2018
 
-1.[NMM Hidden Histoires Project](../../projects/nmm_hidden_histories)
+* [NMM Hidden Histoires Project](../../projects/nmm_hidden_histories)
 * [lightning talk](#lighting-talk) on digital projects in museums
 * [Random idea generator](#ideation)
 * [Elevator pitch](#elevator-pitch)
