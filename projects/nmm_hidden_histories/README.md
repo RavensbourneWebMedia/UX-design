@@ -26,13 +26,13 @@ The histories that we see reflected in Museums and Galleries have often been hea
 
 As part of this project you will be invited to consider and unearth the lives and stories of people who lived differently to the status quo. Where are the women, people of colour and gay, lesbian and transgender people within the gallery? What about people with disabilities? 
 
-Why focus on Hidden Histories? 
+#### Why focus on Hidden Histories? 
 
 1. Galleries and Museums are often partially publicly funded by the government through taxation. These taxes come from everyone in the UK and so exhibitions should be for everyone.
 2. History is a valuable resource for reflection and learning. If we hide things from history, then we can’t learn from history correctly.
 3. Diluted history has been used to subjugate and oppress people in the past. Galleries and museums want to make sure they don’t contribute to this.
 
-Hidden Histories: An Example
+#### Hidden Histories: An Example
 
 Take a look at this painting, The Fall of Nelson, Battle of Trafalgar, 21 October 1805 painted by Denis Dighton.
 
@@ -42,7 +42,7 @@ Within this picture there is only one representation of a Black man. On a normal
 
 Bringing this story into the consciousness of NMM visitors would be an example of unearthing a hidden history. 
 
-Points to consider:
+#### Points to consider:
 
 One of the National Maritime Museums functions is to be critical of colonial pasts in British history and you have been welcomed to explore this avenue if you would like but consider a) how to tell stories that will engage your audience, b) the language and time that you use when presenting points. 
 
@@ -76,15 +76,14 @@ You're encouraged to develop your own key message, along the lines of:
 
 > Within `X amount of time` and through `Y content` presented via `Z technology`, visitors will learn `key message`
 
-Depending on your key message, your exhibit could present a **broad** collection of archived materials, or a **focused** collection of particular objects (or anything in between). The purpose of your exhibit could span from **learning** to **making**.
+Depending on your key message, your exhibit could present a **broad** collection of archived materials, or a **focused** collection of particular objects (or anything in between). The purpose of your exhibit could span from **learning** to **making** / **sharing**.
 
-![](assets/experience-content-graph.png)
 
 ### Audience
 
 We have been given a range of audiences by the Museum below. **Pick one** of the audiences (or a segment of an audience group) and make sure that your design choices are appropriate for their interests, needs, cultural references and skills.
 
-1. Low Income Local Residents
+* Low Income Local Residents
 * Black Asian Minority Ethnic (BAME)
 * Lesbian Gay Bisexual Transgender Queer (LGBTQ+)
 * Women
@@ -105,11 +104,7 @@ We have been given a range of audiences by the Museum below. **Pick one** of th
 * Avoid dry paragraphs
 * Avoid playing audio out load on a loop within the gallery space.
 * Avoid describing your chosen audience with an acronyms or in shorthand. 
-* Do visitors understand that the piece can be interacted with, and is it clear how they can interact with it?  
-  
-	If something looks like a poster, then people will treat it like a poster, and not interact with it.  
-  
-	If visitors don't understand the interface (*does this look like a button?* and *how am I meant to tap this?* kind of questions) then they won't interact with the piece.
+* Do visitors understand that the piece can be interacted with, and is it clear how they can interact with it? If something looks like a poster, then people will treat it like a poster, and not interact with it.  If visitors don't understand the interface (*does this look like a button?* and *how am I meant to tap this?* kind of questions) then they won't interact with the piece.
 
 ### Deliverables
 
