@@ -1,12 +1,8 @@
 # NMM Hidden Histories
 
-Detail of this project will be posted after the National Maritime Museum briefing on Monday 8th January. 
-
-
-
 #### Table of contents
 
-1. [Context](#context)
+* [Context](#context)
 * [Key message](#key-message)
 * [Audience](#audience)
 * [Technology](#technology) 
