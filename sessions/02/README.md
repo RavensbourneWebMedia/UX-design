@@ -1,12 +1,9 @@
 # Week 2
 
-Session 2 will be released shortly before the teaching session. 
+### Today, Monday 15th January 2018
 
-<!---
-
-### Today, Monday 16th January 2017
-
-1. [Amy's lightning talk](#lighting-talk) on digital projects in museums
+1. 
+* [lightning talk](#lighting-talk) on digital projects in museums
 * [Random idea generator](#ideation)
 * [Elevator pitch](#elevator-pitch)
 * [Concept one-pager](#concept-one-pager)
@@ -16,18 +13,18 @@ Session 2 will be released shortly before the teaching session.
 
 # Lighting talk
 
-Amy Jackson-Bruce will inspire you with a presentation featuring many interactive digital projects in various museums around the World.
+First off: a presentation featuring many interactive digital projects in various museums around the World.
 
-You can find her slides [here](https://docs.google.com/presentation/d/1vTxxRo03hyqhA3zjIf48S2npBAu4DEDTbVITadu7r9Y/edit?usp=sharing).
+Slides are available [here](https://docs.google.com/presentation/d/1vTxxRo03hyqhA3zjIf48S2npBAu4DEDTbVITadu7r9Y/edit?usp=sharing).
 
 We've mapped each project on a *content/experience graph*:
 
 * *Content*: does the project present a **broad** collection of archived materials, or a **focused** collection of particular objects (or anything in between)? 
-* *Experience*: is the purpose of the project to get visitors to **learn** or **make** something?
+* *Experience*: is the purpose of the project to get visitors to **learn** or **make** / **share** something?
 
 ![](assets/experience-content-graph.png)
 
-After Amy's talk we'll start the [*ideation*](#ideation) process for the [Maritime Museum NMMaps brief](../../projects/nmmaps). 
+After this we'll start the [*ideation*](#ideation) process for the [Maritime Museum NMM Hidden Histories brief](../../projects/nmm_hidden_histories). 
 
 
 # Ideation
@@ -44,7 +41,7 @@ This is why we're asking you to come up with at least 3, so that one may be half
 
 ### Your turn
 
-With your team mates, use this custom-made [random idea generator](http://bit.ly/NMMaps) and GDocs to jot down at least 3 ideas in response to the [Maritime Museum NMMaps brief](../../projects/nmmaps)!
+With your team mates, use this custom-made [random idea generator](http://bit.ly/NMMaps) and GDocs to jot down at least 3 ideas in response to the [Maritime Museum NMM Hidden Histories brief](../../projects/nmm_hidden_histories)!
 
 * Write down as many ideas as possible 
 * There is no such thing as a  *bad* idea 
@@ -111,8 +108,8 @@ Some examples by your fellow students from 2016:
 
 ![](assets/one-pager-Rana-Luke-Sanj.jpg)
 
-
 ![](assets/one-pager-Ollie-Aidan-Ryder.pdf)
+
 ![](assets/one-pager-Tom-Harry-Johnny.pdf)
 
 
@@ -130,7 +127,7 @@ Some examples by your fellow students from 2016:
 
 To validate your initial idea and *persevere / pivot / kill*...
 
-Armed with your concept one-pager, **go to the Maritime Museum** and interview at least three visitors who roughly fit within your target audience (the more the better).
+Armed with your concept one-pager, **go to the Maritime Museum** and interview at least three visitors (the more the better).
 
 Start with **open questions**, get them to talk about themselves and **their experience** at the museum.
 
