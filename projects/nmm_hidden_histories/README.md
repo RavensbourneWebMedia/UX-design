@@ -22,17 +22,21 @@ The [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (N
 
 ### Context
 
-The NMM will open four new [Endeavour Galleries](https://www.hlf.org.uk/about-us/news-features/endeavour-galleries-national-lottery-success-ahoy) in 2018.
+The histories that we see reflected in Museums and Galleries have often been heavily influenced by the people who were given the opportunity to record their stories and versions of events. As a result, most artworks and writing that you will see in public displays are by white, wealthy, heterosexual men. 
 
-The interactive exhibit you will design will be part of the **Tudor and Stuart Seafarers** gallery, which is about Britain's emergence as a maritime power in the 16th and 17th centuries.
+As part of this project you will be invited to consider and unearth the lives and stories of people who lived differently to the status quo. Where are the women, people of colour and gay, lesbian and transgender people within the gallery? What about people with disabilities? 
 
-In the early modern period explorers like Colombo, Vespucci and Da Gama opened up new maritime routes, changing European and World history for ever. At the time, Britain was a small nation at the periphery of Europe. By the end of the 17th century its colonies were stretching over the entire World.
+Why focus on Hidden Histories? 
 
-In those two centuries there was a boom in *map-making*, as maps were both indispensable *tools* to navigate the sees, and precious *propaganda objects* for those in powers to show off their dominions. Your interactive exhibit will be part of the **Mapping the World** section, at the entrance of the gallery.
+1. Galleries and Museums are often partially publicly funded by the government through taxation. These taxes come from everyone in the UK and so exhibitions should be for everyone.
+2. History is a valuable resource for reflection and learning. If we hide things from history, then we can’t learn from history correctly.
+3. Diluted history has been used to subjugate and oppress people in the past. Galleries and museums want to make sure they don’t contribute to this.
 
-![](assets/tudor-stuart-seafarers.jpg)
+Hidden Histories: An Example
 
-![](assets/mapping-the-world.png)
+Take a look at this painting, The Fall of Nelson, Battle of Trafalgar, 21 October 1805 painted by Denis Dighton.
+
+
 
 ### Key message
 
