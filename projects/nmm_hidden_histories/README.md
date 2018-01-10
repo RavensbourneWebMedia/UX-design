@@ -36,7 +36,7 @@ Hidden Histories: An Example
 
 Take a look at this painting, The Fall of Nelson, Battle of Trafalgar, 21 October 1805 painted by Denis Dighton.
 
-
+![](assets/image1-10.jpg)
 
 ### Key message
 
