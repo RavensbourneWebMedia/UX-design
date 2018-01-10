@@ -2,7 +2,7 @@
 
 ### Today, Monday 15th January 2018
 
-1. 
+1.[NMM Hidden Histoires Project](../../projects/nmm_hidden_histories)
 * [lightning talk](#lighting-talk) on digital projects in museums
 * [Random idea generator](#ideation)
 * [Elevator pitch](#elevator-pitch)
@@ -10,6 +10,9 @@
 
 ### Your [homework](#homework) and [blog](#blog)!
 
+# NMM Hidden Histoires Project
+
+The [Project Brief](../../projects/nmm_hidden_histories) is now live. Let's recap quickly. 
 
 # Lighting talk
 
@@ -96,22 +99,13 @@ It typically includes:
 * answers to your elevator pitch
 * a visualisation of the idea (but not necessarily wireframes or mockups)
 
-Some examples by your fellow students from 2016:
+Some examples by your fellow students from 2017:
 
-![](assets/one-pager-Ade-Kieran.jpg)
+![](assets/Concept_One_Pager_Fransisco, Joe.jpg)
 
-![](assets/one-pager-Ade-Rana-Jack.jpg)
+![](assets/Conect one pager_Ajay_Afsara.png)
 
-![](assets/one-pager-Harry-Johnny.jpg)
-
-![](assets/one-pager-Ollie-Aidan-Ryder-Johan.jpg)
-
-![](assets/one-pager-Rana-Luke-Sanj.jpg)
-
-![](assets/one-pager-Ollie-Aidan-Ryder.pdf)
-
-![](assets/one-pager-Tom-Harry-Johnny.pdf)
-
+![](assets/concept 1 pager_Dean, Ben.png)
 
 ### Your turn
 
