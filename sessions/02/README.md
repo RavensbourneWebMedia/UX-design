@@ -44,7 +44,8 @@ This is why we're asking you to come up with at least 3, so that one may be half
 
 ### Your turn
 
-With your team mates, use this custom-made [random idea generator](http://bit.ly/NMMaps) and GDocs to jot down at least 3 ideas in response to the [Maritime Museum NMM Hidden Histories brief](../../projects/nmm_hidden_histories)!
+With your team mates <!--- use this custom-made [random idea generator](http://bit.ly/NMMaps) --->
+and GDocs to jot down at least 3 ideas in response to the [Maritime Museum NMM Hidden Histories brief](../../projects/nmm_hidden_histories)!
 
 * Write down as many ideas as possible 
 * There is no such thing as a  *bad* idea 
@@ -52,7 +53,7 @@ With your team mates, use this custom-made [random idea generator](http://bit.ly
 * Don’t stay too long on one idea
 * Avoid multi-tasking (can you put your phone away for 30 minutes?)
 
-Share your ideas (documents, photos of sketches etc.) on Slack in the `#ux-design` channel. 
+Share your ideas (documents, photos of sketches etc.) on today's [Google Doc](https://docs.google.com/document/d/1Pk6vYGCK1c-syq9iox2l9OMT4KV-Wk1ewfjxi7VgxM0/edit?usp=sharing). 
 
 
 # Elevator pitch
@@ -67,7 +68,7 @@ First we need to define:
 * **Who** is it for?
 * **Why** is it needed or wanted?
 
-Some examples by your fellow students from 2016:
+Some examples by your fellow students from 2017:
 
 > A learning game for Key Stage 1 children to practice their spelling and addition. It harnesses children's creativity and love of Minecraft to convert some of playtime into learning time. 
 
@@ -85,7 +86,7 @@ Ollie, Aidan, Ryder and Johan
 
 Develop your answers to the 3 questions above into an *[elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch)*: a short and sharp communication that shouldn't take more than 30 seconds to tell!
 
-Write your elevator pitch(es) in GDocs and share them on Slack in the `#ux-design` channel. 
+Write your elevator pitch(es) in GDocs and share them in todays [Google Doc](https://docs.google.com/document/d/1Pk6vYGCK1c-syq9iox2l9OMT4KV-Wk1ewfjxi7VgxM0/edit?usp=sharing) under your team name. 
 
 
 # Concept one-pager
@@ -103,17 +104,22 @@ Some examples by your fellow students from 2017:
 
 ![](assets/Concept_One_Pager_Fransisco, Joe.jpg)
 
+By Fransisco & Joe. 
+
 ![](assets/Conect one pager_Ajay_Afsara.png)
 
+By Afsara & Ajay.
+
 ![](assets/concept 1 pager_Dean, Ben.png)
+
+By Ben & Dean
 
 ### Your turn
 
 1. Individually, sketch out a concept one-pager (15 minutes).
 * Discuss it  with your team mates (15 minutes).
 * For next week's session, put together the best bits of your sketches into a team's concept one-pager.
-* Share both your sketches and the team one-pager on Slack in the `#ux-design` channel. 
-
+* Share both your sketches and the team one-pager on today's [Google Doc](https://docs.google.com/document/d/1Pk6vYGCK1c-syq9iox2l9OMT4KV-Wk1ewfjxi7VgxM0/edit?usp=sharing) under your team name.
 
 # Homework
 
@@ -137,4 +143,3 @@ At this stage of the project it's useful that you **wireframe your initial ideas
 
 Record your thoughts for these initial wireframes in a blog post.
 
--->
