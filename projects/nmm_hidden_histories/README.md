@@ -73,6 +73,8 @@ You're encouraged to develop your own key message, along the lines of:
 
 Depending on your key message, your exhibit could present a **broad** collection of archived materials, or a **focused** collection of particular objects (or anything in between). The purpose of your exhibit could span from **learning** to **making** / **sharing**.
 
+![](assets/experience-content-graph_hidden_Histories copy.png) 
+
 
 ### Audience
 
