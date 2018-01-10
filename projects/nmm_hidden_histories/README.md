@@ -50,9 +50,9 @@ Along the same lines, the Museum has welcomed a critical eye to be passed over t
 
 ### Technology
 
-![](assets/image15-37.jpeg)
-
 You will be designing an experience for the museum that uses mobile devices as the mechanism for delivery as there is no specific installation space that can be designated at present. The museum would be able to dedicate a number of iPads to the experience or experience users could their own device. 
+
+![](assets/image15-37.jpg)
 
 Your experience should be for everyone to use within your target audience, are therefore if you are delivering to users devices, the experience should be OS agnostic. ie - Your experience should work on all devices, mobile and tablet.
 
