@@ -2,7 +2,7 @@
 
 Detail of this project will be posted after the National Maritime Museum briefing on Monday 8th January. 
 
-<!--
+
 
 #### Table of contents
 
@@ -15,11 +15,10 @@ Detail of this project will be posted after the National Maritime Museum briefin
 * [Timeline](#timeline) and deadlines
 * [Inspirations](#inspiring-projects)
 
-#### TL;DR
 
-The [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (NMM) in Greenwich wants you to design the UX of an interactive exhibit about the Museum's vast **collection of maps and charts from the 16th and 17th centuries** and deliver your proposal by the 6th of March 2017! 
+The [National Maritime Museum](http://www.rmg.co.uk/national-maritime-museum) (NMM) in Greenwich in Greenwich wants you to design the UX of a **digital intervention** that will help visitors **discover, explore and/or share** hidden histories in the collection by the **5th of March 2018.**
 
-![](assets/atlantic-chart.jpg "Chart of Atlantic World by Nicholas Comberford, 1650")
+![](assets/image12-31.png)
 
 ### Context
 
@@ -170,18 +169,5 @@ These two websites may also give you insights into digital projects in museums:
 
 
 
-Soundscapes at the NPG
-ChristineBot, by students from the MA Culture, Criticism and Curation at CSM. Started from historical material to give Christine (a lady who was a curator at Southbank many years ago) a new life on the Web, making the archive truly accessible. Both because it's online, and because it’s been re-formatted it so that it's relatable to how we consume culture these days.
-Creative Journeys at the V&A, a (dead) project Matteo worked on many years ago.
-Magic Tate Ball - A Project Amy Jackson-Bruce (Web Media alumna) worked on at Tate, allowing users to shake their mobile phone and receive a Tate artwork that relates to the user’s surroundings. 
-Race Against Time - a Tate mobile game where you race through art histories chapters to collect the worlds colour particles (which have been stolen by the evil DR. Greyscale). 
-Pocket Art Gallery - An augmented reality app built to allow art lovers to place artworks virtually in their surroundings. 
-The Google Art Project (or Art Project by Google) - An online platform showcasing artworks from lots of galleries and cultural institutions from around the world. Added bonus - you can use Google Street view to explore inside the buildings.
-Tate Kids 
-The Museum of London’s Street Museum - A mobile app that allows history lover to hold their phone up to different parts of London’s landscape and see a historical photograph of that scene superimposed onto into their camera view. 
-William Blake Audio Tour of London (Tate) - 
-Bloomberg Connects Timeline of Modern Art (In Gallery Interactive Display - Tate Modern). 
-
--->
 
 
