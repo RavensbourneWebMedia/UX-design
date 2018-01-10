@@ -38,6 +38,30 @@ Take a look at this painting, The Fall of Nelson, Battle of Trafalgar, 21 Octobe
 
 ![](assets/image1-10.jpg)
 
+Within this picture there is only one representation of a Black man. On a normal day, museum visitors may not see this man or stop to consider the story of how and why he was on this ship. 
+
+Bringing this story into the consciousness of NMM visitors would be an example of unearthing a hidden history. 
+
+Points to consider:
+
+One of the National Maritime Museums functions is to be critical of colonial pasts in British history and you have been welcomed to explore this avenue if you would like but consider a) how to tell stories that will engage your audience, b) the language and time that you use when presenting points. 
+
+Along the same lines, the Museum has welcomed a critical eye to be passed over their current approaches to interactives in the gallery. If this approach is taken you must consider that the NMM is a briefing client. Benefits and considerations for improvements must be presented OR positive ways to move forwards. Be factual in your analysis rather than emotional.
+
+### Technology
+
+![](assets/image15-37.jpeg)
+
+You will be designing an experience for the museum that uses mobile devices as the mechanism for delivery as there is no specific installation space that can be designated at present. The museum would be able to dedicate a number of iPads to the experience or experience users could their own device. 
+
+Your experience should be for everyone to use within your target audience, are therefore if you are delivering to users devices, the experience should be OS agnostic. ie - Your experience should work on all devices, mobile and tablet.
+
+The museum would be open to the use of hotspots, proximity sensors, pattern recognition, AR, VR and QR codes within your projects but expensive hardware builds will not be considered. 
+
+Wifi within the NMM buildings is not always reliable but does cover most of the galleries and cafe area. This will be a core consideration for your experience. 
+
+And finally, a quote from Hans to bear in mind. “I don’t like digital unless it serves a specific purpose and unless it works.” Experiences should be frictionless and instinctual.
+
 ### Key message
 
 The interactive exhibit should have **one** key message, one thing that visitors will come away with.
@@ -97,13 +121,6 @@ Depending on your key message, your exhibit could present a **broad** collection
 	If visitors don't understand the interface (*does this look like a button?* and *how am I meant to tap this?* kind of questions) then they won't interact with the piece.
 
 
-### Technology
-
-Your starting point is a 32" touch screen (red rectangle in the image below) with audio output and internet connection. 
-
-Your proposal can add extra technology on top of that, as long as it fits with your [key message](#key-message). 
-
-![](assets/touch-screen.jpg)
 
 ### Constraints
 
