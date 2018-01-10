@@ -3,10 +3,9 @@
 #### Table of contents
 
 * [Context](#context)
+* [Technology](#technology) 
 * [Key message](#key-message)
 * [Audience](#audience)
-* [Technology](#technology) 
-* [Constraints](#constraints)
 * [Deliverables](#deliverables), aka hand-in checklist
 * [Timeline](#timeline) and deadlines
 * [Inspirations](#inspiring-projects)
