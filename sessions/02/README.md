@@ -44,8 +44,7 @@ This is why we're asking you to come up with at least 3, so that one may be half
 
 ### Your turn
 
-With your team mates <!--- use this custom-made [random idea generator](http://bit.ly/NMMaps) --->
-and GDocs to jot down at least 3 ideas in response to the [Maritime Museum NMM Hidden Histories brief](../../projects/nmm_hidden_histories)!
+With your team mates and GDocs to jot down at least 3 ideas in response to the [Maritime Museum NMM Hidden Histories brief](../../projects/nmm_hidden_histories)!
 
 * Write down as many ideas as possible 
 * There is no such thing as a  *bad* idea 
