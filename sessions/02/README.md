@@ -102,15 +102,15 @@ It typically includes:
 
 Some examples by your fellow students from 2017:
 
-![](assets/Concept_One_Pager_Fransisco, Joe.jpg)
+![](assets/Concept_One_Pager_Fransisco%2C%20Joe.jpg)
 
 By Fransisco & Joe. 
 
-![](assets/Conect one pager_Ajay_Afsara.png)
+![](assets/Conect%20one%20pager_Ajay_Afsara.png)
 
 By Afsara & Ajay.
 
-![](assets/concept 1 pager_Dean, Ben.png)
+![](assets/concept%201%20pager_Dean%2C%20Ben.png)
 
 By Ben & Dean
 
