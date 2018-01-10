@@ -82,30 +82,19 @@ Depending on your key message, your exhibit could present a **broad** collection
 
 ### Audience
 
-**Pick one** of the 14 museum visitor segments (see below) and make sure that your design choices are appropriate for their interests, needs, cultural reference and skills.
+We have been given a range of audiences by the Museum below. **Pick one** of the audiences (or a segment of an audience group) and make sure that your design choices are appropriate for their interests, needs, cultural references and skills.
 
-1. Fashion Young
-* Trendy Parents
-* Premium Mid Life Independents
-* Explore and Discover
-* High Culture Vultures
-* Broadening Horizons
-* Physical Comfort Zone
-* Attic Authentics
-* Culture Focus (tourist)
-* Sightseers (tourist)
-* Activity Seekers (tourist)
-* Maritime interest
-* Astronomy interest
-* Seas, ships, stars and time
-
-[Learn more about these segments](https://docs.google.com/presentation/d/1Soipi5y7EXkTpo5TzV1g0G6gs21_MGves83PrxwdB1M/edit?usp=sharing). 
-
-[![](assets/segments.png)](https://docs.google.com/presentation/d/1Soipi5y7EXkTpo5TzV1g0G6gs21_MGves83PrxwdB1M/edit?usp=sharing)
+1. Low Income Local Residents
+* Black Asian Minority Ethnic (BAME)
+* Lesbian Gay Bisexual Transgender Queer (LGBTQ+)
+* Women
+* Visitors with special needs and learning difficulties (Including SEND and ASL)
 
 #### Dos :+1:
 
 * Asking visitors to collect items / complete tasks
+* Reference and name the audience you are designing for correctly. 
+* Think sensitively about how you are describing other peoples stories and think: Are you taking ownership of someone else’s identity or culture? Is there a danger of misrepresentation or causing offence?
 * Use characters / stories to convey factual information
 * Make sure that you **explain the interface** to your visitors (don't force it on everyone, but make it available if someone is lost)
 * How can you let people experience the same piece without creating bottle-necks? **Non-linear narratives** and experience that don't rely on a single entry point can help manage the *traffic* in the gallery space.
@@ -114,25 +103,13 @@ Depending on your key message, your exhibit could present a **broad** collection
 #### Dont's :-1: 
 
 * Avoid dry paragraphs
+* Avoid playing audio out load on a loop within the gallery space.
+* Avoid describing your chosen audience with an acronyms or in shorthand. 
 * Do visitors understand that the piece can be interacted with, and is it clear how they can interact with it?  
   
 	If something looks like a poster, then people will treat it like a poster, and not interact with it.  
   
 	If visitors don't understand the interface (*does this look like a button?* and *how am I meant to tap this?* kind of questions) then they won't interact with the piece.
-
-
-
-### Constraints
-
-**Time**: the duration of the interactive experience should be max 5 minutes
-
-**Accessibility**: all interactive objects will be set at an accessible height for visitors in wheelchairs. There should be a row of easy to reach navigation icons for visitors with restricted reach.
-
-Learn more about the specifics of this interactive exhibit from the [NMM's official Exhibition Design Sheet (EDS)](https://docs.google.com/document/d/1ZV_rdbyZbnu4Ir0sPeR4DyWPsCuopbWpSqZvNZhoecU/edit?usp=sharing).
-
-Here's a [sample of maps and charts](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing) from the NMM collection. 
-
-[![](assets/upside-down.jpg)](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing)
 
 ### Deliverables
 
@@ -145,6 +122,7 @@ In other words, what the client wants you to deliver:
 * How do visitors **interact** with the exhibit?
 * What **reward(s)** will the exhibit offer to visitors?
 * How does the exhibit re-sets itself on **conclusion** of the interaction? 
+* An graphical representation of how the interactive will be signposted within the gallery space. 
 * Interactive **prototypes** of your idea 
 * **User-testing report**
 
@@ -154,9 +132,9 @@ When | What
 ---- | ----
 Monday 9th of January | Project kickstart and customer discovery interviews @ NMM
 January | Come up with ideas, prototype and test them
-Monday 30th of January | Formative presentations @ NMM 
+Monday 5th of February | Formative presentations @ NMM 
 February | Iterative prototyping and user-testing @ NMM, tutorials
-Monday 6th of March | Summative presentations @ NMM 
+Monday 5th of March | Summative presentations @ NMM 
 
 ### Inspiring projects
 
