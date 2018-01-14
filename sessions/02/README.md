@@ -4,7 +4,7 @@
 
 * [NMM Hidden Histoires Project](../../projects/nmm_hidden_histories)
 * [lightning talk](#lighting-talk) on digital projects in museums
-* [Random idea generator](#ideation)
+* [Idea generation](#ideation)
 * [Elevator pitch](#elevator-pitch)
 * [Concept one-pager](#concept-one-pager)
 
