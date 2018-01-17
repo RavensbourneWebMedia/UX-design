@@ -47,7 +47,7 @@ This is a solution-oriented assumption. Take a step back and ask, *why*?
 
 This is the business-perspective assumption. Not the customer's problem. Ask *why* again.
 	
-:heavy_check_mark: Because `visitors want to know every example of a hidden history available within the museum`  
+:heavy_check_mark: Because `visitors are inquisative about hidden history stories within the museum`  
   
 This assumption is defined from the customer's perspective (and should be linked to something visitors told you during your interviews).
 
