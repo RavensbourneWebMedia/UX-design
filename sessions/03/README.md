@@ -132,7 +132,7 @@ A user persona allows you to visualise users with **common behavioural patterns*
 
 #### Your turn
 
-Create (at least) two user personas for your interactive exhibit.
+Create (at least) two user personas for your interactive intervention.
 
 Base your personas on the people you have interviewed (eg: this persona is based on four people we interviewed, and they all stated X and Y).
 
