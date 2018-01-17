@@ -19,7 +19,7 @@ Let's look at some projects from Tate and Burberry. We will focus on the UX desi
 - **prototyping** physically and digitally 
 - **user-testing**
 
-You can view/download the lecture slides [here](assets/UX-design-prototyping-process.pdf).
+You can view/download the lecture slides [here](UX_Design_&_Prototyping_2018.pdf).
 
 
 # National Maritime Museum Hidden Histories
