@@ -111,7 +111,7 @@ Name | Platform | Free?
 
 ### 2. User personas
 
-####. Why personas?
+#### Why personas?
 
 Whenever we design for a group of users that are not ourselves (which means, always) we make assumptions about their behaviours, goals and needs, attitudes, skills etc.  
 
