@@ -121,11 +121,11 @@ ADD DETAILS OF USER TESTING VISITING LECTURER.
 
 # Tutorials 
 
-Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit#heading=h.sri36ax4b1mo)!
+Claim your team's tutorial slot on [this GDoc](ADD LINK HERE)!
 
-5 weeks until the **summative presentations on the 5th of March**!
+1 week until the **formative presentations on the 5th of Feb**!
 
-Let's plan the next 4 weeks:
+Let's plan the next 7 days & what you need to complete:
 
 1. On post-its, write down everything that needs doing
 * Together we'll discuss priorities (what needs to be done first) and assign tasks to people.   
