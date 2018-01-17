@@ -2,11 +2,16 @@
 
 ### Today, Monday 29th January 2018
 
+*  Review: [User Persona Homework](#user_persona_homework)
 *  Workshop: [where does it hurt?](#where-does-it-hurt)
 * Lightning talk and workshop on [user-testing](#user-testing)
 * [Tutorials](#tutorials): formative feedback evaluation & planning
 
 Your [homework](#homework) and [blog](#blog)!
+
+# User Persona Homework
+
+Before we create new work today, let's review your [User Persona's](sessions/03#2-user-personas) from last week. 
 
 # Where does it hurt?
 
