@@ -1,15 +1,9 @@
 # Week 3
 
-Hello There :)
+### Today, Monday 22nd January 2018
 
-Session 3 will be released shortly before the teaching session. 
-
-<!---
-
-### Today, Monday 23rd January 2017
-
-1. Lightning talk: the [UX design process](#the-process) from *concept* to *experience map* to *digital prototype* 
-* Lightning talk: how to [make old maps interactive](#how-to-make-old-maps-interactive) 
+* Lightning talk: the [UX design process](#the-process) from *concept* to *experience map* to *digital prototype* 
+* Content Briefing: [National Maritime Museum Hidden Histories](#national-maritime-museum-hidden-histories)
 * Workshop: [experience map](#experience-map-on-post-its)
 * Intro to [prototyping](#prototyping)
 
@@ -18,26 +12,25 @@ Session 3 will be released shortly before the teaching session.
 
 # The process
 
-Amy will tell you about 3 projects she worked on while at Tate and Burberry. She will focus on the UX design process: 
+Let's look at some projects from Tate and Burberry. We will focus on the UX design process: 
 
 - defining the *problem*, aka **research** 
 - fleshing out the *solution* through **experience maps**
 - **prototyping** physically and digitally 
 - **user-testing**
 
-You can view/download her slides [here](assets/UX-design-prototyping-process.pdf).
+You can view/download the lecture slides [here](assets/UX-design-prototyping-process.pdf).
 
 
-# How to make old maps interactive
+# National Maritime Museum Hidden Histories
 
-Megan Barford (cartography expert @ NMM) will tell us about the museum's maps collection. We'll then discuss how you could present those objects and the rich information and stories they convey through an interactive exhibit.
+The NMM have now sent through the hidden history stories that will underpin our interactive interventions. 
 
-Here are some [notes from her presentation](../../projects/nmmaps/sixteenth-century-cartography.md) (please add your own comments by editing the linked `md` document).
+Let's all take 10 mins to read through the info below, then we'll each take X stories and present them to the class on the main screen. That way we can cover them quickly. 
 
-You can view her slides [here](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing). 
+You'll then have 15 mins to discuss how you could present these stories within your interactive with your team mates. I will come around and trouble shoot if there are any clashes or problems with fitting these into the concepts we have from last week. 
 
-[![](assets/upside-down.jpg)](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing)
-
+You can view the NMM resoures[here](ADD NEW DOCUMENT HERE). 
 
 # Workshop
 
@@ -106,6 +99,8 @@ Name | Platform | Free?
 
 # Homework
 
+<!---
+
 ### Prep formative
 
 Next Monday (January the 30th) you will present your work-in-progress at the NMM. 
@@ -120,15 +115,13 @@ You can use your elevator pitch, concept one-pager, experience map and prototype
 
 **Make sure you have some questions to ask to the museum experts**. They're not there to judge you, but to help you make design decision about your idea. Think about how you can you take advantage of their experience and knowledge. What could you ask them? What could they help you with?
 
+--->
+
 ### Keep prototyping
 
 **Prototype** two user flows:
 
-1. The **onboarding** process: how does your experience **attract visitors**? How does it engage them with its content? 
-	
-	Chris at the Maritime Museum observed that 
-	
-	> ...typically the most played video in an interactive piece at the museum is *the first video*, no matter what its content is. We tested this hypothesis by randomising the order in which videos are presented to visitors, and the results speak clearly: the most popular videos are the ones that require less tapping / scrolling to get to. Which means most visitors may watch one video, then move on. So how do we make that experience better? How do we get them to watch another?
+1. The **onboarding** process: how does your experience **communicate to visitors** when they first interact with the product? How does it engage them with its content? What are the **calls to action?** 
 	
 * A **problematic scenario**. 
 
@@ -136,7 +129,7 @@ You can use your elevator pitch, concept one-pager, experience map and prototype
 
 ### Blog	
 
-Pick your favourite digital museum experience from [Amy's presentation last week](https://docs.google.com/presentation/d/1vTxxRo03hyqhA3zjIf48S2npBAu4DEDTbVITadu7r9Y/edit?usp=sharing) and blog about it.
+Pick your favourite digital museum experience from [last week's presentation](https://docs.google.com/presentation/d/1vTxxRo03hyqhA3zjIf48S2npBAu4DEDTbVITadu7r9Y/edit?usp=sharing) and blog about it.
 
 Focus on these aspects (in no particular order):
 
@@ -145,4 +138,4 @@ Focus on these aspects (in no particular order):
 * **Why** did you pick this project? What intrigues you about it?
 * **Where** does this project fit in the *content - experience* graph (in your opinion) and why?
 
-	![](../../projects/nmmaps/assets/experience-content-graph.png)
+	![](../../projects/nmm_hidden_histores/assets/experience-content-graph.png)
