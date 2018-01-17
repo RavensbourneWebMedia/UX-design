@@ -13,7 +13,7 @@ Your [homework](#homework) and [blog](#blog)!
 
 ![](../04/assets/TheSonOfMan.jpg)
 
-Before we create new work today, let's review your [User Persona's](sessions/03#2-user-personas) from last week. 
+Before we create new work today, let's review your User Persona's from last week. 
 
 # Where does it hurt?
 
