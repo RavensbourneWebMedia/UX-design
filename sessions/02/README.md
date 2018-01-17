@@ -25,7 +25,7 @@ We've mapped each project on a *content/experience graph*:
 * *Content*: does the project present a **broad** collection of archived materials, or a **focused** collection of particular objects (or anything in between)? 
 * *Experience*: is the purpose of the project to get visitors to **learn** or **make** / **share** something?
 
-![](assets/experience-content-graph.png)
+![](assets/experience-content-graph_hidden_Histories.png) 
 
 After this we'll start the [*ideation*](#ideation) process for the [Maritime Museum NMM Hidden Histories brief](../../projects/nmm_hidden_histories). 
 
