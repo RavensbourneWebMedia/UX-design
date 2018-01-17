@@ -1,142 +1,76 @@
 # Week 5
 
-### Today, Monday 6th February 2017
+### Today, Monday 5th February 2018
 
-1. Workshop: [where does it hurt?](#where-does-it-hurt)
-* Lightning talk and workshop on [user-testing](#user-testing)
-* [Tutorials](#tutorials): formative feedback evaluation & planning
+Hello, aren't you keen? 
+
+Thanks for checking in :). This lecture will be available just before 5th Jan. 
+
+ <!---
+
+1. **AM** Tutorials
+2. **PM** formative presentations @ NMM. We need to get there by 13:30 and the formatives will run from 14:00 to 16:00
 
 Your [homework](#homework) and [blog](#blog)!
 
 
-# Where does it hurt?
+# Tutorials
 
-Imagine you're a person (or a *persona*) going through your experience map. 
+Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit?usp=sharing)!
 
-1. Define a **goal** for your person(a). What does s/he want to achieve through the experience? 
+This afternoon you will present your work-in-progress at the NMM. 
 
-	In other words, what is the *destination* s/he wants to reach in your experience map?
-* Simulate the **experience flow**: go through each step with your team and discuss what happens to your person(a).
-* For each step, identify potential **pain points**.  
-  
-	Add emoticons to each step, to visualise what's happening inside your person(a)'s head.
+Remember, this is a **formative presentation**, which gives you a chance to **get feedback** from the museum experts and **ask questions** to them. 
 
-	![](../04/assets/use-case-02.jpg)
+Talk about your **research**: what you learned from interviewing museum visitors, and what you observed at NMM and/or other museums.
 
-### The riskiest assumption
+Explain how your concept relates to the interests and needs of your **audience**.
 
-Going through the *experience flow* and identifying its *pain points* will allow you to uncover the **riskiest assumptions** in your idea. 
+You can use your elevator pitch, concept one-pager, experience map and prototype(s) to describe and visualise your idea.
 
-An assumption is a prediction for what you think will happen. Will users really behave as you predicted in your experience map?
-
-Your riskiest assumption is both **core** to your idea and **most unknown**, meaning you have little data to prove it's valid. It's important to always test your **riskiest assumption first**.
-
-Here are three examples:
-
-:x: `NMM visitors want to see all the maps in the collection through an interactive touchscreen`
-
-This is a solution-oriented assumption. Take a step back and ask, *why*?
-
-:x: Because `there isn't enough space in the galleries to showcase all maps`
-
-This is the business-perspective assumption. Not the customer's problem. Ask *why* again.
-	
-:heavy_check_mark: Because `visitors want to know where seafarers sailed and what navigation instruments they had available`  
-  
-This assumption is defined from the customer's perspective (and should be linked to something visitors told you during your interviews).
-
-<!--
-When you're testing a customer-perspective assumption, your riskiest assumption is one that supports the belief that your customer *has that problem*. 
-
-In a problem-solution case, the riskiest assumption is that it's *the right solution* to solve the problem. 
--->
-
-<!--
-#### What makes a good experiment?
-
-To prototype and test effectively, you need to **turn your assumptions into hypotheses** and then build an **experiment** to test the **riskiest** one.
-
-A good experiment is:
-
-1. cheap
-* quick
-* has the highest possible learning potential
-
-You can create good experiments by building a *landing page* (remember [Buffer](#the-buffer-story)?) or by creating *prototypes* that simulate the aspects of your experience where the riskiest assumption lives.
-
-Prototypes are likely the most appropriate tool for the kind of project we're working on this term ([DAX](../../projects/dax)).
--->
-
-### Prototyping (to experiment)
-
-Prototype, either on paper or digitally (or both, if your experience requires physical supports) the part of your experience where the riskiest assumption lies.
-
-<!--
-We're familiar with paper prototyping (here's a [great video-example](https://www.youtube.com/watch?v=_g4GGtJ8NCY).
--->
-
-Over the next four weeks you'll iterate and test your prototypes with real visitors at NMM, several times!
-
-A few tips:
-
-* Use **realistic content**.
-
-	As designers we're good at spotting *placeholder* text or images, however not everyone is familiar with them and sometimes people get hung up on details or ask `Why is that text in a foreign language?` (lorem ipsum).  
-	
-	Avoid *lorem ipsum* and stock photos like the plague! 
-	
-	You can find [real maps from the NMM collection here](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing).
-
-* How good is **good enough**?
-
-	You want to strike a balance between the time it takes to build the prototype, and how close to the real thing you need it to be for your user-testing to be effective. 
-	
-	 When user-testing, it's crucial that you explain to people that this is **not a finished product** (even though it looks obvious to you) and that you are not testing colours, animations etc. 
-
-* Avoid **linear click-throughs**. 
-
-	Even if there's one single call to action per screen, your prototype should offer a couple of options to users.
-
-* Create **reusable** styles and symbols.
-
-	There are ways to do it in every prototyping tool. 
-	
-	If you catch yourself building the same button twice, that's an alarm bell: you should turn it into a *symbol* (or *smart object*, or whatever your tool of choice calls them).
-	
-*	Use **real devices** when testing. 
-
-	If you're designing a mobile app, get the prototype on your mobile. If you're designing a touchscreen experience, get the prototype on a tablet.
-	
-
-# User-testing
-
-Johnny Isaacs from [Campus Society](http://www.campussociety.com/) will tell you the whys and hows of user-testing. Then we'll put that into practice.
-
-[Slides](https://drive.google.com/open?id=0B8pExRtNgFyRTXdNT1ZjdG02ODA) and [resources](https://drive.google.com/open?id=0B8pExRtNgFyRbjh0LUp4TjE4TWc) from his session.
-
-
-# Tutorials 
-
-Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit#heading=h.sri36ax4b1mo)!
-
-One month till the **summative presentations on the 6th of March**!
-
-Let's plan the next 4 weeks:
-
-1. On post-its, write down everything that needs doing
-* Together we'll discuss priorities (what needs to be done first) and assign tasks to people.   
+**Make sure you have a few questions to ask to the museum experts**. They're not there to judge you, but to help you make design decision about your idea. Think about how you can you take advantage of their experience and knowledge. What could you ask them? What could they help you with?
 
 
 # Homework
 
-### User-test your prototype
+### User personas
 
-Go to NMM and user-test your prototype with visitors. 
+#### Why personas?
 
-**Do at least two sessions over the next two weeks, and test at least four people per session!**
+Whenever we design for a group of users that are not ourselves (which means, always) we make assumptions about their behaviours, goals and needs, attitudes, skills etc.  
 
-Take notes, write down your observations between one person and the next, record people (audio/video) if you can.
+A common tool to *get to know your assumptions* about a group of user is creating a user persona.
+
+[Alan Cooper introduced user personas](http://www.cooper.com/journal/2008/05/the_origin_of_personas) as a methodology to solve the **elastic user** problem. As designers, we are tempted to stretch the user to fit almost perfectly to whatever you are designing. The vagueness of the user causes many design failures, because the user is too elastic. We therefore need something much more specific.
+
+A user persona allows you to visualise users with **common behavioural patterns** in their purchasing decisions, use of technology or products, customer service preferences, lifestyle choices, etc.
+
+#### What dimensions are used to cluster users into a persona?
+
+1. **Behaviours**: what users do
+2. **Attitudes**: what users expect
+3. **Motivations**: what users want / need
+4. **Limitations**: what blocks them from doing what they want / need
+
+**Demographics** are not really that useful.
+
+#### Your turn
+
+Create (at least) two user personas for your interactive exhibit.
+
+Base your personas on the people you have interviewed (eg: this persona is based on four people we interviewed, and they all stated X and Y).
+
+If you desperately need a template, you could [use this as a starting point](http://www.ux-lady.com/diy-user-personas/) but don't just mindlessly copy it. Think of what **dimensions** will be useful in the design process.
+
+Please no gimmicky graphs, unless they're based on research data and tell us something useful about the cluster of people they describe.
 
 ### Blog
 
-Write your observations about user-testing at NMM. What did you learn **about your prototype** and what did you learn **about user-testing as a UX method**?
+1. Review the **formative feedback** your received.
+2. **Individually** jot down an *action plan*: list what you want to do in order to address that feedback (eg: `prototype alternative game mechanics`, `try maps of obscure places`, `brainstorm different names`, `wireframe two options for the welcome screen`)
+3. **Compare** your action plan list with your team mates.
+4. Blog about this process, reflecting on the feedback received and how you (both individually and as a team) are responding to it.
+
+--->
+
+
