@@ -75,7 +75,7 @@ Prototypes are likely the most appropriate tool for the kind of project we're wo
 
 ### Prototyping (to experiment)
 
-Prototype, either on paper or digitally (or both, if your experience requires physical supports) the part of your experience where the riskiest assumption lies.
+Prototype, either on paper or digitally the part of your experience where the riskiest assumption lies.
 
 <!--
 We're familiar with paper prototyping (here's a [great video-example](https://www.youtube.com/watch?v=_g4GGtJ8NCY).
