@@ -12,8 +12,6 @@
 
 # The process
 
-![](assets/Race_Aginst_Time_Visual.png)
-
 Let's look at some projects from Tate and Burberry. We will focus on the UX design process: 
 
 - defining the *problem*, aka **research** 
