@@ -2,7 +2,7 @@
 
 ### Today, Monday 29th January 2018
 
-1. Workshop: [where does it hurt?](#where-does-it-hurt)
+*  Workshop: [where does it hurt?](#where-does-it-hurt)
 * Lightning talk and workshop on [user-testing](#user-testing)
 * [Tutorials](#tutorials): formative feedback evaluation & planning
 
