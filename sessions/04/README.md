@@ -39,15 +39,15 @@ Your riskiest assumption is both **core** to your idea and **most unknown**, mea
 
 Here are three examples:
 
-:x: `NMM visitors want to see all the maps in the collection through an interactive touchscreen`
+:x: `NMM visitors want to see all of the hidden histories present within the collection through a mobile application`
 
 This is a solution-oriented assumption. Take a step back and ask, *why*?
 
-:x: Because `there isn't enough space in the galleries to showcase all maps`
+:x: Because `there isn't enough space in the galleries to showcase all hidden histories alongside all other artefacts`
 
 This is the business-perspective assumption. Not the customer's problem. Ask *why* again.
 	
-:heavy_check_mark: Because `visitors want to know where seafarers sailed and what navigation instruments they had available`  
+:heavy_check_mark: Because `visitors want to know every example of a hidden history available within the museum`  
   
 This assumption is defined from the customer's perspective (and should be linked to something visitors told you during your interviews).
 
@@ -91,7 +91,7 @@ A few tips:
 	
 	Avoid *lorem ipsum* and stock photos like the plague! 
 	
-	You can find [real maps from the NMM collection here](https://docs.google.com/presentation/d/1tEg72Z_1cyxSUN1VfkW8Oke9gOZtmok0DRQ3odi61_4/edit?usp=sharing).
+	You can find [real hidden histories from the NMM collection here](ADD LINK HERE).
 
 * How good is **good enough**?
 
@@ -111,21 +111,19 @@ A few tips:
 	
 *	Use **real devices** when testing. 
 
-	If you're designing a mobile app, get the prototype on your mobile. If you're designing a touchscreen experience, get the prototype on a tablet.
+	If you're designing a mobile app, get the prototype on your mobile. If you're designing for a tablet, get the prototype on a tablet.
 	
 
 # User-testing
 
-Johnny Isaacs from [Campus Society](http://www.campussociety.com/) will tell you the whys and hows of user-testing. Then we'll put that into practice.
-
-[Slides](https://drive.google.com/open?id=0B8pExRtNgFyRTXdNT1ZjdG02ODA) and [resources](https://drive.google.com/open?id=0B8pExRtNgFyRbjh0LUp4TjE4TWc) from his session.
+ADD DETAILS OF USER TESTING VISITING LECTURER. 
 
 
 # Tutorials 
 
 Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit#heading=h.sri36ax4b1mo)!
 
-One month till the **summative presentations on the 6th of March**!
+5 weeks until the **summative presentations on the 5th of March**!
 
 Let's plan the next 4 weeks:
 
