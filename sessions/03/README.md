@@ -109,9 +109,9 @@ Name | Platform | Free?
 
 	For instance, what happens when your user makes a mistake, can't find what s/he is looking for, or generally when **something goes wrong**?
 
-	### User personas
+### 2. User personas
 
-#### 2. Why personas?
+####. Why personas?
 
 Whenever we design for a group of users that are not ourselves (which means, always) we make assumptions about their behaviours, goals and needs, attitudes, skills etc.  
 
