@@ -30,7 +30,7 @@ Let's divide up the class & the stories and take 10 mins to read through your al
 
 You'll then have 15 mins to discuss how you could present these stories within your interactive with your team mates. I will come around and trouble shoot if there are any clashes or problems with fitting these into the concepts we have from last week. 
 
-You can view the NMM resoures[here](assets/NMM Hidden Histories Stories.pdf). 
+You can view the NMM resoures[here](...assets/NMM Hidden Histories Stories.pdf). 
 
 # Workshop
 
