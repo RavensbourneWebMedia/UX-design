@@ -24,6 +24,8 @@ You can view/download the lecture slides [here](assets/UX_Design_&_Prototyping_2
 
 # National Maritime Museum Hidden Histories
 
+![](assets/Ship_in_a_Bottle_by_Yinka_Shonibare.png)
+
 The NMM have now sent through **24** hidden history stories that will underpin our interactive interventions. 
 
 Let's divide up the class & the stories and take 10 mins to read through your allocated stories. Then we'll each take our stories and present them to the class on the main screen. That way we can cover them quickly. 
