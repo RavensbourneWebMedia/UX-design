@@ -19,14 +19,14 @@ Let's look at some projects from Tate and Burberry. We will focus on the UX desi
 - **prototyping** physically and digitally 
 - **user-testing**
 
-You can view/download the lecture slides [here](assets/UX_Design_&_Prototyping_2018.pdf).
+You can view/download the lecture slides [here](assets/NMM Hidden Histories Stories.pdf).
 
 
 # National Maritime Museum Hidden Histories
 
-The NMM have now sent through the hidden history stories that will underpin our interactive interventions. 
+The NMM have now sent through **24** hidden history stories that will underpin our interactive interventions. 
 
-Let's all take 10 mins to read through the info below, then we'll each take X stories and present them to the class on the main screen. That way we can cover them quickly. 
+Let's divide up the class & the stories and take 10 mins to read through your allocated stories. Then we'll each take our stories and present them to the class on the main screen. That way we can cover them quickly. 
 
 You'll then have 15 mins to discuss how you could present these stories within your interactive with your team mates. I will come around and trouble shoot if there are any clashes or problems with fitting these into the concepts we have from last week. 
 
