@@ -13,7 +13,7 @@ Your [homework](#homework) and [blog](#blog)!
 
 ![](https://github.com/RavensbourneWebMedia/UX-design/blob/2018/sessions/04/assets/Overthearch.png)
 
-This morning we will be having a session on User Testing with Amin who runs [Over the Artch](http://www.overthearch.com/) a start up in Rave Incubation. 
+This morning we will be having a session on User Testing with Amin who runs [Over the Arch](http://www.overthearch.com/) a start up in Rave Incubation. 
 
 # User Persona Homework
 
