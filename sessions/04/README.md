@@ -121,7 +121,7 @@ ADD DETAILS OF USER TESTING VISITING LECTURER.
 
 # Tutorials 
 
-Claim your team's tutorial slot on [this GDoc](ADD LINK HERE)!
+Claim your team's tutorial slot on [this GDoc](https://docs.google.com/spreadsheets/d/1ZqaF3gx055rMgxeBGi5BvndM324ME7RFmHjAnRtzfR4/edit#gid=0)!
 
 1 week until the **formative presentations on the 5th of Feb**!
 
