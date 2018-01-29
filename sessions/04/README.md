@@ -2,12 +2,18 @@
 
 ### Today, Monday 29th January 2018
 
+* Lightning talk and workshop on [user-testing](#user-testing) with Amin. 
 *  Review: [User Persona Homework](#user_persona_homework)
 *  Workshop: [where does it hurt?](#where-does-it-hurt)
-* Lightning talk and workshop on [user-testing](#user-testing)
 * [Tutorials](#tutorials): formative feedback evaluation & planning
 
 Your [homework](#homework) and [blog](#blog)!
+
+# User-testing
+
+![](https://github.com/RavensbourneWebMedia/UX-design/blob/2018/sessions/04/assets/Overthearch.png)
+
+This morning we will be having a session on User Testing with Amin who runs [Over the Artch](http://www.overthearch.com/) a start up in Rave Incubation. 
 
 # User Persona Homework
 
@@ -113,10 +119,6 @@ A few tips:
 
 	If you're designing a mobile app, get the prototype on your mobile. If you're designing for a tablet, get the prototype on a tablet.
 	
-
-# User-testing
-
-ADD DETAILS OF USER TESTING VISITING LECTURER. 
 
 
 # Tutorials 
