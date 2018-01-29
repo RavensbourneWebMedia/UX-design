@@ -91,7 +91,7 @@ A few tips:
 	
 	Avoid *lorem ipsum* and stock photos like the plague! 
 	
-	You can find [real hidden histories from the NMM collection here](ADD LINK HERE).
+	You can find [real hidden histories from the NMM collection here](https://github.com/RavensbourneWebMedia/UX-design/blob/2018/sessions/03/assets/NMM_Hidden_Histories_Stories.pdf).
 
 * How good is **good enough**?
 
