@@ -2,12 +2,6 @@
 
 ### Today, Monday 5th February 2018
 
-Hello, aren't you keen? 
-
-Thanks for checking in :). This lecture will be available just before 5th Jan. 
-
- <!---
-
 1. **AM** Tutorials
 2. **PM** formative presentations @ NMM. We need to get there by 13:30 and the formatives will run from 14:00 to 16:00
 
@@ -16,7 +10,7 @@ Your [homework](#homework) and [blog](#blog)!
 
 # Tutorials
 
-Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit?usp=sharing)!
+Claim your team's tutorial slot on [this GDoc](https://docs.google.com/spreadsheets/d/1_vXOxLMfYUZVnxrEqJYA3_669yxHd6s3B1w3zSdzRFA/edit#gid=0)!
 
 This afternoon you will present your work-in-progress at the NMM. 
 
@@ -33,7 +27,6 @@ You can use your elevator pitch, concept one-pager, experience map and prototype
 
 # Homework
 
-
 ### Blog
 
 1. Review the **formative feedback** your received.
@@ -41,6 +34,5 @@ You can use your elevator pitch, concept one-pager, experience map and prototype
 3. **Compare** your action plan list with your team mates.
 4. Blog about this process, reflecting on the feedback received and how you (both individually and as a team) are responding to it.
 
---->
 
 
