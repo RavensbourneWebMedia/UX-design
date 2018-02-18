@@ -18,9 +18,9 @@ You were given a lot of valuable feedback and guidence on your projects by the i
 
 To follow on from this your homework was to: 
 
-1.	Review the formative feedback your received.
-2. Individually jot down an action plan: list what you want to do in order to address that feedback. 
-3. Compare your action plan list with your team mates.
+* Review the formative feedback your received.
+* Individually jot down an action plan: list what you want to do in order to address that feedback. 
+* Compare your action plan list with your team mates.
 
 This morning I would like to review your action plans & what you have executed over reading week. 
 
