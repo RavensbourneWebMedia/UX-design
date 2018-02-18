@@ -1,17 +1,60 @@
 # Week 6
 
-### Today, Monday 20th February 2017
+### Today, Monday 19th February 2018
 
-1. Prototyping workshop 
+1. Formative Feedback / Action Plan Review
+* Intro: Self Assessment for Summative. 
+* Prototyping workshop 
 * User-testing prep
 * User-testing @ NMM 
 
 Your [homework](#homework) and [blog](#blog)!
 
+# Formative Feedback / Action Plan Review
 
-# Prototyping workshop
+In the last session we had formative presentations at the NMM. 
 
-[Here's Amy's presentation](assets/prototyping.pdf)
+You were given a lot of valuable feedback and guidence on your projects by the in house team. This feeback can be found [here.](https://docs.google.com/document/d/1P_HZKHCFokdJ-BiGzdCjj6rkq-A4c8EpyxdXWY3ggcQ/edit) 
+
+To follow on from this your homework was to: 
+
+1.	Review the formative feedback your received.
+2. Individually jot down an action plan: list what you want to do in order to address that feedback (eg: prototype alternative game mechanics,   try maps of obscure places, brainstorm different names, wireframe two options for the welcome screen)
+3. Compare your action plan list with your team mates.
+
+This morning I would like to review your action plans & what you have executed over reading week. 
+
+If you do not have an action plan, make one in the session based on your [formative feedback.](https://docs.google.com/document/d/1P_HZKHCFokdJ-BiGzdCjj6rkq-A4c8EpyxdXWY3ggcQ/edit) 
+
+Some general points from the presentations: 
+
+1. Audience: Be clear on who you are designing for and make sure that this has come from the list given by the NMM. 
+2. User testing: Sasha has offered to put us in contact with the audience groups. Would you like to reach out for this? 
+3. Review the [brief](https://github.com/RavensbourneWebMedia/UX-design/tree/2018/projects/nmm_hidden_histories) Does your project address all of the point within this doc? 
+
+# Intro: Self Assessment for Summative. 
+
+At the beginning of term we talked through the [Marking Criteria](https://drive.google.com/file/d/1ue54a2OzIkeuDY0wKjW--96jjuNYNXcp/view?usp=sharing) for this course. 
+
+Let's quickly look at this again. 
+
+This term, you will be asked self assess your own teams work using a marking template. This means that along with your summative hand in's you will submit a marking sheet and indication of where you place your own work in the marking criteria. 
+
+Self assessmenet is a valuable tool in learning as it helps us guage where our own work and learning is against university standards and helps us be identify areas of strength and areas for improvement. 
+
+We will talk more about this next week when the assignment will be set along with  your summative hand in preparation. 
+
+# Prototyping workshop 2 
+
+Now that we have reviewed the feedback that you have been given and the action plans that you have made, it is time to think about whether you should stick, pivot or kill your previous prototypes? 
+
+Ask yourself? 
+
+* Does your core concept need to change based on the feedback your recieved? 
+* Were the UX steps that you explained to the NMM understood easily? 
+* Are your expereince maps clear and able to add value to the NMM? 
+
+Now, let's reveiw your prototypes with your action plans in mind and work on modifying your screens & designs. 
 
 # User-testing your prototype
 
@@ -19,9 +62,11 @@ Your [homework](#homework) and [blog](#blog)!
 
 Share some stories, discuss [tips](https://docs.google.com/document/d/1O0f50mVLfud9Y3fYCpPdtmcZ3scuJvaBq6nHGVjJrgs/edit#heading=h.mkklaycrp9q9).
 
+I have would like for us to contact Sacha about running some user testing with focus groups from your target audience over this week / next week. Before we do this, I would like us to prepare a user tesing guide for your adjusted prototypes & these new sessions so that we are well prepared. 
+
 ### Prepare a user-testing guide
 
-Let's spend a few minutes to prepare a guide for a user-testing session at NMM this afternoon.
+Let's spend the last 20 mins of class preparing a guide for a user-testing with NMM for this week / next week.
 
 Write down:
 
@@ -30,7 +75,7 @@ Write down:
 * what tasks will you ask testers to perform?
 * what context questions will you ask them at the beginning?
 
-[Here is an example user-testing guide](https://docs.google.com/document/d/1BFktaf9BfkCLFq1ONkfNRJ4tIUZNB6BvOTxzZkVeAso/edit?usp=sharing) from Johnny at Campus Society.
+[Here is an example user-testing guide](https://docs.google.com/document/d/1BFktaf9BfkCLFq1ONkfNRJ4tIUZNB6BvOTxzZkVeAso/edit?usp=sharing) from an industry contact. Can you use this as a basis for your own user testing template. 
 
 
 # Homework
@@ -61,10 +106,5 @@ Using [Adobe Spark](https://spark.adobe.com) (free, online) **create a Minimum V
 
 We'll review it next week.
 
-### User-test your prototype
-
-Go to NMM and user-test your prototype with visitors. 
-
-Take notes, write down your observations between one person and the next, and record people (audio/video) if you can.
 
 
