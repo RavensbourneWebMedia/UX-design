@@ -2,7 +2,7 @@
 
 ### Today, Monday 19th February 2018
 
-1. Formative Feedback / Action Plan Review
+* Formative Feedback / Action Plan Review
 * Intro: Self Assessment for Summative. 
 * Prototyping workshop 
 * User-testing prep
