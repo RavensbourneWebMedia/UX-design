@@ -85,7 +85,7 @@ Write down:
 In preparation for the summative presentation (and for your future career) read how to [use storytelling to effectively communicate your research](https://blog.intercom.com/get-the-most-out-of-your-research-storytelling/), then blog about:
 
 1. Your 3 take-aways from the article 
-* How could you tell the story of your project, and the research evidence you collected through interviews and user-testing @ NMM? 
+* How could you tell the story of your project to NMM at summative? 
 
 ### Concept video
 
