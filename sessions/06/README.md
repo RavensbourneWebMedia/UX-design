@@ -38,7 +38,7 @@ At the beginning of term we talked through the [Marking Criteria](https://drive.
 
 Let's quickly look at this again. 
 
-This term, you will be asked self assess your own teams work using a marking template. This means that along with your summative hand in's you will submit a marking sheet and indication of where you place your own work in the marking criteria. 
+This term, you will be asked to self assess your own teams work using a marking template. This means that along with your summative hand in's you will submit a marking sheet and indication of where you place your own work in the marking criteria. 
 
 Self assessmenet is a valuable tool in learning as it helps us guage where our own work and learning is against university standards and helps us be identify areas of strength and areas for improvement. 
 
