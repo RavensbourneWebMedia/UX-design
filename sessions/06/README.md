@@ -37,7 +37,7 @@ Some general points from the presentations:
 2. User testing: Sasha has offered to put us in contact with the audience groups. Would you like to reach out for this? 
 3. Review the [brief](https://github.com/RavensbourneWebMedia/UX-design/tree/2018/projects/nmm_hidden_histories) Does your project address all of the point within this doc? 
 
-# Intro: Self Assessment for Summative. 
+# Intro: Self Assessment for Formative on 5th March 2018. 
 
 At the beginning of term we talked through the [Marking Criteria](https://drive.google.com/file/d/1ue54a2OzIkeuDY0wKjW--96jjuNYNXcp/view?usp=sharing) for this course. 
 
