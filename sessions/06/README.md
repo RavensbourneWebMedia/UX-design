@@ -11,9 +11,9 @@
 
 Your [homework](#homework) and [blog](#blog)!
 
-# Reminder: Summative [Hand Ins](https://github.com/RavensbourneWebMedia/UX-design/tree/2018#summertive-assessment-monday-march-5th--national-maritime-museum)
+# Reminder: Summative Hand Ins
 
-A moment to reveiw what we need to hand in for this unit. 
+A moment to reveiw what we need to [hand in](https://github.com/RavensbourneWebMedia/UX-design/tree/2018#summertive-assessment-monday-march-5th--national-maritime-museum) for this unit. 
 
 # Formative Feedback / Action Plan Review
 
