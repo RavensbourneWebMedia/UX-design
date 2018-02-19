@@ -2,6 +2,7 @@
 
 ### Today, Monday 19th February 2018
 
+* Reminder: Summative Hand Ins
 * Formative Feedback / Action Plan Review
 * Intro: Self Assessment for Summative. 
 * Prototyping workshop 
@@ -9,6 +10,10 @@
 * User-testing @ NMM 
 
 Your [homework](#homework) and [blog](#blog)!
+
+# Reminder: Summative [Hand Ins](https://github.com/RavensbourneWebMedia/UX-design/tree/2018#summertive-assessment-monday-march-5th--national-maritime-museum)
+
+A moment to reveiw what we need to hand in for this unit. 
 
 # Formative Feedback / Action Plan Review
 
