@@ -48,7 +48,7 @@ When | In class | Homework | Blog
 Enchantment Week | | | 
 [Monday<br>19.02](sessions/06) | Prototyping workshop | Concept video | Telling the story of your project / research
 [Monday<br>26.02](sessions/07) | Tutorials <br>User-testing @ NMM | User-testing report | TBC
-[Monday<br>05.03](sessions/08) | **Summative presentations** @ NMM | Hand-in on Moodle |
+[Monday<br>05.03](sessions/08) | **Formative presentation 2** @ NMM | Hand-in on Moodle |
  
 <!---
 ### Term 3
@@ -61,8 +61,8 @@ When | Where | In class | Homework | Blog
 [Friday<br>12.05](sessions/12) | Rave | Special guest [Denise Xifara](https://twitter.com/dkxifara) ([Nupinion](http://beta.nupinion.com/) co-founder): tools and methods to scrape and visualise data | Prepare for face2face user-testing | Review Nupinion
 [**Wednesday<br>17.05**](sessions/13) | Rave | User-testing and iterative development | Draft a concept video | Designing concept videos
 [Friday<br>26.05](sessions/14) | [SCWA](http://scwa.org.uk/contact-us) | Concept video, landing page and user-testing | 5-second-test your landing page(s) | Testing landing pages
-[Friday<br>02.06](sessions/15) | Rave | Tutorials | Prepare summative | What did you learn?  
-[Friday<br>09.06](sessions/16) | Rave | **Summative presentations** | Hand-in on Moodle | 
+[Friday<br>02.06](sessions/15) | Rave | Tutorials | Prepare formative round 2 | What did you learn?  
+[Friday<br>09.06](sessions/16) | Rave | **Fromatve presentation 2** | Hand-in on Moodle | 
 --->
 
 # Projects
@@ -81,11 +81,11 @@ For formative, each group will produce a pitch for a design concept that will be
 
 This will be followed by at Moodle upload of the presentation by 16.00pm the same day. 
 
-### Summertive Assessment: Monday March 5th @ National Maritime Museum
+### Formative Assessment 2: Monday March 5th @ National Maritime Museum
 
-For Summative Presentation your teams will develop the formative pitch into an appropriate working prototype along with evidance of all parts of the industry brief. 
+For Formative Presentation 2 your teams will develop the formative pitch into an appropriate working prototype along with evidance of all parts of the industry brief. 
 
-For summative upload, an accompanying hand-in package for this prototype and supporting course work must be uploaded by 16.00pm to the indicated section on Moodle.
+For formative upload 2, an accompanying hand-in package for this prototype and supporting course work must be uploaded by 16.00pm to the indicated section on Moodle.
 
 You will be expect to hand in: A MarkDown document (where Name is your own name and Surname is your own surname, like WEB14204-Freya-Smith.md).
 
@@ -101,11 +101,11 @@ In that MarkDown document, you should include the following:
 	•	Prototype(s)
 	•	Concept video
 	•	User-testing report
-	•	Summative presentation
+	•	Formative presentation 2
 
 These matterials should support your prototype, supplied on a link within the document.  
 
-The summative hand-in should also be accompanied by a list of links to weekly blog posts.
+The second formative hand-in should also be accompanied by a list of links to weekly blog posts.
 
 <!---
 
