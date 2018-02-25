@@ -6,8 +6,6 @@
 * Formative Feedback / Action Plan Review
 * Intro: Self Assessment for Summative. 
 * Prototyping workshop 
-* User-testing prep
-* User-testing @ NMM 
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -60,28 +58,6 @@ Ask yourself?
 * Are your expereince maps clear and able to add value to the NMM? 
 
 Now, let's reveiw your prototypes with your action plans in mind and work on modifying your screens & designs. 
-
-# User-testing your prototype
-
-### What have you learned so far about user-testing? 
-
-Share some stories, discuss [tips](https://docs.google.com/document/d/1O0f50mVLfud9Y3fYCpPdtmcZ3scuJvaBq6nHGVjJrgs/edit#heading=h.mkklaycrp9q9).
-
-I have would like for us to contact Sacha about running some user testing with focus groups from your target audience over this week / next week. Before we do this, I would like us to prepare a user tesing guide for your adjusted prototypes & these new sessions so that we are well prepared. 
-
-### Prepare a user-testing guide
-
-Let's spend the last 20 mins of class preparing a guide for a user-testing with NMM for this week / next week.
-
-Write down:
-
-* what assumptions do you want to test?
-* how can you test them?
-* what tasks will you ask testers to perform?
-* what context questions will you ask them at the beginning?
-
-[Here is an example user-testing guide](https://docs.google.com/document/d/1BFktaf9BfkCLFq1ONkfNRJ4tIUZNB6BvOTxzZkVeAso/edit?usp=sharing) from an industry contact. Can you use this as a basis for your own user testing template. 
-
 
 # Homework
 
