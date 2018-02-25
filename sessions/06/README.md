@@ -74,7 +74,7 @@ Concept videos allow you to tell a compelling story around your idea, even if yo
 
 Did you know that Dropbox first MVP (*minimal viable product*) was [a concept video](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/)? [Check it out](https://www.youtube.com/watch?v=w4eTR7tci6A).
 
-[![](assets/dropbox.png)](https://www.youtube.com/watch?v=w4eTR7tci6A)
+![alt text](assets/dropbox.png)
 
 You can capture interest with a vivid **problem description**, and convince people with a **backstory** or examples of how people will benefit from you concept.
 
