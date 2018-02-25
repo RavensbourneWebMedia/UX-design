@@ -4,7 +4,7 @@
 
 * Concept video reveiw. 
 * [Tutorials](#tutorials): user-testing evaluation & planning
-* User-testing @ The Science Museum
+* Afternoon Session: User-testing @ The Science Museum
 
 Your [homework](#homework) and [blog](#blog)!
 
@@ -42,6 +42,16 @@ Write down:
 * what context questions will you ask them at the beginning?
 
 [Here is an example user-testing guide](https://docs.google.com/document/d/1BFktaf9BfkCLFq1ONkfNRJ4tIUZNB6BvOTxzZkVeAso/edit?usp=sharing) from an industry contact. Can you use this as a basis for your own user testing template. 
+
+### Afternoon Session: User Testing at the Science Museum
+
+This afternoon we will travel to the science museum for another round of user testing on your prototypes. 
+
+Let's meet outside the main entrance at 2pm to regroup before you head off in your pairs to complete your user testing. 
+
+[![](assets/SM.jpg)]()
+
+We will then regoup at 3.50pm to share thoughts on your sessions before end of class. 
 
 # Homework
 
