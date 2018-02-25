@@ -12,29 +12,36 @@ Your [homework](#homework) and [blog](#blog)!
 
 Last week you were asked to make a concept video for your NMM Hidden histories project. 
 
-This should have been in the form on an MVP, see last weeks Drop Box example below: 
-
-Did you know that Dropbox first MVP (*minimal viable product*) was [a concept video](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/)? [Check it out](https://www.youtube.com/watch?v=w4eTR7tci6A).
+This should have been in the form on an MVP, see last weeks Drop Box example [here](https://www.youtube.com/watch?v=w4eTR7tci6A): 
 
 [![](assets/dropbox.png)](https://www.youtube.com/watch?v=w4eTR7tci6A)
 
 Now it's your turn. Let's share our concept videos with the class. 
 
-# Tutorials 
+# User-testing your prototype
 
-Claim your team's tutorial slot on [this GDoc](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit#heading=h.ntityh5wyjvt)!
+### What have you learned so far about user-testing? 
 
-One week till the your **formative presentation (round 2) on the 5th of March**!
+In Week 4 you conducted user testing at the NMM and were asked to complete at least another two sessions over the next two weeks, with at least four people per session. 
 
-Let's review your progress over the last couple of weeks and plan the next 7 days:
+Let's share what you did you found out from these last sessions and what's changed with your prototype since. 
 
-* concept video
-* user-testing plan
-* state of the prototype
+Share some stories, discuss [tips](https://docs.google.com/document/d/1O0f50mVLfud9Y3fYCpPdtmcZ3scuJvaBq6nHGVjJrgs/edit#heading=h.mkklaycrp9q9).
 
-<!--
-* formative checklist
--->
+You were asked to do this and record your sessions / results as you will need to hand in a user testing report as part of your hand in. The report template that you will be using can be found [here](https://docs.google.com/document/d/1XIrJQe4acdR1fNuu53qgHxd80F5V_cvm2Uh62OQ3i1M/edit?usp=sharing). Take 10 mins to review the template and then think about what you have already & what you would like to achieve this week. 
+
+### Prepare a user-testing guide
+
+Let's spend the last 20 mins of class preparing a guide for a user-testing that you will conduct at the science museum this afternoon.
+
+Write down:
+
+* what assumptions do you want to test?
+* how can you test them?
+* what tasks will you ask testers to perform?
+* what context questions will you ask them at the beginning?
+
+[Here is an example user-testing guide](https://docs.google.com/document/d/1BFktaf9BfkCLFq1ONkfNRJ4tIUZNB6BvOTxzZkVeAso/edit?usp=sharing) from an industry contact. Can you use this as a basis for your own user testing template. 
 
 # Homework
 
@@ -49,7 +56,7 @@ An important and often overlooked part of user-testing is **collecting evidence*
 * Change the sharing settings for your copy so that `Anyone with the link can comment`.
 
 	![](assets/gdoc-sharing.jpg)
-* Share the link on Slack in the `#ux-design` channel. 
+* Share the link for your report with me via email. 
 * Use this template as a guideline (not all sections in the template may apply to your project) to **write a report of your digital prototype user-testing**.
 
 Bear in mind you'll be marked on this report (among other project materials, such as wireframes, presentations, prototypes etc). 
@@ -58,7 +65,19 @@ Bear in mind you'll be marked on this report (among other project materials, suc
 
 We spoke last week about [self assessment](https://github.com/RavensbourneWebMedia/UX-design/tree/2018/sessions/06#intro-self-assessment-for-formative-on-5th-march-2018) and how this can benefit our understanding of how your learning will be measured. 
 
-This week you will prepare a self assessment hand in as part of your formative submission. 
+This week you will prepare a self assessment hand in as part of your formative 2 submission. 
+
+Once you have finished your work, open this [self assessment sheet](https://docs.google.com/document/d/16Y_OBU9ZkwZ3rHbpN8OG3kOPcT8h4qmywpbDRA19WcU/edit?usp=sharing), make a copy and mark your name at the top of the sheet. 
+
+Now open the [UAL marking criteria](https://drive.google.com/file/d/1ue54a2OzIkeuDY0wKjW--96jjuNYNXcp/view?usp=sharing). 
+
+On the marking sheet work your way through the parts of the project that need to be marked for each of the marking criteria and assign a grade placement from the marking cirteria against your work. These will then combine to make your overall grade for each marking criteria. And then your final grade. 
+
+Let's take a moment to work through an example together. 
+
+### Formative Assessment (round 2): Presentation / Hand in Prep
+
+Your final formative assessment for this unit will be next week on 5th March @NMM. Make sure that you have everything that you need finsihed for presentation and hand in next week. 
 
 ### Blog
 
