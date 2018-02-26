@@ -3,7 +3,8 @@
 ### Today, Monday 27th February 2017
 
 * Concept video reveiw. 
-* [Tutorials](#tutorials): user-testing evaluation & planning
+* User-testing your prototype. 
+* Prepare a user-testing guide.
 * Afternoon Session: User-testing @ The Science Museum
 
 Your [homework](#homework) and [blog](#blog)!
