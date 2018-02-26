@@ -92,4 +92,4 @@ Your final formative assessment for this unit will be next week on 5th March @NM
 
 ### Blog
 
-Read [UX choreography](https://medium.freecodecamp.com/the-principles-of-ux-choreography-69c91c2cbc2a)] and then blog about your 3 main take aways from this article. 
+Read [UX choreography](https://medium.freecodecamp.com/the-principles-of-ux-choreography-69c91c2cbc2a) and then blog about your 3 main take aways from this article. 
