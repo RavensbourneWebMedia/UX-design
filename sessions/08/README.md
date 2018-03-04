@@ -1,19 +1,18 @@
 # Week 8
 
-### Today, Monday 6th March 2017
+### Today, Monday 5th March 2018
 
-1. *AM* Summative prep: make sure your `pres` is spot on
-* *PM* **Summative presentations @NMM**
-* [Hand-in your work on Moodle](#hand-in-checklist)
+1. *AM* Formative 2 prep: make sure your `pres` is spot on and send off to Sacha. 
+* [Hand-in your work on Moodle](#hand-in-checklist). Get your work uploaded before we leave. 
+* *PM* **Fromative 2 presentations @NMM**
 
-
-# Summative prep
+# Formative 2 prep
 
 ### WTF should we present?
 
-Prepare a **pitch** presentation for your [NMMaps](../../projects/nmmaps) concept.
+Does your **pitch** presentation react to the [NMM hidden histories Brief](https://github.com/RavensbourneWebMedia/UX-design/tree/2018/projects/nmm_hidden_histories)? Let's look this over. 
 
-As a pitch, you want to focus on the **solution** your product provides to a **problem** for your target **users** (less on the process).
+As a pitch, you want to focus on the **solution** your product provides to a **problem** for your target **users** (less on the process). 
 
 It's about how people use your product and how they need it to make their experience better.
 
@@ -54,6 +53,18 @@ Throughout your presentation, get comfortable with **silence**. Everyone needs a
 
 # Let's rehearse: 10 minutes per team
 
+# Class feedback for presentations
+
+In the last formative assessment session there were very few comments from the class on peer presentations. 
+
+This time I would like each team to make **at least** one comment within each of the sections (well done & action points) for each of the presenting teams. This is a requirement of your assessment session. 
+
+With this in mind, I have added some pointers for considerations when thinking about how others present to the [collaborative google doc](https://docs.google.com/document/d/1cW9c043pbbLUu4HqNzMb3PkmUBJVJTtw376MKu2WgpE/edit?usp=sharing)
+
+Theses are also the points that will be considered when your presentation is assessed. 
+
+Let's take a moment to look through these. 
+
 
 # Hand-in checklist
 
@@ -78,6 +89,7 @@ In that MarkDown document, include the following:
 * [Concept video](../06#concept-video)
 * [User-testing report](../07#user-testing-report)
 * Summative presentation
+* Importatnt - Your self assessment sheet. 
 
 #### Blog posts
 
@@ -108,4 +120,4 @@ In that MarkDown document, include the following:
 
 ### Deadline
 
-**Next** Monday, 13th of March 2017 at **23:55**! Alright Cinderella? :high_heel:
+**This** Monday, 5th of March 2018 at **16:00**! Let's make sure everything is uploaded now. 
