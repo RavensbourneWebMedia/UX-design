@@ -57,7 +57,7 @@ Throughout your presentation, get comfortable with **silence**. Everyone needs a
 
 In the last formative assessment session there were very few comments from the class on peer presentations. 
 
-This time I would like each team to make **at least** one comment within each of the sections (well done & action points) for each of the presenting teams. This is a requirement of your assessment session. 
+This time I would like each team to make **at least** one comment within each of the sections (well done & action points) for each of the presenting teams and for you to share these with the room if asked. This is a requirement of your assessment session. 
 
 With this in mind, I have added some pointers for considerations when thinking about how others present to the [collaborative google doc](https://docs.google.com/document/d/1cW9c043pbbLUu4HqNzMb3PkmUBJVJTtw376MKu2WgpE/edit?usp=sharing)
 
