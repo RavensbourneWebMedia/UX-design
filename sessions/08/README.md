@@ -51,7 +51,7 @@ Throughout your presentation, get comfortable with **silence**. Everyone needs a
 > Silence is better than bullshit.
 
 
-# Let's rehearse: 10 minutes per team
+#### Let's rehearse: 10 minutes per team
 
 # Class feedback for presentations
 
