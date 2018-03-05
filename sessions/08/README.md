@@ -112,11 +112,26 @@ In that MarkDown document, include the following:
 * [What did I learn?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
 -->
 
+### Self Assessment
+
+You have been set the task of completing a [self assessment](https://github.com/RavensbourneWebMedia/UX-design/tree/2018/sessions/06#intro-self-assessment-for-formative-on-5th-march-2018) for this submission. This is really important to your work as tutor feedback will only be offereed on your self assessment.  
+
+Self assessmenet is a valuable tool in learning as it helps us guage where our own work and learning is against university standards and helps us identify areas of strength and areas for improvement. It can also start a conversation with tutors about how to adjust your work to increase your learning. 
+
+
+If you have not completed a self assessment,  open this [self assessment sheet](https://docs.google.com/document/d/16Y_OBU9ZkwZ3rHbpN8OG3kOPcT8h4qmywpbDRA19WcU/edit?usp=sharing), make a copy and mark your name at the top of the sheet. 
+
+Now open the [UAL marking criteria](https://drive.google.com/file/d/1ue54a2OzIkeuDY0wKjW--96jjuNYNXcp/view?usp=sharing). 
+
+On the marking sheet work your way through the parts of the project that need to be marked for each of the marking criteria and assign a grade placement from the marking cirteria against your work. These will then combine to make your overall grade for each marking criteria. And then your final grade. 
+
+Please complete this now in the lesson if not complete already and submit this with the rest of your work. 
+
 ### Moodle link
 
-> Make sure all the folders, pages, documents & presentations you linked in your `WEB14204-Name-Surname.md` are publicly accessible (not just private to you). I don't want to be asking *permissions to view this file* while you're off :)
+> Make sure all the folders, pages, documents & presentations you linked in your `WEB14204-Name-Surname.md` are publicly accessible. Your work won't be marked if we can't see it :(
 
-**Upload** and submit your `WEB14204-Name-Surname.md` through Moodle here [moodle.rave.ac.uk/mod/assign/view.php?id=96596](https://moodle.rave.ac.uk/mod/assign/view.php?id=96596)
+**Upload** and submit your `WEB14204-Name-Surname.md` through Moodle here [https://moodle.rave.ac.uk/mod/assign/view.php?id=115649](https://moodle.rave.ac.uk/mod/assign/view.php?id=115649)
 
 ### Deadline
 
