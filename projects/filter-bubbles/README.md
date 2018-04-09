@@ -48,15 +48,27 @@ Design and prototype a *digital object* (an app, a website, a game, a browser pl
 Your digital object prototype can be *realistic*, *utopian* or *dystopian*.
 
 
+
 ## Deliverables
+
+Create a WEB14204-Name-Surname.md MarkDown document (where Name is your own name and Surname is your own surname, like WEB14204-Matteo-Menapace.md).
+
+In that MarkDown document, include the following:
 
 * A map of your **personal filter bubbles**
 * **10 ideas** for your digital object
 * **Concept one-pager** of your chosen idea
+* Interviews
 * **Audience**: who is it for, and why should they care?  
+* Paper **prototypes**
 * Interactive **prototypes** of your digital object
 * **User-testing report**
+* Concept video
+* Landing page
 * Summative **pitch**
+* Blog posts
+
+This mark down document will also need to contain all of the Deliverables for your Term 2 brief, clearly labelled and modified after formative 2 feedback. Together with your Term 3 work, this will make your complete project submission for the 2 terms. 
 
 
 ## Timeline
