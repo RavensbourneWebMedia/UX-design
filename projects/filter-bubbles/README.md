@@ -1,7 +1,3 @@
-Hello :) 
-
-This project will be released at the beginning of Term 3
-
 
 
 # Filter Bubbles
