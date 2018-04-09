@@ -2,7 +2,7 @@ Hello :)
 
 This project will be released at the beginning of Term 3
 
-<!---
+
 
 # Filter Bubbles
 
@@ -67,11 +67,11 @@ Your digital object prototype can be *realistic*, *utopian* or *dystopian*.
 
 When | What
 ---- | ----
-Friday 21st of April | Project kickstart
+Monday 18th of April | Project kickstart
 April | Research and ideation
 May | Prototyping and testing
-Friday 2nd of June | Tutorials 
-Friday 9th of June | Summative presentations 
+Monday 30th May | Tutorials 
+Monday 6th June | Summative presentations 
 
 
 ## Inspiring projects
