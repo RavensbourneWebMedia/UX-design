@@ -1,4 +1,4 @@
-# Week 9
+# Week 9: Welcome to Term 3
 
 ### Today, Friday 21st April 2017
 
@@ -84,7 +84,7 @@ We'll talk about different appraoches to making data understandable through desi
 * *Data in your bag*  
 * *Map your personal data* 
 
-Find today's presentation on [data visualisation here.] (TODO - Add data visualisation presentation to first session. )
+Find today's presentation on [data visualisation here.](https://github.com/RavensbourneWebMedia/UX-design/blob/2018/sessions/09/assets/Intro_To_Data_Visualisation.pdf)
 
 # Project kickstart
 
@@ -107,8 +107,7 @@ Ideally we'd get a variety of responses, from projects that raise awareness abou
 # Homework
 
 1. Continue [mapping your filter bubbles](#project-kickstart).
-2. If you haven't already, take 5 minutes to answer [3 quick questions about our collaboration with NMM](https://ravewebmedia.typeform.com/to/FvNgru).
-* Install [Data Selfie](http://dataselfie.it), an open-source Chrome browser extension that collects and analyses data about your behaviour on FB. Make sure you use FB on Chrome so that you can start harvesting data!
+2. Install [Data Selfie](http://dataselfie.it), an open-source Chrome browser extension that collects and analyses data about your behaviour on FB. Make sure you use FB on Chrome so that you can start harvesting data!
 
 ### Blog
 
