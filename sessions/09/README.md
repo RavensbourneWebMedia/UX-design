@@ -29,6 +29,8 @@ Let's check in about your expereinces of doing the 8 day data detox challenge. C
 
 # Once upon a time...
 
+[![](https://github.com/RavensbourneWebMedia/UX-design/blob/2018/sessions/09/assets/nmm.jpg)
+
 It feels like last term was ages ago. 
 
 Let's cast our minds back and refelct on last term. Grab some post-its and write down **what went well** and **what we could improve on**. Some aspects to consider:
