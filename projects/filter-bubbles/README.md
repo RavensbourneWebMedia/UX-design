@@ -40,13 +40,12 @@ Design and prototype a *digital object* (an app, a website, a game, a browser pl
 * Understand how filter bubbles lead to *unconscious bias* (the information you consume is biased, but you are not fully aware of that), which in turn can result in the rise of *fake news*
 * Reflect on the *impact* of filter bubbles on their personal experiences
 * Change their *media consumption habits* 
-* *Burst* some of their filter bubbles
+* *Burst* some of their filter bubbles 
 * Evaluate digital media for validity and accuracy
 * Teach others to do the same
 * Anything else you can argue is relevant to this project's theme
 
 Your digital object prototype can be *realistic*, *utopian* or *dystopian*.
-
 
 
 ## Deliverables
