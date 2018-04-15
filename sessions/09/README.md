@@ -2,19 +2,36 @@
 
 ### Today, Friday 21st April 2017
 
-1. [Reflecting on last term](#once-upon-a-time), what are your learning goals for this term?
-2. [Workshop](#workshop): data visualisation
-3. [Project kickstart](#project-kickstart): filter bubbles
+1. [Holiday Paoject](#data-detox), Evalauation of the challenge. 
+2. [Reflecting on last term](#once-upon-a-time), what are your learning goals for this term?
+3. [Workshop](#workshop): data visualisation
+4. [Project kickstart](#project-kickstart): filter bubbles
 
 Your [homework](#homework) and [blog](#blog)!
+
+# Data Detox
+
+Over the Easter holiday you were set the challenge of completing an [8 day data detox.](https://datadetox.myshadow.org/detox)
+
+Then the [Cambridge Analytic](https://www.theguardian.com/news/series/cambridge-analytica-files) scandle broke exposing the fact that apps developed within facebook had been used to harvest the data of 87 million users and use it to spread pro Brexit advertising. 
+
+* Did anyone follow the news as it unfolded? 
+* Does anyone know whether they were effected by the data breach? 
+* How did this news make you feel about your data security online?
+
+Let's check in about your expereinces of doing the 8 day data detox challenge. Could you answer the following questions on the given sheets:
+
+* TODO: Add questions from the feedback sheet here. 
+*
+*
+*
+
 
 # Once upon a time...
 
 It feels like last term was ages ago. 
 
-Let's take 5 minutes to answer [3 quick questions about our collaboration with NMM](https://ravewebmedia.typeform.com/to/FvNgru).
-
-Then grab some post-its and write down **what went well** and **what we could improve on**. Some aspects to consider:
+Let's cast our minds back and refelct on last term. Grab some post-its and write down **what went well** and **what we could improve on**. Some aspects to consider:
 
 * Collaborating with institutions like NMM
 * Working in teams
@@ -27,16 +44,16 @@ Then grab some post-its and write down **what went well** and **what we could im
 * Working on a live brief
 * Designing for a specific context
 * *Broad* brief
-* Jonny from Campus Society workshop on user-testing
-* NMM staff (and particularly Chris) offered loads of insightful and frequent feedback
+* Amin from Over the Arch workshop on user-testing
+* NMM staff (and particularly Sacha) offered loads of insightful and frequent feedback
 * Creating an interactive prototype
-* Having access to real users
+* Having access to real content for your projects
 * Team work: more ideas, distribution of work, teams chosen by students
-* Weekly tutorials
+* Tutorials sessions
 
 ### Even better if...
 
-* Design the UX for an app or website
+* Design the UX for a digital physical object
 * Attendance and communication: you have a responsibility to let teammates and tutors know if you're not attending
 * Blogging regularly, recording your thoughts and creative process (however messy that may be) 
 * Have a clearer idea of what our task was (from NMM)
@@ -52,26 +69,22 @@ Then grab some post-its and write down **what went well** and **what we could im
 
 ## This term
 
-We'll be **collaborating** with [Stationers Crown Wood Academy](http://scwa.org.uk). 
-
-The collaboration broad theme is *digital citizenship* and we'll be focusing on **[filter bubbles](../../projects/filter-bubbles)**. Your **individual brief** for this term will be to design and prototype a *digital object* that helps people become aware of their filter bubbles and/or burst them. 
+We'll be moving onto a project where the broad theme is *digital citizenship* and we'll be focusing on **[filter bubbles](../../projects/filter-bubbles)**. Your **individual brief** for this term will be to design and prototype a *digital object* that helps people become aware of their filter bubbles and/or burst them. 
 
 ![](../../projects/filter-bubbles/assets/junk-food-analogy.png)
 
-Throughout the project you'll be interacting with minors (the SCWA students) so we need to do a very short training on dos and don'ts, led by Lucy Slater from the Outreach department. It's mostly common sense.
-
 # Workshop
 
-Our special guest for today is [Valentina D'Efilippo](http://www.valentinadefilippo.co.uk/), information designer, educator and author of [The Infographic History of the World](http://www.valentinadefilippo.co.uk/projects/the-infographic-history-of-the-world/)
+Today we will be thinking about how information designers like [Valentina D'Efilippo](http://www.valentinadefilippo.co.uk/), use data in interesting ways to tell stories and referencing books like [The Infographic History of the World](http://www.valentinadefilippo.co.uk/projects/the-infographic-history-of-the-world/) to see how data can be visualised in asthetic ways. 
 
 [![](assets/infographic-history-of-the-world.jpg)](https://vimeo.com/66145156)
 
-Valentina will talk about her experience and introduce you to **data visualisation** through practical exercises.
+We'll talk about different appraoches to making data understandable through design and then introduce you to **data visualisation** through practical exercises.
 
-* *Data in your bag* 1h 
-* *Map your personal data* 1h
+* *Data in your bag*  
+* *Map your personal data* 
 
-Throughout the day you'll have a chance to get to know the SCWA students.
+Find today's presentation on [data visualisation here.] (TODO - Add data visualisation presentation to first session. )
 
 # Project kickstart
 
