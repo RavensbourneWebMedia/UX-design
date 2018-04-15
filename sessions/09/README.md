@@ -2,7 +2,7 @@
 
 ### Today, Friday 21st April 2017
 
-1. [Holiday Paoject](#data-detox), Evalauation of the challenge. 
+1. [Holiday Project](#data-detox), Evalauation of the challenge. 
 2. [Reflecting on last term](#once-upon-a-time), what are your learning goals for this term?
 3. [Workshop](#workshop): data visualisation
 4. [Project kickstart](#project-kickstart): filter bubbles
