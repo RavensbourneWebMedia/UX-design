@@ -76,7 +76,7 @@ When | What
 ---- | ----
 Monday 18th of April | Project kickstart
 April | Research and ideation
-May | Prototyping and testing
+May | Prototyping and testing: Testing with Y3 booked for 16th May
 Monday 30th May | Tutorials 
 Monday 6th June | Summative presentations 
 
