@@ -2,7 +2,7 @@
 
 ### Today, Friday 28th April 2017
 
-We'll go to SCWA and work with the students you met last week.
+Today's session will kick start your filter bubbles projects and start to shape your work for the term. We will cover: 
 
 * **Digital data**: what is it, how do companies collect and use your data, and what can we do about it?
 * **Algorithms**: we'll learn how to write and *decode* algorithms, in particular *filtering* algorithms.
@@ -14,4 +14,8 @@ All the material for today is in [this presentation](https://docs.google.com/pre
 
 [![](assets/what-to-do.png)](https://docs.google.com/presentation/d/1aeS1devIv-9eVnUuvArntvLG1uvt9YcqsV6q35Pfz0w/edit?usp=sharing)
 
-**No homework** for this time, because it's Bank Holiday weekend and the next session is right after on Tuesday the 2nd of May :)
+# Homework
+
+### Blog
+
+1. Read [this article](https://backchannel.com/facebook-published-a-big-new-study-on-the-filter-bubble-here-s-what-it-says-ef31a292da95) by Eli Pariser (author of *The Filter Bubble*), in which he analyses a study by Facebook data scientists on **filter bubbles vs individual choices**. Then blog about your views on this analysis. Include examples from your own experience of filter bubbles (eg: Did you ever get something offensive or off-putting from a friend/contact on social media? Or an advert that you found irrelevant? How did you feel?). 
