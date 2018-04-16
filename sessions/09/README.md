@@ -19,12 +19,13 @@ Then the [Cambridge Analytic](https://www.theguardian.com/news/series/cambridge-
 * Does anyone know whether they were effected by the data breach? 
 * How did this news make you feel about your data security online?
 
-Let's check in about your expereinces of doing the 8 day data detox challenge. Could you answer the following questions on the given sheets:
+Let's check in about your expereinces of doing the 8 day data detox challenge. Now that you have finished the full data detox: 
 
-* TODO: Add questions from the feedback sheet here. 
-*
-*
-*
+* How do you feel about your data detox?
+* Was there anything that you thought was surprising about the data detox? 
+* What do you think you'll take with you into the future? Are you likely to keep detoxing? 
+* Do you think that you've picked up any new habits? 
+* Is there anything that was missing from the detox pack? 
 
 
 # Once upon a time...
