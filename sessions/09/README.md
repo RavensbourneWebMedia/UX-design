@@ -4,6 +4,7 @@
 
 1. [Holiday Project](#data-detox), Evaluation of the challenge. 
 2. [Reflecting on last term](#once-upon-a-time), what are your learning goals for this term?
+3. [This terms brief] (#this-term), an introduction to this terms project. 
 3. [Workshop](#workshop): data visualisation
 4. [Project kickstart](#project-kickstart): filter bubbles
 
