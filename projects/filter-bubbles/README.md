@@ -50,7 +50,7 @@ Your digital object prototype can be *realistic*, *utopian* or *dystopian*.
 
 ## Deliverables
 
-Create a WEB14204-Name-Surname.md MarkDown document (where Name is your own name and Surname is your own surname, like WEB14204-Matteo-Menapace.md).
+Create a WEB14204-Name-Surname.md MarkDown document (where Name is your own name and Surname is your own surname, like WEB14204-Stella-Smith.md).
 
 In that MarkDown document, include the following:
 
