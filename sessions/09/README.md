@@ -1,6 +1,6 @@
 # Week 9: Welcome to Term 3
 
-### Today, Friday 21st April 2017
+### Today, Wednesday 18th April 2017
 
 1. [Holiday Project](#data-detox), Evalauation of the challenge. 
 2. [Reflecting on last term](#once-upon-a-time), what are your learning goals for this term?
