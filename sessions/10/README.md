@@ -10,11 +10,13 @@ Today's session will kick start your filter bubbles projects and start to shape 
 * **Ideation**: we'll come up with 10 ideas for a *digital object* (an app, a website, a bot, a browser plugin..) that tackles filter bubbles
 * **Interviews**: we'll ask people (unbiased) questions to validate our idea(s) 
 
-All the material for today is in [this presentation](https://docs.google.com/presentation/d/1aeS1devIv-9eVnUuvArntvLG1uvt9YcqsV6q35Pfz0w/edit?usp=sharing).
+All the material for today is in [this presentation](https://docs.google.com/presentation/d/1a3CqIB11DHJV-huNM-Y1Y_tMyYJy3yb7TKYiuwmysec/edit#slide=id.g220bfb8030_0_116).
 
 [![](assets/what-to-do.png)](https://docs.google.com/presentation/d/1aeS1devIv-9eVnUuvArntvLG1uvt9YcqsV6q35Pfz0w/edit?usp=sharing)
 
 # Homework
+
+Review the 10 concepts that you created in class and assess the interviews that you conducted at Rave. Will you Pivot, persevere or kill you idea? Work through the ideas and modify them so you have a strong concept. Bring **one** for next week that you believe you would like to prototype. 
 
 ### Blog
 
