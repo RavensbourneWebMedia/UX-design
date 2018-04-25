@@ -4,8 +4,9 @@
 
 Today's session will kick start your filter bubbles projects and start to shape your work for the term. We will cover: 
 
-* **Digital data**: what is it, how do companies collect and use your data, and what can we do about it?
-* **Algorithms**: we'll learn how to write and *decode* algorithms, in particular *filtering* algorithms.
+* **Data Detox**: Another look at digital data
+* **Mobile phone Data**: A class workshop on how your phone works. 
+* **Digital Data**: what is it, how do companies collect and use your data, and what can we do about it?
 * **Filter bubbles**: the effects of the invisible algorithmic filtering of the Web by companies like Facebook and Google. We'll draw and compare our filter bubbles. 
 * **Ideation**: we'll come up with 10 ideas for a *digital object* (an app, a website, a bot, a browser plugin..) that tackles filter bubbles
 * **Interviews**: we'll ask people (unbiased) questions to validate our idea(s) 
