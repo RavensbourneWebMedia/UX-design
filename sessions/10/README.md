@@ -1,6 +1,6 @@
 # Week 10
 
-### Today, Friday 28th April 2017
+### Today, Monday 25th April 2018
 
 Today's session will kick start your filter bubbles projects and start to shape your work for the term. We will cover: 
 
