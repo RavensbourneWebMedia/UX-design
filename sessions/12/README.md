@@ -1,25 +1,18 @@
 # Week 12
 
-### Today, Friday 12th May 2017
+### Today, Wednesday 9th May 2018
 
-Our special guest [Denise Xifara](https://twitter.com/dkxifara) ([Nupinion](http://beta.nupinion.com/) co-founder) will tell us about filter bubbles and how Nupinion is tackling that problem for news.
+Prototyping with our special guest Tor.  Today we will work through your paper prototypes and create frunctional, detailed digital prototypes by the end of the day. 
 
-The plan with approximate timings:
+These will then be the basis of a user testing session with the Year 3 Web Media students next week. 
 
-* 10:00 - 10:30 [Denise's lightning talk](https://drive.google.com/open?id=1S3aw50-3hfrZ0vncsbBUe09VlmQvwAoXZ4j1VdLzyVc)
-* 10:30 - 11:30 Workshop: tinkering with APIs (news and [sentiment analysis](https://dandelion.eu/))
-* 11:30 - 12:30 Workshop: *scraping* news data from web-pages (HTML and a pinch of [Python](https://www.sourcelair.com/)) 
-* 12:30 - 13:30 lunch `<br>`
-* 13:30 - 15:00 Workshop: visualising scraped data with [RawGraphs](http://rawgraphs.io/)
-* 15:00 - 16:00 Tutorials with Denise (and Matteo)
-
-Some [notes from Denise's talk and workshop](Denise-notes.md).
+Some [notes from Tor's talk and workshop are here](https://docs.google.com/presentation/d/1qKUGTfI3hpiKvvR4-iC5Hhd8otNUv3ZiruVTaPkz-es/edit?usp=sharing).
 
 Your [homework](#homework) and [blog](#blog)!
 
 # Homework
 
-Next session will be **Wednesday the 17th**. We'll have our *friends* from SCWA over to **user-test your prototypes**. So, continue working on your prototype and be ready to test it (in whatever state it is in: sketch, paper-prototype, digital prototype).
+Next session will be **Wednesday the 16th May**. In the morning we will have formative presentations of your concepts & prototypes so far. Then we'll have our *friends* from Web Media Year 3 with us to **user-test your prototypes**. So, continue working on your prototype and be ready to present and test it next week (digital & paper prototypes at the ready please).
 
 ### Blog
 
@@ -28,3 +21,4 @@ Review [Nupinion](http://beta.nupinion.com/) from a UX point of view.
 * **Audience**: who is it for, and why should they care?
 * **Interface**: how does it present content? How well does it address the (assumed) audience needs?
 * **Improvements**: what would you change, if anything, and why? Sketches/screenshots welcome.  
+

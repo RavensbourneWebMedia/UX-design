@@ -1,6 +1,6 @@
 # Week 11
 
-### Today, Tuesday 2nd May 2017
+### Today, Wednesday 2nd May 2018
 
 We'll continue working on your [*filter bubbles* brief](../../projects/filter-bubbles).
 
@@ -8,11 +8,11 @@ We'll continue working on your [*filter bubbles* brief](../../projects/filter-bu
 * Random idea generator and **idea sheet**: what is your idea called, how does it work, and what do you want people to know/feel/do?
 * **Paper-prototyping** and **user-testing** your idea
 
-All the material for today is in [this presentation](https://docs.google.com/presentation/d/1DX5r14pEi_buGRiUF4Jr2mytMT90wb1Lx4jT1wwZIIk/edit?usp=sharing).
+All the material for today is in [this presentation](https://docs.google.com/presentation/d/1S3ZqLCKbH032zs77IY_kwvthhj-FHjPretvkSTuLZag/edit?usp=sharing).
 
 [![](assets/random-idea-generator.png)](https://docs.google.com/presentation/d/1DX5r14pEi_buGRiUF4Jr2mytMT90wb1Lx4jT1wwZIIk/edit?usp=sharing)
 
-After the lecture / workshop session with we'll do [tutorials](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit#heading=h.bo009u261hi5) on your first round of ideas.
+After the lecture / workshop session with we'll do [tutorials](https://docs.google.com/document/d/1ArfHiJFohSsvcbQ5Qtq0r6h3GZmiquCLoG7tvGKb2RQ/edit#heading=h.bo009u261hi5) on your first round of ideas and talk through feedback that anyone would like to cover from Term 2's final formative.
 
 # Homework
 
