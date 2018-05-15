@@ -2,9 +2,6 @@
 
 ### Today, Wednesday 16th May 2018
 
-
-We'll continue working on your [*filter bubbles* brief](../../projects/filter-bubbles).
-
 * Intro: User Testing Methods & Approaches
 * Morning Session: Formative Presentations (10mins each)
 * Afternoon Session: **User Testing with Web Media Year 3**
