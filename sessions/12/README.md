@@ -20,13 +20,13 @@ Look back over the **inspriing projects** given to you in the project brief at t
 
 They were: 
 
-* [Googling Freedom](https://www.flickr.com/photos/stml/sets/72157649456886632/) is a practical demonstration of a filter bubble
+* [Googling Freedom:](https://www.flickr.com/photos/stml/sets/72157649456886632/) a practical demonstration of a filter bubble
 
-* [FriendFlop](http://fffff.at/friendflop) is a browser extension for Chrome that scrambles the identities on your Twitter or Facebook timelines, dissolving your biases and "reminding you that everyone is saying the same shit anyway"
+* [FriendFlop:](http://fffff.at/friendflop) a browser extension for Chrome that scrambles the identities on your Twitter or Facebook timelines, dissolving your biases and "reminding you that everyone is saying the same shit anyway"
 
-* [LoveMachine](http://p.xuv.be/tag/lovemachine) is a little app that clicks all the likes available in your timeline, automatically
+* [LoveMachine:](http://p.xuv.be/tag/lovemachine) a little app that clicks all the likes available in your timeline, automatically
 
-* [What would I say](http://what-would-i-say.com/about.html) automatically generates Facebook posts that sound like you!
+* [What would I say:](http://what-would-i-say.com/about.html) automatically generates Facebook posts that sound like you!
 
 After look at each project choose which is most relevant to your filter bubbles concept and review your experience of that project detailing: 
 
