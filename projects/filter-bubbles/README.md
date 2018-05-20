@@ -83,8 +83,6 @@ Monday 6th June | Summative presentations
 
 ## Inspiring projects
 
-* [Nupinion](http://www.nupinion.com/) is a toolbox that allows you to get a well-rounded view from multiple sources, find opposing perspectives, avoid fake news and pop your news bubble.
-
 * [Googling Freedom](https://www.flickr.com/photos/stml/sets/72157649456886632/) is a practical demonstration of a filter bubble
 
 * [FriendFlop](http://fffff.at/friendflop) is a browser extension for Chrome that scrambles the identities on your Twitter or Facebook timelines, dissolving your biases and "reminding you that everyone is saying the same shit anyway"

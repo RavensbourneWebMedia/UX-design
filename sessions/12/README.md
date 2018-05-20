@@ -16,7 +16,19 @@ Next session will be **Wednesday the 16th May**. In the morning we will have for
 
 ### Blog
 
-Review [Nupinion](http://beta.nupinion.com/) from a UX point of view. 
+Look back over the **inspriing projects** given to you in the project brief at the [beginning of term.](https://github.com/RavensbourneWebMedia/UX-design/tree/2018/projects/filter-bubbles#inspiring-projects) 
+
+They were: 
+
+* [Googling Freedom](https://www.flickr.com/photos/stml/sets/72157649456886632/) is a practical demonstration of a filter bubble
+
+* [FriendFlop](http://fffff.at/friendflop) is a browser extension for Chrome that scrambles the identities on your Twitter or Facebook timelines, dissolving your biases and "reminding you that everyone is saying the same shit anyway"
+
+* [LoveMachine](http://p.xuv.be/tag/lovemachine) is a little app that clicks all the likes available in your timeline, automatically
+
+* [What would I say](http://what-would-i-say.com/about.html) automatically generates Facebook posts that sound like you!
+
+After look at each project choose which is most relevant to your filter bubbles concept and review your experience of that project detailing: 
 
 * **Audience**: who is it for, and why should they care?
 * **Interface**: how does it present content? How well does it address the (assumed) audience needs?
