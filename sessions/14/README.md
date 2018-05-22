@@ -8,7 +8,7 @@
 * Build a **landing page** experiment 
 * **5-second-test** your first landing page
 
-All the material for today is in [this presentation](https://docs.google.com/presentation/d/1_Hf0szhOARy11sv2Wl21BUjUEFUekk2MS6ewkdvWkpg/edit?usp=sharing).
+All the material for today is in [this presentation](https://docs.google.com/presentation/d/14S1tMMaWJKqaDMxoKmT4BCuHXEGFQEffIkITXa6DaSc/edit#slide=id.g3ad2e698b1_0_94)
 
 [![](assets/experiments.png)](https://docs.google.com/presentation/d/1_Hf0szhOARy11sv2Wl21BUjUEFUekk2MS6ewkdvWkpg/edit?usp=sharing)
 
