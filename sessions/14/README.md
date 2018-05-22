@@ -1,11 +1,10 @@
 # Week 14
 
-### Today, Friday 26th May 2017
+### Today, Wednesday 23rd May 2018
 
-At SCWA:
-
+* Homework review **MVP videos/concept video** 
 * How to use **storytelling** to communicate your idea
-* Draft a **concept video**
+* Iteration on your **concept video**
 * Build a **landing page** experiment 
 * **5-second-test** your first landing page
 
