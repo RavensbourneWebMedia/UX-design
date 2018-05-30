@@ -3,7 +3,7 @@
 ### Today, Wedensday 30th May 2018
 
 * Tutorials 
-* Independant working: [User Testing Report](https://docs.google.com/document/d/1XIrJQe4acdR1fNuu53qgHxd80F5V_cvm2Uh62OQ3i1M/edit?usp=sharing)
+* Independant working: [User Testing Report](https://docs.google.com/document/d/1XIrJQe4acdR1fNuu53qgHxd80F5V_cvm2Uh62OQ3i1M/edit?usp=sharing) - Please make a copy. Do not **modify** or **delete** the original!
 * Afternoon Javascript drop in tutorials with Nick. 
 
 Tutorials! Claim your slot [in this document](https://docs.google.com/document/d/1zbPtt-K1kyv4Y6ZTO3KFl4UtNKctKRRrsgYZIQ7SCpo/edit?usp=sharing).
