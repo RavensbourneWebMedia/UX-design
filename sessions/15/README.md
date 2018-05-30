@@ -26,37 +26,36 @@ Create a WEB14204-Name-Surname.md MarkDown document (where Name is your own name
 
 In that MarkDown document, include the following:
 
-A map of your personal filter bubbles
-10 ideas for your digital object
-Concept one-pager of your chosen idea
-Interviews
-Audience: who is it for, and why should they care?
-Paper prototypes
-Interactive prototypes of your digital object
-User-testing report
-Concept video
-Landing page
-Summative pitch
-Blog posts
+* A map of your personal filter bubbles
+* 10 ideas for your digital object
+* Concept one-pager of your chosen idea
+* Interviews
+* Audience: who is it for, and why should they care?
+* Paper prototypes
+* Interactive prototypes of your digital object
+* User-testing report
+* Concept video
+* Landing page
+* Summative pitch
+* Blog posts
 
 ### For Term 2: 
 
 A second MarkDown document, including the following:
 
-NMMaps
-Competitor analysis
-Elevator pitch
-Concept one-pager
-Experience map
-Formative presentation
-User personas
-Wireframes
-Prototype(s)
-Concept video
-User-testing report
-Summative presentation
-Importatnt - Your self assessment sheet.
-Blog posts
+* NMMaps
+* Competitor analysis
+* Elevator pitch
+* Concept one-pager
+* Experience map
+* Formative presentation
+* User personas
+* Wireframes
+* Prototype(s)
+* Concept video
+* User-testing report
+* Summative presentation
+* Blog posts
 
 
 # Homework
