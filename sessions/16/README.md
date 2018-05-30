@@ -67,6 +67,9 @@ In that MarkDown document, include the following:
 8. [Concept video](../14)
 9. [Landing page](../14)
 10. Summative presentation
+11. Blog Posts
+
+<!---
 
 #### Blog posts
 
@@ -78,12 +81,14 @@ In that MarkDown document, include the following:
 6. [Testing landing pages](../14#blog)
 7. [What did I learn?](https://github.com/RavensbourneWebMedia/Blogging/blob/master/what-did-I-learn.md)
 
+--->
+
 ### Moodle link
 
 > Make sure all the folders, pages, documents & presentations you linked in your `WEB14204-Name-Surname.md` are publicly accessible (not just private to you). I don't want to be asking *permissions to view this file* while you're off :)
 
-**Upload** and submit your `WEB14204-Name-Surname.md` through Moodle here [moodle.rave.ac.uk/mod/assign/view.php?id=102427](https://moodle.rave.ac.uk/mod/assign/view.php?id=102427)
+**Upload** and submit your `WEB14204-Name-Surname.md` through Moodle. <!--- here [moodle.rave.ac.uk/mod/assign/view.php?id=102427](https://moodle.rave.ac.uk/mod/assign/view.php?id=102427) --->
 
 ### Deadline
 
-Friday, 9th of June 2017 at **23:55**! :high_heel:
+Wednesday, 6th of June 2018 at **16:00**! :high_heel:
