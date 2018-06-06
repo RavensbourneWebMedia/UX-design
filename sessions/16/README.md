@@ -57,17 +57,18 @@ In that MarkDown document, include the following:
 
 #### Filter bubbles 
 
-1. [Mapping your filter bubbles](../09#project-kickstart) 
-2. [10 (or so) bad ideas](../10) 
-3. [Interviews](../10)
-4. [Idea sheet](../11): what is your idea called, how does it work, and what do you want people to know/feel/do? 
-5. Paper-prototypes
-6. Digital prototype(s)
-7. User-testing feedback 
-8. [Concept video](../14)
-9. [Landing page](../14)
-10. Summative presentation
-11. Blog Posts
+1. A map of your personal filter bubbles
+2. 10 ideas for your digital object
+3. Concept one-pager of your chosen idea
+4. Interviews
+5. Audience: who is it for, and why should they care?
+6. Paper prototypes
+7. Interactive prototypes of your digital object
+8. User-testing report
+9. Concept video
+10. Landing page
+11. Summative pitch
+12. Blog Posts
 
 <!---
 
